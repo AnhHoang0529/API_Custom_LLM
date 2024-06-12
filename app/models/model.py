@@ -9,7 +9,7 @@ def get_embed_model(model_path="local:BAAI/bge-m3"):
     return embed_model
 
 
-def get_llm(model_name="mistralai/Mistral-7B-Instruct-v0.3",
+def get_llm(model_name="mistralai/Mistral-7B-Instruct-v0.2",
             temperature=0.1,
             max_new_tokens=512,
             context_window=8000,
@@ -19,8 +19,8 @@ def get_llm(model_name="mistralai/Mistral-7B-Instruct-v0.3",
     context_window=1024,
     max_new_tokens=256,
     generate_kwargs={"temperature": 0.7, "do_sample": True},
-    model_name="mistralai/Mistral-7B-Instruct-v0.3",
-    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.3",
+    model_name="mistralai/Mistral-7B-Instruct-v0.2",
+    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.2",
     device_map="cuda",
     tokenizer_kwargs={"max_length": 1024},
     model_kwargs={"torch_dtype": torch.float16}
