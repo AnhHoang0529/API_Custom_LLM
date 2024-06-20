@@ -27,5 +27,5 @@ def get_llm(model_name="mistralai/Mistral-7B-Instruct-v0.2",
 )
     return llm
 
-embed_model = get_embed_model(model_path="local:BAAI/bge-m3")
+embed_model = get_embed_model(model_path="local:finetuned-bge-m3")
 llm = get_llm()
