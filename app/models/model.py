@@ -4,7 +4,7 @@ import os
 from app import PROJECT_PATH
 import torch
 
-def get_embed_model(model_path="local:BAAI/bge-m3"):
+def get_embed_model(model_path="local:finetuned-bge-m3"):
     embed_model = resolve_embed_model(model_path)
     return embed_model
 
