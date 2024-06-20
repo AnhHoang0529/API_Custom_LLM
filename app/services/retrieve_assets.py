@@ -109,8 +109,8 @@ def get_source_in_resonse(response):
   for key, value in response.metadata.items():
     try:
       id = value.get('ID')
-      ids.append(str(id))
-      if (str(id) in response.response) and (str(id) not in ids):
+      ids.append(id)
+      if (str(id) in response.response) and (id not in ids):
         source.append({'id': id, 'title': value.get('TITLE')})
     except:
       continue
