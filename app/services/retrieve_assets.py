@@ -112,7 +112,7 @@ def get_source_in_resonse(response):
         source.append({'id': id, 'title': value.get('TITLE')})
     except:
       continue
-  return source
+  return set(source)
 
 def structured_output(text, response):
   answer = {}
