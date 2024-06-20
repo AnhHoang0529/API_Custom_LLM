@@ -105,14 +105,16 @@ def get_metadata_in_response(response):
 
 def get_source_in_resonse(response):
   source = []
+  ids = []
   for key, value in response.metadata.items():
     try:
       id = value.get('ID')
-      if str(id) in response.response:
+      ids.append(str(id))
+      if (str(id) in response.response) and (str(id) not in ids):
         source.append({'id': id, 'title': value.get('TITLE')})
     except:
       continue
-  return set(source)
+  return source
 
 def structured_output(text, response):
   answer = {}
