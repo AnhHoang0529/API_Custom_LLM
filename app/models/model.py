@@ -16,15 +16,15 @@ def get_llm(model_name="mistralai/Mistral-7B-Instruct-v0.2",
             HF_TOKEN = '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'):
     os.environ["HF_TOKEN"] = HF_TOKEN
     llm = HuggingFaceLLM(
-    context_window=8000,
-    max_new_tokens=4096,
-    generate_kwargs={"temperature": 0.7, "do_sample": True},
-    model_name="mistralai/Mistral-7B-Instruct-v0.2",
-    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.2",
-    device_map="cuda",
-    tokenizer_kwargs={"max_length": 1024},
-    model_kwargs={"torch_dtype": torch.float16}
-)
+        context_window=8000,
+        max_new_tokens=4096,
+        generate_kwargs={"temperature": 0.7, "do_sample": True},
+        model_name="mistralai/Mistral-7B-Instruct-v0.2",
+        tokenizer_name="mistralai/Mistral-7B-Instruct-v0.2",
+        device_map="cuda",
+        tokenizer_kwargs={"max_length": 1024},
+        model_kwargs={"torch_dtype": torch.float16}
+    )
     return llm
 
 embed_model = get_embed_model(model_path="local:finetuned-bge-m3")
