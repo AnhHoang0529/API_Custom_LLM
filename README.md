@@ -50,8 +50,7 @@ API_llm/
 │   ├── templates
 │   │   └── form.html   
 │   ├── models
-│   │   ├── model
-│   │   └── mistral-7b-instruct-v0.2.Q4_K_M-001.gguf
+│   │   └── model.py
 │   ├── services
 │   │   ├── retrive_assets.py
 │   │   └── generate_text.py
@@ -60,31 +59,31 @@ API_llm/
 │   │   ├── node_postprocessors.py 
 │   │   └── prompt_templates.py
 │   ├── database
+│   │   ├── data
+│   │   │   ├── Images
+│   │   │   │   ├── {name}.jpg
+│   │   │   │   └── label
+│   │   │   │      └── {name}.txt
+│   │   │   ├── Audios
+│   │   │   │   ├── {name}.mp3
+│   │   │   │   └── label
+│   │   │   │      ├── {name}.srt
+│   │   │   │      └── {name}.txt
+│   │   │   ├── Videos
+│   │   │   │   ├── {name}.mp4
+│   │   │   │   └── label
+│   │   │   │      ├── {name}.srt
+│   │   │   │      ├── {name}_au.txt
+│   │   │   │      └── {name}_img.txt
+│   │   │   └── Documents
+│   │   │       ├──News
+│   │   │       │   ├── Airang
+│   │   │       │   │   └── {name}.json
+│   │   │       │   └── TNS
+│   │   │       │       └── {name}.json
+│   │   │       └──pdf
+│   │   │           └── {name}.pdf
 │   │   └── index.py
-│   ├── data
-│   │   ├── Images
-│   │   │   ├── {name}.jpg
-│   │   │   └── label
-│   │   │      └── {name}.txt
-│   │   ├── Audios
-│   │   │   ├── {name}.mp3
-│   │   │   └── label
-│   │   │      ├── {name}.srt
-│   │   │      └── {name}.txt
-│   │   ├── Videos
-│   │   │   ├── {name}.mp4
-│   │   │   └── label
-│   │   │      ├── {name}.srt
-│   │   │      ├── {name}_au.txt
-│   │   │      └── {name}_img.txt
-│   │   ├── Documents
-│   │   │   ├──News
-│   │   │   │   ├── Airang
-│   │   │   │   │   └── {name}.json
-│   │   │   │   └── TNS
-│   │   │   │       └── {name}.json
-│   │   │   └──pdf
-│   │   │       └── {name}.pdf
 ├── requirements.txt  
 └── run.py
 
