@@ -50,7 +50,7 @@ def load_vetor_store_index(index_name):
     return index
 
 
-def define_query_engine(index_name, prompt_template, node_postprocessors, response_mode="simple_summarize", topk=5):
+def define_query_engine(index_name, prompt_template, node_postprocessors, response_mode="compact_accumulate", topk=5):
     index = load_vetor_store_index(index_name)
     prompt = PromptTemplate(prompt_template)
 
@@ -105,13 +105,13 @@ def get_metadata_in_response(response):
 
 def get_source_in_resonse(response):
   source = []
-  ids = []
+  ids = set()
   for key, value in response.metadata.items():
     try:
       id = value.get('ID')
-      ids.append(id)
       if (str(id) in response.response) and (id not in ids):
         source.append({'id': id, 'title': value.get('TITLE')})
+      ids.add(id)
     except:
       continue
   return source

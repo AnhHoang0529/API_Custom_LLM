@@ -12,3 +12,5 @@ pysrt
 pandas
 deep_translator
 detectlanguage
+flask_cors
+python-dotenv
