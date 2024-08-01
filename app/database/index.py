@@ -6,6 +6,7 @@ from llama_index.core import (
 )
 from llama_index.vector_stores.weaviate import WeaviateVectorStore
 import os
+from app import PROJECT_PATH
 
 print(os.environ.get('WEAVIATE_API_KEY'))
 print(os.environ.get('WEAVIATE_URL'))
@@ -16,18 +17,6 @@ client = weaviate.Client(
     os.environ.get('WEAVIATE_URL'),
     auth_client_secret=auth_config,
 )
-
-
-PROJECT_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)))
-#PROJECT_PATH = "/content/drive/MyDrive/CustomLLM/custom_llm"
-
-IMG_PATH = os.path.join(PROJECT_PATH, "data/Images")
-VID_PATH = os.path.join(PROJECT_PATH, "data/Videos")
-AUDIO_PATH = os.path.join(PROJECT_PATH, "data/Audios")
-NEWS_PATH = os.path.join(PROJECT_PATH, "data/News")
-PDF_PATH = os.path.join(PROJECT_PATH, "data/pdf")
-
-
 
 def define_vector_store_index(index_name, nodes, llm, embed_model):
     vector_store = WeaviateVectorStore(weaviate_client=client, index_name=index_name)
