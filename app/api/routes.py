@@ -35,7 +35,9 @@ def generate_content_by_query(query):
 def upload():
     # Extract parameters from the request
     file_path = request.args.get('file_path')
-    db = request.args.get('db_name')
+
+    if not file_path:
+        return jsonify({"success": False, "error": "Missing file_path parameter"})
 
     # Construct the full file path
     file_path = os.path.join(PROJECT_PATH, file_path)
@@ -48,26 +50,30 @@ def upload():
         logging.exception("Error reading and classifying documents")
         return jsonify({"success": False, "error": str(e)})
 
-    # Map of constructors and their corresponding document types
+    # Map of constructors and their corresponding document types and index names
     constructor_map = {
-        'LlamaIndex_img_index': ('image', ImageConstructor),
-        'LlamaIndex_au_index': ('audio', AudioVideoNodeConstructor),
-        'LlamaIndex_vid_index': ('video', AudioVideoNodeConstructor),
-        'LlamaIndex_doc_index': ('document', DocumentConstructor)
+        'image': (ImageConstructor, "LlamaIndex_img_index"),
+        'audio': (AudioVideoNodeConstructor, "LlamaIndex_au_index"),
+        'video': (AudioVideoNodeConstructor, "LlamaIndex_vid_index"),
+        'document': (DocumentConstructor, "LlamaIndex_doc_index")
     }
 
-    # Check if the provided db name is valid
-    if db not in constructor_map:
-        return jsonify({"success": False, "error": "Invalid db_name provided"})
+    success = False
 
-    doc_type, Constructor = constructor_map[db]
+    # Process each document type
+    for doc_type, (Constructor, index_name) in constructor_map.items():
+        if classified_docs.get(doc_type):
+            try:
+                constructor = Constructor(classified_docs.get(doc_type))
+                nodes = constructor.construct_nodes()
+                print(f'Node constructed for {index_name}')
+                define_vector_store_index(index_name, nodes, llm, embed_model)
+                success = True
+            except Exception as e:
+                logging.exception(f"Error processing documents for {index_name}")
+                return jsonify({"success": False, "error": str(e)})
 
-    # Get the appropriate documents and construct nodes
-    try:
-        constructor = Constructor(classified_docs.get(doc_type))
-        nodes = constructor.construct_nodes()
-        define_vector_store_index(db, nodes, llm, embed_model)
+    if success:
         return jsonify({"success": True})
-    except Exception as e:
-        logging.exception(f"Error processing documents for {db}")
-        return jsonify({"success": False, "error": str(e)})
+
+    return jsonify({"success": False, "error": "No valid document types found"})
