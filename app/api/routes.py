@@ -66,8 +66,8 @@ def upload():
             try:
                 constructor = Constructor(classified_docs.get(doc_type))
                 nodes = constructor.construct_nodes()
-                print(f'Node constructed for {index_name}')
                 define_vector_store_index(index_name, nodes, llm, embed_model)
+                print(f'Node constructed for {index_name}')
                 success = True
             except Exception as e:
                 logging.exception(f"Error processing documents for {index_name}")

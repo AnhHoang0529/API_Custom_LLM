@@ -5,6 +5,7 @@ from llama_index.core.readers.base import BaseReader
 import re
 import os
 import json
+import uuid
 import pandas as pd
 import numpy as np
 from typing import List
@@ -78,7 +79,7 @@ class MyFileReader(BaseReader):
 
     def _extract_metadata(self, json_data, file_type):
         metadata = {
-            "id": json_data.get("id"),
+            "file_id": json_data.get("id"),
             "md5": json_data.get("md5"),
             "file_name": json_data.get("originalName"),
             "file_extension": json_data.get("extension"),
@@ -90,8 +91,8 @@ class MyFileReader(BaseReader):
             "density": json_data.get("density"),
             "channels": json_data.get("channels"),
             "category": json_data.get("category"),
-            "people": json_data.get("people"),
-            "organizations": json_data.get("organizations"),
+            #"people": json_data.get("people"),
+            #"organizations": json_data.get("organizations"),
             "narrationStt": self.processing_narrationStt(json_data.get("narrationStt"))
         }
 
@@ -123,7 +124,7 @@ class MyFileReader(BaseReader):
                 for entry in narration:
                     text.append(entry["content"])
                 narrationStt["user_" + str(item["id"])] = text
-            return narrationStt
+            return str(narrationStt)
 
 def read_file(path):
     reader = SimpleDirectoryReader(input_dir=path, file_extractor={".json": MyFileReader()})
@@ -131,7 +132,7 @@ def read_file(path):
     for doc in documents:
         doc.excluded_embed_metadata_keys = []
         doc.excluded_llm_metadata_keys = []
-        doc.id_ = doc.metadata["id"]
+        #doc.id_ = doc.metadata["id"]
     return documents
 
 class ImageConstructor:
@@ -144,8 +145,8 @@ class ImageConstructor:
     def construct_nodes(self):
         text_parser = SentenceSplitter(chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap, separator=self.separator)
         img_nodes = text_parser.get_nodes_from_documents(self.documents)
-        for node in img_nodes:
-            node.id_ = node.metadata["id"]
+        #for node in img_nodes:
+            #node.id_ = node.metadata["id"]
         return img_nodes
     
 class AudioVideoNodeConstructor:
@@ -196,7 +197,8 @@ class AudioVideoNodeConstructor:
             metadata = page.metadata
 
             # Add document to document_map
-            doc_id = metadata.get("id")
+            #doc_id = metadata.get("id")
+            doc_id = page.id_
             self.document_map[doc_id] = page
 
             desc = get_value(metadata, "description")
@@ -204,7 +206,8 @@ class AudioVideoNodeConstructor:
 
             self.parrent_chunk[doc_idx] = {
                 "text": desc,
-                "metadata": metadata
+                "metadata": metadata,
+                "id": doc_id
             }
 
             del_key(metadata, "stt_summary")
@@ -224,7 +227,8 @@ class AudioVideoNodeConstructor:
 
                     self.child_chunk[doc_idx].append({
                         "text": cur_text_chunks,
-                        "metadata": chunk_metadata
+                        "metadata": chunk_metadata,
+                        #"id": doc_id + '-' + str(i + 1)
                     })
 
     def create_nodes_from_chunks(self):
@@ -232,7 +236,7 @@ class AudioVideoNodeConstructor:
             parrent_node = TextNode(
                 text=self.parrent_chunk[idx]["text"],
                 metadata=self.parrent_chunk[idx]["metadata"],
-                id_=str(self.parrent_chunk[idx]["metadata"]["id"])
+                id_=str(self.parrent_chunk[idx]["id"])
             )
             self.parrent_nodes[parrent_node.id_] = parrent_node
 
@@ -244,7 +248,7 @@ class AudioVideoNodeConstructor:
                     child_node = TextNode(
                         text=chunk["text"],
                         metadata=chunk["metadata"],
-                        id_=str(chunk["metadata"]["id"]) + '_' + str(i + 1)
+                        #id_=chunk["id"]
                     )
                     child_nodes.append(child_node)
                 self.nodes_map[parrent_node.id_] = child_nodes
@@ -258,16 +262,18 @@ class AudioVideoNodeConstructor:
             child_lst = []
 
             # Add SOURCE relationship
-            document = self.document_map.get(parrent.metadata["id"])
+            document = self.document_map.get(parrent.id_)
             if document:
+                document.id_ = str(uuid.uuid4())
                 parrent.relationships[NodeRelationship.SOURCE] = document.as_related_node_info()
 
             for i in range(len(child)):
+                #child[i].id_ = str(uuid.uuid4())
                 child[i].relationships[NodeRelationship.PARENT] = parrent.as_related_node_info()
 
                 if i == 0:
-                    if len(child) > 1:
-                        child[i].relationships[NodeRelationship.NEXT] = child[i + 1].as_related_node_info()
+                    #if len(child) > 1:
+                    child[i].relationships[NodeRelationship.NEXT] = child[0].as_related_node_info()
                 elif i == len(child) - 1:
                     child[i].relationships[NodeRelationship.PREVIOUS] = child[i - 1].as_related_node_info()
                 else:
@@ -296,14 +302,17 @@ class DocumentConstructor:
         self.document_map = {}
         self.nodes_map = {}
         self.parrent_nodes = {}
+        self.id_map = {}
 
     def process_and_construct_chunks(self):
         """Processes documents into chunks and constructs nodes from them."""
         text_parser = SentenceSplitter(chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap, separator=self.separator)
         doc_nodes = text_parser.get_nodes_from_documents(self.documents)
+        for doc in self.documents:
+            self.id_map[doc.metadata["file_id"]] = doc.id_
 
         for node in doc_nodes:
-            node.id_ = node.metadata["id"]
+            node.id_ = self.id_map[node.metadata["file_id"]]
             node.relationships = {}
             if node.id_ in self.nodes_map:
                 self.nodes_map[node.id_].append(node)
@@ -321,7 +330,7 @@ class DocumentConstructor:
             parrent_node = TextNode(
                 text=desc,
                 metadata=metadata,
-                id_=str(metadata["id"])
+                id_=page.id_
             )
             self.parrent_nodes[parrent_node.id_] = parrent_node
 
@@ -338,10 +347,11 @@ class DocumentConstructor:
             # Add SOURCE relationship
             document = self.document_map.get(parrent.id_)
             if document:
+                parrent.id_ = str(uuid.uuid4())
                 parrent.relationships[NodeRelationship.SOURCE] = document.as_related_node_info()
 
             for i, child in enumerate(children):
-                child.id_ = f"{child.metadata['id']}_{i + 1}"
+                child.id_ = str(uuid.uuid4())
                 child.relationships[NodeRelationship.PARENT] = parrent.as_related_node_info()
 
                 if i == 0:
@@ -366,4 +376,3 @@ class DocumentConstructor:
         self.process_and_construct_chunks()
         self.create_parrent_node()
         return self.index_nodes()
-
