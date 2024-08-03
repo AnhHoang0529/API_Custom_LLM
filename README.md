@@ -19,11 +19,11 @@ This is the repository for Demo Rest Api Custom LLM
   - "500자 분량의 에세이를 작성하고 일상생활, 코로나19, 한국이라는 키워드에 대해 토론하세요." (Korean version of the above query)
 
 #### 3. Data Upload to VectorDB
-- **Endpoint**: `geminisoftvn.ddns.net:9000/ai/v1/llm/data?file_path&db_name`
-- **Purpose**: Uploads data into VectorDB using specified file paths and database names.
+- **Endpoint**: `geminisoftvn.ddns.net:9000/ai/v1/llm/data?file_path`
+- **Purpose**: Uploads data into VectorDB using specified file paths.
 - **Details**:
-  - `file_path`: Specifies the location of data files (Images, Audios, Videos, Documents).
-  - `db_name`: Specifies the database names for different types of data.
+  - `file_path`: Specifies the location of data files (All files are placed in one folder, classified by names starting with document, audio, video, image)
+  
 
 ### Project Structure (API_llm)
 
@@ -49,10 +49,7 @@ API_llm/
 │   │   └── prompt_templates.py
 │   ├── database/
 │   │   ├── data/
-│   │   │   ├── Images/
-│   │   │   ├── Audios/
-│   │   │   ├── Videos/
-│   │   │   └── Documents/
+│   │   │   └── llm_analyze_data/
 │   │   └── index.py
 ├── requirements.txt
 └── run.py
