@@ -1,7 +1,7 @@
 from llama_index.core.indices import KeywordTableIndex
-import weaviate
 import os
-from llama_index.vector_stores.weaviate import WeaviateVectorStore
+from pinecone import Pinecone, ServerlessSpec, PodSpec
+from llama_index.vector_stores.pinecone import PineconeVectorStore
 from llama_index.core.query_engine import RouterQueryEngine
 from llama_index.core.selectors import LLMMultiSelector
 from llama_index.core.tools import QueryEngineTool
@@ -32,25 +32,16 @@ Settings.llm = llm
 
 detectlanguage.configuration.api_key = os.environ.get('DEEPTRANSLATOR_API')
 
-# Weaviate VectorDB (cloud)
-auth_config = weaviate.AuthApiKey(
-    api_key=os.environ.get('WEAVIATE_API_KEY')
-)
-client = weaviate.Client(
-    os.environ.get('WEAVIATE_URL'),
-    auth_client_secret=auth_config,
-)
-
-# local
-# client = weaviate.Client("http://localhost:8080")
+pc = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
 
 def load_vetor_store_index(index_name):
-    vector_store = WeaviateVectorStore(weaviate_client=client, index_name=index_name)
+    pc_index = pc.Index(index_name)
+    vector_store = PineconeVectorStore(pinecone_index=pc_index)
     index = VectorStoreIndex.from_vector_store(vector_store)
     return index
 
 
-def define_query_engine(index_name, prompt_template, node_postprocessors, response_mode="compact_accumulate", topk=5):
+def define_query_engine(index_name, prompt_template, node_postprocessors, response_mode="simple_summarize", topk=5):
     index = load_vetor_store_index(index_name)
     prompt = PromptTemplate(prompt_template)
 
@@ -69,16 +60,16 @@ CHOICES = [
 ]
 
 def construct_router_query_engine(choices=CHOICES):
-    img_query_engine = define_query_engine(index_name="LlamaIndex_img_index",
+    img_query_engine = define_query_engine(index_name="img-index",
                                            prompt_template=IMG_PROMPT_TMPL,
                                            node_postprocessors=[reranker])
-    au_query_engine = define_query_engine(index_name="LlamaIndex_au_index",
+    au_query_engine = define_query_engine(index_name="au-index",
                                           prompt_template=AU_PROMPT_TMPL,
                                           node_postprocessors=[reranker])
-    vid_query_engine = define_query_engine(index_name="LlamaIndex_vid_index",
+    vid_query_engine = define_query_engine(index_name="vid-index",
                                           prompt_template=VID_PROMPT_TMPL,
                                           node_postprocessors=[reranker])
-    doc_query_engine = define_query_engine(index_name="LlamaIndex_doc_index",
+    doc_query_engine = define_query_engine(index_name="doc-index",
                                           prompt_template=DOC_PROMPT_TMPL,
                                           node_postprocessors=[reranker, metadatareplacement, reorder])
     
@@ -96,7 +87,7 @@ def get_metadata_in_response(response):
   metadata = {}
   for key, value in response.metadata.items():
     try:
-      id = value.get('ID')
+      id = value.get('file_id')
       if str(id) in response.response:
         metadata[key] = response.metadata[key]
     except:
@@ -105,13 +96,11 @@ def get_metadata_in_response(response):
 
 def get_source_in_resonse(response):
   source = []
-  ids = set()
   for key, value in response.metadata.items():
     try:
-      id = value.get('ID')
-      if (str(id) in response.response) and (id not in ids):
+      id = value.get('file_id')
+      if str(id) in response.response:
         source.append({'id': id, 'title': value.get('TITLE')})
-      ids.add(id)
     except:
       continue
   return source

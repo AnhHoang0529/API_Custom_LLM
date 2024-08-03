@@ -52,13 +52,13 @@ def upload():
 
     # Map of constructors and their corresponding document types and index names
     constructor_map = {
-        'image': (ImageConstructor, "LlamaIndex_img_index"),
-        'audio': (AudioVideoNodeConstructor, "LlamaIndex_au_index"),
-        'video': (AudioVideoNodeConstructor, "LlamaIndex_vid_index"),
-        'document': (DocumentConstructor, "LlamaIndex_doc_index")
+        'image': (ImageConstructor, "img-index"),
+        'audio': (AudioVideoNodeConstructor, "au-index"),
+        'video': (AudioVideoNodeConstructor, "vid-index"),
+        'document': (DocumentConstructor, "doc-index")
     }
 
-    success = False
+    processed_indices = []
 
     # Process each document type
     for doc_type, (Constructor, index_name) in constructor_map.items():
@@ -68,12 +68,12 @@ def upload():
                 nodes = constructor.construct_nodes()
                 define_vector_store_index(index_name, nodes, llm, embed_model)
                 print(f'Node constructed for {index_name}')
-                success = True
+                processed_indices.append(index_name)
             except Exception as e:
                 logging.exception(f"Error processing documents for {index_name}")
                 return jsonify({"success": False, "error": str(e)})
 
-    if success:
-        return jsonify({"success": True})
+    if processed_indices:
+        return jsonify({"success": True, "processed_indices": processed_indices})
 
     return jsonify({"success": False, "error": "No valid document types found"})

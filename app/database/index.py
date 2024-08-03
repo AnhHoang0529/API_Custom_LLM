@@ -1,29 +1,38 @@
 from app.models.model import *
-import weaviate
 from llama_index.core import (
     VectorStoreIndex,
     StorageContext,
 )
-from llama_index.vector_stores.weaviate import WeaviateVectorStore
+from pinecone import Pinecone, ServerlessSpec, PodSpec
+from llama_index.vector_stores.pinecone import PineconeVectorStore
 import os
+import logging
 from app import PROJECT_PATH
 
-print(os.environ.get('WEAVIATE_API_KEY'))
-print(os.environ.get('WEAVIATE_URL'))
-auth_config = weaviate.AuthApiKey(
-    api_key=os.environ.get('WEAVIATE_API_KEY')
-)
-client = weaviate.Client(
-    os.environ.get('WEAVIATE_URL'),
-    auth_client_secret=auth_config,
-)
+
+pc = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
 
 def define_vector_store_index(index_name, nodes, llm, embed_model):
-    vector_store = WeaviateVectorStore(weaviate_client=client, index_name=index_name)
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
-    index = VectorStoreIndex(
-        nodes,
-        storage_context=storage_context,
-        llm=llm,
-        embed_model=embed_model
-    )
+    try:
+        # Check if the index already exists
+        existing_indexes = pc.list_indexes().names()
+        if index_name not in existing_indexes:
+            # Create the index if it doesn't exist
+            pc.create_index(
+                name=index_name,
+                dimension=1024,
+                metric="cosine",
+                spec=ServerlessSpec(cloud="aws", region="us-east-1"),
+            )
+        
+        # Define the index regardless of whether it was newly created or already existed
+        pc_index = pc.Index(index_name)
+        pinecone_vector_store = PineconeVectorStore(pinecone_index=pc_index)
+        pinecone_storage_context = StorageContext.from_defaults(vector_store=pinecone_vector_store)
+        pinecone_index = VectorStoreIndex(nodes, storage_context=pinecone_storage_context, llm=llm, embed_model=embed_model)
+
+        return {"success": True, "index_name": index_name}
+
+    except Exception as e:
+        logging.exception(f"Error defining or creating index {index_name}")
+        return {"success": False, "error": str(e)}
