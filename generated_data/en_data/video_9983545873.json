@@ -1,0 +1,61 @@
+{
+    "id": "9983545873",
+    "md5": "d59c4f6867991e32a8f6e6354296c6e4",
+    "extension": "mp4",
+    "size": 31245671,
+    "height": 720,
+    "width": 1280,
+    "duration": 720.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "video_study_work.mp4",
+    "desc": "This video showcases the importance of study and work habits that can help individuals maximize their productivity, achieve academic success, and maintain a healthy work-life balance.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Effective study habits such as time management and setting goals are essential to academic success. One strategy is the Pomodoro Technique, which involves working for 25 minutes then taking a 5-minute break. This cycle can help increase focus and productivity.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:01",
+                "end_time": "00:04:30",
+                "content": "Good time management skills include prioritizing tasks, creating schedules, and delegating responsibilities. Effective use of technology such as calendars and project management tools can help streamline work processes.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:31",
+                "end_time": "00:06:30",
+                "content": "Setting goals for both short-term and long-term can help provide direction and motivation. SMART goals, which are Specific, Measurable, Achievable, Relevant, and Time-bound, can be particularly effective.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:31",
+                "end_time": "00:08:00",
+                "content": "Maintaining a healthy work-life balance is crucial for academic and professional success. Prioritizing fitness, nutrition, and relaxation can help reduce stress and improve overall well-being.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:01",
+                "end_time": "00:09:30",
+                "content": "Study techniques such as active recall, interleaving, and elaboration can help improve learning and retention. Regular review and practice can help solidify knowledge and build a strong foundation for future learning.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video discusses effective study habits, including time management, setting goals, and using the Pomodoro Technique. It also emphasizes the importance of good work management skills, maintaining a healthy work-life balance, and employing effective study techniques."
+    },
+    "category": {
+        "id": 1,
+        "title": "Education"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

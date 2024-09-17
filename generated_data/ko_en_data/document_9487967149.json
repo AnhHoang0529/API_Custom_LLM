@@ -1,0 +1,47 @@
+{
+    "id": "9487967149",
+    "md5": "5d2d44d4e7d4e3a4574963f79d3f766b",
+    "extension": "pdf",
+    "size": 115125,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "\ub9db\uc788\ub294 \ub808\uc2dc\ud53c.pdf",
+    "desc": "\ub9db\uc788\ub294 \uc694\ub9ac\uc640 \uadf8 \uc870\ub9ac \ubc29\ubc95\uc744 \ub2f4\uc740 \uceec\ub809\uc158\uc785\ub2c8\ub2e4.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "\ub9db\uc788\ub294 \uc694\ub9ac \ucc3d\uc791\ud488\uc744 \ub9cc\ub098\ubcf4\uc138\uc694",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:16",
+                "content": "\ub2e4\uc591\ud55c \ubbf8\uc2dd \uc694\ub9ac\uc640 \uadf8 \uc720\ub798\uc5d0 \ub300\ud574 \uc54c\uc544\ubcf4\uc138\uc694",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:17",
+                "end_time": "00:00:28",
+                "content": "\uc6b0\ub9ac\uc640 \ud568\uaed8 \uace0\uae09 \ub808\uc2a4\ud1a0\ub791\uc758 \uc138\uacc4\ub97c \ud0d0\ud5d8\ud574\ubcf4\uc138\uc694",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 36792
+    },
+    "category": {
+        "id": 3,
+        "title": "\uc694\ub9ac\ucc45"
+    },
+    "people": [],
+    "textData": "\uc774 \uc694\ub9ac\ucc45\uc740 \ud504\ub791\uc2a4 \uace0\uae09 \uc694\ub9ac\ubd80\ud130 \uc720\uba85\ud55c \uc774\ud0c8\ub9ac\uc544 \ud30c\uc2a4\ud0c0 \ub808\uc2dc\ud53c\uae4c\uc9c0 \ub2e4\uc591\ud55c \uace0\uae09 \uc694\ub9ac\ub97c \uc18c\uac1c\ud569\ub2c8\ub2e4. \uac01 \ub808\uc2dc\ud53c\uc5d0\ub294 \uc9d1\uc5d0\uc11c \uc774 \uc808\ubb18\ud55c \uc694\ub9ac\ub97c \uc900\ube44\ud558\ub294 \ub2e8\uacc4\ubcc4 \uac00\uc774\ub4dc\uac00 \ud568\uaed8 \uc81c\uacf5\ub429\ub2c8\ub2e4. \ub610\ud55c \uc774 \ucc45\uc740 \uac01 \uc694\ub9ac\uc758 \uc5ed\uc0ac\uc640 \uc911\uc694\uc131\uc5d0 \ub300\ud55c \uc815\ubcf4\ub97c \uc81c\uacf5\ud558\uc5ec \uc694\ub9ac \uacbd\ud5d8\uc744 \ud5a5\uc0c1\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "organizations": []
+}

@@ -1,0 +1,61 @@
+{
+    "id": "5339807465",
+    "md5": "6e8b6d6d6d6d6d6d6d6d6d6d",
+    "extension": "mp3",
+    "size": 133726,
+    "height": "",
+    "width": "",
+    "duration": 165.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic-mountains.mp3",
+    "desc": "A 2-channel audio file, 165 seconds long, titled 'majestic-mountains.mp3'. The file size is 133726 bytes, with an MD5 hash of '6e8b6d6d6d6d6d6d6d6d6d6d'. No density information is available, and there's no description for this file.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:04:30",
+                "content": "The scene opens with a breathtaking view of the majestic mountain range, the sun barely kissing the peaks. The wind whispers gently through the trees, adding an extra layer of tranquility to the setting.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:30",
+                "end_time": "00:07:45",
+                "content": "The camera pans over the valley, capturing the vibrant colors of autumn leaves, their hues painting a vivid picture against the backdrop of the mountains. The birds add life to the otherwise silent scene.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:45",
+                "end_time": "00:10:30",
+                "content": "The sun begins to set, bathing the mountains in an orange glow. The serene landscape is a sight to behold, inspiring feelings of awe and wonder. The gentle melody from a nearby brook adds to the calming atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:30",
+                "end_time": "00:14:00",
+                "content": "As the sun finally sets, the sky turns a deep shade of purple and red. The cool evening breeze brings a sense of peace and relaxation. The sound of crickets chirping and the soft rustling of leaves in the wind create a symphony of nature.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:14:00",
+                "end_time": "00:16:50",
+                "content": "The scene slowly fades out, leaving an indelible impression of the majestic mountains and the serene landscape that surrounds them. The audio concludes with the soothing sounds of nature, providing a perfect end to the journey.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio file is a 2-channel, 165-second-long piece featuring the sounds of a majestic mountain range. The content begins with a breathtaking view of the mountains and the tranquility of the valley. The scene transitions to a vibrant display of autumn leaves, accompanied by the sounds of birds and a nearby brook. As the sun sets, the scene turns into a deep shade of purple and red, leaving the listener with a sense of peace and relaxation. The audio concludes with the soothing sounds of nature, providing a perfect end to the journey."
+    },
+    "category": {
+        "id": 2,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

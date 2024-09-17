@@ -1,0 +1,40 @@
+{
+    "id": "8801232595",
+    "md5": "72e83d345eb0e9b23a5f7f6d3321132a",
+    "extension": "pdf",
+    "size": 78987,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "football_match_report.pdf",
+    "desc": "A report on the recent football match between team A and team B.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "This document contains the report of the recent football match between team A and team B.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:45",
+                "content": "Team A played against Team B on 15th March 2023 at the XYZ stadium. The document covers the highlights of the match, the performance of the players, and the statistics.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 1565483
+    },
+    "category": {
+        "id": 191,
+        "title": "Sports"
+    },
+    "people": [],
+    "textData": "The document begins with an introduction of the teams and the venue of the match. It then moves on to describe the starting lineups and the pre-match analysis. Following that, it covers the first half of the match, detailing the key moments and the performance of each team. The second half is similarly described, with a focus on the turning points and the deciding factors. The document concludes with a summary of the match and the post-match reactions.",
+    "organizations": []
+}

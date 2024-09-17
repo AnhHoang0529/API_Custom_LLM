@@ -1,0 +1,40 @@
+{
+    "id": "8453249104",
+    "md5": "7a1e599f994312e7e5f2a1f727e4c8e3",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "movies.pdf",
+    "desc": "A research paper on the evolution of movie scenes throughout history",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Welcome to our research paper on the evolution of movie scenes",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:10",
+                "content": "Let's begin with an overview of the early days of cinema",
+                "speaker": ""
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 100,
+        "title": "Movies"
+    },
+    "people": [],
+    "textData": "The evolution of movie scenes can be traced back to the early 1890s when the Lumi\u00e8re brothers introduced the world to moving pictures. In the following decades, pioneers like Charlie Chaplin and D.W. Griffith pushed the boundaries of what was possible on screen, with groundbreaking films like 'The Great Train Robbery' and 'The Birth of a Nation'. As technology advanced, so too did the art of filmmaking. Sound was introduced in the late 1920s, forever changing the way movies were experienced. And in the ensuing decades, color, special effects, and more revolutionized the medium. Today, movies are a global phenomenon, with blockbusters drawing in audiences from all corners of the world. The future of cinema is an exciting one, as filmmakers continue to explore new storytelling techniques and technological innovations.",
+    "organizations": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": "8141580049",
+    "md5": "740c6e5e6d8eeb5272231a8c156b275e",
+    "extension": "jpeg",
+    "size": 26418,
+    "height": 1280,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "453628762345_7235546234.jpeg",
+    "desc": "This is a scene from the movie 'The Matrix' where Morpheus (played by Laurence Fishburne) offers Neo (played by Keanu Reeves) the red pill, leading him to the truth.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:07",
+                "end_time": "00:00:12",
+                "content": "Morpheus offers Neo a choice between two pills.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:13",
+                "end_time": "00:00:28",
+                "content": "Neo considers the implications of each pill and ultimately chooses the red pill.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 56789
+    },
+    "category": {
+        "id": 63107,
+        "title": "Sci-Fi Movies"
+    },
+    "people": [
+        {
+            "id": 245637,
+            "nickName": "Morpheus",
+            "name": "Laurence Fishburne",
+            "dateOfBirth": "1961-07-30"
+        },
+        {
+            "id": 345763,
+            "nickName": "Neo",
+            "name": "Keanu Reeves",
+            "dateOfBirth": "1964-09-02"
+        }
+    ],
+    "organizations": []
+}

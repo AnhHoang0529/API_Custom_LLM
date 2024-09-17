@@ -1,0 +1,28 @@
+{
+    "id": "1969805750",
+    "md5": "f0b39d116c8a236f8086145fc9a92712",
+    "extension": "jpeg",
+    "size": 131234,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\uc0ac\ubb34\uc2e4_\uc5f0\uad6c_2023.jpeg",
+    "desc": "\ud14c\uc774\ube14\uc5d0 \uc549\uc544 \uacf5\ubd80\ud558\ub294 \uc0ac\ub78c\uc774 \uc788\ub294 \ud604\ub300 \uc0ac\ubb34\uc2e4\uc758 \uc774\ubbf8\uc9c0",
+    "narrationStt": "",
+    "category": {
+        "id": 789,
+        "title": "\uacf5\ubd80\uc640 \uc77c"
+    },
+    "people": [
+        {
+            "id": 24,
+            "nickName": "\uc874 \ub514",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1990-05-01"
+        }
+    ],
+    "organizations": []
+}

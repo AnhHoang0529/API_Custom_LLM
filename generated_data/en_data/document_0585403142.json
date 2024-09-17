@@ -1,0 +1,47 @@
+{
+    "id": "0585403142",
+    "md5": "213b3c3f55313d8b413e8743a1d8d763",
+    "extension": "jpg",
+    "size": 524288,
+    "height": 3000,
+    "width": 4000,
+    "duration": 0,
+    "density": 72,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "majestic_landscape.jpg",
+    "desc": "A breathtaking image of a mountain range under the golden sunrise",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:06",
+                "content": "A stunning image of a breathtaking landscape",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:10",
+                "content": "The sun is just rising, casting a golden glow over the mountains",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:11",
+                "end_time": "00:00:15",
+                "content": "The sky is painted with hues of pink and orange",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 1329946259
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature"
+    },
+    "people": [],
+    "textData": "This photograph captures the essence of nature's grandeur. The sun is just rising over the majestic mountain range, casting a golden glow over the landscape. The sky is painted with hues of pink and orange, creating a breathtaking scene. The mountain range stretches as far as the eye can see, with peaks reaching towards the heavens. The serenity of the scene is only interrupted by the occasional clouds, lazily drifting in the sky. This is a reminder of the beauty and power of nature.",
+    "organizations": []
+}

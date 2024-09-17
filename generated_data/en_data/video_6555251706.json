@@ -1,0 +1,68 @@
+{
+    "id": "6555251706",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 720,
+    "width": 1280,
+    "duration": 220.5,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Political_Events_Press_Conference.mp4",
+    "desc": "Political events press conference featuring the announcement of a new policy initiative.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "The speaker begins by addressing the audience and outlines the agenda for the conference.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:00",
+                "end_time": "00:05:30",
+                "content": "The policy initiative is detailed, discussing its goals, benefits, and potential impact.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:08:00",
+                "content": "Questions from the audience are addressed, providing clarification and response to concerns.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:00",
+                "end_time": "00:10:30",
+                "content": "The speaker provides a summary and concluding remarks, reiterating the significance of the policy initiative.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:30",
+                "end_time": "00:13:00",
+                "content": "The conference adjourns and attendees begin to leave.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A press conference featuring John Doe discussing a new policy initiative. The event covers the agenda, detailed info, audience questions, and concluding remarks."
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "",
+            "name": "John Doe",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

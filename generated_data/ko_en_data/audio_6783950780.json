@@ -1,0 +1,71 @@
+{
+    "id": "6783950780",
+    "md5": "d992a9d4e1a0861ec535b9f3437d2812",
+    "extension": "mp3",
+    "size": 4361225,
+    "height": "",
+    "width": "",
+    "duration": 243.8,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Italian_Dishes.mp3",
+    "desc": "This audio file features a professional chef as they demonstrate and discuss the preparation of authentic Italian dishes and culinary techniques.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:00",
+                "content": "Let's begin by preparing the classic Italian pasta dish, Spaghetti alle Vongole. Before we start, we'll need to gather our ingredients.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:01",
+                "end_time": "00:05:30",
+                "content": "For Spaghetti alle Vongole, you'll need spaghetti, clams, garlic, parsley, olive oil, and white wine. Gather all your ingredients before you begin cooking. Always ensure your work area is clean and organized.",
+                "speaker": "Gino"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:31",
+                "end_time": "00:08:30",
+                "content": "Now, let's start preparing the Spaghetti alle Vongole. Begin by washing the clams thoroughly in cold water to remove any grit or sand. Rinse them well and set aside.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:31",
+                "end_time": "00:12:00",
+                "content": "Next, heat a large pot filled with salted water to cook the spaghetti. Boil the spaghetti until it is al dente, then drain and set aside. In a separate pan, heat some olive oil and garlic, being careful not to burn the garlic. Add the clams to the pan and cook until they open.",
+                "speaker": "Gino"
+            },
+            {
+                "order": 5,
+                "start_time": "00:12:01",
+                "end_time": "00:15:30",
+                "content": "While cooking the clams, prepare a simple white wine sauce. Deglaze the pan with the white wine, letting it simmer for a few minutes to allow the flavors to meld. Add some parsley and season with salt and pepper to taste. Once the clams have opened, add the cooked spaghetti to the pan and toss to coat in the sauce. Serve immediately.",
+                "speaker": "Gino"
+            }
+        ],
+        "sttSummary": "In this audio, you'll learn how to prepare the classic Italian dish Spaghetti alle Vongole from a professional chef, Gino D'Acampo. This tutorial covers all the steps, from gathering ingredients and preparing the dish to cooking the spaghetti and making a simple white wine sauce."
+    },
+    "category": {
+        "id": 11,
+        "title": "Culinary Arts"
+    },
+    "people": [
+        {
+            "id": 345,
+            "nickName": "Gino",
+            "name": "Gino D'Acampo",
+            "dateOfBirth": "April 17, 1976"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 41796
+    }
+}

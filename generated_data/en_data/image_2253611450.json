@@ -1,0 +1,40 @@
+{
+    "id": "2253611450",
+    "md5": "2c1d51c4b37401a9780d369c6e1b0b2b",
+    "extension": "jpg",
+    "size": 86575,
+    "height": 1280,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "20210101_151530.jpg",
+    "desc": "Political demonstration in Washington D.C. where protesters are demanding changes to immigration policies and human rights for migrants and refugees.",
+    "narrationStt": "",
+    "category": {
+        "id": 7,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 28921,
+            "nickName": "",
+            "name": "John Smith",
+            "dateOfBirth": "1991-01-01"
+        },
+        {
+            "id": 28922,
+            "nickName": "",
+            "name": "Jane Doe",
+            "dateOfBirth": "1993-03-15"
+        }
+    ],
+    "organizations": [
+        {
+            "id": 3564,
+            "name": "American Civil Liberties Union",
+            "otherName": ""
+        }
+    ]
+}

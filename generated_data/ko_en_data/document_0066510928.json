@@ -1,0 +1,40 @@
+{
+    "id": "0066510928",
+    "md5": "828d2510e693b6151644a94817d3c734",
+    "extension": "pdf",
+    "size": 112610,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "\uc2a4\ud3ec\uce20_\uc774\ubca4\ud2b8_\uc694\uc57d.pdf",
+    "desc": "\ucd5c\uc2e0 \uc2a4\ud3ec\uce20 \uc774\ubca4\ud2b8 \ubc0f \uae30\ub85d \uc694\uc57d",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:06",
+                "content": "\uc624\ub298\uc758 \uc694\uc57d\uc5d0\ub294 NBA \ud30c\uc774\ub110\uc5d0\uc11c \ub974\ube0c\ub860 \uc81c\uc784\uc2a4\uac00 \ubcf4\uc5ec\uc900 \uae30\ub85d\uc801\uc778 \uc131\uacfc\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4...",
+                "speaker": "\uc99d\uc5ec\uc790"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:10",
+                "content": "...\uadf8\ub9ac\uace0 US \uc624\ud508 \ud14c\ub2c8\uc2a4 \ud1a0\ub108\uba3c\ud2b8\uc5d0\uc11c \ub180\ub77c\uc6b4 \uc774\ubcc0\uc774 \uc77c\uc5b4\ub0ac\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc99d\uc5ec\uc790"
+            }
+        ],
+        "id": 137148
+    },
+    "category": {
+        "id": 38,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [],
+    "textData": "\ucd5c\uadfc \uc2a4\ud3ec\uce20 \ub274\uc2a4\uc5d0\uc11c LeBron James\ub294 Boston Celtics\ub97c \uc0c1\ub300\ub85c \uc778\uc0c1\uc801\uc778 45\uc810\uc758 \uc131\uc801\uc744 \uac70\ub450\uba70 NBA \ud30c\uc774\ub110\uc5d0\uc11c \ub4dd\uc810 \uae30\ub85d\uc744 \uacbd\uc2e0\ud588\uc2b5\ub2c8\ub2e4. \ub180\ub77c\uc6b4 \uc0ac\uac74\uc758 \uc804\uac1c\ub85c, \uc57d\uccb4 \uc120\uc218 John Doe\uac00 US \uc624\ud508 \ud14c\ub2c8\uc2a4 \ud1a0\ub108\uba3c\ud2b8\uc5d0\uc11c \uc6b0\uc2b9 \ud6c4\ubcf4\ub97c \ub4a4\uc9d1\uc5b4 \ucc54\ud53c\uc5b8\uc2ed \ud0c0\uc774\ud2c0\uc744 \ucc28\uc9c0\ud588\uc2b5\ub2c8\ub2e4.",
+    "organizations": []
+}

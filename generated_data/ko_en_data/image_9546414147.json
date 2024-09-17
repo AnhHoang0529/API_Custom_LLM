@@ -1,0 +1,37 @@
+{
+    "id": "9546414147",
+    "md5": "5dd37b47010ef8e24c7e4a5b784d97fa",
+    "extension": "jpeg",
+    "size": 83726,
+    "height": 1200,
+    "width": 1600,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\ub9c8\ub514\uadf8\ub77c \ud37c\ub808\uc774\ub4dc \ub274\uc62c\ub9ac\uc5b8\uc2a4 2023.jpeg",
+    "desc": "\ub8e8\uc774\uc9c0\uc560\ub098\uc8fc \ub274\uc62c\ub9ac\uc5b8\uc2a4\uc640 \uc804 \uc138\uacc4\uc758 \ub2e4\ub978 \uc9c0\uc5ed\uc5d0\uc11c \uc5f4\ub9ac\ub294 \uc5f0\ub840 \uce74\ub2c8\ubc1c\ub85c, \ub2e4\ucc44\ub85c\uc6b4 \uc218\ub808, \uc74c\uc545, \uc758\uc0c1\uc73c\ub85c \uc720\uba85\ud569\ub2c8\ub2e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "\ubb38\ud654_\ucd95\ud558"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 123,
+            "name": "\ub9c8\ub514\uadf8\ub77c \uc778\ub514\uc5b8",
+            "otherName": ""
+        },
+        {
+            "id": 25,
+            "name": "\ub809\uc2a4 \ud37c\ub808\uc774\ub4dc",
+            "otherName": ""
+        },
+        {
+            "id": 13,
+            "name": "\uc904\ub8e8 \ud37c\ub808\uc774\ub4dc",
+            "otherName": ""
+        }
+    ]
+}

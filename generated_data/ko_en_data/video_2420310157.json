@@ -1,0 +1,86 @@
+{
+    "id": "2420310157",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "The_Godfather.mp4",
+    "desc": "Scene of movies featuring The Godfather",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:35",
+                "content": "The Godfather sits at his table surrounded by family and associates discussing business. Marlon Brando's iconic performance captivates the audience.",
+                "speaker": "Marlon Brando"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:35",
+                "end_time": "00:03:15",
+                "content": "Sonny, portrayed by James Caan, receives a call from a supplier demanding payment. The tension rises as Sonny's temper flares, foreshadowing future events.",
+                "speaker": "James Caan"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:15",
+                "content": "A montage of scenes shows the power and influence of the Corleone family as they take care of their business interests and protect their loved ones.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:15",
+                "end_time": "00:07:20",
+                "content": "The Godfather's daughter, played by Sofia Coppola, is introduced to a young man, Michael Corleone, played by Al Pacino. The stage is set for Michael to take on a more significant role in the family business.",
+                "speaker": "Sofia Coppola"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:20",
+                "end_time": "00:08:45",
+                "content": "The final scene shows Michael, now fully immersed in the family business, making decisions and executing orders with determination and ruthlessness.",
+                "speaker": "Al Pacino"
+            }
+        ],
+        "sttSummary": "This video features various scenes from The Godfather, highlighting the power, influence, and decision-making of the Corleone family."
+    },
+    "category": {
+        "id": 112,
+        "title": "Classic Movies"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "The Godfather",
+            "name": "Marlon Brando",
+            "dateOfBirth": "April 3, 1924"
+        },
+        {
+            "id": 234,
+            "nickName": "Sonny",
+            "name": "James Caan",
+            "dateOfBirth": "March 26, 1940"
+        },
+        {
+            "id": 345,
+            "nickName": "Michael",
+            "name": "Al Pacino",
+            "dateOfBirth": "April 25, 1940"
+        },
+        {
+            "id": 456,
+            "nickName": "The Bride",
+            "name": "Sofia Coppola",
+            "dateOfBirth": "May 14, 1971"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

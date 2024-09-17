@@ -1,0 +1,98 @@
+{
+    "id": "5213761996",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 1332219,
+    "height": 720,
+    "width": 1280,
+    "duration": 145.3,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_interview.mp4",
+    "desc": "This video features interviews with various celebrities discussing their latest projects and personal interests.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:32",
+                "end_time": "00:02:14",
+                "content": "Interviews with renowned celebrities like Tom Cruise, Oprah Winfrey, and Leonardo DiCaprio.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:05:12",
+                "content": "Tom Cruise discusses his latest action movie and upcoming projects.",
+                "speaker": "Tom Cruise"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:13",
+                "end_time": "00:07:46",
+                "content": "Oprah Winfrey talks about her new book and upcoming television projects.",
+                "speaker": "Oprah Winfrey"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:47",
+                "end_time": "00:10:29",
+                "content": "Leonardo DiCaprio shares his thoughts on environmental activism and the importance of sustainability.",
+                "speaker": "Leonardo DiCaprio"
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:30",
+                "end_time": "00:14:53",
+                "content": "Other celebrities like Brad Pitt, Angelina Jolie, and Will Smith also make appearances and discuss their latest endeavors.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Celebrities discuss their latest projects and personal interests in this interview-style video."
+    },
+    "category": {
+        "id": 10,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "Tom",
+            "name": "Tom Cruise",
+            "dateOfBirth": "July 3, 1962"
+        },
+        {
+            "id": 1235,
+            "nickName": "Oprah",
+            "name": "Oprah Winfrey",
+            "dateOfBirth": "January 29, 1954"
+        },
+        {
+            "id": 1236,
+            "nickName": "Leo",
+            "name": "Leonardo DiCaprio",
+            "dateOfBirth": "November 11, 1974"
+        },
+        {
+            "id": 1237,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 1238,
+            "nickName": "Angelina",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "June 4, 1975"
+        },
+        {
+            "id": 1239,
+            "nickName": "Will",
+            "name": "Will Smith",
+            "dateOfBirth": "September 25, 1968"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

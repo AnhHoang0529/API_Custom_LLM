@@ -1,0 +1,64 @@
+{
+    "id": "1895616499",
+    "md5": "6b64d3f76a9c3b016b2a26b3cc3b6a34",
+    "extension": "mp4",
+    "size": 10254300,
+    "height": 720,
+    "width": 1280,
+    "duration": 183.5,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "ElephantsInTheWild.mp4",
+    "desc": "An awe-inspiring documentary showcasing the magnificent elephants in their natural habitat in the African savannah.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:04:25",
+                "content": "Elephants are the largest living terrestrial animals, known for their long trunks and large, fan-like ears. They inhabit regions of Africa and Asia.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:06:00",
+                "end_time": "00:08:45",
+                "content": "The African elephant, the larger of the two species, has distinct ear shapes and a curved tusk from the lower left side. The Asian elephant, smaller in size, has straight or upward-curved tusks from both sides.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:15",
+                "end_time": "00:13:30",
+                "content": "Elephants communicate through a series of sounds, including trumpets, roars, and cries, and use their trunks as a tool for gathering food, drinking water, and social interaction.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:14:45",
+                "end_time": "00:18:30",
+                "content": "Despite their massive size, elephants are gentle giants and play a crucial role in maintaining the ecosystem's balance by dispersing seeds and keeping predators at bay. They face many threats, including habitat loss, poaching for ivory, and human-elephant conflict.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:19:45",
+                "end_time": "00:23:15",
+                "content": "Through various conservation efforts, such as protected areas, community-based initiatives, and international cooperation, we can help ensure the survival and protection of elephants and their habitats.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "An exploration of elephants in the wild, their distinctive characteristics, communication methods, and the importance of their conservation."
+    },
+    "category": {
+        "id": 20,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 256352
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1535179496",
+    "md5": "7e48c23b6a4cb9a6e93b1e6b2b3f4628",
+    "extension": "mp3",
+    "size": 8364256,
+    "height": "",
+    "width": "",
+    "duration": 180.23,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "scene_1.mp3",
+    "desc": "This audio clip is from a movie scene where the protagonist meets an important character for the first time in a coffee shop.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:02:45",
+                "content": "The protagonist enters the coffee shop, looking around curiously. He spots a woman sitting at a table, engrossed in a book.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:46",
+                "end_time": "00:03:30",
+                "content": "The woman notices the protagonist's gaze and looks up, making eye contact. She invites him to join her table.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:31",
+                "end_time": "00:04:45",
+                "content": "The protagonist sits down and they engage in a conversation about literature. The woman introduces herself as a renowned author.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:46",
+                "end_time": "00:06:00",
+                "content": "The woman shares some valuable insights about writing and the protagonist expresses admiration for her work. They exchange contact information and part ways.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:01",
+                "end_time": "00:06:30",
+                "content": "As the protagonist leaves the coffee shop, he is filled with a newfound sense of determination and inspiration.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The protagonist meets a renowned author in a coffee shop, and they engage in a conversation about literature, which inspires the protagonist."
+    },
+    "category": {
+        "id": 23,
+        "title": "Movie Scenes"
+    },
+    "people": [
+        {
+            "id": 654,
+            "nickName": "Protagonist",
+            "name": "John Doe",
+            "dateOfBirth": "1990-01-01"
+        },
+        {
+            "id": 54321,
+            "nickName": "Author",
+            "name": "Jane Smith",
+            "dateOfBirth": "1970-02-02"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

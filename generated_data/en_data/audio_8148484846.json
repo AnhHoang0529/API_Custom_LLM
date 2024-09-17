@@ -1,0 +1,74 @@
+{
+    "id": "8148484846",
+    "md5": "82e41015ca94e10d66d31c6d2f231dfc",
+    "extension": "mp3",
+    "size": 2561813,
+    "height": "",
+    "width": "",
+    "duration": 255.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "study_session.mp3",
+    "desc": "A study session recording. This file includes discussions about study techniques, study materials, and productivity tips. It also includes breaks and background noise.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:45",
+                "content": "Begin the study session by reviewing notes from the previous session and planning the topics to cover today. Set goals for the study session.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:46",
+                "end_time": "00:08:15",
+                "content": "Discuss studying techniques such as active recall, the SQ3R method, and elaboration. Discuss the benefits of each method and how they can be applied to different subjects.",
+                "speaker": "Sarah"
+            },
+            {
+                "order": 3,
+                "start_time": "00:08:16",
+                "end_time": "00:13:30",
+                "content": "Review study materials for the first topic, such as notes, textbooks, and worksheets. Discuss any challenges or questions related to the material and explore resources to overcome them.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 4,
+                "start_time": "00:13:31",
+                "end_time": "00:18:45",
+                "content": "Discuss productivity tips and techniques for staying focused during a study session. This includes topics such as time management, creating a study schedule, and minimizing distractions.",
+                "speaker": "Sarah"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:46",
+                "end_time": "00:25:59",
+                "content": "Take a short break and discuss relaxation techniques to help reduce stress and improve focus during the study session. Discuss the importance of maintaining a healthy body during long study sessions, including topics such as exercise, nutrition, and hydration.",
+                "speaker": "Jim"
+            }
+        ],
+        "sttSummary": "This study session covers various study techniques, study materials, productivity tips, taking breaks, and relaxation techniques to help improve focus and productivity during study sessions."
+    },
+    "category": {
+        "id": 6,
+        "title": "Study and Work"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Jim",
+            "name": "James Smith",
+            "dateOfBirth": "1999-02-15"
+        },
+        {
+            "id": 2,
+            "nickName": "Sarah",
+            "name": "Sarah Johnson",
+            "dateOfBirth": "1998-06-03"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

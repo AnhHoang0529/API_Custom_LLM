@@ -1,0 +1,27 @@
+{
+    "id": "1466458735",
+    "md5": "f1184a6b4a93855385509882c893b1a2",
+    "extension": "jpeg",
+    "size": 123456,
+    "height": 720,
+    "width": 1280,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Soccer_01.jpeg",
+    "desc": "A photo of a soccer match between Argentina and Brazil in the World Cup 2022",
+    "narrationStt": "",
+    "category": {
+        "id": 345,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 123,
+            "name": "FIFA",
+            "otherName": "F\u00e9d\u00e9ration Internationale de Football Association"
+        }
+    ]
+}

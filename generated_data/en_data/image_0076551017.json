@@ -1,0 +1,32 @@
+{
+    "id": "0076551017",
+    "md5": "e9b727b60804e50e0678e818a684a76c",
+    "extension": "jpeg",
+    "size": 56827,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "rugby_match_2022.jpeg",
+    "desc": "Two rugby teams playing a match in a stadium.",
+    "narrationStt": "",
+    "category": {
+        "id": 13,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 15,
+            "name": "England Rugby Union",
+            "otherName": ""
+        },
+        {
+            "id": 16,
+            "name": "Wales Rugby Union",
+            "otherName": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1545245952",
+    "md5": "797dc43b0bdf1a341e75648e2612d81a",
+    "extension": "mp3",
+    "size": 7089340,
+    "height": "",
+    "width": "",
+    "duration": 178.9,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Jungle_Sounds.mp3",
+    "desc": "This audio captures the sounds of various animals in their natural habitats deep in the jungle.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:30",
+                "content": " Tigers roar and growl, showing dominance in their territory.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:30",
+                "end_time": "00:07:30",
+                "content": " Monkeys chatter and swing through the trees, creating a lively atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:30",
+                "end_time": "00:10:30",
+                "content": " Elephants trumpet and rumble, warning their herd of approaching danger.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:30",
+                "end_time": "00:13:45",
+                "content": " Crocodiles hiss and snap their jaws, hunting in the shallow waters.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:45",
+                "end_time": "00:17:89",
+                "content": " Birds sing melodic tunes, signaling the arrival of a new day.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio clip includes the sounds of tigers, monkeys, elephants, crocodiles, and birds in their natural habitats."
+    },
+    "category": {
+        "id": 23,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

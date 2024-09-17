@@ -1,0 +1,71 @@
+{
+    "id": "6137299605",
+    "md5": "77e56448f87e9f8b2b88d6416e7996d1",
+    "extension": "mp3",
+    "size": 9530212,
+    "height": "",
+    "width": "",
+    "duration": 213.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "intro-scene-movie.mp3",
+    "desc": "The opening scene of this movie sets the tone and introduces the audience to the main characters and setting. The scene is filled with background noise and dialogues.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:01:45",
+                "content": "The camera pans over the cityscape, showcasing the bustling streets and neon lights, setting the mood for the film. The opening credits roll in.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:15",
+                "content": "The camera zooms in on our protagonist, John Doe, sitting in a dimly lit room, staring intently at an old photograph. John's voiceover narrates his backstory and motivation for the story's events.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:04:45",
+                "content": "The scene transitions to a flashback showing John and his family in happier times at their old house. The narration continues, providing more context and emotional depth to John's character.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:45",
+                "end_time": "00:06:15",
+                "content": "Back in the present day, John receives a mysterious phone call that sets the plot in motion. He hangs up, determined to seek out the truth behind his past and the danger that now threatens his family.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:15",
+                "end_time": "00:07:45",
+                "content": "The scene ends with John exiting his apartment and stepping out into the rainy night, ready to face whatever lies ahead. The film's title and opening credits reappear as the music swells.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The intro scene of the movie sets the mood and introduces the main character, John Doe. Through a series of flashbacks, the audience learns about John's backstory and motivation as he receives a mysterious phone call that sets the plot in motion. John decides to confront the danger and leaves his apartment, ready to face whatever lies ahead."
+    },
+    "category": {
+        "id": 3,
+        "title": "Movies"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "John",
+            "name": "John Doe",
+            "dateOfBirth": "1972-05-21"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 6931
+    }
+}

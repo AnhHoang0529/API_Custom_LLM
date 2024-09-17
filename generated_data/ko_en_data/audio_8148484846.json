@@ -1,0 +1,74 @@
+{
+    "id": "8148484846",
+    "md5": "82e41015ca94e10d66d31c6d2f231dfc",
+    "extension": "mp3",
+    "size": 2561813,
+    "height": "",
+    "width": "",
+    "duration": 255.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\uacf5\ubd80\uc138\uc158.mp3",
+    "desc": "\uacf5\ubd80 \uc138\uc158 \ub179\ud654. \uc774 \ud30c\uc77c\uc5d0\ub294 \uacf5\ubd80 \uae30\ubc95, \uacf5\ubd80 \uc790\ub8cc, \uc0dd\uc0b0\uc131 \ud301\uc5d0 \ub300\ud55c \ud1a0\ub860\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4. \ub610\ud55c \ud734\uc2dd\uacfc \ubc30\uacbd \uc18c\uc74c\ub3c4 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:45",
+                "content": "\uc774\uc804 \uc138\uc158\uc758 \ub178\ud2b8\ub97c \uac80\ud1a0\ud558\uace0 \uc624\ub298 \ub2e4\ub8f0 \uc8fc\uc81c\ub97c \uacc4\ud68d\ud558\uc5ec \uacf5\ubd80 \uc138\uc158\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4. \uacf5\ubd80 \uc138\uc158\uc758 \ubaa9\ud45c\ub97c \uc124\uc815\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc9d0"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:46",
+                "end_time": "00:08:15",
+                "content": "\ub2a5\ub3d9\uc801 \ud68c\uc0c1, SQ3R \ubc29\ubc95, \uc815\uad50\ud654\uc640 \uac19\uc740 \uacf5\ubd80 \uae30\ubc95\uc744 \ub17c\uc758\ud569\ub2c8\ub2e4. \uac01 \ubc29\ubc95\uc758 \uc774\uc810\uacfc \ub2e4\uc591\ud55c \uacfc\ubaa9\uc5d0 \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ubc29\ubc95\uc744 \ub17c\uc758\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc0ac\ub77c"
+            },
+            {
+                "order": 3,
+                "start_time": "00:08:16",
+                "end_time": "00:13:30",
+                "content": "\ub178\ud2b8, \uad50\uacfc\uc11c, \uc6cc\ud06c\uc2dc\ud2b8\uc640 \uac19\uc740 \uccab \ubc88\uc9f8 \uc8fc\uc81c\uc5d0 \ub300\ud55c \ud559\uc2b5 \uc790\ub8cc\ub97c \uac80\ud1a0\ud569\ub2c8\ub2e4. \uc790\ub8cc\uc640 \uad00\ub828\ub41c \uc5b4\ub824\uc6c0\uc774\ub098 \uc9c8\ubb38\uc744 \ub17c\uc758\ud558\uace0 \uc774\ub97c \uadf9\ubcf5\ud558\uae30 \uc704\ud55c \ub9ac\uc18c\uc2a4\ub97c \ud0d0\uc0c9\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc9d0"
+            },
+            {
+                "order": 4,
+                "start_time": "00:13:31",
+                "end_time": "00:18:45",
+                "content": "\uacf5\ubd80 \uc138\uc158 \ub3d9\uc548 \uc9d1\uc911\ub825\uc744 \uc720\uc9c0\ud558\uae30 \uc704\ud55c \uc0dd\uc0b0\uc131 \ud301\uacfc \uae30\uc220\uc744 \ub17c\uc758\ud569\ub2c8\ub2e4. \uc5ec\uae30\uc5d0\ub294 \uc2dc\uac04 \uad00\ub9ac, \uacf5\ubd80 \uc77c\uc815 \uc791\uc131, \uc0b0\ub9cc\ud568 \ucd5c\uc18c\ud654\uc640 \uac19\uc740 \uc8fc\uc81c\uac00 \ud3ec\ud568\ub429\ub2c8\ub2e4.",
+                "speaker": "\uc0ac\ub77c"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:46",
+                "end_time": "00:25:59",
+                "content": "\uc9e7\uc740 \ud734\uc2dd\uc744 \ucde8\ud558\uace0 \uacf5\ubd80 \uc138\uc158 \ub3d9\uc548 \uc2a4\ud2b8\ub808\uc2a4\ub97c \uc904\uc774\uace0 \uc9d1\uc911\ub825\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc774\uc644 \uae30\ubc95\uc5d0 \ub300\ud574 \ub17c\uc758\ud569\ub2c8\ub2e4. \uc6b4\ub3d9, \uc601\uc591, \uc218\ubd84 \uacf5\uae09\uacfc \uac19\uc740 \uc8fc\uc81c\ub97c \ud3ec\ud568\ud558\uc5ec \uae34 \uacf5\ubd80 \uc138\uc158 \ub3d9\uc548 \uac74\uac15\ud55c \uc2e0\uccb4\ub97c \uc720\uc9c0\ud558\ub294 \uac83\uc758 \uc911\uc694\uc131\uc5d0 \ub300\ud574 \ub17c\uc758\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc9d0"
+            }
+        ],
+        "sttSummary": "\uc774 \ud559\uc2b5 \uc138\uc158\uc5d0\uc11c\ub294 \ud559\uc2b5 \uc138\uc158 \uc911 \uc9d1\uc911\ub825\uacfc \uc0dd\uc0b0\uc131\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \ub2e4\uc591\ud55c \ud559\uc2b5 \uae30\uc220, \ud559\uc2b5 \uc790\ub8cc, \uc0dd\uc0b0\uc131 \ud301, \ud734\uc2dd \uc2dc\uac04 \ubc0f \uc774\uc644 \uae30\uc220\uc744 \ub2e4\ub8f9\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 6,
+        "title": "\uacf5\ubd80\uc640 \uc77c"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "\uc9d0",
+            "name": "\uc81c\uc784\uc2a4 \uc2a4\ubbf8\uc2a4",
+            "dateOfBirth": "1999-02-15"
+        },
+        {
+            "id": 2,
+            "nickName": "\uc0ac\ub77c",
+            "name": "\uc0ac\ub77c \uc874\uc2a8",
+            "dateOfBirth": "1998-06-03"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

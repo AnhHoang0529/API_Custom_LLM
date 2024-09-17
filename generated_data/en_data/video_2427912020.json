@@ -1,0 +1,79 @@
+{
+    "id": "2427912020",
+    "md5": "a4e6f8de23f456789abcdefg",
+    "extension": "mp4",
+    "size": 15000000,
+    "height": 720,
+    "width": 1280,
+    "duration": 175.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "study_and_work.mp4",
+    "desc": "A video about studying and working effectively",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:00",
+                "content": "Exploring effective study techniques, such as the Pomodoro Technique",
+                "speaker": "John"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:10:00",
+                "content": "The importance of time management, setting priorities, and using a planner or calendar",
+                "speaker": "Sara"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:30",
+                "end_time": "00:16:00",
+                "content": "Tips for maximizing productivity during work hours, such as minimizing distractions and taking breaks",
+                "speaker": "Mark"
+            },
+            {
+                "order": 4,
+                "start_time": "00:16:30",
+                "end_time": "00:17:45",
+                "content": "Recap of the main takeaways and a call to action for implementing these techniques",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video discusses study techniques, time management, productivity, and provides actionable tips for effective studying and working."
+    },
+    "category": {
+        "id": 87,
+        "title": "Education"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "John",
+            "name": "John Smith",
+            "dateOfBirth": "1985-05-21"
+        },
+        {
+            "id": 124,
+            "nickName": "Sara",
+            "name": "Sara Johnson",
+            "dateOfBirth": "1990-03-15"
+        },
+        {
+            "id": 125,
+            "nickName": "Mark",
+            "name": "Mark Taylor",
+            "dateOfBirth": "1988-10-20"
+        },
+        {
+            "id": 126,
+            "nickName": "Narrator",
+            "name": "",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

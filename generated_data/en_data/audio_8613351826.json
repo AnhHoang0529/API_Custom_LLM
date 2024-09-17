@@ -1,0 +1,61 @@
+{
+    "id": "8613351826",
+    "md5": "4c1d983eb70f983b17c56a107c087e36",
+    "extension": "mp3",
+    "size": 1317080,
+    "height": "",
+    "width": "",
+    "duration": 216.8,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "baseball_game_2022-06-15.mp3",
+    "desc": "Audio recording of a baseball game from June 15, 2022",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:15",
+                "content": "The announcer introduces the teams and explains the rules for the game.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:16",
+                "end_time": "00:09:45",
+                "content": "The first inning begins with both teams taking turns batting and fielding.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:09:46",
+                "end_time": "00:18:30",
+                "content": "A series of strikes and balls occurs, leading to the first out.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:18:31",
+                "end_time": "00:22:00",
+                "content": "The second inning progresses with more action, including a home run by one team.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 5,
+                "start_time": "00:22:01",
+                "end_time": "00:27:15",
+                "content": "The third inning ends with the game being tied, setting up an exciting finish.",
+                "speaker": "Announcer"
+            }
+        ],
+        "sttSummary": "This recording captures an entire baseball game featuring various action, rules, and commentary from the announcer."
+    },
+    "category": {
+        "id": 12,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

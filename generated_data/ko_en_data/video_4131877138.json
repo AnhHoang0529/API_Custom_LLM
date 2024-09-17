@@ -1,0 +1,64 @@
+{
+    "id": "4131877138",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 192,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Majestic_Landscapes.mp4",
+    "desc": "Enjoy the breathtaking beauty of some of the world's most stunning landscapes",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:00",
+                "content": "Welcome to our journey through some of the most beautiful landscapes on the planet.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:05",
+                "end_time": "00:03:45",
+                "content": "First, we visit the Grand Canyon, a natural wonder and a testament to the power of nature. Its vastness and intricacy leave us in awe.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:50",
+                "end_time": "00:07:15",
+                "content": "Next, we explore the African savanna, home to an abundance of wildlife and breathtaking sunsets. The vibrant colors and the sounds of nature create a truly unforgettable experience.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:20",
+                "end_time": "00:09:50",
+                "content": "Our journey continues with the majestic Alps, where the snow-capped mountains and the crystal-clear lakes inspire a sense of peace and tranquility.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:55",
+                "end_time": "00:11:55",
+                "content": "Lastly, we visit the Icelandic landscapes, a unique blend of volcanic formations, hot springs, and waterfalls. This land of fire and ice showcases the raw power and beauty of nature.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Our video takes you on a journey through some of the most beautiful landscapes on the planet; the Grand Canyon, the African savanna, the Alps, and Iceland."
+    },
+    "category": {
+        "id": 345,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 31636925
+    }
+}

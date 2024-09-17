@@ -1,0 +1,39 @@
+{
+    "id": "4622256271",
+    "md5": "a8e1c3b6c97e3b82a75e5543b1c10113",
+    "extension": "jpeg",
+    "size": 74857,
+    "height": 1080,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "scene_from_the_movie_the_godfather.jpeg",
+    "desc": "Scene from the movie The Godfather featuring Marlon Brando as Don Corleone.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Scene from the movie The Godfather",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:10",
+                "content": "Featuring Marlon Brando as Don Corleone",
+                "speaker": ""
+            }
+        ],
+        "id": 44394
+    },
+    "category": {
+        "id": 640,
+        "title": "Movies"
+    },
+    "people": [],
+    "organizations": []
+}

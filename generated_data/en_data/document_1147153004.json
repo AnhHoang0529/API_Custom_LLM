@@ -1,0 +1,40 @@
+{
+    "id": "1147153004",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cityscape_research.pdf",
+    "desc": "A comprehensive research paper on urban cityscapes.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Exploring the various aspects of urban cityscapes: architecture, transportation, and population density.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "Let's begin with a discussion on urban architecture.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 2,
+        "title": "Urban Research"
+    },
+    "people": [],
+    "textData": "Urban cityscapes are a fascinating blend of man-made structures and natural elements. They offer a unique perspective on how human civilization has evolved over the centuries. In this research paper, we will explore the various aspects of urban cityscapes: architecture, transportation, and population density. Let's begin with a discussion on urban architecture. Urban architecture is a creative blend of form and function. It reflects the culture, values, and aesthetics of a society. From ancient Roman aqueducts to modern skyscrapers, urban architecture has evolved to meet the changing needs of the population. It is not just about constructing buildings; it is about creating spaces that enhance the quality of life. In the next section, we will delve deeper into the role of transportation in urban cityscapes. Stay tuned!",
+    "organizations": []
+}

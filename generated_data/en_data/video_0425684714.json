@@ -1,0 +1,61 @@
+{
+    "id": "0425684714",
+    "md5": "8c5d9e72d16b71e1137fd11b1b3632a2",
+    "extension": "mp4",
+    "size": 15791873,
+    "height": 1080,
+    "width": 1920,
+    "duration": 208.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp4",
+    "desc": "This video showcases breathtaking landscapes from around the world. From the vast deserts of the Middle East to the lush rainforests of South America, the video captures the raw beauty and power of nature.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:15",
+                "content": "The video opens with a panoramic view of the Grand Canyon in Arizona. The vast expanse of the canyon stretches endlessly, its red and orange walls shimmering in the sunlight.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:15",
+                "end_time": "00:07:00",
+                "content": "Next, we travel to the Sahara Desert in Africa, where the golden sand dunes seem to stretch on forever. Camels roam the desert, their humps swaying gently in the wind.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:00",
+                "end_time": "00:10:30",
+                "content": "Our journey continues to the Amazon Rainforest in South America. The lush greenery of the rainforest is a stark contrast to the arid desert. Birds chirp and monkeys swing from tree to tree, creating a symphony of sounds.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:30",
+                "end_time": "00:13:45",
+                "content": "Finally, we visit the majestic Aurora Borealis, or Northern Lights, in the Arctic Circle. The swirling colors of the lights dance across the dark sky, creating an ethereal and otherworldly sight.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:45",
+                "end_time": "00:16:30",
+                "content": "The video concludes with a montage of various landscapes from around the world, set to an uplifting soundtrack. The beauty and diversity of nature are truly awe-inspiring.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "The video explores the natural wonders of the world, from the Grand Canyon to the Amazon Rainforest and the Northern Lights. The narrator describes each landscape in detail, allowing viewers to experience their breathtaking beauty."
+    },
+    "category": {
+        "id": 5,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

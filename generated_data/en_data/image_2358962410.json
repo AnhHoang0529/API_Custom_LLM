@@ -1,0 +1,39 @@
+{
+    "id": "2358962410",
+    "md5": "f73b93c342b157b10176e6fa8f8d070b",
+    "extension": "jpg",
+    "size": 121345,
+    "height": 1080,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "movie.jpg",
+    "desc": "A scene from a popular 2010s movie, featuring two main characters sitting in a coffee shop discussing a plot point.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "Two main characters sit in a coffee shop.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "They discuss a plot point.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 234567
+    },
+    "category": {
+        "id": 456,
+        "title": "Movie Scenes"
+    },
+    "people": [],
+    "organizations": []
+}

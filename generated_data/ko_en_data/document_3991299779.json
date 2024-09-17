@@ -1,0 +1,47 @@
+{
+    "id": "3991299779",
+    "md5": "b61665dab6b3e9d611e4f0b162b250d7",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "\ubb38\ud654\uc801_\ucd95\ud558_\uc804\ud1b5.pdf",
+    "desc": "\uc774 \ubb38\uc11c\uc5d0\uc11c\ub294 \uc804 \uc138\uacc4\uc758 \ub2e4\uc591\ud55c \ubb38\ud654\uc801 \ucd95\uc81c\uc640 \uc804\ud1b5\uc744 \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "\uc804 \uc138\uacc4\uc758 \ubb38\ud654\uc801 \ucd95\uc81c\uc640 \uc804\ud1b5\uc5d0 \ub300\ud55c \ud504\ub808\uc820\ud14c\uc774\uc158\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc2a4\ud53c\ucee41"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "\uba3c\uc800, \uc778\ub3c4\uc758 \ube5b\uc758 \ucd95\uc81c\uc778 \ub514\uc648\ub9ac\ubd80\ud130 \uc2dc\uc791\ud574 \ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc2a4\ud53c\ucee41"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "\ubb38\ud654 \ucd95\uc81c"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "\ub0a8\uc790",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1990-01-01"
+        }
+    ],
+    "textData": "\ubb38\ud654\uc801 \ucd95\uc81c\uc640 \uc804\ud1b5\uc740 \uc6b0\ub9ac \uc0b6\uc758 \ud544\uc218\uc801\uc778 \ubd80\ubd84\uc73c\ub85c, \uc778\uac04 \uc720\uc0b0\uc758 \ud48d\ubd80\ud568\uacfc \ub2e4\uc591\uc131\uc744 \ubc18\uc601\ud569\ub2c8\ub2e4. \uc774 \ubb38\uc11c\uc5d0\uc11c\ub294 \uc778\ub3c4\uc758 \ube5b\uc758 \ucd95\uc81c\uc778 \ub514\uc648\ub9ac\ubd80\ud130 \uc18c\uc758 \ud574\uc778 \uc911\uad6d \uc124\ub0a0\uae4c\uc9c0 \uc804 \uc138\uacc4\uc758 \ub2e4\uc591\ud55c \ubb38\ud654\uc801 \ucd95\uc81c\ub97c \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
+    "organizations": []
+}

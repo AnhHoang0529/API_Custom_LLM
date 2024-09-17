@@ -1,0 +1,47 @@
+{
+    "id": "1888681762",
+    "md5": "921351f1f41b2843e9bb5e652932acfa",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "wild_animals_document.pdf",
+    "desc": "An insightful report about various species of animals in the wild and their habitats.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:23",
+                "content": "This report brings you closer to understanding the diverse range of animals found in the wild.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:24",
+                "end_time": "00:00:44",
+                "content": "Let's begin with the majestic elephant and its habitat.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:45",
+                "end_time": "00:00:59",
+                "content": "Did you know that elephants are the largest living animals on earth?",
+                "speaker": ""
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 5,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "textData": "The diverse and fascinating world of wildlife is a subject that fascinates people the world over. This comprehensive report explores various aspects of wildlife and their habitats. Let us begin our journey with the majestic elephant, the largest living animal on earth. Did you know that elephants have an excellent memory and can remember other elephants over long periods? Elephants are also known for their intelligence and social nature. They live in large herds and have a complex social structure. The African elephant is the largest of the two species of elephants, and it is found mainly in sub-Saharan Africa. The Asian elephant, on the other hand, is found in India, Sri Lanka, and some parts of Southeast Asia. Elephants are herbivores and consume up to 150 kg of food daily. They have a unique way of using their trunk as a tool for various purposes, such as drinking water, lifting objects, and even playing. The conservation of elephants is a pressing issue, as they face numerous threats such as poaching and habitat loss. Let us learn more about these magnificent creatures and the steps being taken to protect them.",
+    "organizations": []
+}

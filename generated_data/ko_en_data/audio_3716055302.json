@@ -1,0 +1,64 @@
+{
+    "id": "3716055302",
+    "md5": "a4d4f8e294d346c11612e15c6d0c6a7b",
+    "extension": "mp3",
+    "size": 4767421,
+    "height": "",
+    "width": "",
+    "duration": 273.2,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp3",
+    "desc": "Experience the breathtaking beauty of majestic landscapes through this immersive audio journey.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:20",
+                "end_time": "00:01:53",
+                "content": "The tranquil sound of water flowing through a crystal-clear river can be heard.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:15",
+                "content": "Birds chirp and sing in harmony, creating a beautiful melody.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:15",
+                "content": "The rustling of leaves in the gentle breeze adds to the serene atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:06:45",
+                "content": "The sun sets, casting a warm, golden glow over the landscape, signaling the end of the day.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:00",
+                "end_time": "00:08:30",
+                "content": "The audio fades out, leaving you with a sense of peace and tranquility.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Enjoy the sounds of a tranquil river, chirping birds, rustling leaves, and a sunset in this immersive audio journey."
+    },
+    "category": {
+        "id": 2,
+        "title": "Nature Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 73245
+    }
+}

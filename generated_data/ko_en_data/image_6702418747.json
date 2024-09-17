@@ -1,0 +1,46 @@
+{
+    "id": "6702418747",
+    "md5": "b963f7c099817d4d1e72e4922074e8df",
+    "extension": "jpeg",
+    "size": 126351,
+    "height": 960,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\uc11c\uc6b8\uc5d0\uc11c\uc758 \uc2dc\uc704.jpeg",
+    "desc": "\uc11c\uc6b8, \ud55c\uad6d\uc5d0\uc11c\uc758 \uc2dc\uc704",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "\uc218\ucc9c \uba85\uc758 \uc2dc\uc704\ub300\uac00 \uc11c\uc6b8 \uac70\ub9ac\ub97c \ud589\uc9c4\ud588\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:45",
+                "content": "\uc2dc\uc704\uc790\ub4e4\uc740 \ubbfc\uc8fc\uc801 \uac1c\ud601\uacfc \ubd80\ud328 \uc885\uc2dd\uc744 \uc694\uad6c\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:45",
+                "end_time": "00:01:00",
+                "content": "\uacbd\ucc30\uacfc\uc758 \ucda9\ub3cc\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \uc2dc\uc704\ub294 \ud3c9\ud654\ub86d\uac8c \uc9c4\ud589\ub410\ub2e4.",
+                "speaker": ""
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "\uc815\uce58"
+    },
+    "people": [],
+    "organizations": []
+}

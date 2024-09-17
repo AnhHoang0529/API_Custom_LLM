@@ -1,0 +1,46 @@
+{
+    "id": "5736685841",
+    "md5": "39c8b02704b35e77b7691d7c0b19d4e2",
+    "extension": "jpeg",
+    "size": 32812,
+    "height": 1167,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\uc81c\ub2c8-\uae40.jpeg",
+    "desc": "YG\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc18c\uc18d 4\uc778\uc870 \uac78\uadf8\ub8f9 \ube14\ub799\ud551\ud06c\uc758 \uba64\ubc84\uc774\uc790 \ub300\ud55c\ubbfc\uad6d \uac00\uc218 \uacb8 \ubc30\uc6b0",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "\uc81c\ub2c8\ud0b4\uc740 1996\ub144\uc0dd\uc758 \ub300\ud55c\ubbfc\uad6d\uc758 \uac00\uc218\uc774\uc790 \ubc30\uc6b0\uc774\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:31",
+                "end_time": "00:00:45",
+                "content": "\uadf8\ub140\ub294 YG \uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc18c\uc18d\uc758 4\uc778\uc870 \uac78\uadf8\ub8f9 \ube14\ub799\ud551\ud06c\uc758 \uba64\ubc84\uc774\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 156840
+    },
+    "category": {
+        "id": 23,
+        "title": "\uc720\uba85\uc778"
+    },
+    "people": [
+        {
+            "id": 3826,
+            "nickName": "\uc81c\ub2c8",
+            "name": "\uae40\uc81c\ub2c8",
+            "dateOfBirth": "1996-01-16"
+        }
+    ],
+    "organizations": []
+}

@@ -1,0 +1,64 @@
+{
+    "id": "2685867204",
+    "md5": "436ef2280c200063d3f14b7e83a814a6",
+    "extension": "mp3",
+    "size": 7348137,
+    "height": "",
+    "width": "",
+    "duration": 225.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "gourmet-dishes-and-culinary-arts.mp3",
+    "desc": "This audio file discusses the intricacies of gourmet dishes and culinary arts, providing insights into various ingredients, cooking techniques, and their cultural significance.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:03:30",
+                "content": "Today, we'll be exploring the world of gourmet dishes and culinary arts, starting with a discussion on ingredients. For instance, truffles, a highly prized ingredient, are known for their distinct aroma and flavor, which can elevate even the simplest dishes.",
+                "speaker": "Chef Alex"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:06:00",
+                "content": "Next, let's delve into cooking techniques. Sous-vide, a modern culinary method, involves cooking food in a vacuum-sealed bag in a temperature-controlled water bath, resulting in consistent, evenly cooked meals.",
+                "speaker": "Chef Emily"
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:00",
+                "end_time": "00:08:30",
+                "content": "Finally, let's discuss the cultural significance of culinary arts, such as how various cuisines have influenced each other and become fused, creating unique and delicious dishes.",
+                "speaker": "Food Critic John"
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:30",
+                "end_time": "00:11:00",
+                "content": "For instance, Italian cuisine has been influenced by the Greeks, Phoenicians, Arabs, and Normans, resulting in an incredible diversity of flavors. Similarly, French cuisine has had a profound impact on the culinary world, with dishes like coq au vin and bouillabaisse gaining international fame.",
+                "speaker": "Chef Sarah"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:12:30",
+                "content": "To wrap up, gourmet dishes and culinary arts are a testament to the richness and diversity of human culture, showcasing the creativity, innovation, and passion that comes with sharing a meal with others.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This audio file explores the world of gourmet dishes and culinary arts, discussing ingredients, cooking techniques, and their cultural significance. Chefs Alex, Emily, John, and Sarah share their knowledge on truffles, sous-vide cooking, and the influence of various cuisines on each other."
+    },
+    "category": {
+        "id": 24,
+        "title": "Gourmet Dishes and Culinary Arts"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 97562
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "6702418747",
+    "md5": "b963f7c099817d4d1e72e4922074e8df",
+    "extension": "jpeg",
+    "size": 126351,
+    "height": 960,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "protest-in-seoul.jpeg",
+    "desc": "Protest in Seoul, South Korea",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Thousands of protesters marched through the streets of Seoul",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:45",
+                "content": "The protesters called for democratic reforms and an end to corruption",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:45",
+                "end_time": "00:01:00",
+                "content": "The demonstration remained peaceful despite clashes with police",
+                "speaker": ""
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": []
+}

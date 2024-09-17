@@ -1,0 +1,61 @@
+{
+    "id": "1477840397",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 13749353,
+    "height": 1920,
+    "width": 1080,
+    "duration": 115.4,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "urban-cityscapes.mp4",
+    "desc": "A video showcasing the vibrant and bustling urban cityscapes from around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:25",
+                "end_time": "00:01:35",
+                "content": "The hustle and bustle of the city is a sight to behold, with towering skyscrapers casting long shadows over the bustling streets. People move about their daily routines, while cars and buses fill the air with the sound of honking horns and engine roars.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:35",
+                "end_time": "00:03:15",
+                "content": "In the distance, we can see the sun setting, bathing the city in a warm, golden light. The vibrant colors of the city's murals and graffiti add to the urban landscape, creating a unique and dynamic atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:35",
+                "content": "Night falls, and the city transforms once again. The bright lights of the buildings illuminate the streets, reflecting off the wet pavement. The sounds of the city change, with the distant hum of traffic replaced by the chatter of night owls and the rhythm of jazz music.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:35",
+                "end_time": "00:07:15",
+                "content": "As we pan out, we can see the entire city sprawled out before us, a testament to human ingenuity and the power of urban planning. The lights of the buildings twinkle like stars against the night sky, creating an enchanting scene.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:15",
+                "end_time": "00:08:45",
+                "content": "The video comes to an end, leaving us with a sense of awe and wonder at the beauty and complexity of urban cityscapes.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video captures the essence of urban cityscapes, from the hustle and bustle of the day to the tranquil beauty of the night."
+    },
+    "category": {
+        "id": 17,
+        "title": "Urban"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

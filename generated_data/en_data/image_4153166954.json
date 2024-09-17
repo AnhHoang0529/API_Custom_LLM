@@ -1,0 +1,27 @@
+{
+    "id": "4153166954",
+    "md5": "51d97c5b63e81486d97a9f92723f8c1a",
+    "extension": "jpeg",
+    "size": 65346,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "dia-de-los-muertos-2021.jpeg",
+    "desc": "A colorful display of sugar skulls, marigolds, and candles during Dia de los Muertos, a Mexican holiday to remember and celebrate the lives of deceased loved ones.",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "Cultural Celebrations and Traditions"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 12,
+            "name": "Mexico",
+            "otherName": ""
+        }
+    ]
+}

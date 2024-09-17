@@ -1,0 +1,61 @@
+{
+    "id": "4889080508",
+    "md5": "57a11d7e8a8d75d4f4ba18b6d290f774",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 300.0,
+    "density": 300,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Politics_events_2022.mp4",
+    "desc": "Highlights of significant political events from around the world, including speeches, protests, and elections.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "Saudi Arabia's Crown Prince Mohammad Bin Salman delivers a statement at the G20 Summit, addressing energy transition, global food security, and the humanitarian situation in Yemen.",
+                "speaker": "Mohammad Bin Salman"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:15",
+                "content": "Protesters in Iran demonstrate against the country's restrictive dress codes and call for women's rights. Iranian authorities arrest hundreds and use force to disperse the crowds.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "French President Emmanuel Macron speaks at a press conference about the EU's response to ongoing tensions with Russia. He discusses the role of diplomacy and economic sanctions.",
+                "speaker": "Emmanuel Macron"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:08:30",
+                "content": "In the United States, the midterm elections result in a divided Congress, with the Republicans retaking control of the House of Representatives and the Democrats maintaining their majority in the Senate.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:45",
+                "end_time": "00:10:00",
+                "content": "A summary of the key political events that occurred during the reporting period, including the election of Colombia's new president, Gustavo Petro, and the ongoing conflict in Ukraine.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video covers significant political events from around the world, including statements from leaders at the G20 Summit, protests in Iran, and the midterm elections in the United States."
+    },
+    "category": {
+        "id": 3,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

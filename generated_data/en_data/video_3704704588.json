@@ -1,0 +1,80 @@
+{
+    "id": "3704704588",
+    "md5": "61b4815a8d1d46b251e5d6e11d4b2503",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 1080,
+    "width": 1920,
+    "duration": 185.5,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "football_match_highlights.mp4",
+    "desc": "Highlights of the latest football match between Manchester United and Arsenal",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The game kicked off with both teams playing defensively. Manchester United had a slight edge in possession, but neither side managed to create a clear-cut chance.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:30",
+                "content": "However, just before halftime, Manchester United scored from a well-worked corner kick, taking a 1-0 lead. The second half saw Arsenal stepping up their game, leading to an intense back-and-forth battle.",
+                "speaker": "Jane Doe"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Arsenal managed to level the scores with a swift counter-attack, showcasing some beautiful teamwork. With only a few minutes left on the clock, both teams put in a strong effort to secure a win.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:35",
+                "end_time": "00:09:00",
+                "content": "The game ended in a 1-1 draw, with neither side able to secure the crucial three points. Fans and analysts alike agreed that it was a thrilling match and a testament to the skill and determination of both teams.",
+                "speaker": "Commentator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:05",
+                "end_time": "00:11:00",
+                "content": "In the post-match interview, players from both teams expressed their satisfaction with the performance and their excitement for the upcoming fixtures. As the football season continues, fans eagerly anticipate the next round of matches.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video features highlights from a football match between Manchester United and Arsenal, with commentary and analysis from various speakers. The game resulted in a 1-1 draw, with both teams putting in strong performances and creating exciting moments throughout."
+    },
+    "category": {
+        "id": 5,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "JD",
+            "name": "John Doe",
+            "dateOfBirth": "1980-07-10"
+        },
+        {
+            "id": 2345,
+            "nickName": "Jane Doe",
+            "name": "Jane Doe",
+            "dateOfBirth": "1985-03-20"
+        },
+        {
+            "id": 3456,
+            "nickName": "Commentator",
+            "name": "",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

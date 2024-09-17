@@ -1,0 +1,64 @@
+{
+    "id": "9687201271",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 38899011,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 300,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Mumbai-Diwali-Celebrations.mp4",
+    "desc": "A visual exploration of Diwali celebrations in Mumbai, India, showcasing the vibrant decorations, illuminated temples, and joyous festivities.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Diwali, the Hindu festival of lights, is celebrated in India and other countries with great enthusiasm. The festival marks the victory of light over darkness and good over evil.",
+                "speaker": "Anchorman"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "The celebrations begin with cleaning and decorating homes and temples. People wear new clothes and prepare traditional delicacies to offer to the deities and share with their loved ones.",
+                "speaker": "Expert"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "The most iconic Diwali decoration is the 'Rangoli', a colorful design made using flowers, colored powders, and rice. It is believed that Goddess Lakshmi visits homes adorned with Rangoli.",
+                "speaker": "Expert"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Fireworks and crackers are an integral part of Diwali celebrations. They signify the victory of Lord Rama over the demon king Ravana, bringing joy and happiness to people.",
+                "speaker": "Anchorman"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:08:45",
+                "content": "As the sun sets, people gather around temples and light diyas (oil lamps) and candles. They offer prayers to the deities for blessings and prosperity.",
+                "speaker": "Expert"
+            }
+        ],
+        "sttSummary": "Diwali, the Hindu festival of lights, is celebrated with cleaning, decorating, new clothes, traditional delicacies, Rangoli, fireworks, and prayers to the deities for blessings and prosperity."
+    },
+    "category": {
+        "id": 10,
+        "title": "India"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 98765
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "5742333330",
+    "md5": "4d96d161b23c3b7e73d21041417a98b3",
+    "extension": "mp3",
+    "size": 8556232,
+    "height": "",
+    "width": "",
+    "duration": 283.1,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Soccer_Game_2023_01_06.mp3",
+    "desc": "Coverage of the soccer game between Real Madrid and Barcelona on January 6, 2023.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:15",
+                "content": "Welcome to the soccer match between Real Madrid and Barcelona. Both teams are well-known for their impressive playstyle and fierce competition. The game is set to take place at the iconic Santiago Bernabeu stadium in Madrid, Spain. The anticipation is palpable, as fans from all corners of the world gather to witness this legendary encounter.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:00",
+                "content": "The referee signals the start of the game, and the players take their positions on the field. Fans roar with excitement as the ball is kicked off, marking the beginning of an intense 90-minute battle for supremacy. Both teams display impressive footwork and passing skills, creating chances for goal attempts.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:00",
+                "end_time": "00:07:30",
+                "content": "The first half of the game progresses, with Real Madrid maintaining a slight edge over the competition. Barcelona manages to keep the scoreline close, with some impressive saves by their goalkeeper. Fans and commentators alike are on the edge of their seats, as the tension builds towards the halftime break.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:11:00",
+                "content": "During the halftime break, both teams strategize and prepare for the second half of the game. Fans and analysts discuss the strengths and weaknesses of each team, speculating about the outcome of the game. The second half begins, and the intensity ramps up, with both teams playing aggressively and fighting for every inch of the field.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:18:45",
+                "content": "The game concludes with an intense final few minutes, with both teams pushing for a decisive goal. Barcelona manages to sneak one past Real Madrid's defense, securing a narrow victory in a thrilling game. Fans erupt in celebration, while the losing team's supporters show their disappointment. The commentators reflect on the teams' performances, analyzing the key moments of the match and discussing what the result means for the league standings.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The soccer match between Real Madrid and Barcelona at the Santiago Bernabeu stadium in Madrid, Spain, is a highly anticipated event. The game is intense, with both teams demonstrating impressive footwork and passing skills. The first half sees Real Madrid maintaining a slight edge, while the second half is a thrilling battle for supremacy. Barcelona manages to secure a narrow victory in the final minutes of the game."
+    },
+    "category": {
+        "id": 10,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 12345
+    }
+}

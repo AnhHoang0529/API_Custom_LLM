@@ -1,0 +1,39 @@
+{
+    "id": "8871475386",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "South Korean singer and actress, and member of the four-member girl group BLACKPINK under YG Entertainment",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:30",
+                "content": "South Korean singer and actress",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "and member of the four-member girl group BLACKPINK",
+                "speaker": ""
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": []
+}

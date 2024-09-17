@@ -1,0 +1,71 @@
+{
+    "id": "1550573979",
+    "md5": "9b4d96ba73c44d18b1bb1b9d413e9617",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "work_study.mp4",
+    "desc": "A video about the importance of studying and working effectively in the modern world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:20",
+                "end_time": "00:03:30",
+                "content": "Effective studying and working are essential skills for academic and professional success.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "Establishing a good study environment and setting achievable goals are important.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:06:30",
+                "content": "Time management is crucial in balancing study and work commitments.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Effective study techniques, such as active reading and note-taking, can greatly improve learning.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:00",
+                "end_time": "00:10:00",
+                "content": "Taking breaks and engaging in physical activity can help maintain focus and productivity.",
+                "speaker": "John Doe"
+            }
+        ],
+        "sttSummary": "This video explores the importance of effective studying and working, with topics covered including setting a good study environment, time management, and study techniques. Speaker John Doe shares his insights and experiences throughout the video."
+    },
+    "category": {
+        "id": 6543,
+        "title": "Education"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "JohnDoe",
+            "name": "John Doe",
+            "dateOfBirth": "1990-10-10"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 1234567890
+    }
+}

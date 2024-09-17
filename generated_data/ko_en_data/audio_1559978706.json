@@ -1,0 +1,64 @@
+{
+    "id": "1559978706",
+    "md5": "86a6a42e5d55459283851b1f0c6405cd",
+    "extension": "mp3",
+    "size": 10184586,
+    "height": "",
+    "width": "",
+    "duration": 188.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Cityscape_Soundscape.mp3",
+    "desc": "This audio recording captures the ambient sounds of a bustling urban cityscape, with the sounds of traffic, trains, people, and sirens.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:15",
+                "content": "A busy urban cityscape surrounds us. We can hear cars honking, engines revving, and tires screeching. The sound of trains passing by adds to the cacophony. People are talking and laughing in the background. A siren can be heard in the distance. This is a snapshot of city life.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:05:30",
+                "content": "In the foreground, people can be heard walking and talking on the streets. The sound of trains continues to dominate the background. Occasionally, a car alarm goes off. A street vendor can be heard selling fruits. The sounds of children playing and birds chirping add to the rich tapestry of urban sounds.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:08:45",
+                "content": "A bus can be heard approaching, with its engine rumbling and the sound of its brakes screeching as it comes to a stop. People continue to talk and laugh, and the sound of car horns can still be heard in the background. The sound of a train whistle adds to the symphony of urban sounds.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:45",
+                "end_time": "00:11:00",
+                "content": "The sound of footsteps on the sidewalk can be heard, along with the chatter of people in the background. The sound of a helicopter flying overhead adds to the mix. The cacophony of city sounds continues unabated, providing a vivid sonic portrait of urban life.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:18:50",
+                "content": "The sound of cars and trains continues to dominate the soundscape. People can still be heard talking and laughing in the background. The occasional siren adds to the mix, along with the sound of a plane flying overhead. The urban soundscape is a complex and ever-changing tapestry.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio recording captures the ambient sounds of a bustling urban cityscape, with the sounds of traffic, trains, people, and sirens."
+    },
+    "category": {
+        "id": 88,
+        "title": "Urban Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 31527
+    }
+}

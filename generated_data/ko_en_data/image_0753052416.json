@@ -1,0 +1,39 @@
+{
+    "id": "0753052416",
+    "md5": "0304873764d3e1841b01b4f2b89d4a5a",
+    "extension": "jpeg",
+    "size": 135223,
+    "height": 1080,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "soccer_game.jpeg",
+    "desc": "A picture of a soccer match with fans cheering in the background.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "A soccer match is in progress.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:10",
+                "content": "Fans are cheering enthusiastically.",
+                "speaker": ""
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": []
+}

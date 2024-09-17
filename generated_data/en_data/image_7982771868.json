@@ -1,0 +1,34 @@
+{
+    "id": "7982771868",
+    "md5": "2c9247f63e1a9833b3e1d10f0c5e2c7a",
+    "extension": "jpg",
+    "size": 219266,
+    "height": 1024,
+    "width": 1536,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Diwali_Celebration_India.jpg",
+    "desc": "A colorful scene of Diwali celebration in India, with people lighting up diyas, decorating their homes with rangoli and bursting firecrackers to mark the festival of lights.",
+    "narrationStt": "",
+    "category": {
+        "id": 22,
+        "title": "Cultural Celebrations"
+    },
+    "people": [
+        {
+            "id": 26356,
+            "nickName": "Ajit",
+            "name": "Ajit Singh",
+            "dateOfBirth": "1992-04-12"
+        },
+        {
+            "id": 26357,
+            "nickName": "Rani",
+            "name": "Rani Kaur",
+            "dateOfBirth": "1988-01-20"
+        }
+    ],
+    "organizations": []
+}

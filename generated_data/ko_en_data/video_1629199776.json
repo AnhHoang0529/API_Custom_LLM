@@ -1,0 +1,68 @@
+{
+    "id": "1629199776",
+    "md5": "6c8a72212b631f4f06fcc62a35f3627d",
+    "extension": "mp4",
+    "size": 1584711,
+    "height": 720,
+    "width": 1280,
+    "duration": 230.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Political_Events_2022.mp4",
+    "desc": "A compilation of major political events from the year 2022",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "The United States President, Joe Biden, delivers his annual State of the Union address.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:06:15",
+                "content": "During the address, President Biden discusses the economy, foreign policy, and climate change initiatives.",
+                "speaker": "Joe Biden"
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:45",
+                "end_time": "00:15:30",
+                "content": "Members of Congress respond to the president's address with their reactions and comments.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:15:45",
+                "end_time": "00:19:30",
+                "content": "The President addresses the ongoing COVID-19 pandemic and announces new measures to combat it.",
+                "speaker": "Joe Biden"
+            },
+            {
+                "order": 5,
+                "start_time": "00:19:45",
+                "end_time": "00:23:00",
+                "content": "The event concludes with a question and answer session between the President and the press.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video showcases the 2022 State of the Union address by US President Joe Biden, including his discussions on the economy, foreign policy, climate change, and the COVID-19 pandemic. Members of Congress respond, and the event culminates in a question and answer session with the press."
+    },
+    "category": {
+        "id": 12,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 1120,
+            "nickName": "Joe",
+            "name": "Joe Biden",
+            "dateOfBirth": "November 20, 1942"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

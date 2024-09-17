@@ -1,0 +1,92 @@
+{
+    "id": "0663368268",
+    "md5": "5e1b878a611d6da2859b1f6fb607a614",
+    "extension": "mp4",
+    "size": 54634567,
+    "height": 720,
+    "width": 1280,
+    "duration": 210.3,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "\uc815\uce58_\uc774\ubca4\ud2b8_A_2023.mp4",
+    "desc": "\uc774 \uc601\uc0c1\uc740 \uae00\ub85c\ubc8c \uc815\uc0c1\ud68c\ub2f4\uc5d0\uc11c \ub2e4\uc591\ud55c \uc138\uacc4 \uc9c0\ub3c4\uc790\ub4e4\uc758 \uc815\uce58 \uc5f0\uc124\uc744 \ub2f4\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "\ubbf8\uad6d\uc758 \uc874 \ub3c4 \ub300\ud1b5\ub839\uc774 \uad6d\uac00 \uac04 \uc678\uad50\uc640 \ud611\ub825\uc5d0 \ub300\ud574 \uc5f0\uc124\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc874 \ub3c4"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:03:30",
+                "content": "\ub3c5\uc77c\uc758 \uc559\uac94\ub77c \uba54\ub974\ucf08 \ucd1d\ub9ac\ub294 \ud3c9\ud654\uc640 \uc548\uc815\uc744 \uc720\uc9c0\ud558\ub294 \ub370 \uc788\uc5b4 \uad6d\uc81c \uc870\uc57d\uacfc \uc57d\uc18d\uc758 \uc911\uc694\uc131\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc559\uac94\ub77c \uba54\ub974\ucf08"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:25",
+                "content": "\uc778\ub3c4\uc758 \ub098\ub80c\ub4dc\ub77c \ubaa8\ub514 \ub300\ud1b5\ub839\uc774 \uae30\ud6c4 \ubcc0\ud654\uc640 \uc774\uac83\uc774 \uc138\uacc4\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5\uc5d0 \ub300\ud574 \ub17c\uc758\ud569\ub2c8\ub2e4.",
+                "speaker": "\ub098\ub80c\ub4dc\ub77c \ubaa8\ub514"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:25",
+                "end_time": "00:07:10",
+                "content": "\uc601\uad6d \ucd1d\ub9ac \ubcf4\ub9ac\uc2a4 \uc874\uc2a8\uc774 \ubbf8\ub798\ub97c \ud615\uc131\ud558\ub294 \ub370 \uc788\uc5b4\uc11c \uae30\uc220\uc758 \uc5ed\ud560\uc5d0 \ub300\ud574 \uc5f0\uc124\ud569\ub2c8\ub2e4.",
+                "speaker": "\ubcf4\ub9ac\uc2a4 \uc874\uc2a8"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:10",
+                "end_time": "00:08:55",
+                "content": "\uc911\uad6d\uc758 \uc2dc\uc9c4\ud551 \uc8fc\uc11d\uc774 \uc138\uacc4 \uacbd\uc81c \uc131\uc7a5\uacfc \uc9c0\uc18d \uac00\ub2a5\ud55c \uac1c\ubc1c\uc5d0 \ub300\ud55c \uc790\uc2e0\uc758 \uad00\uc810\uc744 \uacf5\uc720\ud569\ub2c8\ub2e4.",
+                "speaker": "\uc2dc\uc9c4\ud551"
+            }
+        ],
+        "sttSummary": "\uc774 \uc601\uc0c1\uc740 \uc874 \ub3c4 \ub300\ud1b5\ub839, \uc559\uac94\ub77c \uba54\ub974\ucf08 \ucd1d\ub9ac, \ub098\ub80c\ub4dc\ub77c \ubaa8\ub514 \ub300\ud1b5\ub839, \ubcf4\ub9ac\uc2a4 \uc874\uc2a8 \ucd1d\ub9ac, \uc2dc\uc9c4\ud551 \uad6d\uac00\uc8fc\uc11d\uc744 \ud3ec\ud568\ud55c \uc138\uacc4 \uac01\uad6d\uc758 \uc9c0\ub3c4\uc790\ub4e4\uc774 \uae00\ub85c\ubc8c \uc815\uc0c1\ud68c\uc758\uc5d0\uc11c \uc5f0\uc124\ud558\ub294 \ubaa8\uc2b5\uc744 \ub2f4\uace0 \uc788\uc73c\uba70, \uc678\uad50, \uad6d\uc81c \uc870\uc57d, \uae30\ud6c4 \ubcc0\ud654, \uae30\uc220, \uc138\uacc4 \uacbd\uc81c \uc131\uc7a5 \ub4f1\uc5d0 \ub300\ud574 \ub17c\uc758\ud569\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 33,
+        "title": "\uc815\uce58"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "\ub0a8\uc790",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1975-02-02"
+        },
+        {
+            "id": 7894,
+            "nickName": "\uc564\uc824\ub77c",
+            "name": "\uc559\uac94\ub77c \uba54\ub974\ucf08",
+            "dateOfBirth": "1954-07-17"
+        },
+        {
+            "id": 1235,
+            "nickName": "\ub098\ub80c\ub4dc\ub77c",
+            "name": "\ub098\ub80c\ub4dc\ub77c \ubaa8\ub514",
+            "dateOfBirth": "1975-09-17"
+        },
+        {
+            "id": 5678,
+            "nickName": "\ubcf4\ub9ac\uc2a4",
+            "name": "\ubcf4\ub9ac\uc2a4 \uc874\uc2a8",
+            "dateOfBirth": "1964-06-19"
+        },
+        {
+            "id": 9012,
+            "nickName": "\uc2dc",
+            "name": "\uc2dc\uc9c4\ud551",
+            "dateOfBirth": "1953-06-15"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

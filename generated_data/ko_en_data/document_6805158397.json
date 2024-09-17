@@ -1,0 +1,33 @@
+{
+    "id": "6805158397",
+    "md5": "a1b2c3d4e5f6g7h8i9j0",
+    "extension": "jpg",
+    "size": 123456,
+    "height": 1920,
+    "width": 1080,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "\uc7a5\uc5c4\ud55c \uc0b0.jpg",
+    "desc": "\ub208 \ub36e\uc778 \ubd09\uc6b0\ub9ac\uc640 \ubb34\uc131\ud55c \ud478\ub978 \ub098\ubb34\uac00 \uc788\ub294 \uc6c5\uc7a5\ud55c \uc0b0\uc758 \uc774\ubbf8\uc9c0",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "\uc774 \uc7a5\uc5c4\ud55c \ud48d\uacbd \uceec\ub809\uc158\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. \uc774 \uccab \ubc88\uc9f8 \uc774\ubbf8\uc9c0\uc5d0\uc11c \uc6b0\ub9ac\ub294 \ub208 \ub36e\uc778 \ubd09\uc6b0\ub9ac\uc640 \ubb34\uc131\ud55c \ud478\ub978\ube5b\uc774 \uc788\ub294 \uc7a5\uc5c4\ud55c \uc0b0\uc744 \ubd05\ub2c8\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 98765
+    },
+    "category": {
+        "id": 45,
+        "title": "\uc7a5\uc5c4\ud55c \ud48d\uacbd"
+    },
+    "people": [],
+    "textData": "",
+    "organizations": []
+}

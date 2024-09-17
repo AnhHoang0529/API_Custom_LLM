@@ -1,0 +1,61 @@
+{
+    "id": "2043954084",
+    "md5": "e3b0c4d2-9696-9595-badas-0011105c00046",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wild_animals_safari.mp3",
+    "desc": "An audio clip featuring a variety of wild animals in their natural habitats such as lions, elephants, zebras, giraffes, and more. Recorded during a safari tour in Africa.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "In the vast savannas of Africa, a symphony of life unfurls. One can hear the distinct calls of various wild animals, such as the roar of the mighty lion, the trumpeting of elephants, and the grunting of hippos.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "Among these inhabitants of the wild, the lion is the undisputed king. With its powerful build and intimidating roar, the lion is a formidable creature. The lionesses, however, are the true protectors of the pride, caring for their young and ensuring the safety of their territory.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:04:30",
+                "content": "The elephants, the largest land animals on Earth, can be heard trumpeting to communicate with each other. Their size and strength make them formidable adversaries, but they are gentle giants that pose no threat to humans.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "The zebras, with their distinctive black and white stripes, can be seen grazing in the open plains. Their unique markings serve as an excellent camouflage, making it difficult for predators to single them out.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Lastly, we have the graceful giraffes. These long-necked creatures are the tallest animals on Earth, reaching heights of up to 15 feet. With their long necks, they can reach the highest branches of trees to feed.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio clip provides a vivid description of various wild animals in their natural habitats, including lions, elephants, zebras, and giraffes. The listener is introduced to the unique characteristics and behaviors of each animal."
+    },
+    "category": {
+        "id": 11,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

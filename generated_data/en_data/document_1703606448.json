@@ -1,0 +1,47 @@
+{
+    "id": "1703606448",
+    "md5": "5e53a0d9f868d4d370a237d2116b1c85",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "sports_research_paper.pdf",
+    "desc": "An in-depth analysis of the latest trends in sports technology.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:03",
+                "content": "This document delves into the world of sports technology.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:04",
+                "end_time": "00:00:05",
+                "content": "In recent years, it has seen significant advancements.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:06",
+                "end_time": "00:00:10",
+                "content": "Let us begin by examining the impact of technology on sports equipment.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 4567890
+    },
+    "category": {
+        "id": 123,
+        "title": "Sports Technology"
+    },
+    "people": [],
+    "textData": "Sports technology has revolutionized the way athletes train and compete...",
+    "organizations": []
+}

@@ -1,0 +1,75 @@
+{
+    "id": "9559758948",
+    "md5": "5d6c4d6b5a764d617a734d5b5a1e4f17",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cultural_celebrations.pdf",
+    "desc": "A document discussing various cultural celebrations and traditions around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Welcome to our presentation on cultural celebrations and traditions.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:20",
+                "content": "Let's begin with Diwali, the Hindu festival of lights.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:20",
+                "end_time": "00:00:35",
+                "content": "Diwali is celebrated in India and Nepal by lighting oil lamps and bursting firecrackers.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:35",
+                "end_time": "00:01:00",
+                "content": "Moving on, we have Christmas, a major Christian festival.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 5,
+                "start_time": "00:01:00",
+                "end_time": "00:01:15",
+                "content": "Christmas is celebrated on December 25th and involves gift-giving, family gatherings, and feasts.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:15",
+                "end_time": "00:01:30",
+                "content": "Finally, we have Chinese New Year, the most important Chinese festival.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 7,
+                "start_time": "00:01:30",
+                "end_time": "00:01:45",
+                "content": "Chinese New Year marks the beginning of the lunar new year and is celebrated with feasts, dragon parades, and fireworks.",
+                "speaker": "Presenter"
+            }
+        ],
+        "id": 645678
+    },
+    "category": {
+        "id": 11,
+        "title": "Culture"
+    },
+    "people": [],
+    "textData": "Cultural celebrations are an integral part of human society and provide a means for communities to express their identity and values. These celebrations often involve unique traditions that have been passed down through generations. Let's explore some of the most notable cultural celebrations from around the world.\n\nFirst, we have Diwali, the Hindu festival of lights. Diwali is celebrated in India and Nepal by lighting oil lamps and bursting firecrackers. This festival marks the victory of light over darkness and good over evil. It is a time for family reunions, feasts, and gift-giving.\n\nNext, we have Christmas, a major Christian festival celebrated on December 25th. Christmas is a time for gift-giving, family gatherings, and feasts. It is a reminder of the birth of Jesus Christ and is celebrated with much joy and excitement around the world.\n\nLastly, we have Chinese New Year, the most important Chinese festival. Chinese New Year marks the beginning of the lunar new year and is celebrated with feasts, dragon parades, and fireworks. It is a time for families to come together, clean their houses, and welcome the new year with hope and optimism.\n\nThese celebrations are just a few examples of the rich tapestry of traditions that make up our multicultural world. Let us continue to celebrate and learn from one another, fostering understanding, appreciation, and unity.",
+    "organizations": []
+}

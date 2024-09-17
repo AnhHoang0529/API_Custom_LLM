@@ -1,0 +1,75 @@
+{
+    "id": "2068432322",
+    "md5": "f98552b7a1e2d48d43969e51b3e3e1ca",
+    "extension": "pdf",
+    "size": 134867,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrating_diwali_traditions.pdf",
+    "desc": "A guide to understanding the history and significance of Diwali, one of the most popular Hindu festivals.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:18",
+                "content": "Diwali, also known as Deepavali, is a major Hindu festival celebrated in India and many other countries around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:18",
+                "end_time": "00:00:32",
+                "content": "This festival marks the victory of light over darkness and good over evil.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:32",
+                "end_time": "00:00:44",
+                "content": "The history of Diwali can be traced back to ancient India, with various legends and stories associated with it.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:44",
+                "end_time": "00:00:58",
+                "content": "Diwali is usually celebrated in late October or early November, depending on the lunisolar Hindu calendar.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:58",
+                "end_time": "00:01:05",
+                "content": "The festival lasts for five days, with each day having its unique significance and rituals.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:05",
+                "end_time": "00:01:18",
+                "content": "One of the most popular rituals of Diwali is lighting oil lamps called diyas and decorating homes with colorful rangoli designs.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 7,
+                "start_time": "00:01:18",
+                "end_time": "00:01:30",
+                "content": "Another essential aspect of Diwali is preparing and sharing delicious sweets and savory snacks with family and friends.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 537633
+    },
+    "category": {
+        "id": 165,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "textData": "Diwali, also known as Deepavali, is a major Hindu festival celebrated in India and many other countries around the world. This festival marks the victory of light over darkness and good over evil. The history of Diwali can be traced back to ancient India, with various legends and stories associated with it. Diwali is usually celebrated in late October or early November, depending on the lunisolar Hindu calendar. The festival lasts for five days, with each day having its unique significance and rituals. One of the most popular rituals of Diwali is lighting oil lamps called diyas and decorating homes with colorful rangoli designs. Another essential aspect of Diwali is preparing and sharing delicious sweets and savory snacks with family and friends.",
+    "organizations": []
+}

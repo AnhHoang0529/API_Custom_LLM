@@ -1,0 +1,28 @@
+{
+    "id": "1969805750",
+    "md5": "f0b39d116c8a236f8086145fc9a92712",
+    "extension": "jpeg",
+    "size": 131234,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "office_study_2023.jpeg",
+    "desc": "An image of a modern office with a person studying at a table",
+    "narrationStt": "",
+    "category": {
+        "id": 789,
+        "title": "Study and Work"
+    },
+    "people": [
+        {
+            "id": 24,
+            "nickName": "JohnD",
+            "name": "John Doe",
+            "dateOfBirth": "1990-05-01"
+        }
+    ],
+    "organizations": []
+}

@@ -1,0 +1,34 @@
+{
+    "id": "5801967000",
+    "md5": "7d5b8a1a4a85b24234db173d88f0c4ab",
+    "extension": "jpeg",
+    "size": 82815,
+    "height": 1200,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Indian_Festival_of_Colors.jpeg",
+    "desc": "People celebrating the Indian festival of Holi by throwing colored powders at each other",
+    "narrationStt": "",
+    "category": {
+        "id": 12,
+        "title": "Cultural Celebrations"
+    },
+    "people": [
+        {
+            "id": 3254,
+            "nickName": "Manish",
+            "name": "Manish Gupta",
+            "dateOfBirth": "1990-02-27"
+        },
+        {
+            "id": 3867,
+            "nickName": "Priya",
+            "name": "Priya Singh",
+            "dateOfBirth": "1985-05-21"
+        }
+    ],
+    "organizations": []
+}

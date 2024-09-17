@@ -1,0 +1,78 @@
+{
+    "id": "7990554285",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "YG\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc18c\uc18d 4\uc778\uc870 \uac78\uadf8\ub8f9 \ube14\ub799\ud551\ud06c\uc758 \uba64\ubc84\uc774\uc790 \ub300\ud55c\ubbfc\uad6d \uac00\uc218 \uacb8 \ubc30\uc6b0",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "\ube14\ub799\ud551\ud06c\ub294 4\uc778\uc870 \ub300\ud55c\ubbfc\uad6d \uac78\uadf8\ub8f9\uc774\ub2e4",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:30",
+                "content": "2016\ub144 YG\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8\uc5d0\uc11c \uacb0\uc131",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:45",
+                "content": "\uc9c0\uc218, \uc81c\ub2c8, \ub85c\uc81c, \ub9ac\uc0ac\ub85c \uad6c\uc131\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:46",
+                "end_time": "00:01:00",
+                "content": "\ube14\ub799\ud551\ud06c\ub294 2016\ub144 8\uc6d4 \ub370\ubdd4\ud588\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 262323
+    },
+    "category": {
+        "id": 146,
+        "title": "\uc74c\uc545"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "\uc9c0\uc218",
+            "name": "\uae40\uc9c0\uc218",
+            "dateOfBirth": "1995\ub144 1\uc6d4 3\uc77c"
+        },
+        {
+            "id": 456,
+            "nickName": "\uc81c\ub2c8",
+            "name": "\uae40\uc81c\ub2c8",
+            "dateOfBirth": "1997\ub144 1\uc6d4 16\uc77c"
+        },
+        {
+            "id": 789,
+            "nickName": "\uc7a5\ubbf8",
+            "name": "\ubc15\ucc44\uc601",
+            "dateOfBirth": "1997\ub144 2\uc6d4 11\uc77c"
+        },
+        {
+            "id": 101,
+            "nickName": "\ub9ac\uc0ac",
+            "name": "\ub77c\ub9ac\uc0ac \ub9c8\ub178\ubc18",
+            "dateOfBirth": "1997\ub144 3\uc6d4 27\uc77c"
+        }
+    ],
+    "organizations": []
+}

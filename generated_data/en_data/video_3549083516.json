@@ -1,0 +1,61 @@
+{
+    "id": "3549083516",
+    "md5": "bc4b04bdcccb1b2d0f082b1ab1d41e1a",
+    "extension": "mp4",
+    "size": 15724656,
+    "height": 720,
+    "width": 1280,
+    "duration": 165.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Celebrations_and_Traditions.mp4",
+    "desc": "This video explores various cultural celebrations and traditions from around the world, showcasing the unique customs, foods, and music that make each culture special.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:45",
+                "content": "First, we visit India to witness the vibrant and colorful Holi festival. Celebrated in March, Holi marks the arrival of spring and is also known as the \u2019Festival of Colors.\u2019 Participants throw colored powder and water at each other, signifying the victory of good over evil.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:00",
+                "end_time": "00:08:00",
+                "content": "Next, we travel to China to explore the Chinese New Year celebration. The lunar new year is a time for family reunions and feasting on traditional dishes like dumplings and rice cakes. It is also believed that the mythical beast, Nian, visits during this time and can be warded off with red decorations and firecrackers.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:08:30",
+                "end_time": "00:11:15",
+                "content": "Moving on, we visit Mexico to learn about the Day of the Dead (D\u00eda de los Muertos). This ancient tradition honors deceased loved ones through colorful altars adorned with marigolds, candles, and the favorite foods and beverages of the departed. It is believed that the spirits of the dead return to be with their families during this time.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:45",
+                "end_time": "00:15:00",
+                "content": "Our final destination is Greece to discover the ancient Olympic Games. These games were held every four years in honor of Zeus and featured various contests, including running, long jump, javelin throw, and wrestling.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:30",
+                "end_time": "00:16:55",
+                "content": "In conclusion, cultural celebrations and traditions are a rich and diverse part of human history that bring communities together and help preserve unique customs and customs.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video explores various cultural celebrations from around the world, including Holi in India, Chinese New Year, Day of the Dead in Mexico, and the ancient Olympic Games in Greece."
+    },
+    "category": {
+        "id": 21,
+        "title": "Cultural Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

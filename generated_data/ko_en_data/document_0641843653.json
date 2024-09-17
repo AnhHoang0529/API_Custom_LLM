@@ -1,0 +1,47 @@
+{
+    "id": "0641843653",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrities_document.pdf",
+    "desc": "A document on various celebrities and their achievements",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:06",
+                "content": "This document provides an in-depth look into the lives and achievements of several popular celebrities",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:30",
+                "content": "First, we discuss the life and career of Leonardo DiCaprio, an award-winning actor known for his versatile roles",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 63567
+    },
+    "category": {
+        "id": 384,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "Leo",
+            "name": "Leonardo DiCaprio",
+            "dateOfBirth": "1974-11-11"
+        }
+    ],
+    "textData": "Leonardo DiCaprio is a renowned actor who has made a significant impact on the film industry with his acting skills and dedication. Born on November 11, 1974, in Los Angeles, California, DiCaprio started his acting career at a young age. He gained recognition for his role in the film 'What's Eating Gilbert Grape' and has since appeared in numerous critically acclaimed projects, earning several awards and nominations. DiCaprio's commitment to his craft and his ability to immerse himself in diverse roles have earned him a place among the greatest actors of his generation. Throughout his career, he has displayed a remarkable range, from romantic leads to intense dramatic roles, and his versatility has made him a fan favorite. In recent years, he has focused on environmental activism and uses his influence to raise awareness about climate change and other pressing issues. This document delves deeper into Leonardo DiCaprio's life and career, providing a comprehensive overview of his accomplishments and impact on the film industry.",
+    "organizations": []
+}

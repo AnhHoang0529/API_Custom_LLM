@@ -1,0 +1,64 @@
+{
+    "id": "8205481415",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 600.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Study_and_Work.mp3",
+    "desc": "A motivational speech on effective study and work strategies.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "In today's fast-paced world, it's essential to learn effective study and work strategies. By understanding the principles of productivity, we can optimize our time and energy to achieve greater success.",
+                "speaker": "Motivational Speaker"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:00",
+                "content": "First, prioritize your tasks based on their importance and deadlines. Use a planner or calendar to help you stay organized and focused.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Next, eliminate distractions by setting up a comfortable and quiet workspace. Use tools like noise-cancelling headphones, apps that block distracting websites, or the Pomodoro Technique to stay focused.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:09:30",
+                "content": "Take regular breaks to rest and rejuvenate. Use this time to stretch, hydrate, or engage in relaxation activities. These breaks will help you maintain your energy and focus throughout the day.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:30",
+                "end_time": "00:11:00",
+                "content": "Lastly, adopt a growth mindset and embrace challenges as opportunities to learn and grow. By maintaining a positive attitude and a strong work ethic, you'll be well on your way to achieving your goals.",
+                "speaker": "Motivational Speaker"
+            }
+        ],
+        "sttSummary": "This motivational speech covers effective study and work strategies, including prioritizing tasks, eliminating distractions, taking breaks, and adopting a growth mindset."
+    },
+    "category": {
+        "id": 1,
+        "title": "Motivational"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 123457
+    }
+}

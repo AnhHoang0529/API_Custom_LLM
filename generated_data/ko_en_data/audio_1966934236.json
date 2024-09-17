@@ -1,0 +1,64 @@
+{
+    "id": "1966934236",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "extension": "mp3",
+    "size": 1234567,
+    "height": "",
+    "width": "",
+    "duration": 360.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "gourmetrecipes.mp3",
+    "desc": "An audio file discussing various gourmet dishes and culinary arts. It covers the basics of different cuisines, ingredients, cooking techniques, and the art of presentation.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "Gourmet dishes are a form of fine dining, characterized by their intricate preparation, high-quality ingredients, and artistic presentation. The culinary arts encompass a broad range of cuisines, techniques, and flavors from around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:00",
+                "content": "One popular cuisine is French, known for its emphasis on fresh ingredients and classical techniques. Another is Japanese, famous for its balance of flavors and presentation.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Ingredients play a crucial role in gourmet dishes. For instance, truffles, a delicacy in Italian cuisine, are prized for their earthy aroma and rich flavor. Similarly, saffron, a costly spice, adds depth and complexity to many dishes.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:11:00",
+                "content": "Cooking techniques vary from one cuisine to another. For example, sous-vide cooking involves sealing food in a vacuum pouch and cooking it in a water bath at a precise temperature. On the other hand, wok cooking, a popular Chinese technique, relies on high heat and quick stirring.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:13:30",
+                "content": "Presentation is a crucial aspect of gourmet dishes. The visual appeal of the dish can enhance the dining experience, making even the simplest of meals seem elegant and sophisticated.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This audio file discusses gourmet dishes and the culinary arts. It covers the basics of different cuisines, ingredients, cooking techniques, and presentation. French, Italian, Japanese, and their unique ingredients like truffles and saffron are highlighted. Cooking techniques like sous-vide and wok cooking are discussed. Lastly, the importance of presentation in enhancing the dining experience is emphasized."
+    },
+    "category": {
+        "id": 1,
+        "title": "Culinary Arts"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 27896
+    }
+}

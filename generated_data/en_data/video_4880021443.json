@@ -1,0 +1,68 @@
+{
+    "id": "4880021443",
+    "md5": "31d6cfe0d16ae931b73c59d7e0c089c0",
+    "extension": "mp4",
+    "size": 34292539,
+    "height": 720,
+    "width": 1280,
+    "duration": 210.0,
+    "density": 300,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Chef_Michelin_Gastro_Masterpiece.mp4",
+    "desc": "Cooking gourmet dishes with Michelin-starred chefs",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:02:00",
+                "content": "In today's episode, we have the honor of learning from the culinary mastery of Michelin-starred chef, Jean-Pierre.",
+                "speaker": "Host"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:05",
+                "end_time": "00:03:30",
+                "content": "Chef Jean-Pierre has spent decades perfecting his signature dish: Coq au Vin. He shares the secrets behind creating this dish, from selecting the perfect wine to the proper cooking technique.",
+                "speaker": "Chef Jean-Pierre"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:35",
+                "end_time": "00:04:55",
+                "content": "Coq au Vin is a classic French dish, originating from Burgundy. It is traditionally made with chicken, mushrooms, onions, garlic, and bacon, all simmered in red wine. Chef Jean-Pierre demonstrates how to brown the chicken, saut\u00e9 the vegetables, and deglaze the pan with wine.",
+                "speaker": "Chef Jean-Pierre"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:55",
+                "end_time": "00:06:20",
+                "content": "As the dish simmers, the chicken absorbs the rich flavors of the wine and vegetables. Chef Jean-Pierre emphasizes the importance of patience and technique to create the perfect Coq au Vin.",
+                "speaker": "Chef Jean-Pierre"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:20",
+                "end_time": "00:07:40",
+                "content": "Finally, the dish is served with a crispy potato galette and a light, tangy white wine sauce. Chef Jean-Pierre reveals the secrets to creating this delightful accompaniment.",
+                "speaker": "Chef Jean-Pierre"
+            }
+        ],
+        "sttSummary": "Join Michelin-starred Chef Jean-Pierre as he shares his secrets for creating the classic French dish, Coq au Vin. From selecting the perfect wine to the proper cooking technique, learn how to replicate this culinary masterpiece at home."
+    },
+    "category": {
+        "id": 23,
+        "title": "Gourmet Dishes"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "ChefJeanPierre",
+            "name": "Jean-Pierre",
+            "dateOfBirth": "1962-05-22"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,74 @@
+{
+    "id": "8805383794",
+    "md5": "72a5884f7c6a4f1d4e1c21583c8b4233",
+    "extension": "jpg",
+    "size": 72045,
+    "height": 1024,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "07_06_2023_11_02_05_AM_72dpi_MovieScene.jpg",
+    "desc": "Scene from a popular movie featuring a main character and a dramatic moment",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "This scene opens with the protagonist, John, sitting alone in his dimly lit apartment.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "The camera pans to reveal a framed photo of his deceased wife on the mantel.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:00:45",
+                "content": "John's face contorts with emotion as he gazes at the picture, memories flooding back.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:45",
+                "end_time": "00:01:00",
+                "content": "Suddenly, a knock at the door jolts John from his thoughts.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:01:00",
+                "end_time": "00:01:15",
+                "content": "He hesitates, then rises to answer it.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:15",
+                "end_time": "00:01:30",
+                "content": "As he opens the door, the viewer is introduced to a new character, who delivers a pivotal piece of information.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 44394
+    },
+    "category": {
+        "id": 640,
+        "title": "Movie Scenes"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "John",
+            "name": "John Doe",
+            "dateOfBirth": "1968-04-27"
+        }
+    ],
+    "organizations": []
+}

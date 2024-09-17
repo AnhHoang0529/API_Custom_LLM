@@ -1,0 +1,71 @@
+{
+    "id": "0560907081",
+    "md5": "a1b2c3d4e5f6g7h8i9j0",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\ube0c\ub798\ub4dc \ud53c\ud2b8 \uc778\ud130\ubdf0.mp4",
+    "desc": "\ube0c\ub798\ub4dc \ud53c\ud2b8\uc640\uc758 \uc778\ud130\ubdf0\uc5d0\uc11c \uadf8\uc758 \ucd5c\uadfc \ud504\ub85c\uc81d\ud2b8\uc640 \ub2e4\uac00\uc62c \uc601\ud654\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ub97c \ub098\ub204\uc5c8\uc2b5\ub2c8\ub2e4.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:02:30",
+                "content": "\ube0c\ub798\ub4dc \ud53c\ud2b8\ub294 \ubbf8\uc8fc\ub9ac\uc8fc \uc2a4\ud504\ub9c1\ud544\ub4dc\uc5d0\uc11c \uc790\ub790\uc2b5\ub2c8\ub2e4. \uadf8\ub294 \ubbf8\uc8fc\ub9ac \ub300\ud559\uad50\uc5d0\uc11c \uc800\ub110\ub9ac\uc998\uc744 \uacf5\ubd80\ud588\uc9c0\ub9cc \ub098\uc911\uc5d0 \uc911\ud1f4\ud558\uace0 \ub85c\uc2a4\uc564\uc824\ub808\uc2a4\ub85c \uc774\uc0ac\ud558\uc5ec \uc5f0\uae30 \uacbd\ub825\uc744 \uc313\uc558\uc2b5\ub2c8\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:03:45",
+                "content": "\ud53c\ud2b8\ub294 TV \uc2dc\ub9ac\uc988 '\ub2ec\ub77c\uc2a4'\uc640 '21 \uc810\ud504 \uc2a4\ud2b8\ub9ac\ud2b8'\uc5d0\uc11c\uc758 \uc5ed\ud560\ub85c \uba85\uc131\uc744 \uc5bb\uc5c8\uace0, \ub098\uc911\uc5d0 \ube44\ud3c9\uac00\ub4e4\uc758 \ud638\ud3c9\uc744 \ubc1b\uc740 \uc601\ud654 '\ub378\ub9c8\uc640 \ub8e8\uc774\uc2a4'\uc5d0 \ucd9c\uc5f0\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:45",
+                "end_time": "00:05:30",
+                "content": "\ud53c\ud2b8\uc758 \uc5f0\uae30 \uacbd\ub825\uc740 '\uc138\ube10', '\ud30c\uc774\ud2b8 \ud074\ub7fd', '\ubbf8\uc2a4\ud130 \uc564 \ubbf8\uc138\uc2a4 \uc2a4\ubbf8\uc2a4'\uc640 \uac19\uc740 \uc601\ud654\ub85c \uacc4\uc18d \uaf43\uc744 \ud53c\uc6e0\uace0, \uc548\uc824\ub9ac\ub098 \uc878\ub9ac\uc640 \ud568\uaed8 \ucd9c\uc5f0\ud588\ub2e4. \uadf8\ub294 \ub610\ud55c \uc81c\uc791\uc0ac \ud50c\ub79c B \uc5d4\ud130\ud14c\uc778\uba3c\ud2b8\ub97c \uc124\ub9bd\ud558\uace0 '\ub178\uc608 12\ub144'\uc744 \uc81c\uc791\ud588\ub294\ub370, \uc774 \uc601\ud654\ub294 \uc544\uce74\ub370\ubbf8 \uc791\ud488\uc0c1\uc744 \uc218\uc0c1\ud588\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "\ud53c\ud2b8\ub294 \uc0ac\uc0dd\ud65c\uc5d0\uc11c \uc7ac\ub09c \uad6c\ud638, \uad50\uc721, \ud658\uacbd \ubcf4\ud638 \ub4f1 \ub2e4\uc591\ud55c \uc790\uc120 \ud65c\ub3d9\uc5d0 \ucc38\uc5ec\ud574 \uc654\uc2b5\ub2c8\ub2e4.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:00",
+                "end_time": "00:08:30",
+                "content": "\ud53c\ud2b8\uc758 \ub2e4\uac00\uc62c \ud504\ub85c\uc81d\ud2b8\ub85c\ub294 '\ubd88\ub81b \ud2b8\ub808\uc778'\uacfc '\uc783\uc5b4\ubc84\ub9b0 \ub3c4\uc2dc D'\uac00 \uc788\uc2b5\ub2c8\ub2e4.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "\ube0c\ub798\ub4dc \ud53c\ud2b8\uc758 \uc778\ud130\ubdf0\uc5d0\uc11c\ub294 \uadf8\uc758 \ubc30\uacbd, \ucd08\uae30 \uc5f0\uae30 \uacbd\ub825, \ube44\ud3c9\uc801 \uc131\uacf5, \uc790\uc120 \ud65c\ub3d9, \ub2e4\uac00\uc62c \ud504\ub85c\uc81d\ud2b8 \ub4f1\uc5d0 \uad00\ud574 \uc774\uc57c\uae30\ud569\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 1,
+        "title": "\uc720\uba85\uc778"
+    },
+    "people": [
+        {
+            "id": 54321,
+            "nickName": "\ube0c\ub798\ub4dc",
+            "name": "\ube0c\ub798\ub4dc \ud53c\ud2b8",
+            "dateOfBirth": "1963\ub144 12\uc6d4 18\uc77c"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 161535292
+    }
+}

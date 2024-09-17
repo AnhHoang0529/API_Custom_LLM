@@ -1,0 +1,80 @@
+{
+    "id": "1878266244",
+    "md5": "34ef456789abcdef1234567890abcdef",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 240.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities.mp3",
+    "desc": "A fascinating discussion about the lives and achievements of various celebrities",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Brad Pitt is an American actor and film producer",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:04:30",
+                "content": "Angelina Jolie is a renowned actress and humanitarian",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Leonardo DiCaprio is an actor and environmental activist",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Some of their greatest collaborations include Mr. and Mrs. Smith and Inception",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:08:30",
+                "content": "Additionally, they have been involved in various philanthropic initiatives together",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This audio discusses the lives and achievements of Brad Pitt, Angelina Jolie, and Leonardo DiCaprio. They have collaborated on several movies, including Mr. and Mrs. Smith and Inception. They have also been involved in various philanthropic initiatives together."
+    },
+    "category": {
+        "id": 11,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 1453,
+            "nickName": "",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "June 4, 1975"
+        },
+        {
+            "id": 1121,
+            "nickName": "",
+            "name": "Leonardo DiCaprio",
+            "dateOfBirth": "November 11, 1974"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

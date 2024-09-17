@@ -1,0 +1,64 @@
+{
+    "id": "3638193861",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp3",
+    "size": 7789552,
+    "height": "",
+    "width": "",
+    "duration": 245.6,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wild_animals.mp3",
+    "desc": "A captivating exploration of various wild animals in their natural habitats, highlighting their unique behaviors, adaptations, and interactions with their environments. Listen in awe as we delve into the fascinating world of wildlife.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "Welcome to the mesmerizing world of wildlife. In this podcast, we'll take a captivating journey through various habitats and observe unique behaviors, adaptations, and interactions of animals in their natural settings. Let's begin with the majestic elephants.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:31",
+                "end_time": "00:04:15",
+                "content": "Elephants are the largest living terrestrial animals and play a crucial role in maintaining the balance of ecosystems in Africa and Asia. With their enormous size and powerful build, they can crush bamboo stalks and uproot entire trees. Their large ears act as radiators, helping them keep cool in hot climates.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:16",
+                "end_time": "00:06:00",
+                "content": "Now let's move to the African savannah, where we'll encounter the graceful giraffe. These long-necked giants use their extraordinary height to reach leaves high up in trees, making them an essential part of the savannah ecosystem.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:01",
+                "end_time": "00:07:45",
+                "content": "Giraffes have an incredible long neck, which provides them an advantage in reaching food sources that other herbivores cannot reach. Their tongues, which can be up to 20 inches long, help them pull leaves from the branches. Their unique adaptations make them one of the most fascinating creatures on Earth.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:46",
+                "end_time": "00:09:15",
+                "content": "As our adventure continues, we'll explore more about the lives of various wild animals, such as lions, tigers, and polar bears. So stay tuned and continue discovering the wonders of the natural world.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "In this podcast episode, we explore the fascinating world of wildlife, featuring elephants, giraffes, lions, tigers, and polar bears. We discuss their unique behaviors, adaptations, and interactions with their environments."
+    },
+    "category": {
+        "id": 9,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 78965
+    }
+}

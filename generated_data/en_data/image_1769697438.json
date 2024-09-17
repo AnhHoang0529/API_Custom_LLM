@@ -1,0 +1,28 @@
+{
+    "id": "1769697438",
+    "md5": "161a1c878066c41c8a4b3829c5322e53",
+    "extension": "jpeg",
+    "size": 174321,
+    "height": 1500,
+    "width": 1200,
+    "duration": 0,
+    "density": 96,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230217_104204.jpeg",
+    "desc": "A young man studying at a desk with a laptop and a stack of books",
+    "narrationStt": "",
+    "category": {
+        "id": 32,
+        "title": "Study"
+    },
+    "people": [
+        {
+            "id": 1567,
+            "nickName": "User",
+            "name": "John Doe",
+            "dateOfBirth": "1995-10-25"
+        }
+    ],
+    "organizations": []
+}

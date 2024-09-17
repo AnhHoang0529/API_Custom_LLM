@@ -1,0 +1,53 @@
+{
+    "id": "8997191256",
+    "md5": "c16aa411235d39e786574a946a66f4c9",
+    "extension": "pdf",
+    "size": 234567,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrities_magazine.pdf",
+    "desc": "A popular magazine featuring articles about various celebrities and their lives.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:09",
+                "end_time": "00:00:18",
+                "content": "This issue of Celebrity Magazine showcases articles on several renowned personalities...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:20",
+                "end_time": "00:00:28",
+                "content": "Highlights include...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 300822
+    },
+    "category": {
+        "id": 17,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 14,
+            "nickName": "Tom",
+            "name": "Tom Cruise",
+            "dateOfBirth": "July 3, 1962"
+        },
+        {
+            "id": 21,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        }
+    ],
+    "textData": "Celebrity Magazine is a renowned publication known for its insightful articles and interviews...",
+    "organizations": []
+}

@@ -1,0 +1,64 @@
+{
+    "id": "5564982716",
+    "md5": "362a1414141ba2a3a2a3a2a3a2a3a2a3",
+    "extension": "png",
+    "size": 165487,
+    "height": 1280,
+    "width": 720,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230130_121547.png",
+    "desc": "Popular South Korean singer and actress, and member of the four-member girl group BLACKPINK under YG Entertainment",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:10",
+                "content": "BLACKPINK is a renowned South Korean girl group",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:25",
+                "content": "The group is managed by YG Entertainment",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 94065
+    },
+    "category": {
+        "id": 439,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 111234,
+            "nickName": "",
+            "name": "Lisa",
+            "dateOfBirth": "21 March 1997"
+        },
+        {
+            "id": 111235,
+            "nickName": "",
+            "name": "Jisoo",
+            "dateOfBirth": "3 January 1995"
+        },
+        {
+            "id": 111236,
+            "nickName": "",
+            "name": "Jennie",
+            "dateOfBirth": "16 January 1996"
+        },
+        {
+            "id": 111237,
+            "nickName": "",
+            "name": "Ros\u00e9",
+            "dateOfBirth": "11 February 1997"
+        }
+    ],
+    "organizations": []
+}

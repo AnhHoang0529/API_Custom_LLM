@@ -1,0 +1,61 @@
+{
+    "id": "6167030804",
+    "md5": "2123456789abcdef0123456789abcdef01234567",
+    "extension": "mp4",
+    "size": 75288224,
+    "height": 1080,
+    "width": 1920,
+    "duration": 180.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp4",
+    "desc": "This video showcases breathtaking landscapes from around the world, including mountains, waterfalls, and forests.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "Welcome to our journey through majestic landscapes. Today, we will explore mountains, waterfalls, and forests.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "Our first stop is the breathtaking Swiss Alps, a range of mountains that runs through Europe. These peaks reach heights of over 13,000 feet.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:04:30",
+                "content": "Next, we head to the magnificent Iguazu Falls, located on the border of Argentina and Brazil. These falls are over 2 miles wide and 300 feet tall.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Finally, we venture into the heart of a lush forest, where life thrives in every corner. These forests provide essential resources for countless species and help maintain the balance of our planet.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Thank you for joining us on this journey through majestic landscapes. We hope you've enjoyed the views as much as we have.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "In this video, we explore majestic landscapes, including the Swiss Alps, Iguazu Falls, and various forests."
+    },
+    "category": {
+        "id": 122,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

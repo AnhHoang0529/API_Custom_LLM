@@ -1,0 +1,61 @@
+{
+    "id": "3170663560",
+    "md5": "1a4c7f4e892a6b2f1b1c1d1e1f1g1h1i",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 720,
+    "width": 1280,
+    "duration": 300.0,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "tigers_in_the_wild.mp4",
+    "desc": "A captivating video showcasing the majestic tigers in their natural habitat in the wild.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "Tigers are majestic animals native to the Asian continent.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:15",
+                "end_time": "00:02:30",
+                "content": "They are the largest members of the cat family, known for their distinctive orange fur and black stripes.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:30",
+                "end_time": "00:03:45",
+                "content": "Their habitat ranges from forests to grasslands, and they are excellent swimmers.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:45",
+                "end_time": "00:05:00",
+                "content": "This video captures the beauty and power of tigers in their natural environment.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:00",
+                "end_time": "00:05:55",
+                "content": "Viewers will witness the tigers' hunting techniques and social behaviors, providing a deeper understanding of these animals.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "The video highlights the majestic tigers in their natural habitat, detailing their distinctive features, habitat, and behaviors."
+    },
+    "category": {
+        "id": 100,
+        "title": "Animals"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,81 @@
+{
+    "id": "6010027928",
+    "md5": "698d2d283596e61e4e1e812b8426e8b5",
+    "extension": "pdf",
+    "size": 239486,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "movie_scene_analysis.pdf",
+    "desc": "An in-depth analysis of the scene in the movie \"The Matrix\".",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "This scene from \"The Matrix\" depicts Neo and Morpheus in the underground lab.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:20",
+                "content": "They are surrounded by numerous screens displaying various data streams.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:20",
+                "end_time": "00:00:25",
+                "content": "Morpheus explains the nature of the Matrix to Neo.",
+                "speaker": "Morpheus"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:25",
+                "end_time": "00:00:35",
+                "content": "Neo expresses his doubts and skepticism.",
+                "speaker": "Neo"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:35",
+                "end_time": "00:00:45",
+                "content": "Morpheus presents him with a red pill and a blue pill.",
+                "speaker": "Morpheus"
+            },
+            {
+                "order": 6,
+                "start_time": "00:00:45",
+                "end_time": "00:00:50",
+                "content": "Neo ultimately chooses the red pill.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 56473
+    },
+    "category": {
+        "id": 1235,
+        "title": "Movie Analysis"
+    },
+    "people": [
+        {
+            "id": 2903,
+            "nickName": "Neo",
+            "name": "Thomas A. Anderson",
+            "dateOfBirth": "February 26, 1968"
+        },
+        {
+            "id": 3456,
+            "nickName": "Morpheus",
+            "name": "Thomas Anderson",
+            "dateOfBirth": "Unknown"
+        }
+    ],
+    "textData": "The scene in the underground lab is a pivotal moment in the movie \"The Matrix\". Neo, the protagonist, is introduced to the truth about the Matrix by Morpheus, a mentor figure. Morpheus explains how the Matrix is a simulated reality created by intelligent machines as a means of subjugating humanity. Neo, initially skeptical, is presented with a choice: the red pill, which represents the truth, and the blue pill, which represents the blissful ignorance. Neo ultimately chooses the red pill, leading him on a path to unlocking his true potential and discovering the reality of the world around him. This scene sets the stage for the rest of the movie, which explores themes of truth, freedom, and self-discovery.",
+    "organizations": []
+}

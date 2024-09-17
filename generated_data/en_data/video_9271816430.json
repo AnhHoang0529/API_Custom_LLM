@@ -1,0 +1,61 @@
+{
+    "id": "9271816430",
+    "md5": "6d1c8322924d7d50d86b9572b8a4c064",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Soccer_Match_2022.mp4",
+    "desc": "Highlights of an exciting soccer match from the 2022 season, including goals, saves, and key moments.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "The match begins with a beautiful goal by team A's striker, John Doe.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:02:30",
+                "content": "Team A continues to dominate the game with impressive passes and shots on target.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:30",
+                "end_time": "00:04:00",
+                "content": "Team B manages to score a goal, narrowing the gap to one point.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:00",
+                "end_time": "00:05:30",
+                "content": "The tension mounts as both teams fight for control of the ball, resulting in multiple fouls and yellow cards.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:30",
+                "end_time": "00:07:15",
+                "content": "The match ends in a thrilling finish, with team A securing the victory.",
+                "speaker": "Commentator 1"
+            }
+        ],
+        "sttSummary": "An exciting soccer match with multiple goals and key moments, featuring commentary by Commentator 1."
+    },
+    "category": {
+        "id": 12,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

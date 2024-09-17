@@ -1,0 +1,64 @@
+{
+    "id": "1572547817",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp3",
+    "size": 5103499,
+    "height": "",
+    "width": "",
+    "duration": 173.2,
+    "density": 1,
+    "channels": 1,
+    "displayRotate": "",
+    "originalName": "whales_singing.mp3",
+    "desc": "An underwater recording of humpback whales singing in their natural habitat. The hauntingly beautiful sounds convey a sense of peace and tranquility, as well as a hint of the immense complexity and intelligence of these majestic creatures.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:45",
+                "content": "Humpback whales are a baleen whale species, characterized by their large pectoral fins and long, curved jaws. They are known for their complex vocalizations, called songs, which can last up to 30 minutes.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:45",
+                "end_time": "00:04:00",
+                "content": "The humpback whale's songs consist of repeating phrases, often sung by individual whales. The songs of different populations vary, and researchers believe that these songs may play a role in mating and social communication.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:00",
+                "end_time": "00:05:30",
+                "content": "Humpback whales are found in all major oceans, and they have experienced population declines due to hunting and habitat loss. Conservation efforts have led to their populations recovering in some areas, but they are still considered endangered.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:06:45",
+                "content": "The humpback whale is a keystone species, and its presence plays a vital role in maintaining the health and balance of marine ecosystems. They feed on krill and small fish, and their feeding behavior can impact the distribution of these prey species, affecting other predators and the entire food chain.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:45",
+                "end_time": "00:07:55",
+                "content": "Listening to humpback whale songs provides a profound connection to nature, offering a glimpse into the richness and complexity of the underwater world. Their haunting melodies inspire awe and wonder, and serve as a reminder of the importance of protecting these magnificent creatures and their habitats.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This recording features a detailed exploration of humpback whales, their vocalizations, population status, and significance in marine ecosystems. The speaker provides valuable insights into these majestic creatures, highlighting their cultural, ecological, and conservation importance."
+    },
+    "category": {
+        "id": 1,
+        "title": "Marine Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 987654
+    }
+}

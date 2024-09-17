@@ -1,0 +1,61 @@
+{
+    "id": "6327121790",
+    "md5": "3b54c92bae9d14a4056e1a4b9222f1d5",
+    "extension": "mp4",
+    "size": 23245873,
+    "height": 1080,
+    "width": 1920,
+    "duration": 153.78,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Lamb_Shank_Provencal.mp4",
+    "desc": "A gourmet dish that originated in the South of France, Lamb Shank Provencal is a succulent and aromatic slow-cooked lamb dish prepared with herbs de provence, garlic, tomatoes, and white wine. The lamb shanks are marinated before being browned and then slowly braised until tender.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:00",
+                "content": "Lamb Shank Provencal is a gourmet dish originating from the South of France.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:00",
+                "end_time": "00:06:30",
+                "content": "The dish is prepared by slow-cooking lamb shanks in a marinade of herbs de provence, garlic, tomatoes, and white wine until they become tender.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:30",
+                "end_time": "00:12:00",
+                "content": "Lamb Shank Provencal is a succulent and aromatic dish, perfect for special occasions and those with a discerning palate.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:12:00",
+                "end_time": "00:15:38",
+                "content": "To prepare the dish, the lamb shanks are first marinated before being browned and then slowly braised.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:38",
+                "end_time": "00:15:46",
+                "content": "The resulting dish is tender and bursting with flavor.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video describes the making of a French gourmet dish, Lamb Shank Provencal, that is prepared by slowly cooking lamb shanks in a marinade of herbs de provence, garlic, tomatoes, and white wine until they become tender. The dish is succulent and aromatic and perfect for special occasions."
+    },
+    "category": {
+        "id": 5,
+        "title": "French Cuisine"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

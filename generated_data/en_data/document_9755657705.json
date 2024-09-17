@@ -1,0 +1,47 @@
+{
+    "id": "9755657705",
+    "md5": "7458265b29c357d19314b489a49c2a82",
+    "extension": "pdf",
+    "size": 465126,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_report.pdf",
+    "desc": "A comprehensive report on political events from the past year.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:12",
+                "content": "In the year 2021, several major political events unfolded around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:13",
+                "end_time": "00:00:30",
+                "content": "The United States held its presidential elections, with Joe Biden winning the race against Donald Trump.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:45",
+                "content": "Meanwhile, in Europe, Germany held its federal elections, with Angela Merkel securing her fourth term.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 1084900631
+    },
+    "category": {
+        "id": 342,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "The year 2021 witnessed several significant political events across the globe. In the United States, the presidential elections took place, with Joe Biden emerging as the winner against Donald Trump. In Europe, Germany held its federal elections, resulting in Angela Merkel securing her fourth term. These events marked a turning point in the political landscape of their respective regions.",
+    "organizations": []
+}

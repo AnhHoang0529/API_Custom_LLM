@@ -1,0 +1,64 @@
+{
+    "id": "6339487013",
+    "md5": "2d4d7a8b2a71b73c45a064d34b612b77",
+    "extension": "mp3",
+    "size": 5242877,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "cityscapes.mp3",
+    "desc": "This audio features a lively urban cityscape, with traffic, people, and various sounds of a bustling metropolis.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:00",
+                "content": "The urban cityscape is a symphony of sounds. Traffic moves smoothly on the bustling streets, and people engage in lively conversations. The sounds of construction sites are evident in the background, signaling the city's growth and development.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:05:30",
+                "content": "Amidst the hustle and bustle, street vendors hawk their wares, while children laugh and play. The aroma of freshly baked bread wafts through the air, and the smell of fuel from the buses and cars adds to the richness of the urban environment. The sound of the metro train, as it approaches and departs, punctuates the scene, while the cacophony of bird calls can be heard in the distance.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:08:30",
+                "content": "Suddenly, the sound of sirens fills the air. An ambulance rushes past, followed closely by a fire truck. The chaos of the scene is palpable, with people shouting and moving quickly to clear the path. The sounds of the emergency vehicles blend with the steady rhythm of the city, a reminder that even amidst the hustle and bustle, there is a need for safety and order.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:30",
+                "end_time": "00:10:30",
+                "content": "As the emergency services recede into the distance, the city returns to its usual rhythm. The sounds of traffic and people continue, but there is a new sense of energy and vitality. The cityscape is a tapestry of sounds, each one adding to the richness and complexity of the urban environment.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:30",
+                "end_time": "00:18:00",
+                "content": "The sun begins to set, casting long shadows across the cityscape. The sounds of the city soften, and the air cools. The hustle and bustle of the day gives way to a more serene and peaceful atmosphere. Birds chirp in the trees, and the sounds of the night begin to emerge from the shadows.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio captures the vibrant and dynamic nature of a cityscape, from the bustling streets to the quietude of the night. Traffic, people, street vendors, and emergency services all contribute to the rich tapestry of sounds that define the urban environment."
+    },
+    "category": {
+        "id": 17,
+        "title": "Urban"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

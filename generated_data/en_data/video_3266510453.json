@@ -1,0 +1,64 @@
+{
+    "id": "3266510453",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 13475728,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "study_and_work.mp4",
+    "desc": "A video about studying and working techniques and strategies.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:01:45",
+                "content": "Effective studying strategies include making a study schedule, creating a quiet study environment, and using active recall techniques.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:10",
+                "content": "Productivity techniques for work include time blocking, setting clear goals, and minimizing distractions.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "The Pomodoro Technique is a popular productivity method where you work for 25 minutes, take a 5-minute break, then repeat the cycle for optimal focus.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:07:45",
+                "content": "Multitasking is a myth-effective people focus on one task at a time and switch between tasks as needed.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:00",
+                "end_time": "00:09:30",
+                "content": "Employing active listening and clear communication skills in the workplace can improve collaboration and productivity.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video discusses study and work techniques, including making a study schedule, creating a quiet study environment, using active recall techniques, productivity techniques such as time blocking and the Pomodoro Technique, and the importance of active listening and clear communication skills in the workplace."
+    },
+    "category": {
+        "id": 1,
+        "title": "Education"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 32165498
+    }
+}

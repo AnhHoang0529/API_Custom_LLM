@@ -1,0 +1,86 @@
+{
+    "id": "7971930350",
+    "md5": "94585e1b4c2d9b4e74b0b2f48a1c2d3e",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 120.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities.mp3",
+    "desc": "A podcast episode discussing the latest news and gossip about famous celebrities.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:15",
+                "content": "Today's episode features interviews with two popular celebrities: Leonardo DiCaprio and Emma Watson.",
+                "speaker": "Host"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:05:30",
+                "content": "Leonardo DiCaprio discussed his latest environmental project, Planting Empathy, which focuses on global reforestation.",
+                "speaker": "Leonardo DiCaprio"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:09:00",
+                "content": "Emma Watson shared her experience as a UN Women Goodwill Ambassador and her work promoting gender equality.",
+                "speaker": "Emma Watson"
+            },
+            {
+                "order": 4,
+                "start_time": "00:09:00",
+                "end_time": "00:11:30",
+                "content": "In the last segment, the hosts discuss recent rumors and gossip surrounding other celebrities, including Tom Cruise and Taylor Swift.",
+                "speaker": "Hosts"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:30",
+                "end_time": "00:12:00",
+                "content": "That's all for today's episode. Join us next week for another exciting episode of Celebrity News.",
+                "speaker": "Hosts"
+            }
+        ],
+        "sttSummary": "This episode features interviews with Leonardo DiCaprio and Emma Watson. Leonardo talks about his environmental project, Planting Empathy, and Emma discusses her work promoting gender equality. The hosts discuss recent rumors and gossip surrounding Tom Cruise and Taylor Swift."
+    },
+    "category": {
+        "id": 123,
+        "title": "Celebrity News"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "Leo",
+            "name": "Leonardo DiCaprio",
+            "dateOfBirth": "11/11/1974"
+        },
+        {
+            "id": 5678,
+            "nickName": "Emma",
+            "name": "Emma Watson",
+            "dateOfBirth": "09/15/1990"
+        },
+        {
+            "id": 9012,
+            "nickName": "Tom",
+            "name": "Tom Cruise",
+            "dateOfBirth": "07/03/1962"
+        },
+        {
+            "id": 8765,
+            "nickName": "Taylor",
+            "name": "Taylor Swift",
+            "dateOfBirth": "12/13/1989"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

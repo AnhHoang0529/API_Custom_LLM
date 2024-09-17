@@ -1,0 +1,64 @@
+{
+    "id": "4394442953",
+    "md5": "5c4dd1b590f1b6c284c6411d357a2e4b",
+    "extension": "mp3",
+    "size": 3572568,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wild_animals.mp3",
+    "desc": "This recording captures the diverse sounds of wild animals in their natural habitats. Enjoy the symphony of nature as various creatures call, communicate, and interact with their surroundings.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:35",
+                "content": "Elephants are the largest land animals on Earth, known for their long trunks and large ears. They live in savannas, forests, and deserts.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:35",
+                "end_time": "00:02:45",
+                "content": "Tigers are the largest cats in the world, with powerful jaws and sharp claws. They are found primarily in Asia and are known for their distinctive stripes.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:45",
+                "end_time": "00:03:55",
+                "content": "Gorillas are the largest primates in the world and are characterized by their strong jaws and powerful arms. They can be found in the forests of central and eastern Africa.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:55",
+                "end_time": "00:04:55",
+                "content": "Rhinoceroses are large, heavily-armored herbivores. There are two major types: black rhinos and white rhinos. Both species inhabit Africa and are considered critically endangered.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:55",
+                "end_time": "00:06:05",
+                "content": "Lions are the only big cats that have manes. They are the apex predators in African savannas and are known for their powerful roars.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "In this recording, you'll hear about various wild animals, including elephants, tigers, gorillas, rhinoceroses, and lions."
+    },
+    "category": {
+        "id": 12,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 98765
+    }
+}

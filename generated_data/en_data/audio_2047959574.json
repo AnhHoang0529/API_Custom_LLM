@@ -1,0 +1,61 @@
+{
+    "id": "2047959574",
+    "md5": "ec3b3c9d6f7f20213ab1b22d66f2f734:0",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 200.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "soccer_game_2023-02-28.mp3",
+    "desc": "Highlights of the soccer match between Barcelona and Real Madrid, recorded on February 28th, 2023.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:00",
+                "content": "The game begins with an evenly matched start, both teams displaying impressive form and strategy.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:07:15",
+                "end_time": "00:13:00",
+                "content": "Barcelona scores the first goal with a beautiful pass from Messi to Griezmann, leaving the Real Madrid defense in disarray.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 3,
+                "start_time": "00:14:30",
+                "end_time": "00:20:00",
+                "content": "Real Madrid responds with a powerful shot from Benzema, but Valdes makes a spectacular save, preserving Barcelona's lead.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:21:15",
+                "end_time": "00:27:00",
+                "content": "The game continues with intense play, both teams vying for control of the midfield and creating scoring opportunities.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:27:45",
+                "end_time": "00:30:30",
+                "content": "The referee blows the final whistle, marking the end of the game with Barcelona winning 2-1.",
+                "speaker": "Commentator 1"
+            }
+        ],
+        "sttSummary": "This recording features the soccer match between Barcelona and Real Madrid, with highlights including the first goal scored by Barcelona and several impressive saves by the goalkeeper."
+    },
+    "category": {
+        "id": 2,
+        "title": "Soccer"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": "8108813487",
+    "md5": "32e980a34d5812aebbddd02d9403f831",
+    "extension": "mp4",
+    "size": 15116408,
+    "height": 720,
+    "width": 1280,
+    "duration": 175.0,
+    "density": 300,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "movie_scene.mp4",
+    "desc": "A scene from a suspenseful thriller movie.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The detective enters a dark, abandoned mansion.",
+                "speaker": "Detective"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:15",
+                "content": "He searches for clues in the dimly lit corridors. Suddenly, he hears a faint sound.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:15",
+                "end_time": "00:05:30",
+                "content": "The detective investigates the source of the sound and discovers a secret room.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "Inside the room, he finds a mysterious artifact. The detective is intrigued.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:00",
+                "end_time": "00:08:30",
+                "content": "The detective ponders the meaning behind the artifact. Meanwhile, a figure lurks in the shadows.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A detective investigates a mysterious mansion and uncovers a secret room containing a valuable artifact, all while being stalked by an unknown figure."
+    },
+    "category": {
+        "id": 7,
+        "title": "Thriller"
+    },
+    "people": [
+        {
+            "id": 21,
+            "nickName": "Detective",
+            "name": "John Doe",
+            "dateOfBirth": "1975-07-12"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

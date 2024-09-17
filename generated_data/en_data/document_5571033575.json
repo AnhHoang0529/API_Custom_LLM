@@ -1,0 +1,53 @@
+{
+    "id": "5571033575",
+    "md5": "5a9e9e42a89e42d5a9ca9e42a82e9e42",
+    "extension": "pdf",
+    "size": 234045,
+    "height": 0,
+    "width": 0,
+    "duration": 35,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrities_magazine_issue_01.pdf",
+    "desc": "A popular magazine issue containing articles and interviews about various celebrities.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Welcome to this special issue of our magazine dedicated to celebrities.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "In this issue, we'll explore the lives and careers of several notable personalities.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 5621234
+    },
+    "category": {
+        "id": 5,
+        "title": "Celebrity"
+    },
+    "people": [
+        {
+            "id": 24,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 35,
+            "nickName": "Angelina",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "June 4, 1975"
+        }
+    ],
+    "textData": "This issue of our magazine focuses on the lives and careers of two popular Hollywood actors - Brad Pitt and Angelina Jolie. Brad Pitt, born on December 18, 1963, started his acting career with minor roles in television series and later transitioned to the big screen with a breakthrough role in 'Thelma and Louise'. Angelina Jolie, born on June 4, 1975, began her acting career as a teenager before gaining critical acclaim for her role in 'Girl, Interrupted'. Both actors have been in various high-profile relationships and have won numerous awards throughout their careers.",
+    "organizations": []
+}

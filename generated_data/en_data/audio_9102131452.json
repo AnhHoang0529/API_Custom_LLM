@@ -1,0 +1,61 @@
+{
+    "id": "9102131452",
+    "md5": "31d6cfe0d16ae931b73c59d7e0c089c0",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "2023-03-17_soccer_game_final.mp3",
+    "desc": "Audio recording of the final soccer game held on March 17, 2023",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "The referee whistles, signaling the start of the game.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:55",
+                "end_time": "00:05:15",
+                "content": "Team A's striker scores the first goal.",
+                "speaker": "Sportscaster"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:20",
+                "end_time": "00:12:10",
+                "content": "Team B's midfielder receives a yellow card for a foul.",
+                "speaker": "Referee"
+            },
+            {
+                "order": 4,
+                "start_time": "00:16:45",
+                "end_time": "00:18:30",
+                "content": "Team A's goalkeeper makes a crucial save, securing the victory.",
+                "speaker": "Sportscaster"
+            },
+            {
+                "order": 5,
+                "start_time": "00:27:30",
+                "end_time": "00:30:00",
+                "content": "The referee blows the final whistle, marking the end of the game.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A soccer game between two teams, with goals scored, yellow cards issued, and crucial saves made. The game ends in a victory for Team A."
+    },
+    "category": {
+        "id": 20,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,27 @@
+{
+    "id": "6168077432",
+    "md5": "b01a5f3f123d5a7b633e443e23675e2e",
+    "extension": "jpeg",
+    "size": 92454,
+    "height": 720,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Soccer_final_match.jpeg",
+    "desc": "A crowd of spectators cheering during a soccer final match.",
+    "narrationStt": "",
+    "category": {
+        "id": 6,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 84,
+            "name": "FIFA",
+            "otherName": "F\u00e9d\u00e9ration Internationale de Football Association"
+        }
+    ]
+}

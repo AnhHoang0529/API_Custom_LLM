@@ -1,0 +1,64 @@
+{
+    "id": "2187114476",
+    "md5": "9a67d9a56a7e6e3b3f1c2b3e8b528867",
+    "extension": "mp3",
+    "size": 7923522,
+    "height": "",
+    "width": "",
+    "duration": 303.2,
+    "density": 16000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "FrenchCuisine.mp3",
+    "desc": "Learn about the art of French cooking with this in-depth audio guide. Discover the techniques and ingredients behind classic dishes like Coq au Vin and Bouillabaisse. Gain insights into the history and philosophy of French culinary traditions.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:00",
+                "content": "French cuisine is renowned for its rich, savory flavors and complex techniques. Dishes like Coq au Vin and Bouillabaisse are beloved around the world.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:00",
+                "end_time": "00:06:30",
+                "content": "Coq au Vin is a classic French dish made with chicken, mushrooms, onions, garlic, and red wine. The chicken is marinated in the red wine and then cooked with the vegetables until tender.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:30",
+                "end_time": "00:09:30",
+                "content": "Bouillabaisse is a hearty fish stew originating from the port city of Marseille. It typically includes a variety of fish, shellfish, and vegetables.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:09:30",
+                "end_time": "00:12:30",
+                "content": "French culinary traditions have evolved over centuries, shaped by the country's geography, climate, and cultural influences.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:12:30",
+                "end_time": "00:15:50",
+                "content": "From the rustic dishes of rural France to the haute cuisine of Parisian restaurants, French cooking offers a diverse range of flavors and techniques.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio guide explores French cuisine, focusing on classic dishes like Coq au Vin and Bouillabaisse. Learn about their origins, ingredients, and techniques."
+    },
+    "category": {
+        "id": 2,
+        "title": "Culinary Arts"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 78645
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "5560987566",
+    "md5": "7e10b7b7f7d32d99ee46d97b747d2b3f",
+    "extension": "mp3",
+    "size": 1234567,
+    "height": "",
+    "width": "",
+    "duration": 360.0,
+    "density": 16000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "baseball_game.mp3",
+    "desc": "A live recording of a baseball game between the Yankees and the Red Sox.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:10",
+                "content": "The Yankees are playing the Red Sox in the third game of the series.",
+                "speaker": "Announcer 1"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:20",
+                "content": "The first inning ends with the score at 0-0. Both teams have had opportunities to score but have failed to capitalize.",
+                "speaker": "Announcer 1"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:25",
+                "end_time": "00:06:45",
+                "content": "In the bottom of the second, the Red Sox manage to put a run on the board. The Yankees respond with two runs in the top of the third, taking the lead.",
+                "speaker": "Announcer 1"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:50",
+                "end_time": "00:09:15",
+                "content": "The game remains close with both teams exchanging runs. In the eighth inning, the Red Sox tie the game, sending it into extra innings.",
+                "speaker": "Announcer 2"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:20",
+                "end_time": "00:11:45",
+                "content": "The tension builds as both teams struggle to break the tie. The game finally concludes with the Yankees securing a walk-off win.",
+                "speaker": "Announcer 2"
+            }
+        ],
+        "sttSummary": "This recording captures a thrilling baseball game between the Yankees and the Red Sox, with both teams demonstrating excellent play and the game remaining close throughout."
+    },
+    "category": {
+        "id": 1,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 67890
+    }
+}

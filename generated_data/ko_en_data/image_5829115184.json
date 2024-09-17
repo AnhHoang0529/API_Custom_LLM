@@ -1,0 +1,34 @@
+{
+    "id": "5829115184",
+    "md5": "235f4f3e9c01fc86347c61bef98a5a2a",
+    "extension": "jpeg",
+    "size": 89453,
+    "height": 1280,
+    "width": 720,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230128_12345.jpeg",
+    "desc": "Soccer players clashing on the field during a game.",
+    "narrationStt": "Play starts",
+    "category": {
+        "id": 10,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 234,
+            "nickName": "PlayerA",
+            "name": "John Doe",
+            "dateOfBirth": "1990-01-01"
+        },
+        {
+            "id": 123,
+            "nickName": "PlayerB",
+            "name": "Jane Doe",
+            "dateOfBirth": "1988-03-05"
+        }
+    ],
+    "organizations": []
+}

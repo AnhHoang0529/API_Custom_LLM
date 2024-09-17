@@ -1,0 +1,33 @@
+{
+    "id": "0074853381",
+    "md5": "82e942c2d810b8d832c7a1b43437d9e3",
+    "extension": "pdf",
+    "size": 255789,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cityscape.pdf",
+    "desc": "A visual tour of an urban cityscape.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:06",
+                "content": "Welcome to the bustling cityscape.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 11223344
+    },
+    "category": {
+        "id": 22,
+        "title": "Urban"
+    },
+    "people": [],
+    "textData": "Surrounded by towering structures and teeming with life, the urban cityscape is a marvel of modern civilization. With a population density far greater than rural areas, cities are home to a diverse range of cultures, businesses, and architectural wonders.",
+    "organizations": []
+}

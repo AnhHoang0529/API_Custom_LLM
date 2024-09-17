@@ -1,0 +1,77 @@
+{
+    "id": "1557905700",
+    "md5": "9c3b9921725c05f6a80d4a6b101f4e8a",
+    "extension": "mp3",
+    "size": 4427744,
+    "height": "",
+    "width": "",
+    "duration": 159.12,
+    "density": 16000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_gossip.mp3",
+    "desc": "This audio file features gossip about the latest happenings in the world of celebrities.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Brad Pitt recently finished filming for his new movie, titled 'The Lost City of D'.",
+                "speaker": "Anonymous"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Angelina Jolie was spotted at a charity event in Los Angeles, raising awareness for education in developing countries.",
+                "speaker": "Anonymous"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:07:00",
+                "content": "The couple was seen enjoying a dinner date in New York City, fueling rumors of a possible reconciliation.",
+                "speaker": "Anonymous"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:00",
+                "end_time": "00:09:30",
+                "content": "Brad's upcoming project, 'The Lost City of D', is set for release in 2023.",
+                "speaker": "Anonymous"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:30",
+                "end_time": "00:12:00",
+                "content": "Angelina Jolie's efforts in the education sector have received widespread recognition and support.",
+                "speaker": "Anonymous"
+            }
+        ],
+        "sttSummary": "This audio file discusses recent happenings in the lives of Brad Pitt and Angelina Jolie, including their latest projects and appearances."
+    },
+    "category": {
+        "id": 2,
+        "title": "Gossip"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 5678,
+            "nickName": "Angelina",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "June 4, 1975"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 9876
+    }
+}

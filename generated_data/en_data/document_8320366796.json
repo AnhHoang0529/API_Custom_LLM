@@ -1,0 +1,54 @@
+{
+    "id": "8320366796",
+    "md5": "7b525d12271b144f814f0f03c966a402",
+    "extension": "pdf",
+    "size": 432117,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "Gourmet_Delights.pdf",
+    "desc": "An exquisite collection of gourmet dishes and culinary arts from around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:14",
+                "content": "Welcome to this beautiful cookbook dedicated to gourmet dishes and culinary arts.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:32",
+                "content": "In this extensive collection, you'll find recipes from renowned chefs and culinary traditions from diverse cultures.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:33",
+                "end_time": "00:00:48",
+                "content": "Discover the secrets behind making authentic French crepes, Italian pasta, and Japanese sushi.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:49",
+                "end_time": "00:00:58",
+                "content": "Our expert chefs provide clear step-by-step instructions and tips to help you master these recipes.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 6827443
+    },
+    "category": {
+        "id": 21,
+        "title": "Cookbooks"
+    },
+    "people": [],
+    "textData": "Welcome to this beautiful cookbook dedicated to gourmet dishes and culinary arts. In this extensive collection, you'll find recipes from renowned chefs and culinary traditions from diverse cultures. Discover the secrets behind making authentic French crepes, Italian pasta, and Japanese sushi. Our expert chefs provide clear step-by-step instructions and tips to help you master these recipes. Enjoy your culinary journey!",
+    "organizations": []
+}

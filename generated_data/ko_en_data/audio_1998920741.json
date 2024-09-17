@@ -1,0 +1,61 @@
+{
+    "id": "1998920741",
+    "md5": "5f2dcc3b5aa765d61d8327deb882cf99",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 285.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "cityscape.mp3",
+    "desc": "A recording of the sounds and ambiance of a bustling urban cityscape.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:10",
+                "end_time": "00:02:15",
+                "content": "Traffic moves rapidly along the streets, horns honking occasionally.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:03:20",
+                "content": "People chatter and laugh as they walk by, creating a bustling atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:20",
+                "end_time": "00:04:45",
+                "content": "Birds tweet and sing in the trees, adding to the vibrant mix of sounds.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:45",
+                "end_time": "00:06:00",
+                "content": "A bus pulls up to a stop, and passengers get on and off.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "The sun sets, casting long shadows and changing the mood of the cityscape.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This recording captures the bustling sounds of a cityscape, with traffic, people, birds, and a bus."
+    },
+    "category": {
+        "id": 345,
+        "title": "Urban"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

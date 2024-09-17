@@ -1,0 +1,47 @@
+{
+    "id": "0083475460",
+    "md5": "4d28b416d5ea17a8448d37b33c3457de",
+    "extension": "pdf",
+    "size": 71434,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "gourmet_dishes_cookbook.pdf",
+    "desc": "A cookbook featuring gourmet dishes from around the world, including their history, preparation, and presentation.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:10",
+                "content": "Welcome to our gourmet dishes cookbook, where we explore the history, preparation, and presentation of exquisite culinary creations from around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:30",
+                "content": "First, we delve into the rich history of each dish, sharing stories and anecdotes about its origin and significance within various cultures.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:46",
+                "content": "Next, we guide you through the step-by-step process of preparing these sumptuous meals, providing expert tips and techniques for best results.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 19743,
+        "title": "Gourmet Dishes"
+    },
+    "people": [],
+    "textData": "Introduction: Welcome to our gourmet dishes cookbook, where we explore the history, preparation, and presentation of exquisite culinary creations from around the world. First, we delve into the rich history of each dish, sharing stories and anecdotes about its origin and significance within various cultures. Next, we guide you through the step-by-step process of preparing these sumptuous meals, providing expert tips and techniques for best results. Whether you're a seasoned chef or a culinary novice, this cookbook promises to expand your knowledge and inspire your palate.",
+    "organizations": []
+}

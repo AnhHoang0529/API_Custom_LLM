@@ -1,0 +1,54 @@
+{
+    "id": "7620375906",
+    "md5": "02a3c50713f603783a4c1a66514b6c8c",
+    "extension": "jpg",
+    "size": 134086,
+    "height": 2500,
+    "width": 3456,
+    "duration": 24,
+    "density": 72,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "majestic_landscape.jpg",
+    "desc": "An impressive image of a sunset over a serene lake with snow-capped mountains in the background.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Observe the stunning image of a sunset.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:20",
+                "content": "The sun is setting over a serene lake.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:20",
+                "end_time": "00:00:25",
+                "content": "Snow-capped mountains are visible in the background.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:25",
+                "end_time": "00:00:30",
+                "content": "The reflection of the sunset on the lake adds to its beauty.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 5252483
+    },
+    "category": {
+        "id": 12345,
+        "title": "Nature"
+    },
+    "people": [],
+    "textData": "",
+    "organizations": []
+}

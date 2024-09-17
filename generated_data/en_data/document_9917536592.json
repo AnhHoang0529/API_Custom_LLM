@@ -1,0 +1,75 @@
+{
+    "id": "9917536592",
+    "md5": "ed133f7e35381c690b23a17245b86a03",
+    "extension": "pdf",
+    "size": 152140,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrations_and_traditions.pdf",
+    "desc": "This document explores various cultural celebrations and traditions around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:25",
+                "content": "Welcome to this documentary about cultural celebrations and traditions.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:26",
+                "end_time": "00:00:46",
+                "content": "First, let us talk about Diwali, the festival of lights.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:47",
+                "end_time": "00:01:07",
+                "content": "Diwali is primarily observed by Hindus, Jains, and Sikhs.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:01:08",
+                "end_time": "00:01:28",
+                "content": "The festival marks the victory of light over darkness and good over evil.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:01:29",
+                "end_time": "00:01:49",
+                "content": "Another significant celebration is Chinese New Year.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:50",
+                "end_time": "00:02:10",
+                "content": "This event signifies the beginning of a new year in the Chinese calendar.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 7,
+                "start_time": "00:02:11",
+                "end_time": "00:02:31",
+                "content": "The Chinese believe in the zodiac and assign an animal to each year, which is believed to influence the personalities of people born that year.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 234837
+    },
+    "category": {
+        "id": 13,
+        "title": "Cultural_Celebrations"
+    },
+    "people": [],
+    "textData": "Cultural celebrations and traditions play a significant role in shaping the world we live in today...",
+    "organizations": []
+}

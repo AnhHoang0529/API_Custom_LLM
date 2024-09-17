@@ -1,0 +1,28 @@
+{
+    "id": "4843985140",
+    "md5": "1d612c85eb1a14c5a2aea8d64e45e81f",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Cultural_Celebration_Diwali_2345.jpeg",
+    "desc": "Indian festival of lights, Diwali",
+    "narrationStt": "",
+    "category": {
+        "id": 2,
+        "title": "Cultures"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Aarti",
+            "name": "Aarti Singh",
+            "dateOfBirth": "1997-05-01"
+        }
+    ],
+    "organizations": []
+}

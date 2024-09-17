@@ -1,0 +1,64 @@
+{
+    "id": "8550685831",
+    "md5": "f1a72e62416031e78a5e0101a86c3d87",
+    "extension": "mp3",
+    "size": 11924240,
+    "height": "",
+    "width": "",
+    "duration": 339.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Diwali_Celebration_Traditions.mp3",
+    "desc": "This audio piece delves into the rich cultural significance and traditions surrounding Diwali, the Hindu festival of lights. Listen as we discuss the historical origins, the significance of various symbols and customs, and how Diwali is celebrated around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Diwali, also known as Deepavali or the festival of lights, is a major Hindu, Jain, and Sikh festival celebrated in India and other countries.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "The origins of Diwali are diverse, with different stories and interpretations depending on various cultural traditions. One legend depicts the return of Lord Rama from his exile, another celebrates the victory of light over darkness and good over evil.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:15",
+                "content": "Common customs include cleaning houses, lighting oil lamps called diyas, bursting firecrackers, and sharing sweets called mithai.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:15",
+                "end_time": "00:06:50",
+                "content": "Diwali is a time for family reunions and feasting, with traditional dishes like puri, chole, and sabji being popular choices. The festival is also celebrated by various communities around the world, each with their unique traditions.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:50",
+                "end_time": "00:07:20",
+                "content": "Join us as we delve deeper into the history and global significance of Diwali, a vibrant and beautiful celebration of light and unity.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Diwali, also known as Deepavali or the festival of lights, is a major Hindu, Jain, and Sikh festival celebrated in India and other countries. The festival has diverse origins, with stories depicting the return of Lord Rama or the victory of light over darkness. Common customs include cleaning houses, lighting oil lamps, bursting firecrackers, and sharing sweets. Diwali is a time for family reunions and feasting, with traditional dishes. Join us as we delve deeper into the history and global significance of Diwali."
+    },
+    "category": {
+        "id": 12,
+        "title": "Cultural Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 99478
+    }
+}

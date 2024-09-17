@@ -1,0 +1,40 @@
+{
+    "id": "0066510928",
+    "md5": "828d2510e693b6151644a94817d3c734",
+    "extension": "pdf",
+    "size": 112610,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "sports_events_summary.pdf",
+    "desc": "A summary of the latest sports events and records",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:06",
+                "content": "Today's roundup includes a record-breaking performance by LeBron James in the NBA Finals...",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:10",
+                "content": "...and a surprising upset in the U.S. Open tennis tournament.",
+                "speaker": "Presenter"
+            }
+        ],
+        "id": 137148
+    },
+    "category": {
+        "id": 38,
+        "title": "Sports"
+    },
+    "people": [],
+    "textData": "In the latest sports news, LeBron James smashed scoring records in the NBA Finals with an impressive 45-point performance against the Boston Celtics. In a surprising turn of events, underdog player John Doe upset the favorite in the U.S. Open tennis tournament, taking the championship title.",
+    "organizations": []
+}

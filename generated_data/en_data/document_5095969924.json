@@ -1,0 +1,33 @@
+{
+    "id": "5095969924",
+    "md5": "b9a6746e4d5c10138eb08e6264b6d3a1",
+    "extension": "pdf",
+    "size": 278927,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "wild_animals.pdf",
+    "desc": "A document about the different types of animals found in the wild and their habitats.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:11",
+                "content": "This document explores the diverse world of wild animals and their habitats.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 876543
+    },
+    "category": {
+        "id": 12,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "textData": "Wild animals are an integral part of nature. They come in various shapes, sizes, and abilities. Some live in the forests, while others inhabit deserts or grasslands. Let us explore some of the fascinating wild animals and their habitats...\n\n Tigers, the largest of all the big cats, can be found in the dense forests of Asia. They are powerful predators that use their excellent camouflage skills to stalk their prey...\n\n Elephants, the largest land animals, are known for their long trunks and large ears. They are herbivores that live in savannas, forests, and deserts...\n\n Gorillas, our closest relatives in the animal kingdom, inhabit the rainforests of central Africa. They are social animals that live in groups called troops...\n\n Giraffes, the tallest animals on Earth, live in the savannas of Africa. They are unique creatures with elongated necks that help them reach high branches for food...\n\n Rhinos, large and powerful animals, live in the grasslands of Africa and Asia. They are herbivores that have thick skin to protect themselves from predators...\n\n Wild animals play a crucial role in maintaining the balance of ecosystems. They help control populations of other species, recycle nutrients, and provide food for other animals. Let us appreciate and protect these magnificent creatures.",
+    "organizations": []
+}

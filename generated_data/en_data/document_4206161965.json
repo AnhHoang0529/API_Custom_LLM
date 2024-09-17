@@ -1,0 +1,61 @@
+{
+    "id": "4206161965",
+    "md5": "9c9e9b36e2482ec76f69e21c5d942734",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "gourmet_dishes.pdf",
+    "desc": "A compilation of exquisite gourmet dishes and culinary arts from around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Welcome to our gourmet dishes presentation. Today, we will explore various exquisite dishes from around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:25",
+                "content": "First, let's start with a classic Italian dish \u2013 Lasagna.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:25",
+                "end_time": "00:00:35",
+                "content": "Followed by French Coq au Vin.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:35",
+                "end_time": "00:00:40",
+                "content": "Finally, a Chinese Delight \u2013 Peking Duck.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:40",
+                "end_time": "00:00:55",
+                "content": "Lasagna is a traditional Italian pasta dish, usually made with lasagna sheets, a meat-based sauce, and layers of cheese.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 556677
+    },
+    "category": {
+        "id": 20,
+        "title": "Culinary Arts"
+    },
+    "people": [],
+    "textData": "This presentation revolves around the world of gourmet dishes, exploring various exquisite dishes and their origins. First, we will begin with an Italian classic \u2013 Lasagna. Lasagna is a traditional Italian pasta dish, usually made with lasagna sheets, a meat-based sauce, and layers of cheese. Followed by a French favorite, Coq au Vin, a chicken dish braised in red wine, bacon, mushrooms, onions, and garlic. Lastly, we will explore a Chinese Delight \u2013 Peking Duck, renowned for its crispy skin and succulent meat. These dishes not only showcase the rich diversity of culinary arts but also offer an unforgettable taste experience.",
+    "organizations": []
+}

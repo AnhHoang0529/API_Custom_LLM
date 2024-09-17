@@ -1,0 +1,64 @@
+{
+    "id": "7517650757",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "extension": "mp3",
+    "size": 123456,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Miami_Heat_vs_Boston_Celtics_2022-05-15.mp3",
+    "desc": "Miami Heat vs Boston Celtics NBA Playoffs basketball game, 2022-05-15",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:10",
+                "end_time": "00:05:30",
+                "content": "Miami Heat vs Boston Celtics NBA Playoffs basketball game, 2022-05-15. The game features two top teams in the Eastern Conference, both vying for a spot in the finals. Jimmy Butler leads the Heat with his impressive stats, while Jayson Tatum and Jaylen Brown represent key players for the Celtics. The crowd is electric as the teams take to the court and the anticipation builds.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:45",
+                "end_time": "00:12:00",
+                "content": "The first quarter begins with both teams demonstrating their offensive and defensive prowess. Jimmy Butler scores the first points for the Heat, while Tatum answers for the Celtics. The crowd remains engaged throughout the quarter, cheering on their teams and creating an electric atmosphere. The game remains close throughout the first 12 minutes.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:12:15",
+                "end_time": "00:20:00",
+                "content": "As the second quarter progresses, the Heat begins to gain momentum. Butler and Bam Adebayo lead the charge, while Brown and Marcus Smart respond for the Celtics. The game remains tightly contested, with neither team pulling away significantly. Fans remain on the edge of their seats, eager to see which team can come out on top.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:20:10",
+                "end_time": "00:29:30",
+                "content": "In the final minutes of the first half, both teams display impressive resilience. The Heat manages to maintain their lead, but the Celtics continue to fight back. Fans are on the edge of their seats as the teams go into halftime, with the score remaining close and the outcome uncertain.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:29:45",
+                "end_time": "00:45:00",
+                "content": "The second half begins with both teams showing no signs of slowing down. Butler and Tatum continue their impressive performances, while Adebayo and Brown provide key contributions. The game remains tightly contested, with neither team gaining a significant advantage. The crowd remains engaged, creating an electric atmosphere as they watch their teams battle it out for the win.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Miami Heat vs Boston Celtics NBA Playoffs basketball game, 2022-05-15. Jimmy Butler leads the Heat with impressive stats, while Jayson Tatum and Jaylen Brown represent key players for the Celtics. The crowd is electric as the teams take to the court and the anticipation builds. The game remains closely contested throughout, with neither team pulling away significantly. Fans remain on the edge of their seats as the teams battle it out for the win."
+    },
+    "category": {
+        "id": 15,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 66212
+    }
+}

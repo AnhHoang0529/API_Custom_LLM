@@ -1,0 +1,47 @@
+{
+    "id": "0851564710",
+    "md5": "e1b4d74a65d2f13a4e1e346e1d345a6b",
+    "extension": "mp4",
+    "size": 3992825,
+    "height": 720,
+    "width": 1280,
+    "duration": 155.2,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wimbledon_2023_final.mp4",
+    "desc": "The 2023 Wimbledon Championships Men's Singles Final between Novak Djokovic and Rafael Nadal",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:06:00",
+                "content": "Welcome to the 2023 Wimbledon Championships Men's Singles Final between Novak Djokovic and Rafael Nadal. This highly-anticipated match is taking place at the iconic All England Club in Wimbledon, London. Both players have reached this prestigious stage after an impressive run of victories throughout the tournament.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:06:00",
+                "end_time": "00:11:30",
+                "content": "In the first set, both players displayed their remarkable skills and determination on the court. Djokovic had a slight edge, winning the set 6-4. In the second set, Nadal fought back, taking the lead and winning it 7-5. The third set was a thrilling affair, with both players showing incredible resilience and agility. Eventually, Djokovic managed to clinch the set and take a 2-1 lead. The fourth set was equally intense, with neither player giving an inch. It was Djokovic who ultimately emerged victorious, winning the set 6-4 and the match 7-5.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 3,
+                "start_time": "00:11:30",
+                "end_time": "00:15:00",
+                "content": "This marks Djokovic's seventh Wimbledon title, making him the most successful player in the history of this esteemed tournament. Nadal, on the other hand, has now come close but has yet to secure his third Wimbledon title. As the crowd cheers, Djokovic raises the trophy high, celebrating his remarkable win.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The 2023 Wimbledon Championships Men's Singles Final between Novak Djokovic and Rafael Nadal is a highly-anticipated match featuring two seasoned players. Djokovic edges the first set 6-4, but Nadal takes the second set 7-5. The third and fourth sets are intense, with both players showing incredible resilience and agility. Djokovic ultimately wins the match 7-5, securing his seventh Wimbledon title and making him the most successful player in the tournament's history."
+    },
+    "category": {
+        "id": 75,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

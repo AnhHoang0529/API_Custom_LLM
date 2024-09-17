@@ -1,0 +1,27 @@
+{
+    "id": "9191947486",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "gourmet_dishes_001.jpeg",
+    "desc": "This image shows a beautifully presented dish of sushi, featuring fresh fish and vibrant colors. It's a popular Japanese culinary art.",
+    "narrationStt": "",
+    "category": {
+        "id": 12,
+        "title": "Gourmet Dishes and Culinary Arts"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 10,
+            "name": "Sushi restaurant in Tokyo",
+            "otherName": "Kanda Sushi"
+        }
+    ]
+}

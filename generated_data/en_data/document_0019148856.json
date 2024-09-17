@@ -1,0 +1,68 @@
+{
+    "id": "0019148856",
+    "md5": "3e4e4e4e4e4e4e4e4e4e4e4e",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "traditions.pdf",
+    "desc": "This document explores various cultural traditions and celebrations from around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "Welcome to our documentary about cultural traditions and celebrations.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "First, let's explore Diwali, a Hindu festival celebrated in India and Nepal.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:00:42",
+                "content": "Diwali, also known as the festival of lights, commemorates the victory of light over darkness.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:42",
+                "end_time": "00:00:55",
+                "content": "Another fascinating tradition is the Chinese New Year, which symbolizes renewal and prosperity.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:55",
+                "end_time": "00:01:02",
+                "content": "The Chinese New Year is marked by feasts, family gatherings, and the exchange of red envelopes filled with money.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:02",
+                "end_time": "00:01:30",
+                "content": "From the land down under, we have Australia Day, which represents unity and mateship.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 8273443
+    },
+    "category": {
+        "id": 213,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "textData": "Cultural traditions and celebrations have been an essential part of human history, shaping our identities and communities. This comprehensive documentary delves into the fascinating histories and meanings behind various cultural practices from around the world. First, we explore Diwali, a Hindu festival celebrated in India and Nepal, also known as the festival of lights. Diwali commemorates the victory of light over darkness, symbolizing the triumph of good over evil. Next, we travel to China for the Chinese New Year, which symbolizes renewal and prosperity. The Chinese New Year is marked by feasts, family gatherings, and the exchange of red envelopes filled with money. Lastly, we head to Australia for Australia Day, which represents unity and mateship. These traditions and celebrations showcase the rich diversity and interconnectedness of cultures throughout history.",
+    "organizations": []
+}

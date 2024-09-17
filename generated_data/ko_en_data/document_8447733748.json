@@ -1,0 +1,82 @@
+{
+    "id": "8447733748",
+    "md5": "f78c491d4aa6a2f71d2a9212a1b16a93",
+    "extension": "pdf",
+    "size": 270222,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "gourmet_dishes.pdf",
+    "desc": "A detailed exploration of the world's finest gourmet dishes and culinary arts.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:09",
+                "content": "Welcome to our exploration of the world's finest gourmet dishes and culinary arts.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:16",
+                "content": "Let's begin our journey in France, the birthplace of haute cuisine.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:17",
+                "end_time": "00:00:23",
+                "content": "One of the most iconic dishes is Coq au Vin.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:24",
+                "end_time": "00:00:30",
+                "content": "It's a slow-cooked chicken dish with red wine, mushrooms, and bacon.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:31",
+                "end_time": "00:00:37",
+                "content": "Another must-try French dish is Quiche Lorraine.",
+                "speaker": ""
+            },
+            {
+                "order": 6,
+                "start_time": "00:00:38",
+                "end_time": "00:00:44",
+                "content": "It's a savory pie filled with a custard made from eggs and heavy cream.",
+                "speaker": ""
+            },
+            {
+                "order": 7,
+                "start_time": "00:00:45",
+                "end_time": "00:00:51",
+                "content": "Moving on to Italian cuisine, we have Pasta Carbonara.",
+                "speaker": ""
+            },
+            {
+                "order": 8,
+                "start_time": "00:00:52",
+                "end_time": "00:01:00",
+                "content": "It's a pasta dish made with eggs, pancetta, and Pecorino Romano cheese.",
+                "speaker": ""
+            }
+        ],
+        "id": 151695
+    },
+    "category": {
+        "id": 129,
+        "title": "Culinary Arts"
+    },
+    "people": [],
+    "textData": "Gourmet dishes are a delight for food connoisseurs around the world. The finest gourmet dishes showcase the artistry, creativity, and mastery of world-class chefs. In this exploration, we delve into the world's most iconic gourmet dishes, starting with France, the birthplace of haute cuisine. One of the most renowned dishes is Coq au Vin, a slow-cooked chicken dish with red wine, mushrooms, and bacon. Another must-try French dish is Quiche Lorraine, a savory pie filled with a custard made from eggs and heavy cream. Moving on to Italian cuisine, we have Pasta Carbonara, a pasta dish made with eggs, pancetta, and Pecorino Romano cheese. These dishes not only tantalize the taste buds but also tell a story of the rich cultural heritage of their respective countries.",
+    "organizations": []
+}

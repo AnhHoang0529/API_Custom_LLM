@@ -1,0 +1,34 @@
+{
+    "id": "7181288745",
+    "md5": "9c9d9c9d9c9d9c9d9c9d9c9d9c9d9c9d",
+    "extension": "jpg",
+    "size": 74567,
+    "height": 1200,
+    "width": 1920,
+    "duration": 0,
+    "density": 96,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\ud640\ub9ac_\ucd95\uc81c_\ucd95\ud558.jpg",
+    "desc": "\ud640\ub9ac \ucd95\uc81c\ub97c \uae30\ub150\ud558\ub294 \ud589\uc0ac\ub85c, '\uc0c9\ucc44\uc758 \ucd95\uc81c' \ub610\ub294 '\ub098\ub214\uacfc \uc0ac\ub791\uc758 \ucd95\uc81c'\ub85c\ub3c4 \uc54c\ub824\uc9c4 \uc8fc\uc694 \ud78c\ub450\uad50 \ubd04 \ucd95\uc81c\uc785\ub2c8\ub2e4. \uc0ac\ub78c\ub4e4\uc740 \uc774 \ud589\uc0ac\ub97c \uae30\ub150\ud558\uae30 \uc704\ud574 \uc11c\ub85c\uc5d0\uac8c \uc0c9\uae54 \uc788\ub294 \uac00\ub8e8\uc640 \ubb3c\uc744 \ub358\uc9d1\ub2c8\ub2e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 11,
+        "title": "\ubb38\ud654 \ucd95\uc81c\uc640 \uc804\ud1b5"
+    },
+    "people": [
+        {
+            "id": 234,
+            "nickName": "\ub77c\uc81c\uc26c",
+            "name": "\ub77c\uc81c\uc26c \ud30c\ud154",
+            "dateOfBirth": "1985-02-21"
+        },
+        {
+            "id": 125,
+            "nickName": "\ud504\ub9ac\uc57c",
+            "name": "\ud504\ub9ac\uc57c \uc2f1",
+            "dateOfBirth": "1990-05-10"
+        }
+    ],
+    "organizations": []
+}

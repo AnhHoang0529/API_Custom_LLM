@@ -1,0 +1,61 @@
+{
+    "id": "9151576135",
+    "md5": "4a8f2e376b7994e2d5e123f3a1a24111",
+    "extension": "mp4",
+    "size": 13331432,
+    "height": 1080,
+    "width": 1920,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Majestic_Landscapes.mp4",
+    "desc": "A collection of breathtaking landscapes, showcasing nature's grandeur and beauty.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:30",
+                "content": "The opening scene reveals a stunning view of a serene lake surrounded by majestic mountains.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "The camera then pans to a lush green valley, with a river meandering through it, providing a picturesque setting.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:05:30",
+                "content": "A waterfall cascades down from a towering cliff, creating a mesmerizing sight and a calming sound.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:08:00",
+                "content": "The sun begins to set, casting a warm glow over the landscape, highlighting its intricate details and vibrant colors.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:00",
+                "end_time": "00:10:00",
+                "content": "The video concludes with an aerial view of the entire landscape, emphasizing its vastness and breathtaking beauty.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video takes you on a journey through a collection of majestic landscapes, showcasing a serene lake, a lush valley, a waterfall, and a sunset."
+    },
+    "category": {
+        "id": 854,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

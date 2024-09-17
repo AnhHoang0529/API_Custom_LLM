@@ -1,0 +1,32 @@
+{
+    "id": "9676942631",
+    "md5": "d60f4215968a13c5ccf2613483e92c58",
+    "extension": "png",
+    "size": 96106,
+    "height": 1080,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "volleyball_championship_final.png",
+    "desc": "The final match of the annual volleyball championship",
+    "narrationStt": "",
+    "category": {
+        "id": 76543,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 87692,
+            "name": "FIVB",
+            "otherName": "F\u00e9d\u00e9ration Internationale de Volleyball"
+        },
+        {
+            "id": 98624,
+            "name": "CEV",
+            "otherName": "Confederation Europ\u00e9ene de Volleyball"
+        }
+    ]
+}

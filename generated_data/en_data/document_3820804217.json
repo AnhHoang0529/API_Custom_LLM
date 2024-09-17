@@ -1,0 +1,54 @@
+{
+    "id": "3820804217",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "sports_events_research.pdf",
+    "desc": "A comprehensive study on the history and significance of major sport events",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:20",
+                "content": "This research paper delves into the rich history of major sport events",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:21",
+                "end_time": "00:00:45",
+                "content": "Tracing their origins back to ancient civilizations, from the Olympics to the World Cup",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:46",
+                "end_time": "00:00:59",
+                "content": "And exploring their cultural, social, and economic impact",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "Research Papers"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "JohnDoe",
+            "name": "John Doe",
+            "dateOfBirth": "1990-01-01"
+        }
+    ],
+    "textData": "Major sport events have a long, rich history, dating back to ancient civilizations. The Olympics, one of the oldest and most prestigious, can be traced to ancient Greece, where they were held in honor of the gods. Over the centuries, these events have evolved into global phenomena, attracting millions of fans and generating billions of dollars in revenue. The World Cup, an international football tournament, is another example of a major sport event with a storied history. First held in 1930, it has since grown to become the most-watched annual sporting event in the world. These events not only provide entertainment and excitement, but also have significant cultural, social, and economic impact. They bring people together, fostering unity and promoting peace, and contribute to the economic growth of the host cities and countries. This research paper delves into the history and significance of major sport events, exploring their origins, evolution, and impact on society.",
+    "organizations": []
+}

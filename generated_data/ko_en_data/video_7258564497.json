@@ -1,0 +1,92 @@
+{
+    "id": "7258564497",
+    "md5": "4d9a71361b33bf6e3e501347a8d45f29",
+    "extension": "mp4",
+    "size": 18331237,
+    "height": 1080,
+    "width": 1920,
+    "duration": 112.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_interviews.mp4",
+    "desc": "Compilation of interviews with famous celebrities discussing their latest projects and personal lives.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:28",
+                "end_time": "00:01:45",
+                "content": "Award-winning actress, Scarlett Johansson, sits down with us to discuss her latest film, \"The Souvenir\", and talks about her experience playing a complex character.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:46",
+                "end_time": "00:03:10",
+                "content": "Music sensation, Billie Eilish, shares her thoughts on her breakthrough album, \"When We All Fall Asleep, Where Do We Go?,\" and reveals her creative process.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:11",
+                "end_time": "00:05:02",
+                "content": "Acclaimed actor, Tom Hanks, talks about his role in the drama series, \"Grey's Anatomy\", and shares insights into his long-lasting career.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:03",
+                "end_time": "00:07:17",
+                "content": "Comedian, Kevin Hart, shares his journey from struggling comedian to a household name, and talks about the challenges he's faced along the way.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:18",
+                "end_time": "00:11:23",
+                "content": "Legendary actress, Meryl Streep, shares her experiences working with iconic directors, reveals her favorite roles, and talks about the importance of staying creative throughout her career.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Celebrity interviews discussing their latest projects and personal lives. Interviewees include Scarlett Johansson, Billie Eilish, Tom Hanks, Kevin Hart, and Meryl Streep."
+    },
+    "category": {
+        "id": 5,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 3210,
+            "nickName": "",
+            "name": "Scarlett Johansson",
+            "dateOfBirth": "November 22, 1984"
+        },
+        {
+            "id": 3412,
+            "nickName": "",
+            "name": "Billie Eilish",
+            "dateOfBirth": "December 18, 2001"
+        },
+        {
+            "id": 4567,
+            "nickName": "",
+            "name": "Tom Hanks",
+            "dateOfBirth": "July 9, 1956"
+        },
+        {
+            "id": 3828,
+            "nickName": "Funny Man",
+            "name": "Kevin Hart",
+            "dateOfBirth": "July 6, 1979"
+        },
+        {
+            "id": 1294,
+            "nickName": "The Queen of Acting",
+            "name": "Meryl Streep",
+            "dateOfBirth": "June 22, 1949"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,27 @@
+{
+    "id": "0838285666",
+    "md5": "6b2615b5426f7381a96549d9e3f6b439",
+    "extension": "jpeg",
+    "size": 48174,
+    "height": 1200,
+    "width": 1600,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "013_italian_food_142889.jpeg",
+    "desc": "A delicious Italian pasta dish with tomato sauce, basil, and mozzarella cheese",
+    "narrationStt": "",
+    "category": {
+        "id": 21,
+        "title": "Italian Cuisine"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 12,
+            "name": "Mama Mia Restaurant",
+            "otherName": "Mama Mia"
+        }
+    ]
+}

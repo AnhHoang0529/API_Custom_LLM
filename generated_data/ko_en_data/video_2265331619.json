@@ -1,0 +1,61 @@
+{
+    "id": "2265331619",
+    "md5": "7a6e3d2c717745c6266e258792160d2e",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "football_match_2023.mp4",
+    "desc": "A video recording of a football match between Manchester United and Arsenal.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "The match commenced with a ceremonial kick-off by the team captains.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:03:30",
+                "content": "Manchester United took the lead after a brilliant goal by Ronaldo in the 23rd minute.",
+                "speaker": "Commentator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:45",
+                "end_time": "00:05:00",
+                "content": "Arsenal equalized through a penalty kick converted by Aubameyang in the 35th minute.",
+                "speaker": "Commentator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:15",
+                "end_time": "00:06:30",
+                "content": "The second half started with both teams creating chances but failing to score. Manchester United made several substitutions to freshen up their attack.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:45",
+                "end_time": "00:08:00",
+                "content": "In the final minutes of the game, Manchester United scored a decisive goal to secure a 2-1 victory.",
+                "speaker": "Commentator"
+            }
+        ],
+        "sttSummary": "The video features a football match between Manchester United and Arsenal, with Manchester United winning 2-1 through two goals by Ronaldo and a decisive goal in the second half. The commentator provides analysis and updates throughout the game."
+    },
+    "category": {
+        "id": 342,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

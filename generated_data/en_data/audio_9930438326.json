@@ -1,0 +1,61 @@
+{
+    "id": "9930438326",
+    "md5": "1a6a867ef67d2b360a5f70f5892c59c9",
+    "extension": "mp3",
+    "size": 1087328,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "cityscapes.mp3",
+    "desc": "A collection of urban cityscape sounds, featuring bustling streets, traffic, and the sounds of city life",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:30",
+                "content": "The urban cityscape is characterized by the blend of sights, sounds, and energy that define urban life. In this recording, we'll hear a bustling street filled with the sounds of city life.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:30",
+                "content": "First, we'll notice the sound of traffic, with cars passing by, horns honking, and the rumble of bus and truck engines. This is an essential part of the cityscape soundscape.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:30",
+                "content": "Next, let's listen for the sounds of people, with voices speaking, laughter, and footsteps on the sidewalk. These sounds add depth and complexity to the urban cityscape.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:06:45",
+                "content": "Finally, we might hear the sounds of city buildings, with the hum of air conditioning units, the occasional siren, and the distant tolling of a church bell. These sounds round out the urban cityscape soundscape and create a rich, immersive listening experience.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:45",
+                "end_time": "00:08:15",
+                "content": "And that's our tour of the urban cityscape sounds. We've covered the sounds of traffic, people, and city buildings, painting a vivid picture of life in the city.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio recording explores the sounds of an urban cityscape, featuring traffic, people, and city buildings. It provides a rich, immersive listening experience and offers insight into the unique soundscape of city life."
+    },
+    "category": {
+        "id": 12,
+        "title": "Urban Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

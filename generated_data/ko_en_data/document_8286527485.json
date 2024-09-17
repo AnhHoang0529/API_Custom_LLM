@@ -1,0 +1,47 @@
+{
+    "id": "8286527485",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrations_and_traditions_research.pdf",
+    "desc": "A comprehensive research paper on cultural celebrations and traditions",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:07",
+                "content": "Welcome to this research paper on cultural celebrations and traditions.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:15",
+                "content": "Cultural celebrations are a significant aspect of human life, reflecting diverse beliefs, customs, and practices.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:23",
+                "content": "In this paper, we will explore various cultural celebrations and their underlying meanings.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 191,
+        "title": "Research Papers"
+    },
+    "people": [],
+    "textData": "Cultural celebrations are an integral part of human existence and reflect the richness and diversity of our communities. These events provide a unique opportunity to bring people together, foster social cohesion, and strengthen cultural identity. From ancient rituals to modern festivals, cultural celebrations have evolved over time and continue to shape our lives in fascinating ways. In this research paper, we will explore various cultural celebrations, their origins, significance, and impact on society. We will delve into the history, traditions, and practices associated with these events and examine the role they play in shaping our cultural heritage. Our exploration will span various regions and continents, showcasing the vast array of cultural diversity that exists around the world. Whether it's the vibrant colors and sounds of the Diwali festival in India, the intricate dances and costumes of the Carnival in Brazil, or the enchanting tales and traditions of the Chinese New Year, each celebration offers a unique perspective on the human experience. By examining these celebrations, we can gain a deeper appreciation for the richness and complexity of human culture and the profound impact it has on our lives.",
+    "organizations": []
+}

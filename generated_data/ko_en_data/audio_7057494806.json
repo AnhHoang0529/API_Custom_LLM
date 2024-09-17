@@ -1,0 +1,64 @@
+{
+    "id": "7057494806",
+    "md5": "8ecb3dccb2a8d2b6b0e15b2ab3efec12",
+    "extension": "mp3",
+    "size": 5361587,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wild_animals.mp3",
+    "desc": "This audio recording features various wild animals in their natural habitats. The sounds of birds chirping, lions roaring, elephants trumpeting, and monkeys howling can be heard in the recording.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "Welcome to this captivating audio recording of wild animals in their natural habitats. Listen closely as you'll hear the sounds of various creatures in their natural environments.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:30",
+                "content": "The first sounds you'll hear are birds chirping. These melodic tunes create a serene atmosphere and are essential for the ecosystem. Observe how they communicate with each other and interact with their surroundings.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:15",
+                "content": "Next, you'll hear the mighty roar of a lion. This powerful sound is a reminder of the strength and dominance of the king of the jungle. Listen closely as the lion calls out to its pride.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:08:00",
+                "content": "Following the lion, you'll hear the trumpeting of an elephant. These gigantic creatures are vital for maintaining a balanced ecosystem. Their trumpeting sounds are used for communication and can be heard from miles away.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:00",
+                "end_time": "00:10:00",
+                "content": "Finally, listen carefully for the howling of monkeys. These social animals use their unique vocalizations to communicate with each other and maintain their social structure. Observe how they interact and respond to one another.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio recording showcases various wild animals in their natural habitats, including birds chirping, a lion roaring, an elephant trumpeting, and monkeys howling. Listen closely as you'll hear the sounds of these creatures communicating and interacting with their surroundings."
+    },
+    "category": {
+        "id": 78,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 12345
+    }
+}

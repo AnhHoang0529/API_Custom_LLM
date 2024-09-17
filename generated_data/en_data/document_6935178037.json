@@ -1,0 +1,40 @@
+{
+    "id": "6935178037",
+    "md5": "9c6bf4dbcc4c8a6923be8f17e7b9b1f7",
+    "extension": "pdf",
+    "size": 368528,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_report.pdf",
+    "desc": "A comprehensive report on recent political events",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:12",
+                "content": "This report provides an overview of significant political events",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:13",
+                "end_time": "00:00:30",
+                "content": "in various countries around the world.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 3215678
+    },
+    "category": {
+        "id": 2286,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "Introduction: The political landscape has been witnessing significant changes in recent times with events unfolding in various countries around the world. This report provides an overview of these events, bringing you up-to-date with the latest trends and developments...",
+    "organizations": []
+}

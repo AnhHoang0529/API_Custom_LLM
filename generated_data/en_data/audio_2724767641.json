@@ -1,0 +1,64 @@
+{
+    "id": "2724767641",
+    "md5": "e3b0c4d2-9696-91a3-9d96-7e111a950514",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 360.0,
+    "density": 1600,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "grand-canyon.mp3",
+    "desc": "Join me as I take a journey through the breathtaking landscapes of the Grand Canyon National Park. Listen to the soothing sounds of the Colorado River flowing through the canyon and the chirping birds echoing through the vast expanse of nature.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:15",
+                "content": "Welcome to the breathtaking landscapes of the Grand Canyon National Park.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:15",
+                "end_time": "00:02:45",
+                "content": "Here, you'll find yourself surrounded by towering cliffs, crystal-clear waters, and an abundance of wildlife.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:45",
+                "end_time": "00:04:30",
+                "content": "Take a moment to breathe in the fresh mountain air and let the calming sounds of the Colorado River carry you away.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "The Grand Canyon is a testament to the power of nature and a reminder of the beauty that surrounds us.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:06:30",
+                "content": "Thank you for joining me on this journey through the Grand Canyon National Park.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "Discover the breathtaking landscapes of the Grand Canyon National Park, surrounded by towering cliffs, crystal-clear waters, and an abundance of wildlife. Take a moment to breathe in the fresh mountain air and let the calming sounds of the Colorado River carry you away. The Grand Canyon is a testament to the power of nature and a reminder of the beauty that surrounds us."
+    },
+    "category": {
+        "id": 1,
+        "title": "Natural Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 87654321
+    }
+}

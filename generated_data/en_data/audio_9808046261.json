@@ -1,0 +1,80 @@
+{
+    "id": "9808046261",
+    "md5": "25901718cb1d8e674672788c8a42415b",
+    "extension": "mp3",
+    "size": 11281412,
+    "height": "",
+    "width": "",
+    "duration": 203.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Movie_Scene_1.mp3",
+    "desc": "This audio clip contains a scene from the science fiction movie 'Interstellar' (2014) where Cooper (Matthew McConaughey) and Brand (Anne Hathaway) discuss space travel and the importance of time in the context of their mission to save humanity.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:01:20",
+                "content": "In their search for a new home world, they discover a wormhole nearest Saturn, which could potentially save humanity.",
+                "speaker": "Cooper"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:02:55",
+                "content": "Brand explains that the wormhole's existence is a result of the black hole at its end collapsing upon itself, creating a shortcut through space and time.",
+                "speaker": "Brand"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:56",
+                "end_time": "00:04:15",
+                "content": "Cooper, understanding the stakes, decides to pilot the spacecraft through the wormhole, despite the risks involved.",
+                "speaker": "Cooper"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:16",
+                "end_time": "00:05:45",
+                "content": "Brand highlights the importance of time dilation as they approach the event horizon, emphasizing that time passes much slower on the other side.",
+                "speaker": "Brand"
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:46",
+                "end_time": "00:06:50",
+                "content": "Cooper reassures Brand that they'll make it through the wormhole and back to Earth, reaffirming their commitment to their mission.",
+                "speaker": "Cooper"
+            }
+        ],
+        "sttSummary": "In this scene, Cooper and Brand discuss the discovery of a wormhole near Saturn that could save humanity and the implications of time dilation as they approach it."
+    },
+    "category": {
+        "id": 5,
+        "title": "Movies"
+    },
+    "people": [
+        {
+            "id": 21290,
+            "nickName": "Coop",
+            "name": "Matthew McConaughey",
+            "dateOfBirth": "11/11/1969"
+        },
+        {
+            "id": 27313,
+            "nickName": "Murph",
+            "name": "Jessica Chastain",
+            "dateOfBirth": "07/24/1977"
+        },
+        {
+            "id": 74257,
+            "nickName": "Brand",
+            "name": "Anne Hathaway",
+            "dateOfBirth": "11/12/1982"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

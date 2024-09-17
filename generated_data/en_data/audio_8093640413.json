@@ -1,0 +1,61 @@
+{
+    "id": "8093640413",
+    "md5": "5c4dd1b59f189b3b1b6b33f38124d3b4",
+    "extension": "mp3",
+    "size": 3797388,
+    "height": "",
+    "width": "",
+    "duration": 720.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "political_events_discussion.mp3",
+    "desc": "A discussion about recent political events, including election results, policy changes, and key figures.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "The election results have come in, showing a tight race between the two major parties. The incumbent party, led by President Johnson, secured a narrow lead.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:16",
+                "end_time": "00:04:00",
+                "content": "The opposition party, headed by Vice President Smith, has yet to concede defeat. They have launched an investigation into allegations of voter fraud, despite no concrete evidence.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:01",
+                "end_time": "00:05:45",
+                "content": "In other news, the administration has proposed several new policies, including increases to the minimum wage and expansions to social programs. However, critics argue these measures will put a strain on the economy.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:46",
+                "end_time": "00:07:15",
+                "content": "Meanwhile, key figures in both parties have made headlines for their actions and statements. For example, Senator Brown has been criticized for her recent comments about race relations, while Representative Johnson has been praised for his efforts to address climate change.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:16",
+                "end_time": "00:07:25",
+                "content": "In conclusion, the political landscape remains complex and uncertain. As the situation evolves, it is crucial to stay informed and engaged.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio file discusses recent political events, including election results, proposed policies, and key figures. The election results showed a tight race between the two major parties, with the incumbent party securing a narrow lead. The opposition party has launched an investigation into allegations of voter fraud with no concrete evidence. The administration has proposed several new policies, including increases to the minimum wage and expansions to social programs, which critics argue will put a strain on the economy. Key figures in both parties have made headlines for their actions and statements. The political landscape remains complex and uncertain, and it is crucial to stay informed and engaged."
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

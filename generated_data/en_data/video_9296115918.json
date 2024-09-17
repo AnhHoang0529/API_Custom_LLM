@@ -1,0 +1,61 @@
+{
+    "id": "9296115918",
+    "md5": "3cd4d1d3c6d2e1b1b1b1b1b1b1b1b1b1",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "match_final.mp4",
+    "desc": "Highlights from the final match of the soccer championship.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:15",
+                "content": "The teams are taking their positions on the field. The referee signals for the start of the match.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:05:30",
+                "content": "The first half of the match is underway. Both teams are showing determination and skill. The score is tied at 0-0.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:30",
+                "end_time": "00:11:15",
+                "content": "The second half is starting. The crowd is getting louder as the tension builds. Team A scores a goal, and the score is now 1-0.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:30",
+                "end_time": "00:12:45",
+                "content": "Team B tries to counterattack, but they can't get past Team A's defense. The referee blows the whistle for a foul. Team A is awarded a free kick near the goal.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:00",
+                "end_time": "00:14:30",
+                "content": "Team A scores another goal from the free kick. The score is now 2-0. Team B tries to mount a comeback, but they can't overcome Team A's strong defense. The match ends with a victory for Team A.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases the final match of a soccer championship between Team A and Team B. The match is tense and exciting, with both teams displaying determination and skill. Team A ultimately emerges as the winner."
+    },
+    "category": {
+        "id": 35,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

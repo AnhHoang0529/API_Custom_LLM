@@ -1,0 +1,64 @@
+{
+    "id": "6959350416",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y5z6a7b8c9d10e11f12g13h14i15j16k17l18m19n20o21p22q23r24s25t26u27v28w29x30y31z32",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 235.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Carnival_Parade_in_Venice.mp3",
+    "desc": "A recording of a vibrant and lively carnival parade in Venice, Italy.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The parade starts with the sound of trumpets and drums, followed by the cheerful shouts and laughter of the crowd.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:05:00",
+                "content": "The first float showcases Venice's rich history with intricately designed masks and costumes representing various characters from the city's past. The crowd eagerly throws candy and confetti.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:08:30",
+                "content": "The second float is dedicated to the sea goddess, Venus. It is adorned with a beautiful statue of the goddess and surrounded by mermaids and dolphins. The float passes by the sound of the waves and seagulls.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:30",
+                "end_time": "00:11:00",
+                "content": "The third float is a tribute to St. Mark, the patron saint of Venice. It carries a large model of the Saint's Winged Lion symbol, which is a common symbol of Venice's heritage.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:14:30",
+                "content": "The parade concludes with the arrival of the Doge, the historic title for the ruling figure of Venice. The crowd cheers as the Doge throws the final confetti, marking the end of the parade.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The parade starts with music and the sound of the crowd. The first float showcases Venice's history with intricately designed masks and costumes. The second float is dedicated to Venus, the sea goddess, and surrounded by mermaids and dolphins. The third float is a tribute to St. Mark, Venice's patron saint, and features a model of the Winged Lion symbol. The parade concludes with the Doge's arrival and the crowd cheers."
+    },
+    "category": {
+        "id": 12,
+        "title": "Italian Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 78901234567
+    }
+}

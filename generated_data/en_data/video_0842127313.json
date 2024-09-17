@@ -1,0 +1,79 @@
+{
+    "id": "0842127313",
+    "md5": "7b14e586c915e45d23dbf101f402756b",
+    "extension": "mp4",
+    "size": 18811276,
+    "height": 1080,
+    "width": 1920,
+    "duration": 60.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_gala_2023.mp4",
+    "desc": "Celebrities at the gala event in 2023",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "The event begins with a welcome speech by the host, followed by a performance by singer Adele. She sings her latest single and the crowd goes wild.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Next, actor Leonardo DiCaprio takes the stage to present the award for Best Actress. Actress Emma Stone wins and delivers an emotional acceptance speech.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Comedian John Oliver then makes a humorous presentation for the Best Comedy Award. The winner is announced and they give an acceptance speech.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:30",
+                "end_time": "00:10:00",
+                "content": "Finally, director Christopher Nolan accepts the award for Best Film. He thanks the cast, crew, and the audience for their support.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases the award ceremony at the gala event in 2023, featuring performances, speeches, and award presentations by various celebrities, including Adele, Leonardo DiCaprio, Emma Stone, and Christopher Nolan."
+    },
+    "category": {
+        "id": 5,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "Adele",
+            "name": "Adele Adkins",
+            "dateOfBirth": "May 5, 1988"
+        },
+        {
+            "id": 2345,
+            "nickName": "Leo",
+            "name": "Leonardo DiCaprio",
+            "dateOfBirth": "November 11, 1974"
+        },
+        {
+            "id": 3456,
+            "nickName": "Emma",
+            "name": "Emma Stone",
+            "dateOfBirth": "November 6, 1988"
+        },
+        {
+            "id": 4567,
+            "nickName": "Chris",
+            "name": "Christopher Nolan",
+            "dateOfBirth": "July 30, 1970"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

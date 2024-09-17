@@ -1,0 +1,47 @@
+{
+    "id": "3991299779",
+    "md5": "b61665dab6b3e9d611e4f0b162b250d7",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cultural_celebrations_traditions.pdf",
+    "desc": "This document explores various cultural celebrations and traditions around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Welcome to this presentation on cultural celebrations and traditions around the world.",
+                "speaker": "Speaker1"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "Let us begin with Diwali, the festival of lights celebrated in India.",
+                "speaker": "Speaker1"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "Cultural Celebrations"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "John",
+            "name": "John Doe",
+            "dateOfBirth": "1990-01-01"
+        }
+    ],
+    "textData": "Cultural celebrations and traditions are an integral part of our lives, reflecting the richness and diversity of human heritage. In this document, we explore various cultural celebrations around the world, from Diwali, the festival of lights in India, to Chinese New Year, the Year of the Ox.",
+    "organizations": []
+}

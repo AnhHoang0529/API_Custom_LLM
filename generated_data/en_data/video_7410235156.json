@@ -1,0 +1,64 @@
+{
+    "id": "7410235156",
+    "md5": "3c4d7a1569fd4b659e2532176e548b4e",
+    "extension": "mp4",
+    "size": 29247264,
+    "height": 720,
+    "width": 1280,
+    "duration": 360.0,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "mardigras_parade.mp4",
+    "desc": "Mardi Gras is a cultural celebration held in New Orleans, known for its iconic parades, vibrant costumes, and rich history. This video captures the spirit of the occasion, featuring various parades and the unique traditions that make Mardi Gras a beloved annual event.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:03:45",
+                "content": "Mardi Gras is an annual cultural celebration held in New Orleans, Louisiana. It is most famous for its parades and the colorful costumes, beads, and other trinkets that are thrown to the crowds.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:45",
+                "end_time": "00:06:50",
+                "content": "The history of Mardi Gras can be traced back to European influences, specifically the Romans and their festival of Saturnalia. Over time, it evolved into a celebration of life and indulgence, with various traditions added along the way.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:50",
+                "end_time": "00:11:00",
+                "content": "The parades are the highlight of Mardi Gras, with different krewes putting on elaborate floats and throwing beads, doubloons, and other throws to the excited crowds. The parades often have specific themes and feature marching bands and other performers.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:00",
+                "end_time": "00:14:15",
+                "content": "Mardi Gras is also known for its King Cake, a traditional dessert that symbolizes the season and represents the unity of the people. The cake is usually round and decorated with the Mardi Gras colors of purple, green, and gold.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:14:15",
+                "end_time": "00:17:10",
+                "content": "The celebrations culminate on Mardi Gras Day, with the Rex Parade being the final parade of the season. It is considered the most prestigious parade and is a grand finale to the festivities.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video covers the history, traditions, and iconic parades of Mardi Gras in New Orleans. Highlights include the origins, King Cake, the various parades, and the Rex Parade as the grand finale."
+    },
+    "category": {
+        "id": 11,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 54321
+    }
+}

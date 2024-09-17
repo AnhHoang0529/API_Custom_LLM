@@ -1,0 +1,54 @@
+{
+    "id": "7107711208",
+    "md5": "2a4b14e98e0e4241f34f3e6e7e2e7e7e",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "important_political_events.pdf",
+    "desc": "A summary of significant political events from the past year",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:20",
+                "content": "This document provides an overview of the most important political events...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:21",
+                "end_time": "00:00:55",
+                "content": "Firstly, the signing of the historic peace treaty between nations A and B...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:56",
+                "end_time": "00:01:05",
+                "content": "Additionally, the election of a new political leader in country X...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:01:06",
+                "end_time": "00:01:30",
+                "content": "Finally, the implementation of a new policy aimed at reducing carbon emissions...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 21345678
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "The past year has seen a number of significant political events that have shaped the world. One of the most notable was the signing of a historic peace treaty between nations A and B, which brought an end to decades of conflict. Another event was the election of a new political leader in country X, who has already begun implementing policies aimed at improving the lives of their citizens. Lastly, the implementation of a new policy aimed at reducing carbon emissions has been a major focus for many governments around the world. This document provides an overview of these events and their implications.",
+    "organizations": []
+}

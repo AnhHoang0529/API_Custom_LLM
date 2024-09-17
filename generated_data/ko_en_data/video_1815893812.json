@@ -1,0 +1,50 @@
+{
+    "id": "1815893812",
+    "md5": "1ecc4d3b5ddb13342c5c00d6d64c228c",
+    "extension": "mp4",
+    "size": 35000000,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "IndianWedding.mp4",
+    "desc": "Indian weddings are rich with traditions and cultural celebrations. This video showcases the grandeur of an Indian wedding, from the pre-wedding rituals to the wedding ceremony and reception. The video highlights the vibrant colors, traditional attire, decorations, and delicious food of the Indian culture.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "01:00:00",
+                "content": "Indian weddings are steeped in diverse traditions and cultural celebrations. The traditions begin long before the wedding day itself, with pre-wedding ceremonies and rituals.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "01:00:00",
+                "end_time": "02:30:00",
+                "content": "The wedding ceremony is an intricately choreographed event, filled with symbolism and meaning. The bride and groom exchange vows under a decorative mandap or canopy, symbolizing the commitment they make to each other. The exchange of garlands, known as jaimalas, is another significant ritual.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "02:30:00",
+                "end_time": "04:00:00",
+                "content": "After the ceremony, the wedding reception is a time for celebration, laughter, and dancing. Family and friends gather to share in the newlyweds' joy, with delicious Indian food and music playing in the background.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Indian weddings are filled with traditions and cultural celebrations. This video shows the pre-wedding rituals, the wedding ceremony, and the reception, highlighting the vibrant colors, traditional attire, decorations, and food."
+    },
+    "category": {
+        "id": 123,
+        "title": "Indian Culture"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

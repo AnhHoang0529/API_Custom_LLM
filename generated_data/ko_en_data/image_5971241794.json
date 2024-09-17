@@ -1,0 +1,34 @@
+{
+    "id": "5971241794",
+    "md5": "a0b3c4d5e6f7g8h9",
+    "extension": "jpeg",
+    "size": 123456,
+    "height": 768,
+    "width": 1024,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "diwali_celebration.jpeg",
+    "desc": "A photo depicting the celebration of Diwali festival with people lighting diyas, bursting firecrackers and decorating their homes.",
+    "narrationStt": "",
+    "category": {
+        "id": 11,
+        "title": "Cultural Celebrations"
+    },
+    "people": [
+        {
+            "id": 54321,
+            "nickName": "Raj",
+            "name": "Rajesh Sharma",
+            "dateOfBirth": "1988-12-25"
+        },
+        {
+            "id": 65432,
+            "nickName": "Priya",
+            "name": "Priya Patel",
+            "dateOfBirth": "1992-05-10"
+        }
+    ],
+    "organizations": []
+}

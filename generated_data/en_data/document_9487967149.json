@@ -1,0 +1,47 @@
+{
+    "id": "9487967149",
+    "md5": "5d2d44d4e7d4e3a4574963f79d3f766b",
+    "extension": "pdf",
+    "size": 115125,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "delicious_recipes.pdf",
+    "desc": "A collection of gourmet dishes and their preparation methods.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "Discover delightful culinary creations",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:16",
+                "content": "Learn about various gourmet dishes and their origins",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:17",
+                "end_time": "00:00:28",
+                "content": "Explore the world of fine dining with us",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 36792
+    },
+    "category": {
+        "id": 3,
+        "title": "Cookbooks"
+    },
+    "people": [],
+    "textData": "This cookbook introduces a variety of gourmet dishes, ranging from French haute cuisine to renowned Italian pasta recipes. Each recipe comes with a step-by-step guide to prepare these exquisite dishes at home. In addition, the book provides information on the history and significance of each dish, elevating your cooking experience.",
+    "organizations": []
+}

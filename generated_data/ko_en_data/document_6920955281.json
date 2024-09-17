@@ -1,0 +1,54 @@
+{
+    "id": "6920955281",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "research_paper_quantum_computing.pdf",
+    "desc": "A comprehensive research paper on quantum computing.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "This research paper explores the advancements in quantum computing over the last decade",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:12",
+                "content": "with a focus on its potential applications in fields like cryptography, optimization, and machine learning.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:12",
+                "end_time": "00:00:18",
+                "content": "The paper begins by discussing the basics of quantum mechanics",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:18",
+                "end_time": "00:00:30",
+                "content": "and the key principles of quantum computing, including qubits and superposition.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "Research Papers"
+    },
+    "people": [],
+    "textData": "This research paper explores the advancements in quantum computing over the last decade, with a focus on its potential applications in fields like cryptography, optimization, and machine learning. The paper begins by discussing the basics of quantum mechanics and the key principles of quantum computing, including qubits and superposition. It then delves into recent breakthroughs in quantum algorithms and hardware, and discusses their implications for various industries. The paper also discusses the challenges and limitations of quantum computing, and outlines future research directions. Overall, the paper provides a comprehensive overview of the current state of quantum computing and its potential impact on technology and society.",
+    "organizations": []
+}

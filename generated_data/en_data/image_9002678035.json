@@ -1,0 +1,73 @@
+{
+    "id": "9002678035",
+    "md5": "91d6e9f286b363d8a8c077e9a1a84fca",
+    "extension": "jpg",
+    "size": 60123,
+    "height": 1024,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "movie_scene.jpg",
+    "desc": "A captivating scene from a suspenseful movie featuring a leading actress and several supporting characters",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "In the dimly lit room, a tense scene unfolds between the lead actress and a mysterious stranger.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:16",
+                "end_time": "00:00:25",
+                "content": "The actress, known for her elegant poise, appears shaken, her eyes darting around the room.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:26",
+                "end_time": "00:00:35",
+                "content": "Suddenly, the door creaks open, revealing several supporting characters entering the room.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:36",
+                "end_time": "00:00:45",
+                "content": "The supporting characters, seemingly unaware of the tension, engage in light conversation.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:46",
+                "end_time": "00:00:55",
+                "content": "The lead actress, her nerves evident, attempts to steer the conversation towards a safe topic.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 78910
+    },
+    "category": {
+        "id": 11,
+        "title": "Movie Scenes"
+    },
+    "people": [
+        {
+            "id": 24,
+            "nickName": "LeadActress",
+            "name": "Emma Stone",
+            "dateOfBirth": "November 6, 1988"
+        },
+        {
+            "id": 33,
+            "nickName": "MysteriousStranger",
+            "name": "Tom Hardy",
+            "dateOfBirth": "September 15, 1981"
+        }
+    ],
+    "organizations": []
+}

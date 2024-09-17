@@ -1,0 +1,57 @@
+{
+    "id": "6726505341",
+    "md5": "671b442324cd123c4a6d6a9d93462d63",
+    "extension": "mp4",
+    "size": 25000000,
+    "height": 1080,
+    "width": 1920,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "majestic-landscapes.mp4",
+    "desc": "This video showcases breathtaking landscapes from around the world, including mountains, waterfalls, and deserts.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:50",
+                "end_time": "00:03:20",
+                "content": "We begin our journey through stunning landscapes in the Himalayas, known for their majestic mountains and pristine beauty. From the towering peaks and lush valleys, the Himalayas are a sight to behold.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:06:00",
+                "content": "Next, we travel to Iceland, where we find a unique blend of waterfalls, geysers, and volcanic landscapes. The raw power and untouched beauty of these lands are truly awe-inspiring.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:10",
+                "end_time": "00:09:00",
+                "content": "Our final stop is the Sahara Desert, a place of vast expanses, endless sand dunes, and a serene beauty that captivates the soul. The stark contrast between the lifeless sands and the vibrant sky creates a breathtaking scene.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:09:10",
+                "end_time": "00:18:00",
+                "content": "We've explored the Himalayas, Iceland, and the Sahara Desert, but there are countless other landscapes waiting to be discovered. Whether it's the rolling hills of Tuscany or the rugged coastlines of Norway, the world is filled with majestic beauty.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video explores the beauty of various landscapes, including the Himalayas, Iceland, and the Sahara Desert. Each location is described in detail, highlighting their unique characteristics."
+    },
+    "category": {
+        "id": 2,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 1124312
+    }
+}

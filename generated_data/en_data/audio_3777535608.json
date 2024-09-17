@@ -1,0 +1,47 @@
+{
+    "id": "3777535608",
+    "md5": "6dccd8d8c0e9e2b199a9cdbd113232a1",
+    "extension": "mp3",
+    "size": 6325728,
+    "height": "",
+    "width": "",
+    "duration": 120.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "city_scapes.mp3",
+    "desc": "Ambient sounds of an urban cityscape, with the bustle of traffic, people, and public transportation.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:00",
+                "content": "The city awakens as morning breaks, revealing the hustle and bustle of urban life. Traffic begins to flow, as cars, buses, and trucks navigate the busy streets. Pedestrians rush to work, their footsteps echoing off the concrete sidewalks. The cacophony of car horns, engine revs, and chatter fill the air, a testament to the vitality of the city.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:00",
+                "content": "Sirens wail in the distance, signaling the presence of emergency services. Children play in nearby parks, their laughter a welcome contrast to the ceaseless noise. Street vendors hawk their wares, adding to the symphony of urban sounds. The air is filled with a rich tapestry of sounds, each painting a vivid picture of city life.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:00",
+                "end_time": "00:06:30",
+                "content": "The sun sets, casting long shadows over the cityscape. The pace of life slows as people return home from work. Streetlights flicker on, illuminating the streets. The day's final commute comes to an end, and the city settles into a peaceful evening. The sounds of the city continue to ebb and flow, a testament to the ever-changing rhythm of urban life.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Experience the hustle and bustle of an urban cityscape, from morning to evening. Traffic, people, emergency services, children at play, and the daily commute."
+    },
+    "category": {
+        "id": 10,
+        "title": "City Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

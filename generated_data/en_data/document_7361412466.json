@@ -1,0 +1,40 @@
+{
+    "id": "7361412466",
+    "md5": "d7d63cd1e4e15ebe69f1b817b22b5779",
+    "extension": "pdf",
+    "size": 120485,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "majestic_landscapes.pdf",
+    "desc": "A captivating collection of photographs capturing the beauty of various majestic landscapes.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:09",
+                "content": "Welcome to our photo album showcasing majestic landscapes from around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:18",
+                "content": "The first photograph is of the Grand Canyon in Arizona, USA.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 271497
+    },
+    "category": {
+        "id": 54,
+        "title": "Majestic Landscapes"
+    },
+    "people": [],
+    "textData": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is considered one of the Seven Natural Wonders of the World, and is renowned for its unique and spectacular geological features. The Grand Canyon is 277 miles long, up to 18 miles wide, and over a mile deep. It is also home to a wide variety of wildlife, including endangered California Condors and Humpback Chubs. The canyon's ecosystem is incredibly diverse, with a wide range of habitats such as forests, grasslands, and wetlands. The Grand Canyon is a popular tourist destination, with millions of visitors each year. It is also a major hub for scientific research, with numerous universities and research institutions studying the geology, biology, and ecology of the canyon and its surrounding areas. The Grand Canyon is a testament to the power of nature and the beauty of the natural world.",
+    "organizations": []
+}

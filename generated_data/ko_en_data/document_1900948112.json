@@ -1,0 +1,40 @@
+{
+    "id": "1900948112",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_research.pdf",
+    "desc": "An in-depth analysis of recent political events and their implications.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:06",
+                "content": "This research delves into the intricacies of recent political events...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:11",
+                "content": "Exploring their implications and the impact on global politics...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 456
+    },
+    "category": {
+        "id": 12,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "The political landscape has undergone significant changes in recent times, with several high-profile events shaping the discourse and setting the agenda for the future. From Brexit to the US elections, these events have brought about a shift in global politics, with far-reaching consequences for countries and their citizens. In this research, we will delve into the intricacies of these events, exploring their implications and the impact on global politics. By examining the causes, context, and consequences of these events, we will gain a deeper understanding of the political landscape and the challenges it poses. Whether you are a student, researcher, or simply interested in politics, this research will provide you with valuable insights and perspectives, helping you stay informed and engaged in the ever-evolving world of politics.",
+    "organizations": []
+}

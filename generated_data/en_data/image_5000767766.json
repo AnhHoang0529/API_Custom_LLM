@@ -1,0 +1,46 @@
+{
+    "id": "5000767766",
+    "md5": "133f9c8d23e83434b25e9c233e487f22",
+    "extension": "jpeg",
+    "size": 87231,
+    "height": 720,
+    "width": 1280,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "scene_01.jpeg",
+    "desc": "A tranquil scene of a park with children playing in the background and ducks swimming in a pond.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "A peaceful scene in a park.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "Children are playing in the background.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "Ducks swim in the pond.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 29825
+    },
+    "category": {
+        "id": 12,
+        "title": "Scenes"
+    },
+    "people": [],
+    "organizations": []
+}

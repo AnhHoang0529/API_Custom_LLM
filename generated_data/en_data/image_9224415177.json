@@ -1,0 +1,60 @@
+{
+    "id": "9224415177",
+    "md5": "31d6cfe0d16ae931b73c59d7e0c089c0",
+    "extension": "jpeg",
+    "size": 56874,
+    "height": 720,
+    "width": 1280,
+    "duration": 0,
+    "density": 96,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "image1.jpeg",
+    "desc": "A photo of the famous Hollywood actress, Emma Watson",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Emma Watson, born on April 15, 1990, is a British-American actress, activist, and model",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "She gained fame for her role as Hermione Granger in the Harry Potter film series and has since starred in various films, including Beauty and the Beast and The Circle",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:22",
+                "content": "Watson is also a prominent activist for gender equality",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:22",
+                "end_time": "00:00:30",
+                "content": "She is a UN Women Goodwill Ambassador and co-founded the HeForShe campaign",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 98065
+    },
+    "category": {
+        "id": 439,
+        "title": "Celebrity"
+    },
+    "people": [
+        {
+            "id": 782967,
+            "nickName": "",
+            "name": "Emma Watson",
+            "dateOfBirth": "April 15, 1990"
+        }
+    ],
+    "organizations": []
+}

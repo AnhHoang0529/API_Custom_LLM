@@ -1,0 +1,61 @@
+{
+    "id": "6521372961",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 1080,
+    "width": 1920,
+    "duration": 135.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscapes.mp4",
+    "desc": "An impressive collection of urban cityscapes showcasing various architectural styles and vibrant street life.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:45",
+                "end_time": "00:02:30",
+                "content": "In this urban cityscape, towering skyscrapers dominate the horizon, casting long shadows over the bustling streets.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:10",
+                "end_time": "00:04:45",
+                "content": "A lively marketplace is seen in the foreground, filled with vendors selling exotic fruits and aromatic spices. The hustle and bustle of the crowd creates an energetic atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:00",
+                "end_time": "00:07:15",
+                "content": "A tranquil park offers a moment of respite amidst the concrete jungle, with lush greenery and a serene pond reflecting the surrounding architecture.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:30",
+                "end_time": "00:09:45",
+                "content": "A modern subway station reveals the seamless integration of cutting-edge technology with urban infrastructure, as passengers await their trains.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:15",
+                "end_time": "00:12:00",
+                "content": "As the sun begins to set, the cityscape transforms into a stunning tableau of colors and textures, providing a breathtaking conclusion to the tour.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore an urban cityscape filled with towering skyscrapers, bustling markets, tranquil parks, modern subway stations, and breathtaking sunsets."
+    },
+    "category": {
+        "id": 81,
+        "title": "Urban Scenes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

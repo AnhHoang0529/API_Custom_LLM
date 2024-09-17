@@ -1,0 +1,74 @@
+{
+    "id": "5597308787",
+    "md5": "935b090e4634e7f0a92363a8f3940e1e",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 1,
+    "channels": 1,
+    "displayRotate": "",
+    "originalName": "01-Political-Event.mp4",
+    "desc": "This video covers the political event held at the United Nations in 2022.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The United Nations General Assembly Hall was filled with vibrant energy as global leaders gathered for the annual political event.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Secretary-General Ant\u00f3nio Guterres gave a welcoming speech, acknowledging the significant challenges that the world currently faces, including climate change, economic inequality, and political instability.",
+                "speaker": "Ant\u00f3nio Guterres"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:07:00",
+                "content": "The keynote speaker, Dr. Jane Goodall, presented her insights on conservation and the importance of preserving natural habitats. She urged world leaders to prioritize sustainability and protect the environment.",
+                "speaker": "Dr. Jane Goodall"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:00",
+                "end_time": "00:10:30",
+                "content": "During the Question and Answer session, world leaders discussed potential solutions to address these challenges and highlighted their nation's commitments towards sustainable development.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:30",
+                "end_time": "00:18:00",
+                "content": "The event concluded with a vote on a resolution to strengthen international cooperation in tackling global issues. The resolution was unanimously passed, marking an important step towards a more sustainable and equitable future.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video covers the United Nations annual political event in 2022, featuring speeches from Secretary-General Ant\u00f3nio Guterres, Dr. Jane Goodall, and world leaders discussing solutions to global challenges and passing a resolution for international cooperation."
+    },
+    "category": {
+        "id": 7,
+        "title": "Political Events"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "Antonio",
+            "name": "Ant\u00f3nio Guterres",
+            "dateOfBirth": "1949-01-24"
+        },
+        {
+            "id": 5678,
+            "nickName": "Jane",
+            "name": "Dr. Jane Goodall",
+            "dateOfBirth": "1934-04-03"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

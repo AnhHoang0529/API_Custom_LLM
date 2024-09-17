@@ -1,0 +1,28 @@
+{
+    "id": "3188102104",
+    "md5": "7a6aaa6d4d885d01a6de90690e4c6345",
+    "extension": "jpeg",
+    "size": 69441,
+    "height": 1024,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230308_123456.jpeg",
+    "desc": "A football player celebrating a goal during a match in the Champions League",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "Cristiano",
+            "name": "Ronaldo",
+            "dateOfBirth": "1985-02-05"
+        }
+    ],
+    "organizations": []
+}

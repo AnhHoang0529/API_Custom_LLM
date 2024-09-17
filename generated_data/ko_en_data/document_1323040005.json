@@ -1,0 +1,40 @@
+{
+    "id": "1323040005",
+    "md5": "b74b5c6c3e7c5f1be78b192e55119f13",
+    "extension": "pdf",
+    "size": 128452,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "diwali_research_paper.pdf",
+    "desc": "A research paper on the significance of Diwali in Indian culture",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:02",
+                "end_time": "00:00:10",
+                "content": "This research paper sheds light on the cultural significance of Diwali",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:30",
+                "content": "in Indian culture and its traditions",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 123045
+    },
+    "category": {
+        "id": 113,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "textData": "Diwali, also known as the festival of lights, is a major Hindu, Jain, and Sikh celebration that marks the victory of light over darkness, good over evil. The festival is celebrated annually in late October or early November and lasts for five days. Each day of Diwali represents a different meaning: Dhanteras (the day of wealth), Chhoti Diwali (the day of happiness), Badi Diwali (the main day of Diwali), Govardhan Puja (the day of gratitude), and Bhai Dooj (the day of brother-sister bonding).",
+    "organizations": []
+}

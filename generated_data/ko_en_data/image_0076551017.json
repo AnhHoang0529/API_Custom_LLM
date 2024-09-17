@@ -1,0 +1,32 @@
+{
+    "id": "0076551017",
+    "md5": "e9b727b60804e50e0678e818a684a76c",
+    "extension": "jpeg",
+    "size": 56827,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\ub7ed\ube44_\ub9e4\uce58_2022.jpeg",
+    "desc": "\uacbd\uae30\uc7a5\uc5d0\uc11c \uacbd\uae30\ub97c \ud558\ub294 \ub450 \ub7ed\ube44 \ud300.",
+    "narrationStt": "",
+    "category": {
+        "id": 13,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 15,
+            "name": "\uc789\uae00\ub79c\ub4dc \ub7ed\ube44 \uc720\ub2c8\uc5b8",
+            "otherName": ""
+        },
+        {
+            "id": 16,
+            "name": "\uc6e8\uc77c\uc988 \ub7ed\ube44 \uc720\ub2c8\uc5b8",
+            "otherName": ""
+        }
+    ]
+}

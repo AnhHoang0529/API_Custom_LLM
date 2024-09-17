@@ -1,0 +1,77 @@
+{
+    "id": "2296354428",
+    "md5": "f5c3120613a2e4d1a9384929a7b8d65f",
+    "extension": "mp3",
+    "size": 15742996,
+    "height": "",
+    "width": "",
+    "duration": 263.8,
+    "density": 1600,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Political_Events_01.mp3",
+    "desc": "This audio file discusses the latest political events around the world. It covers topics such as international conflicts, elections, and government policies.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:02:00",
+                "content": "Today's political discussions revolve around international conflicts and crucial government policies. In recent news, the United States and Russia have been at odds over Ukraine.",
+                "speaker": "Anchorman"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:04:15",
+                "content": "George Bush, the former U.S. president, has recently commented on the situation, expressing concern for the escalating tensions. He also criticized Putin for his aggressive foreign policies.",
+                "speaker": "George Bush"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:15",
+                "end_time": "00:06:00",
+                "content": "Putin, on the other hand, has refuted these allegations. He argues that the U.S. is trying to interfere in Russian affairs. Meanwhile, Ukrainian officials continue to seek international aid and diplomatic support.",
+                "speaker": "Vladimir Putin"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "There are also ongoing elections in multiple countries, including France and Germany. These elections have the potential to significantly impact the political landscape of Europe.",
+                "speaker": "Anchorman"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:09:00",
+                "content": "Candidates have been campaigning intensely, addressing key issues such as immigration, economy, and security. France's Emmanuel Macron and Germany's Angela Merkel are leading in the polls.",
+                "speaker": "Anchorman"
+            }
+        ],
+        "sttSummary": "Political discussions cover international conflicts and government policies, with tensions between the US and Russia over Ukraine. Former US President George Bush has commented on the situation, criticizing Putin's foreign policies. Putin denies the allegations and accuses the US of interference. Ongoing elections in France and Germany have candidates campaigning on key issues such as immigration, economy, and security."
+    },
+    "category": {
+        "id": 13,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 21567,
+            "nickName": "George",
+            "name": "George Bush",
+            "dateOfBirth": "July 6, 1946"
+        },
+        {
+            "id": 17498,
+            "nickName": "Putin",
+            "name": "Vladimir Putin",
+            "dateOfBirth": "October 7, 1952"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 96421
+    }
+}

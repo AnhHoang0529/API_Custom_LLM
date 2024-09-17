@@ -1,0 +1,67 @@
+{
+    "id": "4770571197",
+    "md5": "86db7c0a927d66ebb3fa234234a15d14",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 152.3,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "celebrities.mp4",
+    "desc": "A video about various celebrities and their impact on pop culture.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:01:45",
+                "content": "Brad Pitt, a renowned actor, has won numerous awards for his acting abilities.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:46",
+                "end_time": "00:02:56",
+                "content": "Angelina Jolie, a humanitarian and actress, has dedicated her life to philanthropy and activism.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:57",
+                "end_time": "00:04:27",
+                "content": "Celebrities often use their influence to raise awareness for various causes and make a difference in the world.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:28",
+                "end_time": "00:05:58",
+                "content": "The world of celebrities is fascinating, with complex relationships, scandals, and dramatic twists.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video discusses various celebrities and their impact on pop culture, including their philanthropy, activism, and personal lives."
+    },
+    "category": {
+        "id": 123,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 456,
+            "nickName": "",
+            "name": "Brad Pitt",
+            "dateOfBirth": "12/18/1963"
+        },
+        {
+            "id": 457,
+            "nickName": "",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "05/04/1975"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

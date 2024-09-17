@@ -1,0 +1,54 @@
+{
+    "id": "0998916563",
+    "md5": "e7b0409c9a23d373f3e477f2e46d8e8d",
+    "extension": "pdf",
+    "size": 223450,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "study_and_work_habits.pdf",
+    "desc": "A document about study and work habits.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "This document discusses effective study and work habits for students and professionals.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:30",
+                "content": "First, it covers the importance of setting clear goals and prioritizing tasks.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:45",
+                "content": "Next, it provides tips on time management, such as scheduling study sessions and taking breaks.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:46",
+                "end_time": "00:01:00",
+                "content": "Finally, it offers strategies for maintaining focus and reducing distractions.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 2734816
+    },
+    "category": {
+        "id": 101,
+        "title": "Productivity"
+    },
+    "people": [],
+    "textData": "Study and work habits can significantly impact a person's productivity and overall success. Effective study habits, such as setting clear goals, prioritizing tasks, and utilizing time management techniques, can help students excel in their academic pursuits. Similarly, adopting good work habits, such as maintaining focus, managing distractions, and taking breaks, can lead to increased productivity and better job performance. This document discusses various study and work habits, offering practical tips and strategies for individuals looking to improve their efficiency and achieve their goals.",
+    "organizations": []
+}

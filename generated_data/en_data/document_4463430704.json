@@ -1,0 +1,40 @@
+{
+    "id": "4463430704",
+    "md5": "e161b2a8257cbdfb3acd426cc65c8a9c",
+    "extension": "pdf",
+    "size": 169356,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "football_match_results.pdf",
+    "desc": "A document comprising the results and statistics of various football matches across different leagues and countries.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:20",
+                "content": "This document provides detailed results and statistics for several football matches.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:21",
+                "end_time": "00:00:35",
+                "content": "It covers various leagues and countries, ensuring comprehensive coverage.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 34620
+    },
+    "category": {
+        "id": 7,
+        "title": "Sports"
+    },
+    "people": [],
+    "textData": "The document begins with a table displaying the results of the latest football matches across various leagues. Each row of the table lists the teams involved in the match, the league, the date, and the score. The next section of the document provides a brief description of each league, its history, and notable teams and players. Further into the document, there's a section dedicated to the current rankings of the teams in each league and their past performances. The document concludes with a statistical analysis of the performance trends of various teams and leagues, including goals scored, assists, and cards. Overall, the document is an essential resource for football enthusiasts and analysts.",
+    "organizations": []
+}

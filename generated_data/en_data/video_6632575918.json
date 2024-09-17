@@ -1,0 +1,68 @@
+{
+    "id": "6632575918",
+    "md5": "5e0a4b47602b33292569f0899c14e7f3",
+    "extension": "mp4",
+    "size": 12234567,
+    "height": 720,
+    "width": 1280,
+    "duration": 233.4,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Brad_Pitt_Interview.mp4",
+    "desc": "An interview with Brad Pitt conducted at the 2015 Sundance Film Festival",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:35",
+                "content": "Brad Pitt, a renowned Hollywood actor, sat down for an interview at the 2015 Sundance Film Festival to discuss his latest projects.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:40",
+                "end_time": "00:03:00",
+                "content": "Pitt spoke about his role in 'The Big Short', a film based on Michael Lewis' book that sheds light on the 2008 housing market crisis, and his production company's role in bringing the story to the screen.",
+                "speaker": "Brad Pitt"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:05",
+                "end_time": "00:04:40",
+                "content": "Talking about his role in Quentin Tarantino's 'Once Upon a Time in Hollywood', Pitt shared his experience working with Tarantino and Leonardo DiCaprio.",
+                "speaker": "Brad Pitt"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:45",
+                "end_time": "00:06:15",
+                "content": "The interview touched on Pitt's philanthropic efforts and his work with the Make It Right Foundation, which focuses on rebuilding homes for communities in need.",
+                "speaker": "Brad Pitt"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:20",
+                "end_time": "00:07:55",
+                "content": "Rounding out the interview, Pitt spoke about his excitement for the future and his upcoming projects, including a role in James Gray's 'Ad Astra'.",
+                "speaker": "Brad Pitt"
+            }
+        ],
+        "sttSummary": "In this interview, Brad Pitt discusses his role in 'The Big Short' and his production company's involvement in the film, talks about working with Quentin Tarantino and Leonardo DiCaprio on 'Once Upon a Time in Hollywood', shares insights about his philanthropic efforts, and talks about his future projects."
+    },
+    "category": {
+        "id": 135,
+        "title": "Interviews"
+    },
+    "people": [
+        {
+            "id": 1244,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

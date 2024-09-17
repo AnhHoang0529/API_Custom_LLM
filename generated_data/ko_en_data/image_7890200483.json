@@ -1,0 +1,52 @@
+{
+    "id": "7890200483",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "\uc2a4\ud3ec\uce20 \uc774\ubca4\ud2b8: \ub77c\ud30c\uc5d8 \ub098\ub2ec\uacfc \ub178\ubc15 \uc870\ucf54\ube44\uce58\uac00 \ucc38\uac00\ud558\ub294 \ud14c\ub2c8\uc2a4 \ucc54\ud53c\uc5b8\uc2ed",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:15",
+                "content": "\ub77c\ud30c\uc5d8 \ub098\ub2ec\uacfc \ub178\ubc15 \uc870\ucf54\ube44\uce58\uc758 \ud14c\ub2c8\uc2a4 \ucc54\ud53c\uc5b8\uc2ed",
+                "speaker": "\uc2a4\ud3ec\uce20 \ud574\uc124\uc790"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:16",
+                "end_time": "00:01:00",
+                "content": "\ub098\ub2ec\uc774 \uba3c\uc800 \uc11c\ube0c\ub97c \ub123\uace0 \uc5d0\uc774\uc2a4\ub97c \uce5c\ub2e4.",
+                "speaker": "\uc2a4\ud3ec\uce20 \ud574\uc124\uc790"
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [
+        {
+            "id": 456211,
+            "nickName": "\ub77c\ud30c",
+            "name": "\ub77c\ud30c\uc5d8 \ub098\ub2ec",
+            "dateOfBirth": "1986-06-03"
+        },
+        {
+            "id": 135791,
+            "nickName": "\uacb0\uc11d",
+            "name": "\ub178\ubc15 \uc870\ucf54\ube44\uce58",
+            "dateOfBirth": "1987-05-22"
+        }
+    ],
+    "organizations": []
+}

@@ -1,0 +1,64 @@
+{
+    "id": "8896079607",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 52428800,
+    "height": 720,
+    "width": 1280,
+    "duration": 300.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Cultural_Celebrations_Traditions.mp4",
+    "desc": "An exploration of various cultural celebrations and traditions from around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "In various parts of India, the festival of Diwali is celebrated with great enthusiasm. The festival marks the victory of light over darkness and good over evil.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "The Chinese New Year is also known as Lunar New Year. It is celebrated in many countries including China, Vietnam, and Singapore. This festival signifies the beginning of a new year on the traditional Chinese calendar.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "The Day of the Dead, or D\u00eda de los Muertos, is a significant holiday in Mexico. Families gather to remember and honor their deceased loved ones.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:09:00",
+                "content": "The harvest festival of Thanksgiving is celebrated in the United States. This day is dedicated for expressing gratitude and giving thanks for the blessings of the year.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:30",
+                "end_time": "00:11:00",
+                "content": "The Christmas season is celebrated globally. It commemorates the birth of Jesus Christ and is marked by various traditions such as gift-giving, feasting, and decorating homes with lights.",
+                "speaker": "Presenter"
+            }
+        ],
+        "sttSummary": "This video discusses various cultural celebrations and traditions from around the world, including Diwali, Chinese New Year, Day of the Dead, Thanksgiving, and Christmas."
+    },
+    "category": {
+        "id": 11,
+        "title": "Cultural Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 67890
+    }
+}

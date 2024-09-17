@@ -1,0 +1,61 @@
+{
+    "id": "2694686745",
+    "md5": "8e7929d0ac898391648183bb6317827f",
+    "extension": "mp4",
+    "size": 39017648,
+    "height": 1920,
+    "width": 1080,
+    "duration": 245.2,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscape.mp4",
+    "desc": "An urban cityscape video showcasing the hustle and bustle of a modern metropolis. This video offers stunning aerial views of various architectural styles, busy streets, and vibrant markets. The urban landscape is presented in breathtaking detail, revealing intricately designed buildings, traffic patterns, and the daily life of city dwellers.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "A captivating aerial view of an urban cityscape, with a mix of modern and traditional architecture. Buildings with glass facades, skyscrapers, and houses with red roofs can be seen. The city's layout consists of organized streets and squares.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "The camera pans across the bustling streets, revealing the daily life of city dwellers. People are seen shopping, cooking, and engaging in various activities. The markets are filled with vendors selling fresh produce and colorful textiles.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "The video now focuses on the intricacies of urban planning, with a close-up view of a public park in the center of the city. The park is filled with lush greenery, walking trails, and benches for relaxation. The nearby buildings reflect the sunlight, creating a picturesque scene.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "A unique perspective of the city's transportation system is shown, with a bird's eye view of the train and bus networks. The interconnected web of roads and tracks provides a clear understanding of the city's infrastructure.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:08:30",
+                "content": "The video concludes with a breathtaking sunset over the cityscape, casting a warm glow over the buildings and streets. The calm atmosphere is a stark contrast to the hustle and bustle of the day.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video offers an in-depth exploration of an urban cityscape, showcasing its unique architecture, bustling streets, vibrant markets, and intricacies of urban planning. The video concludes with a beautiful sunset over the city, creating a serene atmosphere."
+    },
+    "category": {
+        "id": 23,
+        "title": "Urban Landscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

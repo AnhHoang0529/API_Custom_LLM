@@ -1,0 +1,61 @@
+{
+    "id": "8471024945",
+    "md5": "f2a933f73c0f252e4b13b5d2882d3ee4",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "football_match.mp4",
+    "desc": "A video recording of a football match.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:45",
+                "content": "The teams take their positions on the field. The referee signals the start of the match. Play begins with a kickoff.",
+                "speaker": "John"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:45",
+                "end_time": "00:10:22",
+                "content": "The ball is passed back and forth between the teams as they try to gain an advantage. A corner kick is awarded to team A.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:22",
+                "end_time": "00:16:58",
+                "content": "The corner kick is taken, and the ball is headed into the goal by team A's player. The crowd cheers as the scoreboard updates to reflect the goal.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:16:58",
+                "end_time": "00:18:30",
+                "content": "The match continues with both teams trying to score. The ball is passed between players, and shots are taken. Time is winding down, and the tension builds as the game enters its final minutes.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:30",
+                "end_time": "00:20:00",
+                "content": "The final whistle is blown, marking the end of the match. Team A has won with a score of 1-0.",
+                "speaker": "Announcer"
+            }
+        ],
+        "sttSummary": "The video is a recording of a football match. The match begins with the teams taking their positions, followed by a kickoff. Team A takes a corner kick, which results in their first goal. The match continues with both teams trying to score, and the final whistle is blown, signaling the end of the match with a score of 1-0 in favor of Team A."
+    },
+    "category": {
+        "id": 123,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

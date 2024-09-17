@@ -1,0 +1,68 @@
+{
+    "id": "6214784159",
+    "md5": "6905967823925e7e82b6b58a7772e71e",
+    "extension": "mp4",
+    "size": 87642318,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Jennifer_Aniston_Interview.mp4",
+    "desc": "A 120-second interview with Jennifer Aniston discussing her acting career, personal life, and upcoming projects",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:20",
+                "end_time": "00:01:30",
+                "content": "Jennifer Aniston is a renowned American actress, best known for her roles in Friends and The Morning Show.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:02:45",
+                "content": "She began her acting career with the off-Broadway production For Love Alone in 1993 and made her film debut in the 1993 horror comedy Leprechaun.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:45",
+                "end_time": "00:04:00",
+                "content": "Aniston starred as Rachel Green on Friends from 1994 to 2004, earning her a Primetime Emmy Award, a Golden Globe Award, and a Screen Actors Guild Award.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:00",
+                "end_time": "00:05:15",
+                "content": "Following Friends, Aniston appeared in several films and television series, including The Good Girl, Horrible Bosses, and The Morning Show.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:15",
+                "end_time": "00:06:00",
+                "content": "In 2020, she starred in Apple TV+ comedy series The Morning Show alongside Reese Witherspoon and Steve Carell.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video is a 120-second interview with Jennifer Aniston discussing her acting career, personal life, and upcoming projects."
+    },
+    "category": {
+        "id": 13,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 45,
+            "nickName": "",
+            "name": "Jennifer Aniston",
+            "dateOfBirth": "1969-02-11"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

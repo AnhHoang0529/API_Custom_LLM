@@ -1,0 +1,64 @@
+{
+    "id": "8187434382",
+    "md5": "74caab22e53b75180a53d636562306eb",
+    "extension": "mp3",
+    "size": 1237293,
+    "height": "",
+    "width": "",
+    "duration": 165.7,
+    "density": "",
+    "channels": 1,
+    "displayRotate": "",
+    "originalName": "Majestic-Landscapes.mp3",
+    "desc": "Explore the breathtaking beauty of majestic landscapes around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:20",
+                "end_time": "00:02:30",
+                "content": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is one of the most famous natural wonders in the world.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:31",
+                "end_time": "00:04:00",
+                "content": "The Northern Lights, also known as the Aurora Borealis, is a natural light display in the polar regions. It is a result of the interaction between solar particles and Earth's magnetic field.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:01",
+                "end_time": "00:05:30",
+                "content": "The Great Barrier Reef is the largest coral reef system in the world, stretching over 2,300 kilometers (1,430 miles) along the northeastern coast of Australia.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:31",
+                "end_time": "00:06:45",
+                "content": "The Sahara Desert is the largest hot desert in the world, covering an area of about 9 million square kilometers (3.5 million square miles) across North Africa.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:46",
+                "end_time": "00:08:00",
+                "content": "The Swiss Alps are a major mountain range in Europe, renowned for their stunning scenery and challenging ski runs. They stretch over 150 kilometers (93 miles) along the border of Switzerland, Italy, Austria, and France.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore the beauty of the Grand Canyon, Northern Lights, Great Barrier Reef, Sahara Desert, and Swiss Alps in this audio."
+    },
+    "category": {
+        "id": 45,
+        "title": "Majestic Landscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 125684
+    }
+}

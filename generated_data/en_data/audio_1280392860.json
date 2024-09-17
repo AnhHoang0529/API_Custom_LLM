@@ -1,0 +1,64 @@
+{
+    "id": "1280392860",
+    "md5": "6b6b88dd885b23d4d52b4f1339d299a4",
+    "extension": "mp3",
+    "size": 5222344,
+    "height": "",
+    "width": "",
+    "duration": 120.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "wild_animals.mp3",
+    "desc": "This audio recording captures the diverse sounds of various wild animals living in different habitats.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:30",
+                "content": "Welcome to our recording of wild animals in their natural habitats. We'll be exploring various sounds from the African savanna, the Amazon rainforest, and the Arctic tundra.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "The African savanna is home to a rich variety of wildlife. Let's listen to the roar of a lion.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:04:30",
+                "content": "The sound of a lion's roar is unmistakable, a powerful and primal call that echoes across the vast savanna. But it's not just lions that call this place home.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Elephants trumpet, zebras snort, and giraffes communicate with their unique vocalizations. The African savanna is truly a symphony of wild animal sounds.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Next, we'll explore the sounds of the Amazon rainforest.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This recording captures the diverse sounds of wild animals in various habitats: the African savanna, the Amazon rainforest, and the Arctic tundra. The African savanna is home to lions, elephants, zebras, and giraffes, with each animal making unique vocalizations. The Amazon rainforest is next, and the recording will capture the sounds of that ecosystem."
+    },
+    "category": {
+        "id": 2,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 1935734
+    }
+}

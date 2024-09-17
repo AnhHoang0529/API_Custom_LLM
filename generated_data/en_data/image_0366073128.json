@@ -1,0 +1,28 @@
+{
+    "id": "0366073128",
+    "md5": "b9d1c1f1e88f0a1b6b2760b28f0e8a2d",
+    "extension": "jpeg",
+    "size": 78155,
+    "height": 1024,
+    "width": 1536,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "study1.jpeg",
+    "desc": "A person sitting at a desk, with books spread around and a laptop open in front of them",
+    "narrationStt": "",
+    "category": {
+        "id": 9,
+        "title": "Study and Work"
+    },
+    "people": [
+        {
+            "id": 12345,
+            "nickName": "Student",
+            "name": "John Doe",
+            "dateOfBirth": "1992-05-23"
+        }
+    ],
+    "organizations": []
+}

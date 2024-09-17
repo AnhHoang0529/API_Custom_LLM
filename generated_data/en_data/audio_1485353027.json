@@ -1,0 +1,77 @@
+{
+    "id": "1485353027",
+    "md5": "5b63b11a5f0f74c700d9c9d6248c5d08",
+    "extension": "mp3",
+    "size": 4688828,
+    "height": "",
+    "width": "",
+    "duration": 112.1,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "soccer_match.mp3",
+    "desc": "A soccer match commentary between two professional commentators, John Smith and Mark Johnson.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "Today, we have a soccer match between Manchester United and Chelsea at Old Trafford Stadium. Manchester United is in the lead, 1-0.",
+                "speaker": "John"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:30",
+                "content": "Chelsea's player, Ronaldo, is showing impressive skills on the field. He's managed to create a few scoring opportunities, but Manchester United's goalkeeper, David de Gea, has been on top of his game.",
+                "speaker": "Mark"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:30",
+                "content": "Manchester United's player, Marcus Rashford, has just scored another goal, increasing the score to 2-0. The crowd is going wild.",
+                "speaker": "John"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:30",
+                "end_time": "00:08:45",
+                "content": "Chelsea's team has been trying hard to make a comeback, but Manchester United's defense is strong. There's a tense atmosphere at Old Trafford as the match nears its end.",
+                "speaker": "Mark"
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:45",
+                "end_time": "00:10:00",
+                "content": "Finally, the referee blows the whistle, marking the end of the match. Manchester United emerges as the winner, with a score of 2-0.",
+                "speaker": "John"
+            }
+        ],
+        "sttSummary": "A soccer match between Manchester United and Chelsea at Old Trafford Stadium. Manchester United is in the lead, 1-0, with impressive performances from their players. Chelsea tries to make a comeback, but Manchester United's defense remains strong. Manchester United emerges as the winner, with a score of 2-0."
+    },
+    "category": {
+        "id": 123,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "John",
+            "name": "John Smith",
+            "dateOfBirth": "1991-10-15"
+        },
+        {
+            "id": 2345,
+            "nickName": "Mark",
+            "name": "Mark Johnson",
+            "dateOfBirth": "1988-05-09"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 98765
+    }
+}

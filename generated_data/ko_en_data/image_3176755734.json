@@ -1,0 +1,52 @@
+{
+    "id": "3176755734",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "movie_scene.jpeg",
+    "desc": "A scene from the 2010 science fiction adventure film 'Inception', directed by Christopher Nolan, featuring Ellen Page as Ariadne and Tom Hardy as Eames.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "The movie 'Inception' directed by Christopher Nolan, was released in 2010.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "The scene features Ellen Page as Ariadne and Tom Hardy as Eames.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 11223344
+    },
+    "category": {
+        "id": 56,
+        "title": "Movies"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "Ellen",
+            "name": "Ellen Page",
+            "dateOfBirth": "February 21, 1987"
+        },
+        {
+            "id": 3456,
+            "nickName": "Tom",
+            "name": "Tom Hardy",
+            "dateOfBirth": "September 15, 1981"
+        }
+    ],
+    "organizations": []
+}

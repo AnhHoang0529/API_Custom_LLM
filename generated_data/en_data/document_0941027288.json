@@ -1,0 +1,64 @@
+{
+    "id": "0941027288",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7",
+    "extension": "pdf",
+    "size": 30000,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "example_document.pdf",
+    "desc": "This is an example document containing information about political events.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "The document discusses the recent political events in the United States...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:12",
+                "content": "It covers topics such as the latest elections, government policies, and political debates...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 11223344
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 11,
+            "nickName": "JohnD",
+            "name": "John Doe",
+            "dateOfBirth": "1985-05-23"
+        },
+        {
+            "id": 12,
+            "nickName": "JaneS",
+            "name": "Jane Smith",
+            "dateOfBirth": "1980-12-17"
+        }
+    ],
+    "textData": "The recent political events in the United States have been marked by a series of significant developments. The latest elections have brought new faces to key positions, while government policies have undergone a major overhaul. Political debates on various issues have intensified, with public sentiment swaying back and forth. In this report, we delve deeper into these topics and explore their implications for the future. \n\nJohn Doe, a respected political analyst, shares his insights on the impact of the latest elections on American politics. He discusses the policy agendas of the newly-elected officials and the potential consequences of their decisions. Jane Smith, a diplomat with extensive experience in international relations, provides a global perspective on these developments and their implications for the United Nations and other international organizations. \n\nThe White House, under new leadership, has announced plans to implement a series of new policies aimed at addressing pressing issues such as climate change, economic inequality, and national security. The United Nations, for its part, is expected to play a critical role in facilitating cooperation between nations on these and other issues. \n\nStay tuned for more in-depth analysis and commentary on these important political events.",
+    "organizations": [
+        {
+            "id": 21,
+            "name": "The White House",
+            "otherName": "Executive Office of the President"
+        },
+        {
+            "id": 22,
+            "name": "The United Nations",
+            "otherName": "UN"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "5547104061",
+    "md5": "4b6b35d13f3c7b3e35774a5d611b61e4",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "celebrities_feature.mp4",
+    "desc": "Celebrity interviews and news featuring famous actors, musicians, and athletes.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Welcome to our special feature on celebrities. Today, we bring you exclusive interviews with some of the biggest names in Hollywood.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "First up, we have Tom Cruise, the action star who has been captivating audiences for decades.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "Tom shares his thoughts on his latest project, his personal life, and what keeps him motivated in his career.",
+                "speaker": "Tom Cruise"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Next, we have music sensation Taylor Swift, who has made headlines with her latest album and romantic life.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:09:00",
+                "content": "Taylor opens up about her music, her inspirations, and the challenges she's faced in her career.",
+                "speaker": "Taylor Swift"
+            }
+        ],
+        "sttSummary": "Join us for an exclusive look at celebrity interviews with Tom Cruise and Taylor Swift."
+    },
+    "category": {
+        "id": 11,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "Tom",
+            "name": "Tom Cruise",
+            "dateOfBirth": "07/03/1962"
+        },
+        {
+            "id": 1235,
+            "nickName": "Taylor",
+            "name": "Taylor Swift",
+            "dateOfBirth": "12/13/1989"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

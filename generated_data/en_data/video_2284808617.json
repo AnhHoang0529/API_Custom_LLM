@@ -1,0 +1,61 @@
+{
+    "id": "2284808617",
+    "md5": "0x5e797dab33e132d658d845d4c424e4f5",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 300.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscapes.mp4",
+    "desc": "A collection of urban cityscapes showcasing the unique architecture, transportation, and people of various cities around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "The video opens in the bustling streets of Tokyo, Japan, with a crowded intersection filled with vehicles and pedestrians.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "The camera then pans over to the iconic Burj Khalifa in Dubai, showcasing its impressive height and unique design.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:04:30",
+                "content": "Next, we visit the vibrant streets of New Orleans, capturing the sounds and colors of the city's famous jazz scene.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Our journey continues in Paris, France, where we explore the iconic Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:45",
+                "content": "As the sun sets, we wind down our tour in the beautiful city of Sydney, Australia. The camera captures the breathtaking scene of the Opera House and Harbour Bridge.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video presents a captivating journey through urban cityscapes around the world, featuring iconic landmarks such as Tokyo's crowded intersection, Dubai's Burj Khalifa, New Orleans' jazz scene, Paris' Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral, and Sydney's Opera House and Harbour Bridge."
+    },
+    "category": {
+        "id": 1,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": "6753841748",
+    "md5": "2b184cc84c1c9776a2f09c4d783e54e2",
+    "extension": ".mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "political_speeches.mp3",
+    "desc": "A collection of political speeches delivered by various world leaders",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:03:45",
+                "content": "In his speech, President Obama emphasized the importance of unity and diplomacy in international relations.",
+                "speaker": "President Obama"
+            },
+            {
+                "order": 2,
+                "start_time": "00:10:30",
+                "end_time": "00:15:20",
+                "content": "Chancellor Angela Merkel spoke about the significance of education and innovation in driving economic growth.",
+                "speaker": "Chancellor Angela Merkel"
+            },
+            {
+                "order": 3,
+                "start_time": "00:21:30",
+                "end_time": "00:26:45",
+                "content": "Prime Minister Narendra Modi discussed India's role in the global community and the need for sustainable development.",
+                "speaker": "Prime Minister Narendra Modi"
+            },
+            {
+                "order": 4,
+                "start_time": "00:45:15",
+                "end_time": "00:54:30",
+                "content": "President Xi Jinping addressed the challenges and opportunities for China in the global economy and emphasized the importance of open markets and international cooperation.",
+                "speaker": "President Xi Jinping"
+            },
+            {
+                "order": 5,
+                "start_time": "01:12:00",
+                "end_time": "01:18:45",
+                "content": "Former President Bill Clinton concluded the conference with a call for collective action on major global issues, including climate change, poverty, and peacekeeping efforts.",
+                "speaker": "Former President Bill Clinton"
+            }
+        ],
+        "sttSummary": "This recording features speeches from various world leaders at an international conference, discussing topics such as unity, diplomacy, education, innovation, India's role in the global community, sustainable development, open markets, and international cooperation. Speakers include President Obama, Chancellor Angela Merkel, Prime Minister Narendra Modi, and Former President Bill Clinton."
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 56789
+    }
+}

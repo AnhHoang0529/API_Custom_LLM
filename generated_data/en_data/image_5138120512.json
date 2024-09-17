@@ -1,0 +1,39 @@
+{
+    "id": "5138120512",
+    "md5": "34072a0e3a963e1c8922372c529a863da",
+    "extension": "jpg",
+    "size": 17485,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "soccer_stadium.jpg",
+    "desc": "A soccer stadium filled with excited fans, preparing for a match.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:07",
+                "content": "Soccer stadium",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:09",
+                "end_time": "00:00:14",
+                "content": "Excited fans gather",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 14124516638
+    },
+    "category": {
+        "id": 1,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": []
+}

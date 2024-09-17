@@ -1,0 +1,61 @@
+{
+    "id": "1204799239",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "match_final.mp4",
+    "desc": "The final match of the soccer league",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:30",
+                "content": "The match is about to start. The players are lining up on the field. The crowd is excited.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:45",
+                "end_time": "00:04:45",
+                "content": "The referee signals for the match to begin. Both teams start with a strong defense. The ball is passed around, with no clear scoring opportunities yet.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:45",
+                "end_time": "00:06:50",
+                "content": "The first goal is scored by team A. The crowd goes wild. The other team tries to counterattack but fails to create any meaningful chances.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:50",
+                "end_time": "00:08:55",
+                "content": "Team A continues to dominate the game, creating multiple scoring opportunities. However, they are unable to score again. The game remains tense and exciting.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:55",
+                "end_time": "00:10:15",
+                "content": "The second half of the game begins. Both teams try to gain the upper hand. Team B manages to score an equalizer, leaving the match tied. The game continues with intense action until the final whistle.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video contains the final match of the soccer league. The match is tense and exciting, with both teams dominating at different points. The first half ends with a goal by team A. The second half sees team B equalizing, leaving the game tied. The game remains intense until the final whistle."
+    },
+    "category": {
+        "id": 657,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

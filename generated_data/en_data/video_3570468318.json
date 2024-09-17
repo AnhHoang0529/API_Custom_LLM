@@ -1,0 +1,64 @@
+{
+    "id": "3570468318",
+    "md5": "1e814de68d9c9ea38656f4c90b52e1ca",
+    "extension": "mp4",
+    "size": 129542835,
+    "height": 1080,
+    "width": 1920,
+    "duration": 602.0,
+    "density": 30,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "movieScene.mp4",
+    "desc": "A compilation of iconic movie scenes featuring dramatic, tense, and visually stunning moments from renowned films.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "The opening scene of Jaws (1975) sets a tense atmosphere with the haunting tune of the theme song while the camera shows the vast ocean and the empty beach",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "The epic duel between Neo and Agent Smith in The Matrix (1999) leaves the audience on the edge of their seats with the intense choreography and groundbreaking visual effects.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:45",
+                "end_time": "00:05:15",
+                "content": "In the shower scene from Psycho (1960), director Alfred Hitchcock employs suspense and masterful editing techniques to create one of the most memorable and terrifying moments in cinema history.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "The final scene in Schindler's List (1993) is a powerful and emotional climax, as Oskar Schindler, played by Liam Neeson, saves the lives of over a thousand Jewish refugees during the Holocaust.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:15",
+                "end_time": "00:08:30",
+                "content": "The dramatic and inspiring speech from the movie Braveheart (1995) delivers an unforgettable moment as William Wallace, played by Mel Gibson, rallies his army before the Battle of Falkirk.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video features a compilation of some of the most iconic and dramatic movie scenes from renowned films."
+    },
+    "category": {
+        "id": 12,
+        "title": "Movie Scenes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 567890
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "5564879462",
+    "md5": "12a5c9ab2e99d3a031b5c462a2d45bef",
+    "extension": "jpeg",
+    "size": 187456,
+    "height": 800,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230301_154241.jpeg",
+    "desc": "Former US President Barack Obama delivering a speech during the 2023 Democratic National Convention.",
+    "narrationStt": "",
+    "category": {
+        "id": 3,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 12345,
+            "nickName": "Barack",
+            "name": "Barack Obama",
+            "dateOfBirth": "August 4, 1971"
+        }
+    ],
+    "organizations": []
+}

@@ -1,0 +1,64 @@
+{
+    "id": "3194045748",
+    "md5": "0x9dccd1dcbd32f0d89e1b0f3e1a1619e91f16b141",
+    "extension": "mp4",
+    "size": 1328359,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 100,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Soccer_Match_Final_Goal.mp4",
+    "desc": "This video is about the final goal of a soccer match.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The soccer match between Barcelona and Real Madrid is in full swing. The stadium is filled with fans from both teams, creating an electric atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Barcelona's number 10, Messi, receives the ball from the goalkeeper. He dribbles past several defenders, skillfully maneuvering around them. The crowd roars in excitement.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Messi takes a powerful shot towards the goal. The ball soars through the air, and the goalkeeper makes a desperate dive, but it's too late. The ball hits the back of the net. Goal! Barcelona leads 1-0.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "The crowd goes wild as Barcelona takes the lead. Players celebrate on the field, while Real Madrid players look dejected. The commentators analyze Messi's impressive performance and discuss tactics for the remaining minutes of the game.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:09:00",
+                "content": "The game continues with both teams trying to outmaneuver each other. Barcelona maintains their lead, but Real Madrid keeps pushing for an equalizer. The tension builds as the minutes tick by.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video is about a soccer match between Barcelona and Real Madrid where Messi scores the final goal for Barcelona, leading 1-0."
+    },
+    "category": {
+        "id": 1,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 61954623
+    }
+}

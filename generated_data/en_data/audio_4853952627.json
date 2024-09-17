@@ -1,0 +1,74 @@
+{
+    "id": "4853952627",
+    "md5": "0x2c3f4d7e7b659243e123dc8f9e82c65b",
+    "extension": "mp3",
+    "size": 7492672,
+    "height": "",
+    "width": "",
+    "duration": 231.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "US_presidential_debate_2020.mp3",
+    "desc": "This audio file contains the complete audio recording of the 2020 US presidential debate held between Joe Biden and Donald Trump.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:30",
+                "content": "The first presidential debate of the 2020 election between Joe Biden and Donald Trump is underway at Case Western Reserve University in Cleveland, Ohio.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:05:00",
+                "content": "The format of the debate is set to have six segments, with each segment focusing on a different topic. Tonight's topics include the economy, COVID-19, the Supreme Court, crime and law and order, the candidates' records, and their vision for America's future.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:12:30",
+                "content": "Joe Biden is currently serving as the 47th Vice President of the United States under Barack Obama. He was previously a senator from Delaware and has a long career in politics dating back to 1972.",
+                "speaker": "Moderator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:12:30",
+                "end_time": "00:18:45",
+                "content": "Donald Trump is the current President of the United States, having taken office in January 2017. He was a businessman before entering politics, owning several properties around the world.",
+                "speaker": "Moderator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:45",
+                "end_time": "00:23:17",
+                "content": "The opening statements from both candidates touch on their respective achievements and plans for the country. Biden emphasizes his background and promises to restore unity and rebuild the economy, while Trump highlights his record in office and plans to continue his America First policies.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The 2020 US presidential debate between Joe Biden and Donald Trump covers topics like the economy, COVID-19, Supreme Court, crime and law and order, candidates' records, and their vision for America's future."
+    },
+    "category": {
+        "id": 1001,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 5598,
+            "nickName": "Joe",
+            "name": "Joe Biden",
+            "dateOfBirth": "November 20, 1942"
+        },
+        {
+            "id": 8932,
+            "nickName": "Donald",
+            "name": "Donald Trump",
+            "dateOfBirth": "June 14, 1946"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

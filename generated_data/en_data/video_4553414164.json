@@ -1,0 +1,74 @@
+{
+    "id": "4553414164",
+    "md5": "123e4567-e89b-12d3-a456-426614174000",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 1920,
+    "width": 1080,
+    "duration": 155.2,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Political_speech_2023.mp4",
+    "desc": "A political speech delivered by a prominent figure during a campaign event in 2023.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:20",
+                "end_time": "00:03:30",
+                "content": "The economy is a major concern for citizens...",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:45",
+                "end_time": "00:06:15",
+                "content": "Our education system needs improvement...",
+                "speaker": "Jane Doe"
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:16",
+                "end_time": "00:08:45",
+                "content": "We will invest in infrastructure projects...",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:46",
+                "end_time": "00:11:00",
+                "content": "Climate change is a pressing issue...",
+                "speaker": "Jane Doe"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:01",
+                "end_time": "00:13:30",
+                "content": "We have a plan to address this issue...",
+                "speaker": "John Doe"
+            }
+        ],
+        "sttSummary": "In this political speech, both candidates discuss the economy, education, infrastructure, and climate change and their plans to address these issues."
+    },
+    "category": {
+        "id": 78,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "JD",
+            "name": "John Doe",
+            "dateOfBirth": "01/01/1985"
+        },
+        {
+            "id": 657,
+            "nickName": "JD",
+            "name": "Jane Doe",
+            "dateOfBirth": "01/02/1985"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,28 @@
+{
+    "id": "6880012325",
+    "md5": "3e0b577e418429752d77c57d13f62e25",
+    "extension": "jpeg",
+    "size": 174331,
+    "height": 850,
+    "width": 1200,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "study_room_work_desk.jpeg",
+    "desc": "A photo of a study room with a desk and a person sitting at it, working on a laptop",
+    "narrationStt": "",
+    "category": {
+        "id": 7,
+        "title": "Study and Work"
+    },
+    "people": [
+        {
+            "id": 12345,
+            "nickName": "person1",
+            "name": "John Doe",
+            "dateOfBirth": "1995-03-01"
+        }
+    ],
+    "organizations": []
+}

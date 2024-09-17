@@ -1,0 +1,47 @@
+{
+    "id": "8186587131",
+    "md5": "4d1d8cd9b001b5c6e1c6a3e1b0cbb24f",
+    "extension": "pdf",
+    "size": 234814,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "movies_research.pdf",
+    "desc": "A comprehensive research paper on the evolution of movie scenes over centuries.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:22",
+                "content": "Welcome to our research on the evolution of movie scenes over the centuries.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:23",
+                "end_time": "00:00:42",
+                "content": "Let's begin with the silent films era.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:43",
+                "end_time": "00:00:55",
+                "content": "These films relied heavily on physical acting and exaggerated expressions.",
+                "speaker": ""
+            }
+        ],
+        "id": 868323860
+    },
+    "category": {
+        "id": 1748,
+        "title": "Movies"
+    },
+    "people": [],
+    "textData": "The evolution of movie scenes has been a fascinating journey through the annals of cinematic history. From the early days of silent films to the present-day blockbusters, the art of storytelling through moving images has undergone a remarkable transformation...",
+    "organizations": []
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1273671721",
+    "md5": "3f3dcc3b5eb4d417809f6b1d6b2e8f5b",
+    "extension": "mp4",
+    "size": 53829052,
+    "height": 720,
+    "width": 1280,
+    "duration": 115.6,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "movie_scene.mp4",
+    "desc": "This video presents a collection of captivating movie scenes. Each scene is carefully selected to showcase intriguing storytelling, stunning visual effects and powerful performances.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "In this scene, we witness a tense confrontation between two rival gangs in a dimly lit alley.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:04:00",
+                "content": "Suddenly, the tranquility is broken by the sound of gunshots. The camera zooms in to reveal a chaotic battle scene with bullets flying through the air.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:05:30",
+                "content": "As one gang appears to gain the upper hand, the other makes a desperate last stand. Amidst the chaos and destruction, we see moments of courage and determination.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "Finally, a shootout between the two leaders leaves one lying in a pool of blood. The scene ends with the victor standing triumphantly, surveying the aftermath.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:00",
+                "end_time": "00:11:56",
+                "content": "The following scenes depict the consequences of this pivotal moment in the movie. Characters deal with loss, guilt, and the ramifications of their actions. The story begins to unfold, revealing the motivations and complexities of each character.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "The provided video showcases a series of captivating movie scenes, each one featuring tension, chaos, and the consequences of violence. From a tense confrontation to a chaotic battle scene, these moments are brought to life through powerful performances and stunning visual effects."
+    },
+    "category": {
+        "id": 657,
+        "title": "Movie Scenes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

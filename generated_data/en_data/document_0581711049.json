@@ -1,0 +1,68 @@
+{
+    "id": "0581711049",
+    "md5": "99c0f486d9e163016fc65fc6",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrations_traditions_research.pdf",
+    "desc": "A comprehensive research paper on cultural celebrations and traditions.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Cultural celebrations and traditions play a crucial role in shaping societies...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:16",
+                "end_time": "00:00:30",
+                "content": "This research paper explores various cultural practices from around the world...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:45",
+                "content": "In this section, we delve into the significance of Diwali, a major Hindu festival...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:46",
+                "end_time": "00:00:59",
+                "content": "We also discuss the Chinese New Year, which marks the beginning of a new year...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:01:00",
+                "end_time": "00:01:15",
+                "content": "Lastly, we examine the significance of Christmas in Western cultures and traditions...",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:16",
+                "end_time": "00:01:30",
+                "content": "We conclude with a brief summary of the main findings and lessons from this research...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "Research Papers"
+    },
+    "people": [],
+    "textData": "Cultural celebrations and traditions play a crucial role in shaping societies and fostering unity. This research paper explores various cultural practices from around the world, delving into their origins, meanings, and significance. In this section, we begin by discussing Diwali, a major Hindu festival celebrated in India and Nepal. Diwali, also known as the Festival of Lights, marks the victory of light over darkness and good over evil. We explore the symbolic meaning behind the festival, the customs and rituals practiced during Diwali, and the role it plays in the Hindu community. Next, we discuss the Chinese New Year, which marks the beginning of a new year on the lunisolar Chinese calendar. This ancient festival is steeped in traditions, including the consumption of traditional foods, the giving of red envelopes, and the setting off of firecrackers. Lastly, we examine the significance of Christmas in Western cultures and traditions. Christmas is a global holiday celebrated in more than 130 countries around the world. We discuss the origins of Christmas, the customs and traditions associated with the holiday, and the role it plays in shaping communities and fostering unity. This research paper provides valuable insights into the cultural richness and diversity of human societies, highlighting the importance of celebrations and traditions in fostering unity and connections between people.",
+    "organizations": []
+}

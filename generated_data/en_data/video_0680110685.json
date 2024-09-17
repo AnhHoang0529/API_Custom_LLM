@@ -1,0 +1,74 @@
+{
+    "id": "0680110685",
+    "md5": "a5bb432f2e6314419131454145145231",
+    "extension": "mp4",
+    "size": 15423104,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "study-work.mp4",
+    "desc": "A video about studying and working habits and tips",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:30",
+                "content": "Studying and working productively require effective time management strategies. One approach is the Pomodoro Technique, which involves focusing intensely on a task for 25 minutes, followed by a 5-minute break. This cycle repeats every hour, providing regular breaks to prevent burnout and maintain focus.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:35",
+                "end_time": "00:06:00",
+                "content": "To optimize your study and work environment, eliminate distractions such as social media notifications, emails, and background noise. Consider using a quiet study space, noise-cancelling headphones, or a productivity app like Forest. These tools help you focus on the task at hand and minimize interruptions.",
+                "speaker": "Jane Doe"
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:05",
+                "end_time": "00:10:30",
+                "content": "Maintaining a consistent studying and working routine can help you make the most of your time. Establish a schedule with dedicated time slots for studying, working, and breaks. Stick to this routine as much as possible to develop a strong work ethic and maximize productivity.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:35",
+                "end_time": "00:13:30",
+                "content": "Effective studying techniques include active reading, taking notes, and summarizing information. These methods help you engage with the material, retain information, and understand complex concepts.",
+                "speaker": "Jane Doe"
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:35",
+                "end_time": "00:16:00",
+                "content": "Regular exercise and a healthy diet contribute to better cognitive function and overall wellbeing, enhancing your ability to study and work effectively. Incorporate physical activity and nutritious meals into your daily routine.",
+                "speaker": "John Doe"
+            }
+        ],
+        "sttSummary": "This video offers tips for studying and working productively, including the Pomodoro Technique, minimizing distractions, maintaining a consistent routine, effective studying techniques, and the importance of exercise and a healthy diet."
+    },
+    "category": {
+        "id": 12,
+        "title": "Study and Work"
+    },
+    "people": [
+        {
+            "id": 345,
+            "nickName": "John",
+            "name": "John Doe",
+            "dateOfBirth": "1990-04-25"
+        },
+        {
+            "id": 23,
+            "nickName": "Jane",
+            "name": "Jane Doe",
+            "dateOfBirth": "1991-08-12"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

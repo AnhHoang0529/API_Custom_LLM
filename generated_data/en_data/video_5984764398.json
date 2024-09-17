@@ -1,0 +1,64 @@
+{
+    "id": "5984764398",
+    "md5": "123e4567-e89b-12d3-a456-426655440000",
+    "extension": "mp4",
+    "size": 52282422,
+    "height": 1080,
+    "width": 1920,
+    "duration": 7200.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "elephants-in-the-wild.mp4",
+    "desc": "Join us as we explore the magnificent world of elephants in their natural habitat. Witness their daily routines, interactions, and the challenges they face in the wild.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Welcome to our latest documentary on elephants in the African savanna. Our team has spent months filming these magnificent creatures in their natural habitat.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "Elephants are the largest living terrestrial animals, and they play a crucial role in maintaining the balance of their ecosystem. They communicate through a complex system of sounds and body language.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:06:00",
+                "content": "During our research, we've discovered several fascinating facts about elephants. For example, they have excellent memories, and they can recognize other elephants from their family and herd even after long periods apart.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Elephants are also known to be social animals, living in family groups called herds. They form strong bonds with their family members and stay together for life. Let's continue exploring the world of elephants in this captivating documentary.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:08:00",
+                "content": "Thank you for joining us on this journey into the world of elephants. We hope you've enjoyed the experience and learned something new about these remarkable creatures.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A documentary about elephants in the African savanna, their role in maintaining ecological balance, their communication system, fascinating facts, family bonds, and conclusion."
+    },
+    "category": {
+        "id": 31636925,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

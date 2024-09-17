@@ -1,0 +1,74 @@
+{
+    "id": "9902626070",
+    "md5": "a92a5a811e9e3e5e47e9ea6d7d6e1133",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 1920,
+    "width": 1080,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "video_study_work.mp4",
+    "desc": "Two individuals discussing their study and work routines",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:45",
+                "end_time": "00:05:15",
+                "content": "Person 1: I usually wake up early at 6am to study, followed by a 2-hour commute to work. At the office, I dedicate the first hour to catching up on emails and meetings.",
+                "speaker": "Person 1"
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:16",
+                "end_time": "00:10:00",
+                "content": "Person 2: I'm more of a night owl and prefer to study in the evening after work. I find it easier to focus once I've completed my daily tasks.",
+                "speaker": "Person 2"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:01",
+                "end_time": "00:14:15",
+                "content": "Person 1: That's interesting. I find that having a consistent routine helps me stay productive and focused on my studies.",
+                "speaker": "Person 1"
+            },
+            {
+                "order": 4,
+                "start_time": "00:14:16",
+                "end_time": "00:18:30",
+                "content": "Person 2: Absolutely. It's important to find what works best for you and stick to it. What's your preferred study method?",
+                "speaker": "Person 2"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:31",
+                "end_time": "00:22:00",
+                "content": "Person 1: I like to take notes while watching lecture videos and then review them before exams. I also try to study with a group to keep each other motivated.",
+                "speaker": "Person 1"
+            }
+        ],
+        "sttSummary": "Two individuals discuss their study routines. Person 1 prefers to wake up early and study before work, while Person 2 studies in the evening after work. They share their preferred study methods and the importance of finding a consistent routine."
+    },
+    "category": {
+        "id": 3,
+        "title": "Study & Academics"
+    },
+    "people": [
+        {
+            "id": 5432,
+            "nickName": "Person1",
+            "name": "John Doe",
+            "dateOfBirth": "1995-05-15"
+        },
+        {
+            "id": 6789,
+            "nickName": "Person2",
+            "name": "Jane Doe",
+            "dateOfBirth": "1994-02-12"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

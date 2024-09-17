@@ -1,0 +1,47 @@
+{
+    "id": "6781050923",
+    "md5": "a4b67b21942d5a28dd7723d67298b169",
+    "extension": "pdf",
+    "size": 113247,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_summary.pdf",
+    "desc": "A summary of the major political events of the year 2022",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:06",
+                "content": "Over the course of 2022, several significant political events unfolded around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:12",
+                "content": "In January, the United Nations General Assembly adopted its annual resolution on peacekeeping operations.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:13",
+                "end_time": "00:00:19",
+                "content": "Following that, in February, the Winter Olympics were held in Beijing, China.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 321055
+    },
+    "category": {
+        "id": 365,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "Political events in 2022 brought about a wave of changes and developments in various parts of the world. The United Nations General Assembly adopted its annual resolution on peacekeeping operations in January. In February, the global stage was set for the Winter Olympics in Beijing, China. Other significant events included the signing of major international agreements, political upheavals, and elections.",
+    "organizations": []
+}

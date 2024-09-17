@@ -1,0 +1,66 @@
+{
+    "id": "4831614811",
+    "md5": "8c0d1b14d2e97b1bf0f1451e2b893b2a",
+    "extension": "mp3",
+    "size": 3571202,
+    "height": "",
+    "width": "",
+    "duration": 700.1,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Political_Events_2023-03-15.mp3",
+    "desc": "An audio recording of the 2023-03-15 political events, including speeches, interviews, and debates.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The President of the United States speaks about the economy and foreign policy.",
+                "speaker": "President Biden"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:00",
+                "content": "A senator from California discusses her proposed legislation and receives questions from the press.",
+                "speaker": "Senator Harris"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "The House Speaker discusses ongoing negotiations and upcoming deadlines.",
+                "speaker": "House Speaker Pelosi"
+            }
+        ],
+        "sttSummary": "This recording features speeches and interviews from President Biden, Senator Harris, and House Speaker Pelosi, discussing the economy, foreign policy, proposed legislation, and ongoing negotiations."
+    },
+    "category": {
+        "id": 1234,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 4567,
+            "nickName": "JoeB",
+            "name": "Joe Biden",
+            "dateOfBirth": "1942-11-20"
+        },
+        {
+            "id": 8901,
+            "nickName": "KamalaH",
+            "name": "Kamala Harris",
+            "dateOfBirth": "1964-10-20"
+        },
+        {
+            "id": 2345,
+            "nickName": "NancyP",
+            "name": "Nancy Pelosi",
+            "dateOfBirth": "1940-03-26"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

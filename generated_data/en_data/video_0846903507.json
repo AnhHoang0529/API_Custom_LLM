@@ -1,0 +1,66 @@
+{
+    "id": "0846903507",
+    "md5": "9f4c42b0419ba98f37b95c0eb67d72e4",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "scene3.mp4",
+    "desc": "A scene from the movie 'The Matrix' where Neo takes the red pill.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:30",
+                "content": "Neo hesitates, then takes the red pill. Morpheus explains he's been living in a simulated reality, the 'Matrix'.",
+                "speaker": "Morpheus"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:02:15",
+                "content": "In the real world, Neo faces a shocking physical reality. He meets Trinity, a powerful ally.",
+                "speaker": "Trinity"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:15",
+                "end_time": "00:03:00",
+                "content": "Neo undergoes rigorous training under Morpheus, learning to bend the rules of the Matrix.",
+                "speaker": "Morpheus"
+            }
+        ],
+        "sttSummary": "In this scene from 'The Matrix', Neo takes the red pill, revealing the true nature of the world, meets Trinity, and undergoes intensive training from Morpheus."
+    },
+    "category": {
+        "id": 3,
+        "title": "Action"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Neo",
+            "name": "Thomas A. Anderson",
+            "dateOfBirth": "February 27, 1968"
+        },
+        {
+            "id": 2,
+            "nickName": "Trinity",
+            "name": "Trinity",
+            "dateOfBirth": "May 21, 1973"
+        },
+        {
+            "id": 3,
+            "nickName": "Morpheus",
+            "name": "Morpheus",
+            "dateOfBirth": "Unknown"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

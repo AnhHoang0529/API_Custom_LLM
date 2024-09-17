@@ -1,0 +1,47 @@
+{
+    "id": "0599151916",
+    "md5": "b636d974e60a9e17d8184b0fc16d9850",
+    "extension": "pdf",
+    "size": 256512,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "urban_cityscapes_research.pdf",
+    "desc": "A comprehensive study on urban cityscapes and their impact on the environment and society",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:10",
+                "end_time": "00:00:20",
+                "content": "This research focuses on the unique aspects of urban cityscapes and their impact on the environment and society.",
+                "speaker": "Dr. Jane Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:21",
+                "end_time": "00:00:35",
+                "content": "The report covers the architectural, ecological, social, and economic dimensions of urban areas.",
+                "speaker": ""
+            }
+        ],
+        "id": 64257
+    },
+    "category": {
+        "id": 19,
+        "title": "Urban Studies"
+    },
+    "people": [
+        {
+            "id": 12345,
+            "nickName": "Jane",
+            "name": "Dr. Jane Doe",
+            "dateOfBirth": "1975-03-05"
+        }
+    ],
+    "textData": "Urban cityscapes, a unique blend of architecture, nature, and human activity, have been a subject of fascination for researchers, policymakers, and the public alike. In this comprehensive study, we delve into the architectural, ecological, social, and economic dimensions of urban areas, providing insights into the complex relationships between urban development and the environment and society. From the iconic skyscrapers of New York City to the bustling streets of Mumbai, this research offers a nuanced perspective on the multifaceted nature of urban spaces and their impact on the well-being of communities and the planet.",
+    "organizations": []
+}

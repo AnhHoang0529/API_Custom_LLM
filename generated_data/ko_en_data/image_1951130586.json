@@ -1,0 +1,34 @@
+{
+    "id": "1951130586",
+    "md5": "2e7e3b45d3e1c7616e224e7f1bc83ef1",
+    "extension": "jpeg",
+    "size": 276536,
+    "height": 1024,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "2021-02-13_\uc6cc\uc2f1\ud134_DC_\uc2dc\ub0b4_\uc2dc\uc704.jpeg",
+    "desc": "\uc218\ucc9c \uba85\uc758 \ub3c4\ub110\ub4dc \ud2b8\ub7fc\ud504 \uc9c0\uc9c0\uc790\ub4e4\uc774 2020\ub144 \ub300\uc120 \uacb0\uacfc\uc5d0 \ud56d\uc758\ud558\uae30 \uc704\ud574 \uc6cc\uc2f1\ud134 D.C.\uc5d0 \ubaa8\uc600\uc2b5\ub2c8\ub2e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "\uc815\uce58"
+    },
+    "people": [
+        {
+            "id": 516,
+            "nickName": "\ud328\ud2b8\ub9ac\uc5b4\ud2b81",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1975-05-15"
+        },
+        {
+            "id": 1123,
+            "nickName": "\uc548\ud2f0\ud30c\ud65c\ub3d9\uac00",
+            "name": "\uc81c\uc778 \ub3c4",
+            "dateOfBirth": "1991-10-23"
+        }
+    ],
+    "organizations": []
+}

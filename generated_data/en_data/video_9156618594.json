@@ -1,0 +1,54 @@
+{
+    "id": "9156618594",
+    "md5": "5b2d9a2b3e2a7a0166d0b7859c1e8a4f",
+    "extension": "mp4",
+    "size": 63245217,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_scenery.mp4",
+    "desc": "A compilation of stunning landscapes showcasing nature's beauty.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "01:10:00",
+                "content": "Explore the beauty of diverse landscapes from around the world. From serene forests and rolling hills to towering mountains and pristine coastlines.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "01:10:00",
+                "end_time": "02:40:00",
+                "content": "Let's begin our journey with the lush, verdant forests, teeming with life. These forests provide vital resources for both wildlife and humans.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "02:40:00",
+                "end_time": "04:20:00",
+                "content": "Next, we move on to the majestic mountains, their snow-capped peaks reaching for the clouds. The breathtaking views are awe-inspiring.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "04:20:00",
+                "end_time": "05:50:00",
+                "content": "Finally, we reach the pristine coastlines, where the gentle waves meet the shore. These peaceful landscapes offer a sense of tranquility and relaxation.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases a collection of beautiful landscapes, including forests, mountains, and coastlines."
+    },
+    "category": {
+        "id": 5,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

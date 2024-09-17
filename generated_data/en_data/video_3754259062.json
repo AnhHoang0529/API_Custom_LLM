@@ -1,0 +1,61 @@
+{
+    "id": "3754259062",
+    "md5": "7b82e3b3c3b2bc7a72e5a3a3a3e5b7a3",
+    "extension": "mp4",
+    "size": 53218016,
+    "height": 1080,
+    "width": 1920,
+    "duration": 180.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Cityscapes.mp4",
+    "desc": "A captivating collection of urban cityscapes from around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:02:00",
+                "content": "We begin our exploration of urban cityscapes in the vibrant metropolis of Tokyo, Japan.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:01",
+                "end_time": "00:03:30",
+                "content": "The bustling streets of Tokyo are filled with a unique blend of traditional and modern architecture. From towering skyscrapers and neon lights to tranquil temples and serene gardens.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:31",
+                "end_time": "00:05:00",
+                "content": "Next, we journey to New York City in the United States. The city that never sleeps is home to some of the most iconic urban landmarks. The Statue of Liberty, Times Square, and Central Park are just a few of the many attractions this city has to offer.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:01",
+                "end_time": "00:06:30",
+                "content": "Our journey continues with a visit to the beautiful city of Paris, France. With its stunning architecture, world-renowned museums, and delicious cuisine, Paris truly is a city of love and wonder. Some of its most notable landmarks include the Eiffel Tower, Louvre Museum, and Notre Dame Cathedral.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:31",
+                "end_time": "00:08:00",
+                "content": "Lastly, we travel to the ancient city of Rome, Italy. Steeped in history and culture, Rome offers visitors an unforgettable experience. Some of its must-see attractions include the Colosseum, Pantheon, and the Vatican City.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore the vibrant urban cityscapes of Tokyo, Tokyo, New York City, Paris, and Rome."
+    },
+    "category": {
+        "id": 123,
+        "title": "Travel"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

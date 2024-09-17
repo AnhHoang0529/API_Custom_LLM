@@ -1,0 +1,64 @@
+{
+    "id": "0333230809",
+    "md5": "3bf83b6d87e2d3985414128d2b8bbb7c",
+    "extension": ".mp4",
+    "size": 12505568,
+    "height": 1080,
+    "width": 1920,
+    "duration": 295.3,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Italian_Cuisine.mp4",
+    "desc": "Join us as we explore the rich world of Italian cuisine. From pasta dishes to pizza, these gourmet creations have graced the tables of families and fine dining establishments for centuries.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "Welcome to our exploration of Italian cuisine. Today, we'll delve into the rich history and delectable dishes that have come to define this cherished culinary tradition.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:00",
+                "content": "Let's begin with pasta, a staple in Italian cuisine. With a diverse range of shapes and sauces, pasta dishes have evolved to become a beloved part of family meals and fine dining experiences alike.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "One popular pasta dish is Spaghetti Bolognese. Originated in the region of Emilia-Romagna, this hearty dish features a rich, savory meat sauce made with onions, garlic, ground beef, tomatoes, and milk.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:09:45",
+                "content": "Another favorite is Lasagna. Layers of pasta sheets, tomato sauce, cheese, and various fillings like meat, spinach, or ricotta create a delicious and comforting dish that can serve a crowd.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:45",
+                "end_time": "00:12:15",
+                "content": "Pizza, a global phenomenon, has its origins in Naples, Italy. With a crispy, golden crust, tangy tomato sauce, and an abundance of toppings, it's no wonder that pizza remains a universally loved dish.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Join us as we explore the rich history and delectable dishes that have come to define Italian cuisine, from pasta to pizza."
+    },
+    "category": {
+        "id": 11,
+        "title": "Italian Cuisine"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

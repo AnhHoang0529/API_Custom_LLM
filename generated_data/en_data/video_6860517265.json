@@ -1,0 +1,61 @@
+{
+    "id": "6860517265",
+    "md5": "a6d1a8ec8b56f869e97137c1c611c83f",
+    "extension": "mp4",
+    "size": 12515678,
+    "height": 1080,
+    "width": 1920,
+    "duration": 240.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscape.mp4",
+    "desc": "An urban cityscape video showcasing various buildings, streets, and vehicles in a bustling city.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:00",
+                "content": "This urban cityscape video captures the vibrant life of a bustling metropolis. The camera pans over towering skyscrapers and bustling streets teeming with people, cars, and buses. The city\u2019s infrastructure, including bridges, roads, and parks, is evident in this captivating footage.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Among the impressive structures, the city\u2019s landmarks stand out, such as the iconic clock tower and the historic town hall. The architectural diversity is evident in the mix of modern and classical styles, creating an intriguing urban landscape that leaves a lasting impression.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "The cityscape video also includes various transportation methods that make the urban area accessible and efficient, including buses, trains, and cars. The traffic flow is evident, highlighting the city\u2019s transportation infrastructure.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:08:30",
+                "content": "As the video progresses, the focus shifts to the city\u2019s parks and green spaces. These areas provide a stark contrast to the urban environment and offer a peaceful respite from the hustle and bustle. The lush greenery and calm atmosphere make for a visually appealing and soothing end to the video.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:30",
+                "end_time": "00:10:00",
+                "content": "In conclusion, this urban cityscape video is a captivating exploration of a metropolis\u2019s unique character, revealing the coexistence of modern infrastructure, architectural diversity, and natural beauty. It provides a window into the dynamic and ever-evolving urban environment.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Discover the unique character of a metropolis through this captivating urban cityscape video. Capturing the coexistence of modern infrastructure, architectural diversity, and natural beauty, this video offers a window into the dynamic and ever-evolving urban environment."
+    },
+    "category": {
+        "id": 1,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

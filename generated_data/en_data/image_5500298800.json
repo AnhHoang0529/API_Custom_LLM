@@ -1,0 +1,39 @@
+{
+    "id": "5500298800",
+    "md5": "a0b1c2d3e4f5g6h",
+    "extension": "jpg",
+    "size": 31246,
+    "height": 480,
+    "width": 640,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "protest_01.jpg",
+    "desc": "Protesters marching on the streets, holding placards and chanting slogans",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "Protesters begin marching on the streets",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:01:00",
+                "content": "Crowds gather, holding placards and chanting slogans",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 123456789
+    },
+    "category": {
+        "id": 11,
+        "title": "Political Protests"
+    },
+    "people": [],
+    "organizations": []
+}

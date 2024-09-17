@@ -1,0 +1,68 @@
+{
+    "id": "4034889165",
+    "md5": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "extension": "mp4",
+    "size": 28955364,
+    "height": 720,
+    "width": 1280,
+    "duration": 123.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "movie_scene.mp4",
+    "desc": "Movie scene depicting a thrilling car chase",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:15",
+                "content": "James Bond is driving a sleek Aston Martin DB5 through the busy streets of Rome.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:15",
+                "end_time": "00:07:30",
+                "content": "The car weaves expertly through traffic, narrowly avoiding collisions. The chase is on, and 007 is determined to bring down the villain.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:30",
+                "end_time": "00:11:00",
+                "content": "The villain's henchmen, in their menacing black vehicles, close in, but Bond manages to shake them off using clever driving techniques. The tension is high as Bond presses on, knowing that time is running out.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:00",
+                "end_time": "00:12:30",
+                "content": "Suddenly, a helicopter appears, targeting the Aston Martin. Bond deftly uses the car's ejector seat to escape just in time.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:12:30",
+                "end_time": "00:12:50",
+                "content": "Bond parachutes safely to the ground, leaving the chaos of the car chase behind. But the mission is far from over.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This scene from 'Mission Impossible: Rome' showcases a thrilling car chase where James Bond expertly navigates the streets of Rome and manages to escape the villain's henchmen, including a helicopter."
+    },
+    "category": {
+        "id": 5,
+        "title": "Action Movies"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "James",
+            "name": "Bond",
+            "dateOfBirth": "1968-01-20"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

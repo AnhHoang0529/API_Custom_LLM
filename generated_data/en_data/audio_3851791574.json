@@ -1,0 +1,64 @@
+{
+    "id": "3851791574",
+    "md5": "6c8e63b73f6a248f4316a0a18f2e20b4",
+    "extension": "mp3",
+    "size": 7110346,
+    "height": "",
+    "width": "",
+    "duration": 134.1,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Majestic_Landscapes.mp3",
+    "desc": "An exploration of majestic landscapes from around the world, including mountains, forests, and bodies of water.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:02:35",
+                "content": "Begin our journey through majestic landscapes, starting with the towering mountains of the Swiss Alps.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:35",
+                "end_time": "00:04:45",
+                "content": "Next, let's visit the dense forests of Amazonia, teeming with life and rich in biodiversity.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:45",
+                "end_time": "00:06:55",
+                "content": "Now, we journey to the serene bodies of water, such as Lake Como in Italy, known for its stunning beauty.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:55",
+                "end_time": "00:11:25",
+                "content": "Our final destination is the majestic Grand Canyon in the United States, a natural wonder of unparalleled scale and grandeur.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:25",
+                "end_time": "00:13:45",
+                "content": "These landscapes are a testament to the power and beauty of nature. Let's take a moment to appreciate their grandeur.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore the majestic landscapes of the Swiss Alps, Amazonian forests, Lake Como, and the Grand Canyon."
+    },
+    "category": {
+        "id": 123,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 23724
+    }
+}

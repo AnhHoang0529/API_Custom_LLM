@@ -1,0 +1,47 @@
+{
+    "id": "7898110522",
+    "md5": "56852a419c98d9f1578e8a1fbfc70cd8",
+    "extension": "jpg",
+    "size": 141390,
+    "height": 1280,
+    "width": 1920,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "majestic_landscape.jpg",
+    "desc": "A captivating image of a serene mountain landscape.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "Welcome to this majestic landscape showcasing a breathtaking mountain view.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:11",
+                "content": "The towering mountain peaks covered in snow glisten in the sunlight, creating a stunning visual effect.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:12",
+                "end_time": "00:00:16",
+                "content": "The lush green valleys stretch out before us, providing a beautiful contrast to the snow-capped mountains.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 191,
+        "title": "Nature"
+    },
+    "people": [],
+    "textData": "",
+    "organizations": []
+}

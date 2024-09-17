@@ -1,0 +1,61 @@
+{
+    "id": "9158093428",
+    "md5": "6fcd143b7c3c1d2ad3b2a3b5a1ca5c6f",
+    "extension": "mp4",
+    "size": 7671230,
+    "height": 1080,
+    "width": 1920,
+    "duration": 45.0,
+    "density": 1,
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscapes.mp4",
+    "desc": "A compilation of urban cityscapes from various cities around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "In this video, we traverse the bustling streets of Tokyo, showcasing its vibrant cityscape.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:16",
+                "end_time": "00:02:20",
+                "content": "Next, we head to the City of Light, Paris, where we explore the picturesque Seine river and its iconic landmarks.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:21",
+                "end_time": "00:03:30",
+                "content": "Our journey continues in the beautiful Venice, Italy, renowned for its unique waterways and architectural wonders.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:31",
+                "end_time": "00:04:45",
+                "content": "Finally, we visit the stunning New York City, where we gaze upon its towering skyscrapers and pulsating energy.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:46",
+                "end_time": "00:05:45",
+                "content": "In conclusion, this video offers a visual treat of urban cityscapes from around the world, providing a glimpse into their rich cultures and history.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video explores urban cityscapes from Tokyo, Paris, Venice, and New York City, allowing viewers to appreciate their unique characteristics."
+    },
+    "category": {
+        "id": 35,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

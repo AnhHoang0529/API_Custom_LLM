@@ -1,0 +1,64 @@
+{
+    "id": "3913590975",
+    "md5": "3c44d2a3b7b5cb9e1b2c2c3d2a2b6b65",
+    "extension": "mp3",
+    "size": 3245678,
+    "height": "",
+    "width": "",
+    "duration": 222.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "study_and_work.mp3",
+    "desc": "This audio file discusses effective study techniques, time management strategies, and work productivity tips.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:04:30",
+                "content": "Discusses various study techniques, such as the Pomodoro Technique, Spaced Repetition, and Active Recall.",
+                "speaker": "Expert in studying and productivity"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:30",
+                "end_time": "00:10:15",
+                "content": "Provides tips for effective studying, like setting goals, creating a conducive environment, and utilizing resources wisely.",
+                "speaker": "Productivity coach"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:15",
+                "end_time": "00:17:30",
+                "content": "Talks about time management strategies, including planning your day and prioritizing tasks.",
+                "speaker": "Professional organizer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:17:30",
+                "end_time": "00:21:00",
+                "content": "Suggests work productivity tips, like taking breaks, minimizing distractions, and utilizing productivity tools.",
+                "speaker": "Efficiency expert"
+            },
+            {
+                "order": 5,
+                "start_time": "00:21:00",
+                "end_time": "00:22:21",
+                "content": "Summarizes the main points discussed in the audio and encourages the listener to apply the strategies in their own life.",
+                "speaker": "Host of the podcast"
+            }
+        ],
+        "sttSummary": "This audio discusses effective study techniques, time management strategies, and work productivity tips. It covers various study techniques, such as the Pomodoro Technique, Spaced Repetition, and Active Recall. The audio provides tips for effective studying, like setting goals, creating a conducive environment, and utilizing resources wisely. It talks about time management strategies, including planning your day and prioritizing tasks. Lastly, it suggests work productivity tips, like taking breaks, minimizing distractions, and utilizing productivity tools. The host summarizes the main points discussed in the audio and encourages the listener to apply the strategies in their own life."
+    },
+    "category": {
+        "id": 102,
+        "title": "Learning and Productivity"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 54321
+    }
+}

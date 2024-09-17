@@ -1,0 +1,64 @@
+{
+    "id": "6753841748",
+    "md5": "2b184cc84c1c9776a2f09c4d783e54e2",
+    "extension": ".mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\uc815\uce58\uc801 \uc5f0\uc124.mp3",
+    "desc": "\ub2e4\uc591\ud55c \uc138\uacc4 \uc9c0\ub3c4\uc790\ub4e4\uc774 \ud55c \uc815\uce58 \uc5f0\uc124 \ubaa8\uc74c",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:03:45",
+                "content": "\uc624\ubc14\ub9c8 \ub300\ud1b5\ub839\uc740 \uc5f0\uc124\uc5d0\uc11c \uad6d\uc81c \uad00\uacc4\uc5d0\uc11c \ub2e8\uacb0\uacfc \uc678\uad50\uc758 \uc911\uc694\uc131\uc744 \uac15\uc870\ud588\ub2e4.",
+                "speaker": "\uc624\ubc14\ub9c8 \ub300\ud1b5\ub839"
+            },
+            {
+                "order": 2,
+                "start_time": "00:10:30",
+                "end_time": "00:15:20",
+                "content": "\uc559\uac94\ub77c \uba54\ub974\ucf08 \ucd1d\ub9ac\ub294 \uacbd\uc81c \uc131\uc7a5\uc744 \ucd09\uc9c4\ud558\ub294 \ub370 \uc788\uc5b4 \uad50\uc721\uacfc \ud601\uc2e0\uc758 \uc911\uc694\uc131\uc5d0 \ub300\ud574 \uc5f0\uc124\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc559\uac94\ub77c \uba54\ub974\ucf08 \ucd1d\ub9ac"
+            },
+            {
+                "order": 3,
+                "start_time": "00:21:30",
+                "end_time": "00:26:45",
+                "content": "\ub098\ub80c\ub4dc\ub77c \ubaa8\ub514 \ucd1d\ub9ac\ub294 \uad6d\uc81c \uc0ac\ud68c\uc5d0\uc11c \uc778\ub3c4\uc758 \uc5ed\ud560\uacfc \uc9c0\uc18d \uac00\ub2a5\ud55c \uac1c\ubc1c\uc758 \ud544\uc694\uc131\uc5d0 \ub300\ud574 \ub17c\uc758\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\ucd1d\ub9ac \ub098\ub80c\ub4dc\ub77c \ubaa8\ub514"
+            },
+            {
+                "order": 4,
+                "start_time": "00:45:15",
+                "end_time": "00:54:30",
+                "content": "\uc2dc\uc9c4\ud551 \uc8fc\uc11d\uc740 \uc138\uacc4 \uacbd\uc81c \uc18d\uc5d0\uc11c \uc911\uad6d\uc774 \uc9c1\uba74\ud55c \ub3c4\uc804\uacfc \uae30\ud68c\uc5d0 \ub300\ud574 \uc5b8\uae09\ud588\uc73c\uba70, \uac1c\ubc29\uc801\uc778 \uc2dc\uc7a5\uacfc \uad6d\uc81c \ud611\ub825\uc758 \uc911\uc694\uc131\uc744 \uac15\uc870\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc2dc\uc9c4\ud551 \uc8fc\uc11d"
+            },
+            {
+                "order": 5,
+                "start_time": "01:12:00",
+                "end_time": "01:18:45",
+                "content": "\ube4c \ud074\ub9b0\ud134 \uc804 \ub300\ud1b5\ub839\uc740 \uae30\ud6c4 \ubcc0\ud654, \ube48\uace4, \ud3c9\ud654 \uc720\uc9c0 \ud65c\ub3d9 \ub4f1 \uc8fc\uc694 \uc138\uacc4\uc801 \ubb38\uc81c\uc5d0 \ub300\ud55c \uc9d1\ub2e8\uc801 \ud589\ub3d9\uc744 \ucd09\uad6c\ud558\uba70 \ud68c\uc758\ub97c \ub9c8\ubb34\ub9ac\ud588\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc804 \ub300\ud1b5\ub839 \ube4c \ud074\ub9b0\ud134"
+            }
+        ],
+        "sttSummary": "\uc774 \ub179\uc74c\uc740 \uad6d\uc81c \ud68c\uc758\uc5d0\uc11c \ub2e4\uc591\ud55c \uc138\uacc4 \uc9c0\ub3c4\uc790\ub4e4\uc758 \uc5f0\uc124\uc744 \ub2f4\uace0 \uc788\uc73c\uba70, \ud1b5\uc77c, \uc678\uad50, \uad50\uc721, \ud601\uc2e0, \uae00\ub85c\ubc8c \ucee4\ubba4\ub2c8\ud2f0\uc5d0\uc11c \uc778\ub3c4\uc758 \uc5ed\ud560, \uc9c0\uc18d \uac00\ub2a5\ud55c \uac1c\ubc1c, \uac1c\ubc29 \uc2dc\uc7a5, \uad6d\uc81c \ud611\ub825\uacfc \uac19\uc740 \uc8fc\uc81c\ub97c \ub17c\uc758\ud569\ub2c8\ub2e4. \uc5f0\uc124\uc790\ub85c\ub294 \uc624\ubc14\ub9c8 \ub300\ud1b5\ub839, \uc559\uac94\ub77c \uba54\ub974\ucf08 \ucd1d\ub9ac, \ub098\ub80c\ub4dc\ub77c \ubaa8\ub514 \ucd1d\ub9ac, \ube4c \ud074\ub9b0\ud134 \uc804 \ub300\ud1b5\ub839\uc774 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 1,
+        "title": "\uc815\uce58"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 56789
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": "0759686132",
+    "md5": "4abf4a1fb636b0f453143e8b4f8e68c6",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "animals_wild.mp3",
+    "desc": "A recording of various animals in their natural habitats, featuring elephants, tigers, and lions.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "Elephants, with their large size and distinctive trunks, roam the African savanna.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:15",
+                "end_time": "00:02:00",
+                "content": "Tigers, the largest of all big cats, can be found in Asia.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:00",
+                "end_time": "00:03:00",
+                "content": "Lions, the king of the jungle, are the second largest of the big cats.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:00",
+                "end_time": "00:03:50",
+                "content": "Several other animals in the wild, like giraffes and zebras, can be heard in the background.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:03:50",
+                "end_time": "00:04:30",
+                "content": "The sounds of nature, like rustling leaves and chirping birds, fill the air.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio recording showcases various animals in their natural habitats, including elephants, tigers, and lions, as well as other animals like giraffes and zebras, and the sounds of nature."
+    },
+    "category": {
+        "id": 5,
+        "title": "Animals"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

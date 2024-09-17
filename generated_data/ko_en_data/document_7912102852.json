@@ -1,0 +1,54 @@
+{
+    "id": "7912102852",
+    "md5": "4687164dcdc92e1649c7a6699b2b6a68",
+    "extension": "pdf",
+    "size": 166335,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_report.pdf",
+    "desc": "A comprehensive report on key political events over the past year.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "This report covers significant political events from around the world over the past year.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "In the United States, President Biden signed several executive orders in his first month in office.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:00:45",
+                "content": "Meanwhile, in the European Union, Brexit negotiations reached a critical stage.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:45",
+                "end_time": "00:01:00",
+                "content": "Elsewhere, protests against government policies continued in various countries.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 23,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "The past year has seen a flurry of political events, with key developments taking place across the globe. In the United States, newly-elected President Joe Biden signed a series of executive orders during his first month in office. These orders focused on climate change, COVID-19 relief, and immigration reform. Meanwhile, in the European Union, Brexit negotiations reached a critical stage, with both sides expressing optimism about a potential deal. However, tensions remained high, as the EU continued to insist on maintaining its red lines. Elsewhere, protests against government policies continued in various countries, from Hong Kong to Belarus to the United States. These protests ranged from peaceful demonstrations to violent clashes with law enforcement. Overall, the political landscape remained complex and dynamic, with numerous challenges and opportunities for progress.",
+    "organizations": []
+}

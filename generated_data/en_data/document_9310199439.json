@@ -1,0 +1,47 @@
+{
+    "id": "9310199439",
+    "md5": "1d4ba94b7d25646a289e29e797d73e8a",
+    "extension": "pdf",
+    "size": 661728,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrities.pdf",
+    "desc": "A comprehensive report discussing the lives of various famous personalities",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "This report sheds light on the lives and accomplishments of popular celebrities.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "First, we will explore the biography of Brad Pitt.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 1326365
+    },
+    "category": {
+        "id": 2,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 3,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        }
+    ],
+    "textData": "The entertainment industry has always been a major source of fascination for the public. The lives of celebrities often capture our attention, and for good reason. In this report, we will delve into the lives of some of the most popular personalities in the entertainment industry. Let's begin with Brad Pitt. Born on December 18, 1963, in Shawnee, Oklahoma, Brad Pitt is an American actor and film producer. He began his acting career in television, appearing in several small roles before making his film debut in 'The Dark Side of the Moon' in 1996. Pitt gained widespread recognition for his role in Quentin Tarantino's 'Pulp Fiction' (1994), which earned him a nomination for the Academy Award for Best Supporting Actor. Throughout his career, he has appeared in numerous critically acclaimed films, including 'Fight Club,' 'Snatch,' 'Mr. and Mrs. Smith,' and 'The Curious Case of Benjamin Button.' In addition to acting, Pitt has also ventured into film production, producing films such as 'The Departed' and '12 Years a Slave.' Pitt's personal life has also been the subject of much media attention. He was married to Jennifer Aniston from 2000 to 2005, and he has been in a long-term relationship with Angelina Jolie since 2005. The couple has six children together. In recent years, Pitt has been involved in various philanthropic efforts, including disaster relief and education initiatives. Despite the many challenges he has faced in his personal and professional life, Brad Pitt remains an enduring figure in the entertainment industry.",
+    "organizations": []
+}

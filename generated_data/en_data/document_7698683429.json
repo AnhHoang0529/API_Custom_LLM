@@ -1,0 +1,47 @@
+{
+    "id": "7698683429",
+    "md5": "9d56e4d05cb792e69292027367d1a8d9",
+    "extension": "pdf",
+    "size": 115634,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cityscapes_research.pdf",
+    "desc": "An insightful research paper on urban cityscapes.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:12",
+                "content": "Welcome to our exploration of urban cityscapes. In this research paper, we will delve into the intricacies of urban landscapes, their history, and their impact on society.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:13",
+                "end_time": "00:00:28",
+                "content": "First, let's discuss the historical development of cityscapes and how they have evolved over time.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:29",
+                "end_time": "00:00:45",
+                "content": "One of the earliest recorded cityscapes was the ancient city of Ur in Mesopotamia, dating back to around 4000 BC.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 72899
+    },
+    "category": {
+        "id": 162,
+        "title": "Urban Studies"
+    },
+    "people": [],
+    "textData": "Urban cityscapes have been a subject of fascination and study for centuries. From the ancient city of Ur in Mesopotamia to modern metropolises, cityscapes have shaped and been shaped by their histories, societies, and technologies...",
+    "organizations": []
+}

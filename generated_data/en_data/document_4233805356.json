@@ -1,0 +1,40 @@
+{
+    "id": "4233805356",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "research_paper_quantum_computing.pdf",
+    "desc": "A comprehensive research paper on quantum computing.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "This research paper explores the advancements in quantum computing over the last decade.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:16",
+                "end_time": "00:01:00",
+                "content": "It covers the latest research findings, applications, and challenges in the field.",
+                "speaker": ""
+            }
+        ],
+        "id": 26980
+    },
+    "category": {
+        "id": 208,
+        "title": "Research Papers"
+    },
+    "people": [],
+    "textData": "This research paper explores the advancements in quantum computing over the last decade. It covers the latest research findings, applications, and challenges in the field. Quantum computers hold the potential to revolutionize the way we solve complex problems, from optimizing logistics networks to simulating the behavior of molecules for drug discovery. However, the technology is still in its infancy and faces many challenges, including the need for error correction and the development of scalable systems. This paper provides an overview of the current state of the field and highlights promising research directions. It concludes with a discussion of the potential impact of quantum computing on various industries and society as a whole.",
+    "organizations": []
+}

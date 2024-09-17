@@ -1,0 +1,64 @@
+{
+    "id": "5544188814",
+    "md5": "a1b2c3d4e5f6g7h8",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 1920,
+    "width": 1080,
+    "duration": 120.0,
+    "density": 1,
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "lions_in_savannah.mp4",
+    "desc": "Lions in their natural habitat in the African savannah. This video features a pride of lions roaming, hunting, and interacting in their community.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Lions are the second largest big cat species, found primarily in Africa and India. They are social animals, forming prides that can range from 3 to 30 members.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:00",
+                "content": "The pride is led by the dominant male, who protects the females and cubs. He also establishes and maintains territory for the pride. In this video, we observe a majestic lion in his role as leader.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:00",
+                "end_time": "00:06:00",
+                "content": "Lions use their powerful jaws and sharp claws to take down large prey like zebras and wildebeests. Their coordinated teamwork and communication are essential to a successful hunt.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:08:30",
+                "content": "The cubs are born blind and helpless, with their eyes opening around one week. They begin to explore their surroundings and learn hunting skills from their parents. This video provides a rare glimpse into the life of lion cubs in the wild.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:30",
+                "end_time": "00:12:00",
+                "content": "Lions are vulnerable to various threats such as habitat loss, poaching, and diseases. Conservation efforts are crucial to ensure their survival and protect these magnificent creatures for future generations.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases various aspects of lions, their behavior in the wild, and the challenges they face. It's a compelling exploration into the lives of these magnificent animals."
+    },
+    "category": {
+        "id": 67890,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

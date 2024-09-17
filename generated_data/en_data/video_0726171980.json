@@ -1,0 +1,54 @@
+{
+    "id": "0726171980",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 50918976,
+    "height": 1920,
+    "width": 1080,
+    "duration": 210.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Cultural-Traditions.mp4",
+    "desc": "Exploring various cultural celebrations and their unique customs and traditions.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The Diwali festival, also known as the festival of lights, is celebrated by Hindus, Jains, and Sikhs. The holiday marks the victory of light over darkness and good over evil. The most iconic traditions include lighting diyas, which are small clay lamps, and bursting firecrackers.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "In China, the Chinese New Year is the most celebrated festival, welcoming the beginning of a new lunar year. Common practices include cleaning one's home, preparing traditional meals, and giving red envelopes filled with money to children and unmarried adults. The zodiac sign of the coming year is also believed to influence the luck and fortunes of people born under that sign.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:30",
+                "content": "Another prominent cultural tradition is the Day of the Dead or D\u00eda de los Muertos, celebrated in Mexico. This holiday honors deceased loved ones and is marked by building altars, decorating graves, and preparing traditional foods like sugar skulls and pan de muerto. The belief is that the souls of the departed return to visit their families and enjoy these offerings.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "Lastly, in India, Holi, also known as the festival of colors, is a joyous celebration signifying the triumph of good over evil, the arrival of spring, and the end of winter. People cover each other in colored powders and water, and indulge in sweets and delicacies.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video discusses various cultural traditions from around the world, including Diwali, Chinese New Year, Day of the Dead, and Holi."
+    },
+    "category": {
+        "id": 34,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

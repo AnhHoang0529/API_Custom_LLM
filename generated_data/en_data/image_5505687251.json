@@ -1,0 +1,28 @@
+{
+    "id": "5505687251",
+    "md5": "1234567890abcdef",
+    "extension": "jpeg",
+    "size": 235241,
+    "height": 1000,
+    "width": 1500,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Indian_Festival_Of_Colors.jpeg",
+    "desc": "Celebration of the Indian festival of colors, Holi",
+    "narrationStt": "",
+    "category": {
+        "id": 98765,
+        "title": "Festivals"
+    },
+    "people": [
+        {
+            "id": 78945,
+            "nickName": "Rahul",
+            "name": "Rahul Patel",
+            "dateOfBirth": "1996-02-15"
+        }
+    ],
+    "organizations": []
+}

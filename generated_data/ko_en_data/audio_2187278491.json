@@ -1,0 +1,61 @@
+{
+    "id": "2187278491",
+    "md5": "778f10345f6f452b345f2f6f345f2b34",
+    "extension": "mp3",
+    "size": 3129538,
+    "height": "",
+    "width": "",
+    "duration": 188.9,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "city_scapes.mp3",
+    "desc": "This recording captures the lively atmosphere of an urban cityscape, showcasing the sounds of traffic, people, and bustling activity.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "The city is alive with the sounds of honking cars and chatter...",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:31",
+                "end_time": "00:05:00",
+                "content": "Sirens wail in the distance and children laugh as they play in nearby parks...",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:01",
+                "end_time": "00:07:30",
+                "content": "The rhythmic beat of construction work and the clanging of metal echo through the streets...",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:31",
+                "end_time": "00:10:00",
+                "content": "People engage in animated conversations, and vendors call out enticing deals to passersby...",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:01",
+                "end_time": "00:18:59.999999",
+                "content": "The bustling sounds of an urban cityscape gradually fade, leaving behind a sense of peace and tranquility...",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio file contains a bustling urban cityscape with sounds of traffic, construction, people, and activity. The recording starts with the sounds of honking cars and chatter, followed by sirens and children playing. Next, the rhythmic beat of construction work and vendors call outs are heard. Finally, the recording ends with a peaceful fade, leaving behind a sense of tranquility."
+    },
+    "category": {
+        "id": 6,
+        "title": "Nature and Environment"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

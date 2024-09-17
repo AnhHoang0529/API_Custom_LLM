@@ -1,0 +1,64 @@
+{
+    "id": "0094470542",
+    "md5": "123e4567-e89b-5f4d-ae7e-0e07101e5998",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 300,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "GourmetDishes.mp4",
+    "desc": "Exploring various gourmet dishes and their unique culinary arts.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "Gourmet dishes showcase the art of cooking with exquisite flavors and textures.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Today, we will explore the culinary arts of Italian cuisine, starting with a classic Margherita pizza.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:30",
+                "content": "The dough is mixed, kneaded, and stretched to perfection. Toppings include tomatoes, mozzarella, and basil.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:30",
+                "end_time": "00:08:30",
+                "content": "The pizza is then baked in a hot oven, creating a golden crust and melting the cheese.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:30",
+                "end_time": "00:10:30",
+                "content": "Finally, the pizza is garnished and served, allowing us to savor the delicious flavors.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video explores various gourmet dishes and their unique culinary arts through the creation of a classic Margherita pizza."
+    },
+    "category": {
+        "id": 2,
+        "title": "Culinary Arts"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 9285674
+    }
+}

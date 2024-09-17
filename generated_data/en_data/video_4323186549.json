@@ -1,0 +1,61 @@
+{
+    "id": "4323186549",
+    "md5": "98e4a494b5a286c2916e9a4f3e2d576a",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 240.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "animals_wild.mp4",
+    "desc": "A documentary about various animals in their natural habitats, exploring their behaviors and habitats.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "In the heart of the Amazon rainforest, we find the elusive jaguar.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "The jaguar is the largest cat species in the Americas and is one of the most powerful hunters.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "The jaguar's coat varies in color from orange to reddish-brown with black spots.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:06:30",
+                "content": "Despite their intimidating size and strength, jaguars have few natural predators.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Join us on this journey as we uncover the mysteries of these magnificent creatures and their environments.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video explores the elusive jaguar, the largest cat species in the Americas, and its natural habitat in the Amazon rainforest. We learn about its coat color variations, power, lack of natural predators, and more."
+    },
+    "category": {
+        "id": 3,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

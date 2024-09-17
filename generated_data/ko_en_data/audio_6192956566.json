@@ -1,0 +1,77 @@
+{
+    "id": "6192956566",
+    "md5": "d7a7a2b3bdf8f0174e3f27e10d1d269e",
+    "extension": "mp3",
+    "size": 2462019,
+    "height": "",
+    "width": "",
+    "duration": 123.45,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Celebrities_Interviews.mp3",
+    "desc": "An audio compilation of interviews with famous celebrities from the entertainment industry.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "Brad Pitt is a renowned Hollywood actor.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:02:15",
+                "content": "Angelina Jolie has been a successful actress since the late 1990s.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:30",
+                "end_time": "00:03:15",
+                "content": "Brad Pitt's acting career began in the late 1980s.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:30",
+                "end_time": "00:04:15",
+                "content": "Angelina Jolie is also a devoted humanitarian.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:30",
+                "end_time": "00:05:15",
+                "content": "Both Brad Pitt and Angelina Jolie have won numerous awards for their acting roles.",
+                "speaker": "Interviewer"
+            }
+        ],
+        "sttSummary": "This interview discusses the careers of Brad Pitt and Angelina Jolie, highlighting their success and humanitarian efforts."
+    },
+    "category": {
+        "id": 1,
+        "title": "Entertainment"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 2,
+            "nickName": "Angelina",
+            "name": "Angelina Jolie",
+            "dateOfBirth": "June 4, 1975"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 23432
+    }
+}

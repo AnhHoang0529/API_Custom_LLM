@@ -1,0 +1,37 @@
+{
+    "id": "9546414147",
+    "md5": "5dd37b47010ef8e24c7e4a5b784d97fa",
+    "extension": "jpeg",
+    "size": 83726,
+    "height": 1200,
+    "width": 1600,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "Mardi_Gras_Parade_New_Orleans_2023.jpeg",
+    "desc": "Annual carnival celebrated in New Orleans, Louisiana, and other places around the world, known for its colorful floats, music, and costumes",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "Cultural_Celebrations"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 123,
+            "name": "Mardi Gras Indians",
+            "otherName": ""
+        },
+        {
+            "id": 25,
+            "name": "Rex Parade",
+            "otherName": ""
+        },
+        {
+            "id": 13,
+            "name": "Zulu Parade",
+            "otherName": ""
+        }
+    ]
+}

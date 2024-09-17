@@ -1,0 +1,61 @@
+{
+    "id": "4454530858",
+    "md5": "4ad9a161c4cd8f4e99b00b0c2596b957",
+    "extension": "mp3",
+    "size": 2516249,
+    "height": "",
+    "width": "",
+    "duration": 475.6,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Politics_2023_02_03.mp3",
+    "desc": "A recording of a political panel discussing recent events and their implications.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The panelists discuss recent political events in Europe, focusing on Germany's new chancellor.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "They analyze the implications of these events on the European Union and its member states.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:05:45",
+                "content": "The panelists also touch upon the US involvement in these issues and its potential impact on the global political landscape.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:45",
+                "end_time": "00:07:25",
+                "content": "A brief recap of the panel's discussion and their key takeaways.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:25",
+                "end_time": "00:08:55",
+                "content": "The panelists provide their predictions for future political developments and the challenges they may present.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This recording features a political panel discussing recent events in Europe, their implications for the European Union, and potential future developments."
+    },
+    "category": {
+        "id": 1,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

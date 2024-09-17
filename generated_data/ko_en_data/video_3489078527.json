@@ -1,0 +1,77 @@
+{
+    "id": "3489078527",
+    "md5": "7b2b2b7b-6f7f-6f6f-6f6f-7b7b2b2b2b7b",
+    "extension": "mp4",
+    "size": 6761234,
+    "height": 720,
+    "width": 1280,
+    "duration": 311.2,
+    "density": 1,
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "study_and_work.mp4",
+    "desc": "This video explores the importance of study and work in modern life. It presents various methods and strategies for effective studying and shares insights on productivity and time management. Additionally, we discuss the benefits of work and its role in personal growth and career advancement.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:02:03",
+                "content": "Effective studying methods include creating a comfortable study environment, taking breaks, and using mnemonic devices. It's also essential to set achievable goals and prioritize tasks. For instance, the Pomodoro Technique, which involves working for 25 minutes, followed by a 5-minute break, can significantly improve focus and productivity.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:04",
+                "end_time": "00:03:30",
+                "content": "Productivity and time management skills, such as time tracking, multitasking, and delegation, are crucial to personal and professional growth. By managing your time effectively, you can accomplish more in less time, reducing stress, and enhancing your overall well-being.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:31",
+                "end_time": "00:05:00",
+                "content": "Work is a vital aspect of adult life. It provides financial security, contributes to personal growth, and fosters social connections. Finding a career that aligns with your interests and values can lead to greater job satisfaction and success.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:01",
+                "end_time": "00:06:30",
+                "content": "Effective communication skills are essential in both personal and professional settings. Active listening, clear and concise messaging, and empathy are all essential components of successful communication. Mastering these skills can lead to stronger relationships and increased professional opportunities.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:31",
+                "end_time": "00:07:50",
+                "content": "Lastly, maintaining a healthy work-life balance is crucial for overall well-being. Prioritizing self-care, setting boundaries, and managing stress can lead to a more fulfilling and productive life. Remember, it's essential to take care of yourself, both physically and mentally.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video discusses various methods for effective studying, productivity and time management skills, and the importance of work and maintaining a healthy work-life balance. It also emphasizes the significance of effective communication skills in personal and professional life."
+    },
+    "category": {
+        "id": 7,
+        "title": "Education & Learning"
+    },
+    "people": [
+        {
+            "id": 1234,
+            "nickName": "JohnDoe",
+            "name": "John Doe",
+            "dateOfBirth": "1995-01-01"
+        },
+        {
+            "id": 5678,
+            "nickName": "JaneDoe",
+            "name": "Jane Doe",
+            "dateOfBirth": "1998-02-02"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 161535293
+    }
+}

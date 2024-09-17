@@ -1,0 +1,34 @@
+{
+    "id": "1951130586",
+    "md5": "2e7e3b45d3e1c7616e224e7f1bc83ef1",
+    "extension": "jpeg",
+    "size": 276536,
+    "height": 1024,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "2021-02-13_Protest_Downtown_Washington_DC.jpeg",
+    "desc": "Thousands of supporters of Donald Trump gathered in Washington D.C. to protest against the outcome of the 2020 presidential election.",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 516,
+            "nickName": "Patriot1",
+            "name": "John Doe",
+            "dateOfBirth": "1975-05-15"
+        },
+        {
+            "id": 1123,
+            "nickName": "AntifaActivist",
+            "name": "Jane Doe",
+            "dateOfBirth": "1991-10-23"
+        }
+    ],
+    "organizations": []
+}

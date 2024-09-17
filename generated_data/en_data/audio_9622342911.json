@@ -1,0 +1,74 @@
+{
+    "id": "9622342911",
+    "md5": "098f6bcd4621d373cade4e832627b4f6",
+    "extension": "mp3",
+    "size": 6599312,
+    "height": "",
+    "width": "",
+    "duration": 120.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_jim_and_john_interview.mp3",
+    "desc": "An interview with Jim Carrey and John Malkovich discussing their latest projects and personal experiences.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "01:15:00",
+                "content": "Jim Carrey and John Malkovich sit down for an extensive interview, starting with their latest projects.",
+                "speaker": "Interviewer"
+            },
+            {
+                "order": 2,
+                "start_time": "01:15:00",
+                "end_time": "01:30:00",
+                "content": "Jim talks about his recent role in the drama 'The Bad Batch', and how being part of an ensemble cast has challenged him.",
+                "speaker": "Jim Carrey"
+            },
+            {
+                "order": 3,
+                "start_time": "01:30:00",
+                "end_time": "01:48:00",
+                "content": "John Malkovich discusses his upcoming film 'Being the Ricardos' and the process of preparing for the role of Lucille Ball.",
+                "speaker": "John Malkovich"
+            },
+            {
+                "order": 4,
+                "start_time": "01:48:00",
+                "end_time": "02:03:00",
+                "content": "Both Jim and John share stories from their careers, their creative processes, and their shared love for acting.",
+                "speaker": "Jim Carrey, John Malkovich"
+            },
+            {
+                "order": 5,
+                "start_time": "02:03:00",
+                "end_time": "02:15:00",
+                "content": "The interview wraps up with the two discussing their future projects and their admiration for each other's work.",
+                "speaker": "Interviewer, Jim Carrey, John Malkovich"
+            }
+        ],
+        "sttSummary": "An interview with Jim Carrey and John Malkovich discussing their latest projects and personal experiences. Jim talks about his role in 'The Bad Batch' and John discusses 'Being the Ricardos'. Both share stories from their careers and their mutual respect."
+    },
+    "category": {
+        "id": 5,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Jim",
+            "name": "James Eugene Carrey",
+            "dateOfBirth": "January 17, 1962"
+        },
+        {
+            "id": 2,
+            "nickName": "John",
+            "name": "John Malkovich",
+            "dateOfBirth": "December 9, 1953"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": "8915217812",
+    "md5": "e0b7a123f232f2a1232323232323232323232323232323232323232",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "wildlife_research.pdf",
+    "desc": "This research paper explores the behaviors and habitats of various wild animals around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Welcome to our research paper on wild animals and their habitats.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "The paper discusses various aspects of wildlife conservation and the challenges faced in preserving their natural habitats.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:18",
+                "content": "First, we'll explore some of the most fascinating wildlife species found in different regions.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:18",
+                "end_time": "00:00:35",
+                "content": "In the African savannah, we find the majestic African elephant, the world's largest land animal.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:35",
+                "end_time": "00:00:40",
+                "content": "Next, we'll visit the icy polar regions to learn about polar bears and their adaptation to extreme temperatures.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:00:40",
+                "end_time": "00:00:50",
+                "content": "Later, we'll delve into the depths of the Amazon rainforest, home to countless exotic species.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 7,
+                "start_time": "00:00:50",
+                "end_time": "00:00:55",
+                "content": "And finally, we'll examine the importance of wildlife conservation efforts and the impact on the preservation of biodiversity.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 191,
+        "title": "Animals"
+    },
+    "people": [],
+    "textData": "Welcome to our research paper on wild animals and their habitats. The paper discusses various aspects of wildlife conservation and the challenges faced in preserving their natural habitats. First, we'll explore some of the most fascinating wildlife species found in different regions. In the African savannah, we find the majestic African elephant, the world's largest land animal. Next, we'll visit the icy polar regions to learn about polar bears and their adaptation to extreme temperatures. Later, we'll delve into the depths of the Amazon rainforest, home to countless exotic species. And finally, we'll examine the importance of wildlife conservation efforts and the impact on the preservation of biodiversity. The paper discusses various aspects of wildlife conservation and the challenges faced in preserving their natural habitats. First, we'll explore some of the most fascinating wildlife species found in different regions. In the African savannah, we find the majestic African elephant, the world's largest land animal. Next, we'll visit the icy polar regions to learn about polar bears and their adaptation to extreme temperatures. Later, we'll delve into the depths of the Amazon rainforest, home to countless exotic species. And finally, we'll examine the importance of wildlife conservation efforts and the impact on the preservation of biodiversity.",
+    "organizations": []
+}

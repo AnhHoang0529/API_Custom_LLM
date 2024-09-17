@@ -1,0 +1,61 @@
+{
+    "id": "9076026208",
+    "md5": "a1b2c3d4e5f6g7h8",
+    "extension": "mp3",
+    "size": 1234567,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "cityscapes.mp3",
+    "desc": "This audio file showcases the hustle and bustle of urban life, with sounds of cars, buses, pedestrian chatter, and the distant hum of helicopters overhead.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The city is coming alive, with the sounds of cars and buses. Pedestrians chat among themselves as they walk on the sidewalks.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "Sirens blare in the distance as emergency vehicles rush through the city streets. The hum of helicopters overhead adds to the urban symphony.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "The city's architecture comes alive as the sun rises, with the glass buildings reflecting the morning light.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:06:30",
+                "content": "The aroma of fresh coffee wafts through the air, blending with the sounds of vendors selling their wares in the nearby market.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:30",
+                "end_time": "00:10:00",
+                "content": "The city's energy is palpable, as people go about their day. The sounds of traffic, chatter, and construction continue to fill the air.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Experience the energy and vibrancy of a bustling urban city in this audio recording of cityscapes."
+    },
+    "category": {
+        "id": 1,
+        "title": "Urban Life"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

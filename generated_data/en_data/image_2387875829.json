@@ -1,0 +1,27 @@
+{
+    "id": "2387875829",
+    "md5": "07b12377b13f8e7d67f58239c1a34338",
+    "extension": "jpeg",
+    "size": 36542,
+    "height": 4096,
+    "width": 3072,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "dishes-01.jpeg",
+    "desc": "A colorful platter of various gourmet dishes including sushi, sashimi, and tempura.",
+    "narrationStt": "",
+    "category": {
+        "id": 2,
+        "title": "Gourmet Food"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 1,
+            "name": "Sushi Bar",
+            "otherName": "Nobu"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "4338710434",
+    "md5": "eb6bf562d8ef8f651c7a24314d1d756b",
+    "extension": "mp4",
+    "size": 72156243,
+    "height": 1080,
+    "width": 1920,
+    "duration": 146.7,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Alpine_Lake.mp4",
+    "desc": "A journey through breathtaking landscapes of the Alps, featuring serene lakes, majestic mountains, and picturesque valleys.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:30",
+                "content": "The journey begins in the heart of the Alps, where we find ourselves surrounded by majestic snow-capped mountains.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "We travel through a picturesque valley, with the sun casting long shadows over the rolling hills and meandering streams.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:05:00",
+                "content": "As we ascend higher into the mountains, the air grows thinner and cooler, providing a refreshing contrast to the heat of the valley.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Finally, we reach a crystal-clear alpine lake nestled among the mountains, its still waters reflecting the breathtaking scenery around it.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:12:00",
+                "content": "We take in the breathtaking views, capturing memories that will last a lifetime as we explore the beauty of the Alps.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A journey through the Alps, featuring serene alpine lakes, majestic mountains, and picturesque valleys."
+    },
+    "category": {
+        "id": 6,
+        "title": "Nature and Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

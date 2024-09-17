@@ -1,0 +1,64 @@
+{
+    "id": "2934711538",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0a1b2c3d4e5f6g7h8i9j0",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 210.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\ucd95\uad6c \uacbd\uae30.mp3",
+    "desc": "2023\ub144 1\uc6d4 1\uc77c\uc5d0 \uc788\uc5c8\ub358 \ub808\ub4dc\ud300\uacfc \ube14\ub8e8\ud300\uc758 \ud765\ubbf8\uc9c4\uc9c4\ud55c \ucd95\uad6c \uacbd\uae30\uc758 \ud558\uc774\ub77c\uc774\ud2b8\uc785\ub2c8\ub2e4. \uc774 \uacbd\uae30\ub294 \uc2a4\ub9b4 \ub118\uce58\ub294 \uc21c\uac04\uacfc \uc608\uc0c1\uce58 \ubabb\ud55c \uc804\uac1c\ub85c \uac00\ub4dd\ud588\uc2b5\ub2c8\ub2e4.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:12",
+                "end_time": "00:03:45",
+                "content": "\ub808\ub4dc\ud300\uc758 \uace8\ud0a4\ud37c \uc874\uc774 \ube14\ub8e8\ud300\uc758 \uc2a4\ud2b8\ub77c\uc774\ucee4 \ub9c8\ud06c\uc758 \uac15\ub825\ud55c \uc29b\uc744 \uc778\uc0c1\uc801\uc778 \uc138\uc774\ube0c\ub85c \ub9c9\uc544\ub0c8\ub2e4. \uad00\uc911\uc740 \uc5f4\uad11\ud588\ub2e4.",
+                "speaker": "\uc2dc\uc0ac \ud574\uc124\uc790"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:56",
+                "end_time": "00:07:30",
+                "content": "\ube14\ub8e8\ud300\uc758 \ubbf8\ub4dc\ud544\ub354 \uc0ac\ub77c\uac00 \ub180\ub77c\uc6b4 \uace8\uc744 \ub123\uc5b4 \ub808\ub4dc\ud300 \uc218\ube44\ub97c \uacbd\uc678\ud558\uac8c \ub9cc\ub4e4\uc5c8\ub2e4. \uc2a4\ucf54\uc5b4\ub294 \uc774\uc81c 1-1\uc774\ub2e4.",
+                "speaker": "\uc2dc\uc0ac \ud574\uc124\uc790"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:18",
+                "end_time": "00:13:45",
+                "content": "\ub808\ub4dc\ud300\uc740 \uc2a4\ud0c0 \uc120\uc218 \uc54c\ub809\uc2a4\uc758 \ud5e4\ub529\uace8\uacfc \uc719\uc5b4 \ud33b\uc758 \ud6cc\ub96d\ud55c \ud06c\ub85c\uc2a4\ub85c \uc120\ub450\ub97c \ucc28\uc9c0\ud588\uc2b5\ub2c8\ub2e4. \uad00\uc911\ub4e4\uc740 \uc77c\uc5b4\ub098 \uc788\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc2dc\uc0ac \ud574\uc124\uc790"
+            },
+            {
+                "order": 4,
+                "start_time": "00:15:06",
+                "end_time": "00:18:30",
+                "content": "\ube14\ub8e8\ud300\uc740 \ub9c8\ud06c\uc5d0\uac8c \ud30c\uc6b8\uc744 \ud55c \ud6c4 \uc8fc\uc7a5 \uc81c\uc784\uc2a4\uac00 \ud398\ub110\ud2f0\ud0a5\uc744 \uc131\uacf5\uc2dc\ucf1c \ub3d9\uc810\uace8\uc744 \ub123\uc5c8\uc2b5\ub2c8\ub2e4. \ub450 \ud300\uc774 \uc2b9\ub9ac\ub97c \uc704\ud574 \uc2f8\uc6b0\uba74\uc11c \uae34\uc7a5\uac10\uc774 \ub290\uaef4\uc9d1\ub2c8\ub2e4.",
+                "speaker": "\uc2dc\uc0ac \ud574\uc124\uc790"
+            },
+            {
+                "order": 5,
+                "start_time": "00:20:48",
+                "end_time": "00:24:00",
+                "content": "\ub808\ub4dc\ud300\uc740 \uad50\uccb4 \uc120\uc218\uc778 \uc5d0\ubc00\ub9ac\uac00 \ub9c8\uc9c0\ub9c9 \uc21c\uac04\uc5d0 \uace8\uc744 \ub123\uc73c\uba74\uc11c \uc2b9\ub9ac\ub97c \uac70\ub450\uace0 \ud1a0\ub108\uba3c\ud2b8 \ub2e4\uc74c \ub77c\uc6b4\ub4dc \uc9c4\ucd9c\uc744 \ud655\uc815\uc9c0\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "speaker": "\uc2dc\uc0ac \ud574\uc124\uc790"
+            }
+        ],
+        "sttSummary": "\ub808\ub4dc\ud300\uacfc \ube14\ub8e8\ud300\uc758 \ucd95\uad6c \uacbd\uae30\ub294 \uc2a4\ub9b4 \ub118\uce58\ub294 \uc21c\uac04\uacfc \uc608\uc0c1\uce58 \ubabb\ud55c \ubc18\uc804\uc73c\ub85c \uac00\ub4dd\ud588\uc2b5\ub2c8\ub2e4. \uc8fc\uc694 \uc21c\uac04\uc73c\ub85c\ub294 \uc874\uc758 \uc778\uc0c1\uc801\uc778 \uc138\uc774\ube0c, \uc0ac\ub77c\uc758 \ub180\ub77c\uc6b4 \uace8, \uadf8\ub9ac\uace0 \ub450 \ud300\uc758 \uce58\uc5f4\ud55c \uacbd\uc7c1\uc774 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 1,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 19874
+    }
+}

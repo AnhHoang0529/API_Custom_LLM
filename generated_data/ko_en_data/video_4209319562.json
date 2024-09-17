@@ -1,0 +1,61 @@
+{
+    "id": "4209319562",
+    "md5": "3b64f25057d684316c5f95d6b82a881e",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 1080,
+    "width": 1920,
+    "duration": 240.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "MasterChef-Gourmet-Dish-Ep1",
+    "desc": "Join us on a culinary adventure as we explore the art of creating gourmet dishes. From delicate pastries to savory entrees, we'll uncover the secrets that make these dishes truly remarkable. Get ready to learn, taste, and be inspired!",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:01:30",
+                "content": "Welcome to another episode of our cooking series, where we dive into the world of gourmet dishes and culinary arts. Today, we'll be creating a delicate pastry that's beloved by many.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:35",
+                "end_time": "00:02:45",
+                "content": "To begin, we'll gather our ingredients. For this pastry, we'll need butter, flour, sugar, and some eggs. Let's get started!",
+                "speaker": "Chef"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:45",
+                "end_time": "00:04:00",
+                "content": "First, we'll make the pastry dough. In a large bowl, combine the flour and salt. Make a well in the center and add in the cubed butter. Using your fingers, work the butter into the flour until it resembles coarse sand.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:00",
+                "end_time": "00:05:30",
+                "content": "Next, we'll add some ice-cold water to the mixture. Be careful not to overmix. Once the dough comes together, wrap it in plastic and let it rest for about an hour. Now, let's move on to the filling.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:30",
+                "end_time": "00:07:00",
+                "content": "For the filling, we'll use a combination of fresh fruits, sugar, and some cornstarch. Cook the fruits and sugar together until the sugar dissolves and the mixture thickens. Once ready, set it aside to cool.",
+                "speaker": "Chef"
+            }
+        ],
+        "sttSummary": "In this video, we'll be creating a gourmet pastry dish. We'll be making the pastry dough, preparing the filling, and assembling the pastry. Let's get started!"
+    },
+    "category": {
+        "id": 2,
+        "title": "Culinary"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

@@ -1,0 +1,61 @@
+{
+    "id": "7006255024",
+    "md5": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y5z6a7b8c9d0e0f1g1h2i3j4k5l6m7n8o9p0q1r1s2t2u3v3w4x4y5z5a6b7c8d9e0f1g1h2i3j4k5l6m7n8o9p0q1r1s2t2u3v3w4x4y5z5a6b7c8d9e",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 153.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Scene_Movie_Final.mp3",
+    "desc": "Audio recording of a movie scene featuring a car chase sequence.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:01:45",
+                "content": "The movie opens with a high-speed car chase scene through the bustling streets of downtown. The camera captures the sound of screeching tires and revving engines.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:15",
+                "content": "The cars maneuver expertly through narrow alleyways, narrowly avoiding collisions with pedestrians and other vehicles. The tension builds as the pursued car outruns the pursuers.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:00",
+                "content": "The chase eventually leads to a parking garage, where the pursued car attempts to evade the pursuers by taking the stairs instead of the ramp. The sound of heavy footsteps and gunfire fill the scene.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "A shootout ensues between the pursued car and the pursuers in the confined space of the parking garage. The sound design enhances the intensity of the scene with the echo of gunfire and the reverberation of the bullets.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:09:45",
+                "content": "The scene concludes with the pursued car successfully escaping the parking garage and leaving the pursuers behind. The sound of sirens fades away as the music picks up, signaling the beginning of the movie's main plot.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The scene opens with a high-speed car chase through the streets of downtown, followed by a tense sequence in a parking garage where a shootout occurs."
+    },
+    "category": {
+        "id": 1,
+        "title": "Movie Trailers"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

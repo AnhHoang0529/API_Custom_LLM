@@ -1,0 +1,52 @@
+{
+    "id": "8141580049",
+    "md5": "740c6e5e6d8eeb5272231a8c156b275e",
+    "extension": "jpeg",
+    "size": 26418,
+    "height": 1280,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "453628762345_7235546234.jpeg",
+    "desc": "\uc774\ub294 \uc601\ud654 '\ub9e4\ud2b8\ub9ad\uc2a4'\uc5d0\uc11c \ubaa8\ud53c\uc5b4\uc2a4(\ub85c\ub80c\uc2a4 \ud53c\uc2dc\ubc88 \ubd84)\uac00 \ub124\uc624(\ud0a4\uc544\ub204 \ub9ac\ube0c\uc2a4 \ubd84)\uc5d0\uac8c \uc9c4\uc2e4\uc744 \ubc1d\ud600\uc904 \ube68\uac04 \uc54c\uc57d\uc744 \uc8fc\ub294 \uc7a5\uba74\uc785\ub2c8\ub2e4.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:07",
+                "end_time": "00:00:12",
+                "content": "\ubaa8\ud53c\uc5b4\uc2a4\ub294 \ub124\uc624\uc5d0\uac8c \ub450 \uac00\uc9c0 \uc57d \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\ub77c\uace0 \uc81c\uc548\ud55c\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:13",
+                "end_time": "00:00:28",
+                "content": "\ub124\uc624\ub294 \uac01 \uc54c\uc57d\uc758 \uc758\ubbf8\ub97c \uace0\ub824\ud55c \ud6c4 \uacb0\uad6d \ube68\uac04 \uc54c\uc57d\uc744 \uc120\ud0dd\ud55c\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 56789
+    },
+    "category": {
+        "id": 63107,
+        "title": "SF \uc601\ud654"
+    },
+    "people": [
+        {
+            "id": 245637,
+            "nickName": "\ubaa8\ub974\ud398\uc6b0\uc2a4",
+            "name": "\ub85c\ub80c\uc2a4 \ud53c\uc26c\ubc88",
+            "dateOfBirth": "1961-07-30"
+        },
+        {
+            "id": 345763,
+            "nickName": "\ub124\uc624",
+            "name": "\ud0a4\uc544\ub204 \ub9ac\ube0c\uc2a4",
+            "dateOfBirth": "1964-09-02"
+        }
+    ],
+    "organizations": []
+}

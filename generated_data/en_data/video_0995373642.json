@@ -1,0 +1,64 @@
+{
+    "id": "0995373642",
+    "md5": "5d15734e1bc1d3b2895a4c123fc784c3",
+    "extension": "mp4",
+    "size": 134217728,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "movie_scene.mp4",
+    "desc": "This video showcases various scenes from popular movies, including their distinctive visual and auditory elements.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "Opening scenes from the iconic movies 'Star Wars' and 'Jurassic Park' set the tone for the video.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:30",
+                "content": "The montage continues with captivating clips from 'The Matrix', 'The Lord of the Rings', and 'Inception'.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:45",
+                "content": "The video transitions to scenes from 'The Dark Knight', 'Interstellar', and 'Avatar', highlighting their unique visual styles.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:45",
+                "end_time": "00:11:00",
+                "content": "As the video comes to a close, we witness powerful moments from 'The Shawshank Redemption', 'Forrest Gump', and 'The Pursuit of Happyness'.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:18:00",
+                "content": "The final scenes depict emotional endings from 'Titanic', 'Schindler's List', and 'The Green Mile'.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video consists of memorable scenes from popular movies, accompanied by a narration describing their significance."
+    },
+    "category": {
+        "id": 24,
+        "title": "Movie Scenes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "6933723596",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 12600.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_video.mp4",
+    "desc": "A video featuring interviews with various celebrities from the entertainment industry",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "Introducing today\u2019s special guest, the renowned actress and singer, Emma Watson.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:16",
+                "end_time": "00:02:45",
+                "content": "Emma Watson started her acting career at a young age in the Harry Potter movie series. She gained widespread recognition for her portrayal of Hermione Granger.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:46",
+                "end_time": "00:03:30",
+                "content": "Since then, she has starred in several critically acclaimed films like The Perks of Being a Wallflower, Beauty and the Beast, and Little Women.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:31",
+                "end_time": "00:05:00",
+                "content": "Emma Watson has also been an advocate for gender equality and women's rights, working with the United Nations as a HeForShe campaign ambassador.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:01",
+                "end_time": "00:06:00",
+                "content": "In this interview, Emma Watson shares her experiences, challenges, and future plans in the entertainment industry and beyond.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video features an interview with the famous actress and singer, Emma Watson, as she discusses her acting career and her advocacy work."
+    },
+    "category": {
+        "id": 3,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Emma",
+            "name": "Emma Watson",
+            "dateOfBirth": "15 April 1990"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

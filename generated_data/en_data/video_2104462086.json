@@ -1,0 +1,61 @@
+{
+    "id": "2104462086",
+    "md5": "3c48e54d9e96a7a3f0603f2b1d55c0f2",
+    "extension": "mp4",
+    "size": 21854176,
+    "height": 1080,
+    "width": 1920,
+    "duration": 115.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscape_1.mp4",
+    "desc": "An urban cityscape video showcasing the vibrant life and architecture of a bustling metropolis.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "Welcome to the urban jungle - a city alive with the rhythm of life. Skyscrapers loom high, casting long shadows over the bustling streets below.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:00",
+                "content": "The city's heart beats with the pulse of traffic, as cars and buses weave through the labyrinth of streets. The chatter of people and the hum of engines create a symphony of urban life.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:05:15",
+                "content": "The intricate dance of life continues in the city's various districts, where markets, parks, and entertainment venues come alive. The rich tapestry of urban life is a sight to behold.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:15",
+                "end_time": "00:06:45",
+                "content": "As the sun sets, the cityscape transforms, with neon lights illuminating the night sky. The city's energy never wanes, making it a fascinating and constantly evolving urban playground.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:45",
+                "end_time": "00:11:55",
+                "content": "Dive deeper into the heart of this urban cityscape by exploring its diverse neighborhoods, architecture, and people. Witness the vibrant colors, sounds, and energy that make up the unique character of each district.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore the vibrant and dynamic urban cityscape, where the rhythm of life pulses through the streets and the symphony of sounds echoes the intricate dance of people and traffic. From bustling markets to serene parks, the city's rich tapestry comes alive as day turns to night and the energy never wanes."
+    },
+    "category": {
+        "id": 3,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

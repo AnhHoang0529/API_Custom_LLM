@@ -1,0 +1,60 @@
+{
+    "id": "7025201778",
+    "md5": "3dccc0b17d3c77b9c9c214251c865c3e",
+    "extension": "pdf",
+    "size": 196608,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "sport-events-research.pdf",
+    "desc": "Research paper on sport events and their impact on society",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:10",
+                "content": "Introduction to the topic of sport events, their historical significance and impact on society",
+                "speaker": "Dr. John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:15",
+                "content": "Briefly discusses the history of the ancient Olympic games",
+                "speaker": "Dr. Jane Smith"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:16",
+                "end_time": "00:00:30",
+                "content": "Explores the economic, social, and cultural impact of modern sport events",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 11223344
+    },
+    "category": {
+        "id": 10,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "JD",
+            "name": "John Doe",
+            "dateOfBirth": "1990-06-14"
+        },
+        {
+            "id": 2,
+            "nickName": "JS",
+            "name": "Jane Smith",
+            "dateOfBirth": "1991-03-25"
+        }
+    ],
+    "textData": "Sport events have been an integral part of human civilization for millennia, with the ancient Olympic Games dating back to 776 BC. Over the centuries, these events have evolved from simple competitions to large-scale productions that bring together millions of people from all corners of the world. The economic, social, and cultural impact of modern sport events is immense, with cities and countries investing billions of dollars to host these occasions. In this research paper, we explore the history, significance, and future of sport events and their influence on society.",
+    "organizations": []
+}

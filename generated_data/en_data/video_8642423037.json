@@ -1,0 +1,64 @@
+{
+    "id": "8642423037",
+    "md5": "247e7c2e2433c54d123a1b726f6c301d",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "delicious_dishes.mp4",
+    "desc": "This video explores gourmet dishes from different culinary traditions around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:15",
+                "content": "Introducing gourmet dishes from Italy - Tiramisu and Lasagna.",
+                "speaker": "Chef John"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:04:00",
+                "content": "Let's make Tiramisu. First, prepare the coffee mixture...",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Next, dip ladyfingers into the coffee mixture...",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Now, spread mascarpone cream over the ladyfingers...",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:30",
+                "end_time": "00:09:45",
+                "content": "Finally, sprinkle cocoa powder on top to finish the dessert.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video covers the preparation of two gourmet Italian dishes: Tiramisu and Lasagna. The video provides a detailed explanation of the process for each dish, including ingredients and techniques."
+    },
+    "category": {
+        "id": 32,
+        "title": "Gourmet Dishes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 1235678
+    }
+}

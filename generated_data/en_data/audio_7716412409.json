@@ -1,0 +1,64 @@
+{
+    "id": "7716412409",
+    "md5": "8e6d65b3a3d77d29e81864d6b37df5e1",
+    "extension": "mp3",
+    "size": 6227464,
+    "height": "",
+    "width": "",
+    "duration": 236.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "cityscape.mp3",
+    "desc": "An urban cityscape with bustling streets, traffic, and sounds of people going about their daily routines.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:00",
+                "content": "The city is alive with sounds of people and traffic, the cacophony of a bustling urban environment.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "The sound of car horns blaring and brakes screeching, the distant sirens of emergency vehicles, all part of the urban symphony.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:15",
+                "content": "Children playing in the park, a mother calling her child, the chatter of people passing by",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:08:45",
+                "content": "The distant rumble of a train passing by, the clanging of tracks, the cry of a seagull overhead. The city never sleeps.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:45",
+                "end_time": "00:11:00",
+                "content": "The sounds of distant construction, the beeping of heavy machinery, the barking of a dog in the distance. The city is a living, breathing organism.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This recording captures the sounds of a bustling urban environment, from the cacophony of traffic and car horns to the quieter sounds of children playing and birds in the park. The city is a living, breathing organism, with sounds of construction and industry constant reminders of its ever-evolving nature."
+    },
+    "category": {
+        "id": 1,
+        "title": "Urban Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 45678
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "1722172822",
+    "md5": "aebc1d26d236a5e5a3b40f7e4c23d3d1",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "celebrations_and_traditions.pdf",
+    "desc": "A comprehensive document on cultural celebrations and traditions from around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:07",
+                "content": "Welcome to our presentation on cultural celebrations and traditions.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:14",
+                "content": "Our first stop is in India.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:14",
+                "end_time": "00:00:24",
+                "content": "Diwali, also known as the festival of lights, is celebrated by millions of Hindus and Sikhs.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:24",
+                "end_time": "00:00:33",
+                "content": "The festival is celebrated by lighting diyas or clay lamps filled with oil.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:33",
+                "end_time": "00:00:43",
+                "content": "Another interesting tradition is the bursting of firecrackers.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 6,
+                "start_time": "00:00:43",
+                "end_time": "00:00:57",
+                "content": "Our next stop is in Mexico.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 7,
+                "start_time": "00:00:57",
+                "end_time": "00:01:05",
+                "content": "The Day of the Dead, or D\u00eda de los Muertos, is a colorful and vibrant celebration.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 8,
+                "start_time": "00:01:05",
+                "end_time": "00:01:16",
+                "content": "The celebration honors the dead and is a way for families to remember their loved ones.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 9,
+                "start_time": "00:01:16",
+                "end_time": "00:01:25",
+                "content": "The most iconic element of the celebration are the sugar skulls.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 10,
+                "start_time": "00:01:25",
+                "end_time": "00:01:30",
+                "content": "That's all for now. Thank you for joining us on our journey through cultural celebrations and traditions.",
+                "speaker": "Presenter"
+            }
+        ],
+        "id": 87653
+    },
+    "category": {
+        "id": 21,
+        "title": "Cultural"
+    },
+    "people": [],
+    "textData": "Cultural celebrations and traditions are an important part of human history and identity. They provide a sense of continuity and connection to our past and to each other. In this document, we'll explore two fascinating celebrations from around the world: Diwali in India and the Day of the Dead in Mexico. Diwali, also known as the festival of lights, is celebrated by millions of Hindus and Sikhs. The festival is celebrated by lighting diyas or clay lamps filled with oil. An another interesting tradition is the bursting of firecrackers. The Day of the Dead, or D\u00eda de los Muertos, is a colorful and vibrant celebration in Mexico. The celebration honors the dead and is a way for families to remember their loved ones. The most iconic element of the celebration are the sugar skulls. These are just a few examples of the rich and diverse cultural traditions that exist around the world. By exploring these traditions, we can gain a deeper appreciation for the human experience and the connections that bind us together.",
+    "organizations": []
+}

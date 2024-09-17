@@ -1,0 +1,64 @@
+{
+    "id": "0476431176",
+    "md5": "7b9dcb74b48d0b9d78512e71f9e99a1b",
+    "extension": "mp3",
+    "size": 8712311,
+    "height": "",
+    "width": "",
+    "duration": 248.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Diwali_Celebrations.mp3",
+    "desc": "This audio describes the traditions and significance of the Hindu festival of Diwali, also known as the Festival of Lights.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:01:45",
+                "content": "Diwali is a major Hindu festival celebrated in autumn every year. It symbolizes the victory of light over darkness and good over evil.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:46",
+                "end_time": "00:03:15",
+                "content": "The festival is marked by lighting oil lamps and diyas, bursting firecrackers, wearing new clothes, and exchanging sweets and gifts.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:16",
+                "end_time": "00:05:00",
+                "content": "Diwali is celebrated in various ways across India and Nepal, with regional variations. In some regions, it's linked to the return of Rama from exile, while in others, it celebrates the goddess Lakshmi and her blessings.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:01",
+                "end_time": "00:06:30",
+                "content": "The most famous Diwali celebration takes place in the Indian city of Amritsar, at the Golden Temple. devotees gather to light thousands of oil lamps, creating a stunning visual display.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:31",
+                "end_time": "00:07:45",
+                "content": "Diwali is celebrated with great enthusiasm and joy in the Indian diaspora, and it is an occasion for families to come together and share in the festivities.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Diwali, also known as the Festival of Lights, is a major Hindu festival celebrated in autumn. It is a symbol of light over darkness and good over evil, and it is marked by lighting oil lamps, bursting firecrackers, wearing new clothes, and exchanging sweets and gifts. The festival has regional variations, and it is celebrated in various ways, including the famous celebration at the Golden Temple in Amritsar, India. Diwali is an occasion for families to come together and share in the festivities."
+    },
+    "category": {
+        "id": 2,
+        "title": "Cultural Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 12695
+    }
+}

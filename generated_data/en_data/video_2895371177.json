@@ -1,0 +1,61 @@
+{
+    "id": "2895371177",
+    "md5": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 150.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "ItalianDishPreparation.mp4",
+    "desc": "Learn to prepare authentic Italian dishes in this masterclass with a renowned chef. Discover the secrets behind classic pasta, rich sauces, and more.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:01:45",
+                "content": "Welcome to our Italian dish masterclass. Today, we'll be preparing the classic pasta dish, Spaghetti Bolognese. Let's get started with the sauce.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:15",
+                "content": "Begin by finely chopping onions, garlic, and carrots. Saut\u00e9 these vegetables in olive oil until they're soft and translucent. Add ground beef and cook until browned.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:00",
+                "content": "Next, add a can of crushed tomatoes, tomato paste, and chopped herbs like basil and thyme. Let the sauce simmer for at least 30 minutes. Stir occasionally.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:15",
+                "content": "While the sauce is simmering, cook the spaghetti according to the package instructions. Be sure to salt the water generously for optimal flavor. Once the pasta is al dente, drain it and reserve some pasta water.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:15",
+                "end_time": "00:11:20",
+                "content": "To finish the dish, combine the cooked spaghetti with the simmered Bolognese sauce. Add a small amount of pasta water to help bind the sauce and pasta together. Serve the Spaghetti Bolognese hot with a side of garlic bread and a glass of Chianti.",
+                "speaker": "Chef"
+            }
+        ],
+        "sttSummary": "In this Italian dish masterclass, a renowned chef teaches you to prepare the classic pasta dish, Spaghetti Bolognese. Learn how to make the rich, flavorful sauce, cook the spaghetti to perfection, and finish the dish with a few simple steps."
+    },
+    "category": {
+        "id": 12,
+        "title": "ItalianCuisine"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

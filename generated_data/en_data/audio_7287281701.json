@@ -1,0 +1,64 @@
+{
+    "id": "7287281701",
+    "md5": "5a0f1d8e31b4ccd190943e58e2d3c85e",
+    "extension": "mp3",
+    "size": 5242880,
+    "height": "",
+    "width": "",
+    "duration": 175.6,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "study_and_work.mp3",
+    "desc": "A podcast episode about study and work techniques and habits.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:15",
+                "content": "Welcome to another episode of the Productivity Podcast, where we explore study and work techniques and habits. In today's episode, we'll be discussing time management strategies, effective study methods, and work productivity hacks.",
+                "speaker": "Host"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:05:45",
+                "content": "First, let's talk about time management. One effective strategy is the Pomodoro Technique, which involves working for 25 minutes, then taking a 5-minute break. This cycle is repeated four times before taking a longer break. This method can help improve focus and productivity.",
+                "speaker": "Host"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:45",
+                "end_time": "00:08:45",
+                "content": "Another time management strategy is the Eisenhower Matrix, which categorizes tasks based on their urgency and importance. This can help prioritize tasks and reduce stress.",
+                "speaker": "Host"
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:45",
+                "end_time": "00:11:30",
+                "content": "Moving on to study techniques, one effective method is the SQ3R technique. This involves Surveying the material, Questioning it, Reading it, Reciting it, and Reviewing it. This method can help improve comprehension and retention.",
+                "speaker": "Host"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:30",
+                "end_time": "00:17:56",
+                "content": "Finally, let's discuss work productivity hacks. One effective hack is to batch similar tasks together, as this can help reduce context switching and improve efficiency. Another hack is to use productivity tools, such as Trello or Evernote, to help manage projects and tasks.",
+                "speaker": "Host"
+            }
+        ],
+        "sttSummary": "In this episode of the Productivity Podcast, the host discusses various study and work techniques and habits, including the Pomodoro Technique, the Eisenhower Matrix, the SQ3R technique, and productivity hacks."
+    },
+    "category": {
+        "id": 1264,
+        "title": "Productivity"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 82354
+    }
+}

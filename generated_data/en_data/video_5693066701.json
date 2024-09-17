@@ -1,0 +1,61 @@
+{
+    "id": "5693066701",
+    "md5": "6abf2d6f22e6513e4d8989564b73a1f4",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "study_and_work.mp4",
+    "desc": "This video focuses on the importance of study and work, providing insights into productivity tips, time management strategies, and work-life balance. It features interviews with successful individuals and experts in the field, sharing their experiences and advice.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "01:00:00",
+                "content": "Welcome to our video on study and work. In today\u2019s fast-paced world, it\u2019s essential to master the art of productivity, time management, and maintaining a healthy work-life balance. Let\u2019s explore some tips and strategies from successful individuals and experts.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "01:00:00",
+                "end_time": "02:30:00",
+                "content": "First, we\u2019ll discuss time management techniques such as the Pomodoro Technique, time blocking, and the Eisenhower matrix. These methods can help you focus on your tasks, eliminate distractions, and maximize productivity.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "02:30:00",
+                "end_time": "03:45:00",
+                "content": "Next, we\u2019ll dive into productivity tips, including setting specific, measurable, achievable, relevant, and time-bound (SMART) goals, using the 2-minute rule, and delegating tasks effectively.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "03:45:00",
+                "end_time": "05:15:00",
+                "content": "Finally, we\u2019ll discuss the importance of work-life balance and share strategies for managing stress, staying focused, and maintaining overall well-being. Join us as we explore these essential skills and techniques for success in your personal and professional life.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "05:15:00",
+                "end_time": "05:18:30",
+                "content": "Thanks for watching! We hope you\u2019ve gained valuable insights and practical tips for study and work. Remember, success comes not only from hard work but also from smart work.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The video offers insights into productivity techniques, time management strategies, and work-life balance through interviews with successful individuals and experts."
+    },
+    "category": {
+        "id": 123,
+        "title": "Productivity and Time Management"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

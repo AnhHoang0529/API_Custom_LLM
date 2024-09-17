@@ -1,0 +1,52 @@
+{
+    "id": "7890200483",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "Sport event: tennis championship featuring Rafael Nadal and Novak Djokovic",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:03",
+                "end_time": "00:00:15",
+                "content": "Tennis championship between Rafael Nadal and Novak Djokovic",
+                "speaker": "Sports Commentator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:16",
+                "end_time": "00:01:00",
+                "content": "Nadal serves first, hits an ace",
+                "speaker": "Sports Commentator"
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 456211,
+            "nickName": "Rafa",
+            "name": "Rafael Nadal",
+            "dateOfBirth": "1986-06-03"
+        },
+        {
+            "id": 135791,
+            "nickName": "Nole",
+            "name": "Novak Djokovic",
+            "dateOfBirth": "1987-05-22"
+        }
+    ],
+    "organizations": []
+}

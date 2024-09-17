@@ -1,0 +1,28 @@
+{
+    "id": "5505687251",
+    "md5": "1234567890abcdef",
+    "extension": "jpeg",
+    "size": 235241,
+    "height": 1000,
+    "width": 1500,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\uc778\ub3c4\uc758_\uc0c9\uc0c1_\ucd95\uc81c.jpeg",
+    "desc": "\uc778\ub3c4\uc758 \uc0c9\ucc44 \ucd95\uc81c\uc778 \ud640\ub9ac(Holi)\ub97c \uae30\ub150\ud569\ub2c8\ub2e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 98765,
+        "title": "\ucd95\uc81c"
+    },
+    "people": [
+        {
+            "id": 78945,
+            "nickName": "\ub77c\ud6cc",
+            "name": "\ub77c\ud6cc \ud30c\ud154",
+            "dateOfBirth": "1996-02-15"
+        }
+    ],
+    "organizations": []
+}

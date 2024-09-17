@@ -1,0 +1,64 @@
+{
+    "id": "0562322322",
+    "md5": "b4b1c9a7d2e22b8e9484c124a5cb136f",
+    "extension": "mp4",
+    "size": 29365379,
+    "height": 1080,
+    "width": 1920,
+    "duration": 152.3,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "movie_scene.mp4",
+    "desc": "Scene from the movie 'Interstellar' where Cooper (Matthew McConaughey) explains the concept of tesseract to Murphy (Jessica Chastain).",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "In the movie Interstellar, Cooper explains to Murphy the concept of a tesseract. A tesseract is a 4-dimensional shape that has a 3-dimensional cross-section. It's like a 3D cube, but in 4D space, it can have an infinite number of 3D cubes that can be extracted.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:15",
+                "content": "Cooper further explains that the tesseract is like a cosmic tunnel, a bridge to other universes. He states, 'It's like a star that has gone nova and then imploded. And then the other three dimensions just sort of folded in on themselves.'",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:04:45",
+                "content": "Murphy asks, 'How do we find this tesseract?' Cooper responds that they have to follow a wormhole, which is essentially a shortcut through space and time. He explains that the wormhole can only be entered when it's in a specific location and state, and they have to be prepared to enter it quickly when the opportunity arises.",
+                "speaker": "Cooper"
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:45",
+                "end_time": "00:06:15",
+                "content": "Murphy expresses concerns about the risks involved, but Cooper reassures her that their mission is essential to save humanity. He also mentions that they will have a backup plan if things don't go according to plan.",
+                "speaker": "Murphy"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:15",
+                "end_time": "00:07:30",
+                "content": "The conversation ends with Cooper stating, 'We're not going to survive without making sacrifices. But that's what we do. We human beings. We make sacrifices, don't we? Sacrifices of time, of energy, of our very lives.'",
+                "speaker": "Cooper"
+            }
+        ],
+        "sttSummary": "In this scene from Interstellar, Cooper explains the concept of a tesseract to Murphy, detailing its properties and their mission to find it by following a wormhole."
+    },
+    "category": {
+        "id": 1,
+        "title": "Movies"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 31636925
+    }
+}

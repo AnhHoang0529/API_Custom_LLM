@@ -1,0 +1,61 @@
+{
+    "id": "7062104374",
+    "md5": "90a04a1148a19e0e6dbb8b514aaf9e5d",
+    "extension": "mp4",
+    "size": 3256734,
+    "height": 720,
+    "width": 1280,
+    "duration": 72.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp4",
+    "desc": "This video presents breathtaking views of majestic landscapes from around the world, showcasing their natural beauty and grandeur.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:03:30",
+                "content": "This breathtaking video takes us on a journey through some of the world's most stunning landscapes. From the vast deserts to the towering mountains and serene forests, nature's beauty is on full display.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:06:00",
+                "content": "First, we travel to the Sahara Desert, where the golden sand dunes stretch as far as the eye can see. The sun sets over the desert, painting the sky in vibrant hues of orange and red.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:00",
+                "end_time": "00:08:45",
+                "content": "Next, we head to the Himalayas, home to some of the world's tallest mountains. We witness the awe-inspiring beauty of Mount Everest and the surrounding peaks, their snow-covered summits reaching for the heavens.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:45",
+                "end_time": "00:11:15",
+                "content": "Our journey continues to the Amazon Rainforest, where we explore the lush greenery and diverse wildlife. We encounter various animals, such as jaguars, macaws, and sloths, each living harmoniously in their natural habitat.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:15",
+                "end_time": "00:12:00",
+                "content": "Finally, we visit the Grand Canyon, an awe-inspiring geological wonder. The vast expanse of the canyon leaves us in awe, as we appreciate the power and majesty of nature.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "In this video, we travel to various majestic landscapes around the world, from the Sahara Desert to the Himalayas, the Amazon Rainforest, and the Grand Canyon."
+    },
+    "category": {
+        "id": 7,
+        "title": "Natural Wonders"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

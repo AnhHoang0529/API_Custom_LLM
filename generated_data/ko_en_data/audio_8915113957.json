@@ -1,0 +1,64 @@
+{
+    "id": "8915113957",
+    "md5": "76db89d297896458f1ff1b58bf79df4a",
+    "extension": "mp3",
+    "size": 4609243,
+    "height": "",
+    "width": "",
+    "duration": 288.5,
+    "density": 16000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp3",
+    "desc": "Discover the enchanting beauty of nature as we embark on an audio journey through some of the world's most breathtaking landscapes. From the towering mountains to the serene beaches and tranquil forests, immerse yourself in the stunning vistas and soothing sounds of these majestic wonders.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:30",
+                "content": "The journey begins with a tour of the majestic Rocky Mountains, where we can hear the soothing sound of the babbling brook nearby.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:31",
+                "end_time": "00:06:15",
+                "content": "Next, we venture to the stunning beaches of Bora Bora, where the gentle sound of the waves crashing against the shore is a calming presence.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:06:16",
+                "end_time": "00:10:00",
+                "content": "As we travel further, we arrive at the tranquil forests of Oregon, where the rustling of the leaves and the melodic chirping of birds create a symphony of nature.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:01",
+                "end_time": "00:15:45",
+                "content": "Lastly, we explore the awe-inspiring deserts of Arizona, where the vast, open spaces and the haunting stillness leave us in awe of the natural world.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:46",
+                "end_time": "00:18:30",
+                "content": "Our audio journey concludes with a reflection on the beauty and wonder of these majestic landscapes, leaving us with a newfound appreciation for the natural world and its enchanting sounds.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Join us on an audio journey through some of the world's most breathtaking landscapes, from the majestic Rocky Mountains to the serene beaches of Bora Bora, the tranquil forests of Oregon, and the awe-inspiring deserts of Arizona."
+    },
+    "category": {
+        "id": 32,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 28694
+    }
+}

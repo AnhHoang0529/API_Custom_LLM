@@ -1,0 +1,60 @@
+{
+    "id": "4786991465",
+    "md5": "3745d6f6b0ea4d62903a31f31612e920",
+    "extension": "pdf",
+    "size": 25000,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "example_movie_scene.pdf",
+    "desc": "A detailed analysis of a suspenseful scene from a crime thriller movie.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "In this scene from the crime thriller 'Broken Mirrors', the tension builds as the detective...",
+                "speaker": "Detective"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:20",
+                "content": "...interrogates the prime suspect, a shady businessman, in a dimly lit room...",
+                "speaker": "Detective"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:21",
+                "end_time": "00:00:30",
+                "content": "...as the sound of a ticking clock adds to the unease...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 873456
+    },
+    "category": {
+        "id": 17,
+        "title": "Movie Scenes"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Detective",
+            "name": "John Doe",
+            "dateOfBirth": "1970-02-12"
+        },
+        {
+            "id": 2,
+            "nickName": "Suspect",
+            "name": "Jack Smith",
+            "dateOfBirth": "1980-05-23"
+        }
+    ],
+    "textData": "The scene begins with Detective John Doe, a seasoned detective, entering a dimly lit room where the prime suspect, Jack Smith, is waiting. The sound of a ticking clock adds to the unease as Doe interrogates Smith with a stern expression. Despite Smith's attempts to deflect, Doe's questions become more probing, and the tension between the two grows. As the scene progresses, Doe reveals a crucial piece of evidence that leaves Smith visibly shaken. The scene ends with a dramatic cliffhanger, leaving the audience questioning Smith's innocence.",
+    "organizations": []
+}

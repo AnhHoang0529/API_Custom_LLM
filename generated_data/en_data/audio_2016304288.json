@@ -1,0 +1,64 @@
+{
+    "id": "2016304288",
+    "md5": "782e7b1e3dffa744c89b0cfc1903f0c4",
+    "extension": "mp3",
+    "size": 5347211,
+    "height": "",
+    "width": "",
+    "duration": 152.7,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "city-scapes.mp3",
+    "desc": "This audio file contains a selection of urban cityscape sounds from around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:01:30",
+                "content": "Sounds of bustling streets and traffic in Tokyo, Japan.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:15",
+                "content": "The audio captures the sounds of birds singing in Central Park, New York City.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:00",
+                "content": "Sounds of the Seine River and pedestrians in Paris, France.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:07:15",
+                "content": "The audio features the sounds of street musicians in Rome, Italy.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:15",
+                "end_time": "00:10:00",
+                "content": "The sounds of a busy marketplace in Marrakech, Morocco.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "An audio compilation of urban cityscape sounds from Tokyo, Central Park in New York City, Paris, Rome, and Marrakech."
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

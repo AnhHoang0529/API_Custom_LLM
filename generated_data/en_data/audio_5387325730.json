@@ -1,0 +1,64 @@
+{
+    "id": "5387325730",
+    "md5": "6e6d6f6e6c6b6520612073756172652066696c656420537472696e67",
+    "extension": "mp3",
+    "size": 5242880,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 1,
+    "displayRotate": "",
+    "originalName": "Study_and_Work.mp3",
+    "desc": "This audio file contains a discussion about studying and working effectively, including productivity tips and strategies for students and professionals.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:00",
+                "content": "Effective studying involves understanding the material rather than merely memorizing it.",
+                "speaker": "Expert"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Taking breaks while studying can improve focus and productivity.",
+                "speaker": "Student"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:45",
+                "content": "Using mnemonic devices can help remember complex information.",
+                "speaker": "Professor"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:45",
+                "end_time": "00:09:00",
+                "content": "Time management tools can help organize tasks and prioritize work.",
+                "speaker": "Student"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:00",
+                "end_time": "00:18:00",
+                "content": "Multitasking is generally ineffective and can reduce overall productivity.",
+                "speaker": "Expert"
+            }
+        ],
+        "sttSummary": "This audio discusses various strategies for effective studying and working, such as understanding material, taking breaks, using mnemonic devices, and managing time efficiently."
+    },
+    "category": {
+        "id": 17,
+        "title": "Education"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 87654
+    }
+}

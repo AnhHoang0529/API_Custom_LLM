@@ -1,0 +1,64 @@
+{
+    "id": "5717095159",
+    "md5": "f4d558a318bf243a7d2b2b11314c9920",
+    "extension": "mp4",
+    "size": 72486371,
+    "height": 1080,
+    "width": 1920,
+    "duration": 145.4,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "jungle_wildlife.mp4",
+    "desc": "Jungle Wildlife captures the beauty and majesty of exotic animals living in their natural habitat. This video showcases various animal species, their behaviors, and interactions within the lush, vibrant jungle.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:20",
+                "end_time": "00:02:00",
+                "content": "Welcome to the Jungle Wildlife, a journey into the heart of the Amazon rainforest. Here, we will discover various exotic animal species thriving in their natural habitat.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:04:15",
+                "content": "First, let's meet the Jaguar, a powerful hunter and the largest of the big cats in the jungle. With its distinctive spotted coat and impressive strength, the Jaguar is a formidable predator.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:15",
+                "end_time": "00:06:00",
+                "content": "Next, we have the Toucan, with its vibrant feathers and distinctive beak, the Toucan adds color and charm to the jungle. They are known for their excellent eyesight and strong beaks, which help them locate food and defend their territory.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:08:35",
+                "content": "A fascinating creature is the Poison Dart Frog, which is both beautiful and deadly. Its bright colors warn potential predators that it is toxic, but some indigenous tribes use its poison for hunting.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:35",
+                "end_time": "00:14:15",
+                "content": "Finally, we have the Sloth, a slow-moving, tree-dwelling creature. Sloths spend most of their lives hanging upside down in trees, feeding on leaves and resting. Their unique appearance and gentle nature make them a beloved favorite among wildlife enthusiasts.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Jungle Wildlife introduces you to the Jaguar, Toucan, Poison Dart Frog, and Sloth, highlighting their unique features and importance to the Amazon rainforest ecosystem."
+    },
+    "category": {
+        "id": 11,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 123456
+    }
+}

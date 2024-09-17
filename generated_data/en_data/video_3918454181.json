@@ -1,0 +1,61 @@
+{
+    "id": "3918454181",
+    "md5": "2cb81beef4e8b1d644c2004a2e123312",
+    "extension": "mp4",
+    "size": 5340266,
+    "height": 1080,
+    "width": 1920,
+    "duration": 91.2,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "City_Scapes_01.mp4",
+    "desc": "Urban cityscapes showcasing the hustle and bustle of city life with towering skyscrapers, crowded streets, and a variety of vehicles.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:03:30",
+                "content": "Cityscapes offer a unique blend of architecture and activity. The urban jungle is alive with its own rhythm.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:00",
+                "end_time": "00:05:30",
+                "content": "Skyscrapers dominate the urban landscape, their glass facades reflecting the energy of the city.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:30",
+                "end_time": "00:07:30",
+                "content": "Crowded streets are a testament to the vibrant life of city dwellers. A steady stream of cars and buses keep the traffic moving.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:09:15",
+                "content": "The sounds of the city provide a symphony of life. Cars honk, people chatter, and the hum of the city provides a constant background noise.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:15",
+                "end_time": "00:10:00",
+                "content": "Cityscapes present a paradoxical blend of chaos and order. The organized grid of streets contrasts the seemingly random movement of people and vehicles.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Urban cityscapes display the energy and activity of city life, with towering skyscrapers, crowded streets, and a cacophony of sounds."
+    },
+    "category": {
+        "id": 56,
+        "title": "Urban"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

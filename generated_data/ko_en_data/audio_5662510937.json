@@ -1,0 +1,64 @@
+{
+    "id": "5662510937",
+    "md5": "214e190d63b835e687b1b2d296b43621",
+    "extension": "mp3",
+    "size": 1281884,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Cityscape_New_York.mp3",
+    "desc": "A captivating audio presentation of the urban cityscape of New York City.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:45",
+                "content": "The bustling sounds of New York City's Times Square fill the air, with honking taxis and chatter of passersby.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:45",
+                "end_time": "00:05:00",
+                "content": "The iconic sound of the NYC subway train approaching and rushing past is heard, followed by the echoing footsteps on the platform.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "The distant sound of sirens signifies the presence of emergency services, while the cacophony of traffic and construction work continues.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:10:00",
+                "content": "The gentle lapping of waves against the piers in the harbor area is heard, creating a peaceful contrast to the urban sounds.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:00",
+                "end_time": "00:18:00",
+                "content": "The audio fades out, bringing the New York City urban cityscape journey to a close.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio captures the essence of New York City's urban landscape, featuring the sounds of Times Square, the NYC subway, emergency services, and the harbor area."
+    },
+    "category": {
+        "id": 2,
+        "title": "Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 32974
+    }
+}

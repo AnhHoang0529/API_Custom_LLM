@@ -1,0 +1,53 @@
+{
+    "id": "0919420234",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "YG\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc18c\uc18d 4\uc778\uc870 \uac78\uadf8\ub8f9 \ube14\ub799\ud551\ud06c\uc758 \uba64\ubc84\uc774\uc790 \ub300\ud55c\ubbfc\uad6d \uac00\uc218 \uacb8 \ubc30\uc6b0",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "\ud55c\uad6d \uac00\uc218 \uacb8 \ubc30\uc6b0",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "4\uc778\uc870 \uac78\uadf8\ub8f9 \ube14\ub799\ud551\ud06c \uba64\ubc84",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:01:00",
+                "content": "YG\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc18c\uc18d",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 98270
+    },
+    "category": {
+        "id": 439,
+        "title": "\uc720\uba85\uc778"
+    },
+    "people": [
+        {
+            "id": 58677,
+            "nickName": "",
+            "name": "\ube14\ub799\ud551\ud06c",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": []
+}

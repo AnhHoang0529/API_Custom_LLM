@@ -1,0 +1,61 @@
+{
+    "id": "2145372033",
+    "md5": "59f49e6d6c26200d5c164d2a84b0aaf1",
+    "extension": "mp3",
+    "size": 791044,
+    "height": "",
+    "width": "",
+    "duration": 124.6,
+    "density": 44100,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "movie_scene1.mp3",
+    "desc": "Scene of a thrilling chase sequence in a movie",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:02:35",
+                "content": "The sun sets over the desert landscape as the camera pans across the sandy terrain. The sound of a car engine revving in the distance grows louder. Suddenly, a red sports car roars into view, its tires leaving trails of dust.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:35",
+                "end_time": "00:04:45",
+                "content": "The car speeds towards the camera, its driver swerving around obstacles with expert precision. The sound of gunshots rings out in the distance, indicating that the driver is being pursued.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:45",
+                "end_time": "00:06:55",
+                "content": "The chase continues through twisting desert roads, the cars racing at breakneck speed. The sound of crashing glass and metal echoes in the background, indicating that the pursuit has become more intense.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:55",
+                "end_time": "00:09:35",
+                "content": "The drivers exchange words through their open windows, their faces set in determination. The sun begins to rise, casting long shadows across the desert. Eventually, the red sports car veers off the road and crashes into a ravine, its driver presumably defeated.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:35",
+                "end_time": "00:12:46",
+                "content": "The camera pans back to the sunrise, as if to symbolize a new beginning. The sound of birds chirping and a gentle breeze rustling through the desert plants fills the air.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "A thrilling chase sequence through the desert, with a red sports car being pursued by an unknown enemy. The chase ends with the sports car crashing into a ravine."
+    },
+    "category": {
+        "id": 15,
+        "title": "Movies"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

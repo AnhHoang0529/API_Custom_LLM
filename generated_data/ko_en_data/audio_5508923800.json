@@ -1,0 +1,61 @@
+{
+    "id": "5508923800",
+    "md5": "a6a12b0b1b2a3c4c5d6e7f8f9g0h1i2j3",
+    "extension": "mp3",
+    "size": 5242880,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "football_match_announcement.mp3",
+    "desc": "This audio file is an announcement of a football match, featuring team names, start time, and venue information.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:10",
+                "end_time": "00:01:30",
+                "content": "Welcome fans to the live announcement of the upcoming football match between Manchester United and Arsenal.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:31",
+                "end_time": "00:02:30",
+                "content": "The event takes place on Sunday, 1st of May, at Old Trafford stadium.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:31",
+                "end_time": "00:03:30",
+                "content": "Both teams have shown impressive performances throughout the season and are eager to claim victory.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:31",
+                "end_time": "00:04:30",
+                "content": "The match is scheduled to start at 15:30 GMT. We encourage all fans to arrive early to secure their seats.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:31",
+                "end_time": "00:06:00",
+                "content": "Lastly, we remind all spectators to adhere to the stadium rules and enjoy the excitement of the game.",
+                "speaker": "Announcer"
+            }
+        ],
+        "sttSummary": "This announcement informs fans of the upcoming football match between Manchester United and Arsenal, with the event taking place at Old Trafford stadium on 1st May 2023. The match begins at 15:30 GMT. Both teams have demonstrated impressive performances throughout the season and fans are encouraged to arrive early."
+    },
+    "category": {
+        "id": 2,
+        "title": "Sports Events"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

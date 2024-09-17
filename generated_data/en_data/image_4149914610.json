@@ -1,0 +1,73 @@
+{
+    "id": "4149914610",
+    "md5": "366d3d2d28e361d398396f98c3b231d4",
+    "extension": "jpeg",
+    "size": 34218,
+    "height": 2176,
+    "width": 3264,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "sc_1.jpeg",
+    "desc": "Scene from the 1994 American crime film 'Se7en' starring Brad Pitt and Morgan Freeman.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:04",
+                "end_time": "00:00:08",
+                "content": "The opening scene of 'Se7en' shows a dark, chaotic cityscape.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:08",
+                "end_time": "00:00:15",
+                "content": "Detective Mills, portrayed by Brad Pitt, investigates a grisly murder scene.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:23",
+                "content": "Detective Somerset, played by Morgan Freeman, arrives to assist Mills.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:23",
+                "end_time": "00:00:36",
+                "content": "The two detectives discuss the case, establishing their dynamic.",
+                "speaker": "Detective Mills and Detective Somerset"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:36",
+                "end_time": "00:01:00",
+                "content": "The scene transitions to the investigation of another crime scene, further elevating the tension.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62038364
+    },
+    "category": {
+        "id": 62203,
+        "title": "Movies"
+    },
+    "people": [
+        {
+            "id": 28544,
+            "nickName": "Brad",
+            "name": "Brad Pitt",
+            "dateOfBirth": "December 18, 1963"
+        },
+        {
+            "id": 34792,
+            "nickName": "Morgan",
+            "name": "Morgan Freeman",
+            "dateOfBirth": "June 1, 1937"
+        }
+    ],
+    "organizations": []
+}

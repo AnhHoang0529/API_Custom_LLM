@@ -1,0 +1,61 @@
+{
+    "id": "8577966343",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 4567893,
+    "height": 720,
+    "width": 1280,
+    "duration": 232.1,
+    "density": 192000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Celebrations_of_Dia_de_los_Muertos.mp4",
+    "desc": "A video showcasing the beautiful traditions and celebrations of Dia de los Muertos (Day of the Dead) in Mexico.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:02:30",
+                "content": "Dia de los Muertos is a significant Mexican holiday that honors deceased loved ones. The celebrations take place annually on November 1 and 2. The holiday is a blend of indigenous beliefs and Catholicism.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:35",
+                "end_time": "00:04:45",
+                "content": "Families create elaborate altars, or ofrendas, decorated with marigolds, candles, and food offerings to welcome the spirits of their loved ones. The colorful decorations reflect the belief that the dead return to join the living during this time.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:50",
+                "end_time": "00:06:55",
+                "content": "People also visit gravesites, clean and decorate them, and leave offerings for their deceased loved ones. The offerings can include favorite foods, drinks, and even personal items. Music and festivities are an integral part of the celebrations.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:00",
+                "end_time": "00:09:30",
+                "content": "The holiday is deeply rooted in the indigenous belief that death is a natural part of the cycle of life. It is a time for families to remember and celebrate their loved ones, and to reflect on the importance of life.",
+                "speaker": "Jim"
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:35",
+                "end_time": "00:11:50",
+                "content": "The traditions and celebrations of Dia de los Muertos are a beautiful and touching tribute to the deceased, showcasing the importance of family, love, and the circle of life.",
+                "speaker": "Jim"
+            }
+        ],
+        "sttSummary": "The video discusses the Mexican holiday of Dia de los Muertos, its significance, and the traditions and celebrations associated with it."
+    },
+    "category": {
+        "id": 2,
+        "title": "Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

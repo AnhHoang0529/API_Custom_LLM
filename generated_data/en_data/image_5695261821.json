@@ -1,0 +1,27 @@
+{
+    "id": "5695261821",
+    "md5": "9de23e89b946e9b3e0c98dd5f380f2b1",
+    "extension": "jpeg",
+    "size": 65228,
+    "height": 1200,
+    "width": 1600,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "italian_pizza.jpeg",
+    "desc": "A delicious Italian pizza dish served hot in a wooden oven.",
+    "narrationStt": "",
+    "category": {
+        "id": 8,
+        "title": "Gourmet Dishes"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 345,
+            "name": "Vera's Pizzeria",
+            "otherName": ""
+        }
+    ]
+}

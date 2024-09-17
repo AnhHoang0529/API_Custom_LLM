@@ -1,0 +1,80 @@
+{
+    "id": "4181659688",
+    "md5": "6b6d0e5de6d3e8f71d816a47ce0f724e",
+    "extension": "mp4",
+    "size": 158142036,
+    "height": 720,
+    "width": 1280,
+    "duration": 360.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Political_Events_2023.mp4",
+    "desc": "Coverage of major political events from around the world, including speeches, press conferences, and protests.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:20",
+                "end_time": "00:03:30",
+                "content": "The European Union Parliament holds a special session to discuss the latest developments in the Ukraine crisis. Ukrainian President Volodymyr Zelenskyy addresses the assembly, calling for increased international support.",
+                "speaker": "Volodymyr Zelenskyy"
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:00",
+                "end_time": "00:11:45",
+                "content": "In a joint press conference, US President Joe Biden and German Chancellor Olaf Scholz announce new sanctions against Russia in response to the escalating conflict. They also stress the importance of diplomacy and de-escalation.",
+                "speaker": "Joe Biden, Olaf Scholz"
+            },
+            {
+                "order": 3,
+                "start_time": "00:12:30",
+                "end_time": "00:18:15",
+                "content": "Footage of a protest outside the Russian embassy in Berlin, where demonstrators call for peace and condemn the invasion of Ukraine. The German police respond with tear gas and water cannons.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:19:30",
+                "end_time": "00:36:00",
+                "content": "An in-depth interview with an expert on Russian politics, discussing the motivations behind Putin's actions, the potential consequences, and possible solutions to the crisis. The expert also shares their perspective on the geopolitical implications.",
+                "speaker": "Expert on Russian politics"
+            },
+            {
+                "order": 5,
+                "start_time": "00:36:30",
+                "end_time": "00:36:45",
+                "content": "Closing remarks from the news anchor, summarizing the key points from the coverage and emphasizing the importance of staying informed.",
+                "speaker": "News Anchor"
+            }
+        ],
+        "sttSummary": "Coverage of political events surrounding the Ukraine crisis, including speeches from Ukrainian President Volodymyr Zelenskyy and joint press conferences from US President Joe Biden and German Chancellor Olaf Scholz. Protests in Berlin and an interview with a Russian politics expert are also featured."
+    },
+    "category": {
+        "id": 1234,
+        "title": "News"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "President Zelenskyy",
+            "name": "Volodymyr Zelenskyy",
+            "dateOfBirth": "January 25, 1978"
+        },
+        {
+            "id": 657,
+            "nickName": "Expert",
+            "name": "Russian Politics Expert",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 1337,
+            "nickName": "News Anchor",
+            "name": "John Doe",
+            "dateOfBirth": "June 12, 1975"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

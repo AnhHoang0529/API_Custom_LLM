@@ -1,0 +1,34 @@
+{
+    "id": "7267450941",
+    "md5": "7c85c81aafa33d2647b3c3a79a9726e7",
+    "extension": "jpeg",
+    "size": 119436,
+    "height": 1184,
+    "width": 800,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "1721111717325.jpeg",
+    "desc": "Political protest against the government policies in Seoul, South Korea",
+    "narrationStt": "",
+    "category": {
+        "id": 101,
+        "title": "Political"
+    },
+    "people": [
+        {
+            "id": 321,
+            "nickName": "Protester1",
+            "name": "Park Min-joon",
+            "dateOfBirth": "1991-01-15"
+        },
+        {
+            "id": 456,
+            "nickName": "Protester2",
+            "name": "Kim Soo-young",
+            "dateOfBirth": "1989-06-22"
+        }
+    ],
+    "organizations": []
+}

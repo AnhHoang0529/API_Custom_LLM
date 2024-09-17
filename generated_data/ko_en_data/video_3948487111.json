@@ -1,0 +1,86 @@
+{
+    "id": "3948487111",
+    "md5": "582e609a3925e1898d7d107e53e13f09",
+    "extension": "mp4",
+    "size": 15753456,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "GourmetDishes.mp4",
+    "desc": "A video featuring gourmet dishes and cooking techniques from around the world",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:45",
+                "content": "Introducing French cuisine with Coq au Vin, a classic dish made with red wine, bacon, and onions.",
+                "speaker": "Julia"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:15",
+                "end_time": "00:05:20",
+                "content": "Next, we explore Italian cuisine with a demonstration of Tiramisu, a traditional dessert made with ladyfingers, espresso, and mascarpone.",
+                "speaker": "Marcello"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:45",
+                "end_time": "00:07:55",
+                "content": "Now, we shift our focus to Japanese cuisine and witness the art of Sushi making.",
+                "speaker": "Yumi"
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:15",
+                "end_time": "00:10:30",
+                "content": "Lastly, we delve into Indian cuisine with a recipe for Chana Masala, a popular vegetarian dish made with chickpeas and spices.",
+                "speaker": "Aarti"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:12:00",
+                "content": "Recap of the dishes and techniques shown in our gourmet dishes feature.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Our video explores gourmet dishes and cooking techniques from French, Italian, Japanese, and Indian cuisines."
+    },
+    "category": {
+        "id": 8,
+        "title": "Culinary Arts"
+    },
+    "people": [
+        {
+            "id": 132,
+            "nickName": "",
+            "name": "Julia",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 178,
+            "nickName": "",
+            "name": "Marcello",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 221,
+            "nickName": "",
+            "name": "Yumi",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 293,
+            "nickName": "",
+            "name": "Aarti",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

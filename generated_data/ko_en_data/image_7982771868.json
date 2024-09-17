@@ -1,0 +1,34 @@
+{
+    "id": "7982771868",
+    "md5": "2c9247f63e1a9833b3e1d10f0c5e2c7a",
+    "extension": "jpg",
+    "size": 219266,
+    "height": 1024,
+    "width": 1536,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\ub514\uc648\ub9ac_\ucd95\ud558_\uc778\ub3c4.jpg",
+    "desc": "\uc778\ub3c4\uc758 \ub514\uc648\ub9ac \ucd95\uc81c\uc758 \ud654\ub824\ud55c \uc7a5\uba74. \uc0ac\ub78c\ub4e4\uc774 \ub514\uc57c\ub97c \ubc1d\ud788\uace0, \uc9d1\uc744 \ub791\uace8\ub9ac\ub85c \uc7a5\uc2dd\ud558\uace0, \ud3ed\uc8fd\uc744 \ud130\ub728\ub824 \ube5b\uc758 \ucd95\uc81c\ub97c \uae30\ub150\ud569\ub2c8\ub2e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 22,
+        "title": "\ubb38\ud654 \ucd95\uc81c"
+    },
+    "people": [
+        {
+            "id": 26356,
+            "nickName": "\uc544\uc9c0\ud2b8",
+            "name": "\uc544\uc9c0\ud2b8 \uc2f1",
+            "dateOfBirth": "1992-04-12"
+        },
+        {
+            "id": 26357,
+            "nickName": "\ub77c\ub2c8",
+            "name": "\ub77c\ub2c8 \uce74\uc6b0\ub974",
+            "dateOfBirth": "1988-01-20"
+        }
+    ],
+    "organizations": []
+}

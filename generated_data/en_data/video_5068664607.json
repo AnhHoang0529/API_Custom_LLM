@@ -1,0 +1,61 @@
+{
+    "id": "5068664607",
+    "md5": "8c55974ea7fa1f3d7f0d28dd32aad831",
+    "extension": "mp4",
+    "size": 94046286,
+    "height": 1080,
+    "width": 1920,
+    "duration": 311.8,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Diwali_Celebrations.mp4",
+    "desc": "Discover the grandeur and significance of Diwali, the Hindu festival of lights, as we journey through its rich history, traditions, and customs. From its origins as a harvest festival to its modern-day celebrations, we explore the significance of this ancient holiday in India and the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:28",
+                "end_time": "00:02:16",
+                "content": "Diwali, also known as the festival of lights, is an ancient Hindu holiday celebrated in India and around the world. Originally a harvest festival, it now represents the victory of light over darkness and good over evil.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:34",
+                "end_time": "00:04:06",
+                "content": "The festival is typically celebrated over five days, each marked by distinct rituals and customs. The first day, Dhanteras, is devoted to the worship of wealth and prosperity. The second day, Chhoti Diwali or Naraka Chaturdashi, is dedicated to the vanquishing of evil spirits. The third day, Diwali or Deepavali, is the main day of celebrations. The fourth day, Govardhan Puja or Annakut, is a day of feasting and giving thanks. The fifth day, Bhai Duj or Bhaiya Dooj, is a day for brothers and sisters to reunite and strengthen their bond.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:42",
+                "end_time": "00:06:34",
+                "content": "The central tradition of Diwali is the lighting of oil lamps or diyas, symbolizing the triumph of light over darkness. The festival is also marked by the bursting of firecrackers, colorful rangoli designs, and exchanging of sweets called mithai.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:54",
+                "end_time": "00:08:46",
+                "content": "Diwali is not only celebrated in India but has spread to other parts of the world where Hindu and Jain populations reside, including Nepal, Mauritius, Fiji, Guyana, Suriname, and Trinidad and Tobago. It is also known as the festival of colors and joy, bringing people together to celebrate their heritage and traditions.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:14",
+                "end_time": "00:11:03",
+                "content": "As we conclude our journey through Diwali, let's reflect on the essence of this ancient festival\u2014the triumph of good over evil, the significance of family and unity, and the joy and light it brings to our lives.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Explore the history, traditions, and significance of Diwali, the ancient Hindu festival of lights."
+    },
+    "category": {
+        "id": 4,
+        "title": "Cultural Celebrations and Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

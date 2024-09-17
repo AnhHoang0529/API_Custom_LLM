@@ -1,0 +1,64 @@
+{
+    "id": "7346723027",
+    "md5": "1d4d9aacccb3b7d296b93fbd9b520b61",
+    "extension": "mp3",
+    "size": 8358548,
+    "height": "",
+    "width": "",
+    "duration": 258.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Italian_Cooking_Masterclass.mp3",
+    "desc": "Join our Italian cooking Masterclass to learn the secrets of authentic Italian cuisine. From pizza to pasta, immerse yourself in a culinary journey of flavors and techniques.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "Welcome to our Italian Cooking Masterclass. Today, we'll be learning how to make authentic Italian dishes, starting with pizza.",
+                "speaker": "Chef Marco"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:20",
+                "content": "First, let's discuss the importance of using the correct dough consistency and preparation for our pizza base.",
+                "speaker": "Chef Marco"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:20",
+                "end_time": "00:06:00",
+                "content": "Next, we'll cover the various toppings and sauces commonly used in Italian pizza, like tomato sauce, mozzarella, and basil.",
+                "speaker": "Chef Marco"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:00",
+                "end_time": "00:08:40",
+                "content": "After preparing the pizza, baking it in a wood-fired oven is crucial to achieving the perfect texture and taste. We'll also discuss some tips for baking your pizza at home.",
+                "speaker": "Chef Marco"
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:40",
+                "end_time": "00:11:00",
+                "content": "Lastly, we'll explore some additional Italian dishes, such as pasta, risotto, and gelato, and the techniques and ingredients involved in making them.",
+                "speaker": "Chef Marco"
+            }
+        ],
+        "sttSummary": "In this Italian Cooking Masterclass, Chef Marco will teach us how to make authentic Italian dishes, starting with pizza. We'll discuss the dough preparation, various toppings, and baking techniques. After pizza, we'll explore pasta, risotto, and gelato."
+    },
+    "category": {
+        "id": 3,
+        "title": "Gourmet_Cuisine"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 79034
+    }
+}

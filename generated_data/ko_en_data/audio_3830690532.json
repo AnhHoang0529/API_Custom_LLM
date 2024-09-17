@@ -1,0 +1,64 @@
+{
+    "id": "3830690532",
+    "md5": "6f1b142c24926e61698627f9351d6e1e",
+    "extension": "mp3",
+    "size": 8378432,
+    "height": "",
+    "width": "",
+    "duration": 178.5,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "soccer_match_highlights.mp3",
+    "desc": "Highlights of the latest soccer match between Barcelona and Real Madrid",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:15",
+                "end_time": "00:01:30",
+                "content": "The soccer match between Barcelona and Real Madrid is underway. The atmosphere in the stadium is electric.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:35",
+                "end_time": "00:04:15",
+                "content": "Barcelona's Messi scores the first goal, assisted by Xavi. Real Madrid's defense was caught off guard. The crowd goes wild.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Real Madrid's Ronaldo equalizes with a beautiful header. The game remains intense.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:20",
+                "end_time": "00:08:30",
+                "content": "Barcelona's Busquets sets up Iniesta for the decisive goal. Barcelona is now leading 3-2.",
+                "speaker": "Announcer"
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:45",
+                "end_time": "00:10:00",
+                "content": "The match ends with a spectacular save from Barcelona's goalkeeper, Valdes, denying Real Madrid a late equalizer.",
+                "speaker": "Announcer"
+            }
+        ],
+        "sttSummary": "The soccer match between Barcelona and Real Madrid is intense. Goals by Messi, Ronaldo, and Iniesta have the crowd going wild. Barcelona wins with a score of 3-2."
+    },
+    "category": {
+        "id": 11,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 31625
+    }
+}

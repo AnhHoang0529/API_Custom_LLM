@@ -1,0 +1,60 @@
+{
+    "id": "4786991465",
+    "md5": "3745d6f6b0ea4d62903a31f31612e920",
+    "extension": "pdf",
+    "size": 25000,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "\uc608\uc2dc_\uc601\ud654_\uc7a5\uba74.pdf",
+    "desc": "\ubc94\uc8c4 \uc2a4\ub9b4\ub7ec \uc601\ud654\uc758 \uae34\ubc15\uac10 \ub118\uce58\ub294 \uc7a5\uba74\uc744 \uc790\uc138\ud788 \ubd84\uc11d\ud588\uc2b5\ub2c8\ub2e4.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "\ubc94\uc8c4 \uc2a4\ub9b4\ub7ec '\uae68\uc9c4 \uac70\uc6b8\ub4e4'\uc758 \uc774 \uc7a5\uba74\uc5d0\uc11c \ud615\uc0ac\ub294 \uae34\uc7a5\uac10\uc744 \uace0\uc870\uc2dc\ud0b5\ub2c8\ub2e4.",
+                "speaker": "\ud615\uc0ac"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:20",
+                "content": "...\uc5b4\ub450\uc6b4 \ubc29\uc5d0\uc11c \uc8fc\uc694 \uc6a9\uc758\uc790\uc778 \uc758\uc2ec\uc2a4\ub7ec\uc6b4 \uc0ac\uc5c5\uac00\ub97c \uc2ec\ubb38\ud55c\ub2e4...",
+                "speaker": "\ud615\uc0ac"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:21",
+                "end_time": "00:00:30",
+                "content": "...\uc2dc\uacc4\uc758 \ub611\ub531\uac70\ub9ac\ub294 \uc18c\ub9ac\uac00 \ubd88\uc548\uac10\uc744 \ub354\ud55c\ub2e4...",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 873456
+    },
+    "category": {
+        "id": 17,
+        "title": "\uc601\ud654 \uc7a5\uba74"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "\ud615\uc0ac",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1970-02-12"
+        },
+        {
+            "id": 2,
+            "nickName": "\uc758\uc2ec\ud558\ub2e4",
+            "name": "\uc7ad \uc2a4\ubbf8\uc2a4",
+            "dateOfBirth": "1980-05-23"
+        }
+    ],
+    "textData": "\uc774 \uc7a5\uba74\uc740 \ub178\ub828\ud55c \ud615\uc0ac\uc778 \uc874 \ub3c4 \ud615\uc0ac\uac00 \uc8fc\uc694 \uc6a9\uc758\uc790\uc778 \uc7ad \uc2a4\ubbf8\uc2a4\uac00 \uae30\ub2e4\ub9ac\uace0 \uc788\ub294 \ud76c\ubbf8\ud558\uac8c \ubc1d\uc740 \ubc29\uc5d0 \ub4e4\uc5b4\uac00\ub294 \uac83\uc73c\ub85c \uc2dc\uc791\ud569\ub2c8\ub2e4. \ub611\ub531\uac70\ub9ac\ub294 \uc2dc\uacc4 \uc18c\ub9ac\uac00 \ubd88\uc548\uac10\uc744 \ub354\ud558\uace0 \ub3c4\ub294 \uc2a4\ubbf8\uc2a4\ub97c \uc5c4\uc219\ud55c \ud45c\uc815\uc73c\ub85c \uc2ec\ubb38\ud569\ub2c8\ub2e4. \uc2a4\ubbf8\uc2a4\uac00 \ud68c\ud53c\ud558\ub824\uace0 \ud558\uc9c0\ub9cc \ub3c4\uc758 \uc9c8\ubb38\uc740 \ub354\uc6b1 \ud0d0\uad6c\uc801\uc774 \ub418\uace0 \ub450 \uc0ac\ub78c \uc0ac\uc774\uc758 \uae34\uc7a5\uac10\uc774 \ucee4\uc9d1\ub2c8\ub2e4. \uc7a5\uba74\uc774 \uc9c4\ud589\ub418\uba74\uc11c \ub3c4\ub294 \uc2a4\ubbf8\uc2a4\ub97c \ub208\uc5d0 \ub744\uac8c \ud754\ub4e4\uc5b4 \ub193\ub294 \uacb0\uc815\uc801\uc778 \uc99d\uac70\ub97c \ubcf4\uc5ec\uc90d\ub2c8\ub2e4. \uc774 \uc7a5\uba74\uc740 \uadf9\uc801\uc778 \ud074\ub9ac\ud504 \ud589\uac70\ub85c \ub05d\ub098\uba70 \uad00\uac1d\uc740 \uc2a4\ubbf8\uc2a4\uc758 \ubb34\uc8c4\uc5d0 \uc758\ubb38\uc744 \ud488\uac8c \ub429\ub2c8\ub2e4.",
+    "organizations": []
+}

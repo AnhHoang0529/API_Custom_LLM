@@ -1,0 +1,61 @@
+{
+    "id": "4757549167",
+    "md5": "87a4b32e40a64a2b761234567890abc1",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 1920,
+    "width": 1080,
+    "duration": 240.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Majestic_Landscapes.mp4",
+    "desc": "A collection of breathtaking landscapes from around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "Our journey begins in Iceland, a land of fire and ice. We'll explore its stunning volcanic landscapes and the pristine waters of its fjords.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:30",
+                "content": "Next, we'll venture to the Grand Canyon, where we'll witness its vast expanse and the mighty Colorado River carving through it.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:25",
+                "content": "The Australian Outback offers rugged terrain and unique wildlife, including the iconic kangaroo and the elusive dingo.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:25",
+                "end_time": "00:07:10",
+                "content": "Our final destination is the Amazon Rainforest, the largest tropical rainforest on Earth, teeming with diverse plant and animal species.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:10",
+                "end_time": "00:09:00",
+                "content": "As we conclude our tour, we'll reflect on the majesty and wonder of these landscapes, and the importance of preserving them for future generations.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This video showcases majestic landscapes around the world, including Iceland, the Grand Canyon, the Australian Outback, and the Amazon Rainforest."
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

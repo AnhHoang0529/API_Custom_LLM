@@ -1,0 +1,92 @@
+{
+    "id": "0663368268",
+    "md5": "5e1b878a611d6da2859b1f6fb607a614",
+    "extension": "mp4",
+    "size": 54634567,
+    "height": 720,
+    "width": 1280,
+    "duration": 210.3,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Political_Event_A_2023.mp4",
+    "desc": "This video features political speeches from various world leaders during a global summit.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:15",
+                "content": "President John Doe of the United States speaks about diplomacy and cooperation among nations.",
+                "speaker": "John Doe"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:03:30",
+                "content": "Chancellor Angela Merkel of Germany talks about the importance of international treaties and commitments in maintaining peace and stability.",
+                "speaker": "Angela Merkel"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:25",
+                "content": "President Narendra Modi of India discusses climate change and its impact on the world.",
+                "speaker": "Narendra Modi"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:25",
+                "end_time": "00:07:10",
+                "content": "Prime Minister Boris Johnson of the United Kingdom speaks on the role of technology in shaping the future.",
+                "speaker": "Boris Johnson"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:10",
+                "end_time": "00:08:55",
+                "content": "President Xi Jinping of China shares his perspective on global economic growth and sustainable development.",
+                "speaker": "Xi Jinping"
+            }
+        ],
+        "sttSummary": "This video features speeches from various world leaders at a global summit, including President John Doe, Chancellor Angela Merkel, President Narendra Modi, Prime Minister Boris Johnson, and President Xi Jinping, discussing diplomacy, international treaties, climate change, technology, and global economic growth."
+    },
+    "category": {
+        "id": 33,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "John",
+            "name": "John Doe",
+            "dateOfBirth": "1975-02-02"
+        },
+        {
+            "id": 7894,
+            "nickName": "Angela",
+            "name": "Angela Merkel",
+            "dateOfBirth": "1954-07-17"
+        },
+        {
+            "id": 1235,
+            "nickName": "Narendra",
+            "name": "Narendra Modi",
+            "dateOfBirth": "1975-09-17"
+        },
+        {
+            "id": 5678,
+            "nickName": "Boris",
+            "name": "Boris Johnson",
+            "dateOfBirth": "1964-06-19"
+        },
+        {
+            "id": 9012,
+            "nickName": "Xi",
+            "name": "Xi Jinping",
+            "dateOfBirth": "1953-06-15"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

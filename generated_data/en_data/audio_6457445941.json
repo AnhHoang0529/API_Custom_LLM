@@ -1,0 +1,92 @@
+{
+    "id": "6457445941",
+    "md5": "3b91825d994e2b72047cb3e265a6d26f",
+    "extension": "mp3",
+    "size": 8395466,
+    "height": "",
+    "width": "",
+    "duration": 241.8,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Political_Event_Discussion.mp3",
+    "desc": "A discussion on recent political events, including the implications of certain policies and their impact on society.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:03:12",
+                "content": "The recent political event under discussion is the passing of the new health care bill, which has sparked controversy among various stakeholders.",
+                "speaker": "John"
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:13",
+                "end_time": "00:05:45",
+                "content": "The bill aims to expand health care coverage to millions of uninsured Americans, but opponents argue it will lead to increased costs and decreased quality of care.",
+                "speaker": "Mary"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:46",
+                "end_time": "00:10:27",
+                "content": "Supporters of the bill counter that it will bring about a more efficient and cost-effective health care system, with longer term benefits for taxpayers and the economy as a whole.",
+                "speaker": "Ben"
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:28",
+                "end_time": "00:13:58",
+                "content": "The impact of this bill on different demographics, particularly the elderly and those with pre-existing conditions, has been a topic of intense debate.",
+                "speaker": "Laura"
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:59",
+                "end_time": "00:18:29",
+                "content": "The eventual outcome of the debate and the final form of the bill remain uncertain, but the conversation sheds light on the complexities and implications of health care policy.",
+                "speaker": "Mark"
+            }
+        ],
+        "sttSummary": "A discussion on the recent political event surrounding the new health care bill, its implications, and the impact on various demographics. Speakers include John, Mary, Ben, Laura, and Mark."
+    },
+    "category": {
+        "id": 345,
+        "title": "Politics"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "",
+            "name": "John",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 6314,
+            "nickName": "",
+            "name": "Mary",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 5628,
+            "nickName": "",
+            "name": "Ben",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 7296,
+            "nickName": "",
+            "name": "Laura",
+            "dateOfBirth": ""
+        },
+        {
+            "id": 8923,
+            "nickName": "",
+            "name": "Mark",
+            "dateOfBirth": ""
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

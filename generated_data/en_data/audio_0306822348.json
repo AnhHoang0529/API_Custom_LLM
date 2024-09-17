@@ -1,0 +1,64 @@
+{
+    "id": "0306822348",
+    "md5": "b1a731d8d311e2f7a619551d1a0a44db",
+    "extension": "mp3",
+    "size": 9314212,
+    "height": "",
+    "width": "",
+    "duration": 213.3,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Diwali_Celebrations.mp3",
+    "desc": "An audio recording detailing the vibrant and colorful Diwali celebrations, including the significance of the festival, traditional practices, and cultural traditions.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:04:00",
+                "content": "Diwali, also known as the festival of lights, is an ancient Hindu festival that marks the victory of light over darkness and good over evil.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:00",
+                "end_time": "00:12:30",
+                "content": "The festival is celebrated by millions of Hindus, Jains, Sikhs, and others around the world. The celebrations include performing puja, preparing special meals, bursting firecrackers, and decorating homes with diyas, rangoli, and colorful lights.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:12:30",
+                "end_time": "00:19:30",
+                "content": "The origin of Diwali is attributed to various stories, such as Lord Rama's return from exile, the vanquishing of the demon Narakasura by Lord Krishna, or the victory of the goddess Lakshmi over the demon Mahishasura.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:19:30",
+                "end_time": "00:21:30",
+                "content": "During Diwali, people wear new clothes, exchange gifts, and seek blessings from elders and deities.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:21:30",
+                "end_time": "00:22:00",
+                "content": "The festivities conclude with the puja of Lakshmi, the goddess of prosperity and wealth.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio presents the significance and history of Diwali, a major Hindu festival celebrated by millions worldwide. The recording covers various aspects of the festival, including its origin, practices, and cultural importance."
+    },
+    "category": {
+        "id": 23,
+        "title": "Cultural Celebrations & Traditions"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 132876
+    }
+}

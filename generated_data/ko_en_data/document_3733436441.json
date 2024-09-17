@@ -1,0 +1,60 @@
+{
+    "id": "3733436441",
+    "md5": "4dcd9b52316b1d63735b9e24e8f564b2",
+    "extension": "pdf",
+    "size": 145203,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "cityscapes_research.pdf",
+    "desc": "A comprehensive analysis of urban cityscapes and their impact on people's lives.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:22",
+                "content": "In this research paper, we delve into the intricate details of urban cityscapes and their profound influence on people's lives.",
+                "speaker": "Researcher"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:23",
+                "end_time": "00:00:45",
+                "content": "We explore various aspects of cityscapes, including architecture, infrastructure, and greenery.",
+                "speaker": "Researcher"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:46",
+                "end_time": "00:01:01",
+                "content": "We also discuss how these elements impact the mental and physical wellbeing of city dwellers.",
+                "speaker": "Researcher"
+            }
+        ],
+        "id": 1999572355
+    },
+    "category": {
+        "id": 663,
+        "title": "Research Papers"
+    },
+    "people": [
+        {
+            "id": 3271,
+            "nickName": "JohnD",
+            "name": "John Doe",
+            "dateOfBirth": "1985-10-03"
+        }
+    ],
+    "textData": "Urban cityscapes have long been a source of fascination for researchers and urban planners alike. In this research paper, we delve into the intricate details of urban cityscapes and their profound influence on people's lives. We explore various aspects of cityscapes, including architecture, infrastructure, and greenery. These elements not only shape the physical landscape of a city but also significantly impact the mental and physical wellbeing of city dwellers. The design of buildings and public spaces can affect people's moods, social interactions, and even their health. Proper infrastructure, such as efficient transportation systems and accessible green spaces, can reduce stress levels and improve overall quality of life. In this paper, we present a comprehensive analysis of urban cityscapes, drawing on the latest research and insights from various fields, including psychology, urban planning, and architecture. Our findings underscore the importance of designing cities that prioritize the wellbeing of their residents and offer valuable insights for policymakers and urban planners seeking to create more livable and equitable urban environments.",
+    "organizations": [
+        {
+            "id": 756,
+            "name": "ABC Research Institute",
+            "otherName": "ARI"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "query_str": "Recommend some image files about animals in the wild",
+        "filetype": "image",
+        "topic": "animals in the wild",
+        "retrieved_ids": [
+            "2812247859",
+            "7392054519",
+            "7460932806",
+            "7344935168",
+            "8358996757",
+            "8229632743",
+            "3966074179",
+            "9546414147",
+            "7567266582",
+            "4175607983"
+        ],
+        "num_retrieved_files": 10,
+        "execution_time": 19.9284
+    },
+    {
+        "query_str": "Recommend some image files about majestic landscapes",
+        "filetype": "image",
+        "topic": "majestic landscapes",
+        "retrieved_ids": [
+            "6809336958",
+            "4534401144",
+            "5731686379",
+            "6151093181",
+            "3966074179",
+            "7215734765",
+            "6709730482",
+            "9204245714",
+            "1522630122"
+        ],
+        "num_retrieved_files": 9,
+        "execution_time": 20.8611
+    },
+    {
+        "query_str": "Recommend some image files about celebrities",
+        "filetype": "image",
+        "topic": "celebrities",
+        "retrieved_ids": [
+            "1570938978",
+            "1354513748",
+            "7990554285",
+            "5564982716",
+            "9224415177"
+        ],
+        "num_retrieved_files": 5,
+        "execution_time": 9.6785
+    },
+    {
+        "query_str": "Retrieve some image or audio files about animals in the wild",
+        "filetype": [
+            "image",
+            "audio"
+        ],
+        "topic": "animals in the wild",
+        "retrieved_ids": [
+            "5431318697",
+            "3966074179",
+            "4175607983",
+            "7460932806",
+            "4080320080",
+            "4945143531",
+            "4646620772",
+            "8229632743",
+            "6182231935",
+            "7392054519",
+            "7344935168",
+            "8358996757",
+            "8664713379",
+            "9546414147"
+        ],
+        "num_retrieved_files": 14,
+        "execution_time": 36.5824
+    },
+    {
+        "query_str": "Retrieve some image or audio files about majestic landscapes",
+        "filetype": [
+            "image",
+            "audio"
+        ],
+        "topic": "majestic landscapes",
+        "retrieved_ids": [
+            "6809336958",
+            "3966074179",
+            "4175607983",
+            "3504356746",
+            "1522630122",
+            "9204245714",
+            "2536010509",
+            "4534401144",
+            "4949890563"
+        ],
+        "num_retrieved_files": 9,
+        "execution_time": 43.2633
+    },
+    {
+        "query_str": "Retrieve some image or audio files about celebrities",
+        "filetype": [
+            "image",
+            "audio"
+        ],
+        "topic": "celebrities",
+        "retrieved_ids": [
+            "1951130586",
+            "8433787268",
+            "3176755734",
+            "0919420234",
+            "9002678035",
+            "5736685841",
+            "5564982716",
+            "1570938978",
+            "8805383794",
+            "7267450941",
+            "0799641040",
+            "7890200483",
+            "9546414147",
+            "9224415177",
+            "8141580049"
+        ],
+        "num_retrieved_files": 15,
+        "execution_time": 63.1284
+    },
+    {
+        "query_str": "Give me some files about animals in the wild",
+        "filetype": null,
+        "topic": "animals in the wild",
+        "retrieved_ids": [
+            "5984764398",
+            "3170663560",
+            "5285649773",
+            "4323186549"
+        ],
+        "num_retrieved_files": 4,
+        "execution_time": 27.67
+    },
+    {
+        "query_str": "Give me some files about majestic landscapes",
+        "filetype": null,
+        "topic": "majestic landscapes",
+        "retrieved_ids": [
+            "9151576135",
+            "0425684714",
+            "6167030804"
+        ],
+        "num_retrieved_files": 3,
+        "execution_time": 17.8733
+    },
+    {
+        "query_str": "Give me some files about celebrities",
+        "filetype": null,
+        "topic": "celebrities",
+        "retrieved_ids": [
+            "0641843653"
+        ],
+        "num_retrieved_files": 1,
+        "execution_time": 8.2661
+    }
+]

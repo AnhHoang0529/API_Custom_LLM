@@ -1,0 +1,40 @@
+{
+    "id": "2536010509",
+    "md5": "0d751a085e07a714a33d11b2b2a3d6a4",
+    "extension": "pdf",
+    "size": 123504,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "urban_cityscapes.pdf",
+    "desc": "A visual exploration of urban cityscapes from around the world.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:05",
+                "content": "Welcome to our exploration of beautiful urban cityscapes from around the world.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:06",
+                "end_time": "00:00:12",
+                "content": "First up, let's take a look at the bustling streets of New York City...",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 568348
+    },
+    "category": {
+        "id": 13,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "textData": "This captivating photo collection showcases stunning urban cityscapes from various corners of the globe. From the iconic skyline of New York City to the vibrant streets of Tokyo, each image transports viewers to a new and exciting destination. These photographs not only highlight the architectural marvels and unique character of each city but also offer a glimpse into the daily lives and diverse cultures of their inhabitants. Whether you're an armchair traveler or an urban explorer, this collection is sure to inspire and delight.",
+    "organizations": []
+}

@@ -1,0 +1,77 @@
+{
+    "id": "6529025421",
+    "md5": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 120.6,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\uc601\ud654\uc7a5\uba74001.mp3",
+    "desc": "\ub3c4\uc2dc \uac70\ub9ac\ub97c \uc790\ub3d9\ucc28\ub85c \ucd94\uaca9\ud558\ub294 \uc11c\uc2a4\ud39c\uc2a4 \uc601\ud654\uc758 \ud55c \uc7a5\uba74",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:04:35",
+                "content": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac(\uc874 \uc2a4\ubbf8\uc2a4)\ub294 \uc758\uc2ec\uc2a4\ub7ec\uc6b4 \uac80\uc740\uc0c9 \uc138\ub2e8\uc744 \ub530\ub77c \ub3c4\uc2dc\ub97c \ub2ec\ub9b0\ub2e4. \uadf8\ub294 \uac04\uaca9\uc744 \uc881\ud788\uc9c0\ub9cc, \uc138\ub2e8\uc740 \uad50\ud1b5 \uccb4\uc99d \uc0ac\uc774\ub85c \ub07c\uc5b4\ub4e4\uc5c8\ub2e4\uac00 \ube60\uc838\ub098\uac00\uba70 \uc7a0\uc2dc \ub3d9\uc548 \ube60\uc838\ub098\uac04\ub2e4.",
+                "speaker": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac"
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:10",
+                "end_time": "00:10:12",
+                "content": "\uc138\ub2e8\uc740 \ub9c9\ub2e4\ub978 \uace8\ubaa9\uc73c\ub85c \ub3cc\uc9c0\ub9cc \uc2a4\ubbf8\uc2a4\ub294 \uc21c\ucc30\ucc28\ub85c \uace8\ubaa9\uc744 \ub3cc\uc9c4\ud55c\ub2e4. \ud0b9\ud540(\ub808\uc774\ube10)\uc774 \ub098\uc640\uc11c \ucd1d\uc744 \ub4dc\ub7ec\ub0b8\ub2e4.",
+                "speaker": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac"
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:30",
+                "end_time": "00:14:30",
+                "content": "\uc2a4\ubbf8\uc2a4\uc640 \ub808\uc774\ube10 \uc0ac\uc774\uc5d0 \uae34\uc7a5\ub41c \ub300\uce58\uac00 \uc774\uc5b4\uc9c4\ub2e4. \uc2a4\ubbf8\uc2a4\ub294 \ub808\uc774\ube10\uc5d0\uac8c \ud56d\ubcf5\uc744 \uc694\uad6c\ud558\uc9c0\ub9cc, \ub808\uc774\ube10\uc740 \uac70\ubd80\ud55c\ub2e4.",
+                "speaker": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac"
+            },
+            {
+                "order": 4,
+                "start_time": "00:14:45",
+                "end_time": "00:17:15",
+                "content": "\uac11\uc790\uae30 \uc2a4\ubbf8\uc2a4\uc758 \ubb34\uc804\uc774 \ubc31\uc5c5\uc73c\ub85c \uc6b8\ub9b0\ub2e4. \uadf8\ub294 \ubc31\uc5c5 \uc2e0\ud638\ub97c \ubcf4\ub0b4\uace0 \ubb34\uae30\ub97c \ubc1c\uc0ac\ud558\uba70 \ub2e4\uc2dc \ud55c \ubc88 \ucd94\uaca9\uc744 \uc2dc\uc791\ud55c\ub2e4.",
+                "speaker": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac"
+            },
+            {
+                "order": 5,
+                "start_time": "00:17:30",
+                "end_time": "00:20:45",
+                "content": "\ub3c4\uc2dc \uc804\uccb4\uc5d0\uc11c \ucd94\uaca9\uc774 \uacc4\uc18d\ub418\uace0, \uc2a4\ubbf8\uc2a4\ub294 \ub808\uc774\ube10\uc744 \uc815\uc758\uc758 \uc2ec\ud310\ub300\uc5d0 \uc138\uc6b0\uae30\ub85c \uacb0\uc2ec\ud569\ub2c8\ub2e4. \ucd94\uaca9\uc740 \ub808\uc774\ube10\uc744 \uc7a1\uc73c\uba74\uc11c \ub05d\ub0a9\ub2c8\ub2e4.",
+                "speaker": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac"
+            }
+        ],
+        "sttSummary": "\ub3c4\uc2dc\ub97c \uac00\ub85c\uc9c0\ub974\ub294 \uc790\ub3d9\ucc28 \ucd94\uaca9\uc804\uc5d0\uc11c \ud615\uc0ac \uc2a4\ubbf8\uc2a4\uc640 \ubc94\uc8c4 \uc870\uc9c1 \ub450\ubaa9(\ub808\uc774\ube10)\uc774 \ub4f1\uc7a5\ud558\ub294 \uc2a4\ub9b4 \ub118\uce58\ub294 \uc561\uc158 \uc2dc\ud000\uc2a4"
+    },
+    "category": {
+        "id": 1,
+        "title": "\uc601\ud654 \uc7a5\uba74"
+    },
+    "people": [
+        {
+            "id": 123,
+            "nickName": "\uc2a4\ubbf8\uc2a4 \ud615\uc0ac",
+            "name": "\uc874 \uc2a4\ubbf8\uc2a4",
+            "dateOfBirth": "1975-03-13"
+        },
+        {
+            "id": 456,
+            "nickName": "\ubc94\uc8c4 \uc870\uc9c1\uc758 \ub450\ubaa9",
+            "name": "\ub808\uc774\ube10",
+            "dateOfBirth": "1965-11-21"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 1027
+    }
+}

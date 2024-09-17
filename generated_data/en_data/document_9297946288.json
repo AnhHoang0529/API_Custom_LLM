@@ -1,0 +1,47 @@
+{
+    "id": "9297946288",
+    "md5": "abcd1234efgh5678",
+    "extension": "pdf",
+    "size": 987654,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "wild_animals_research.pdf",
+    "desc": "A comprehensive research paper on wild animals and their behaviors in their natural habitats.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:01",
+                "end_time": "00:00:07",
+                "content": "Wild animals are fascinating creatures that display a wide range of",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:31",
+                "content": "behaviors in their natural habitats. This research paper aims to explore",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:36",
+                "content": "the lives and behaviors of various wild animals.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 191,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "textData": "Wild animals are fascinating creatures that display a wide range of behaviors in their natural habitats. This research paper aims to explore the lives and behaviors of various wild animals, providing insights into their unique adaptations and survival strategies. By understanding the intricacies of wild animal behavior, we can better appreciate the complex ecosystems they inhabit and the vital role they play in maintaining ecological balance. From the agile big cats in the African savanna to the elusive nocturnal creatures of the Amazon rainforest, this research offers a captivating exploration into the world of wild animals and their habitats.",
+    "organizations": []
+}

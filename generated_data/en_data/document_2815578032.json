@@ -1,0 +1,67 @@
+{
+    "id": "2815578032",
+    "md5": "3dcc38d31d2b3c8c28433945d29a9d7a",
+    "extension": "pdf",
+    "size": 215237,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "study_and_work_research.pdf",
+    "desc": "A research document discussing the importance of study and work.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "In this document, we'll explore the significance of studying and working.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:35",
+                "content": "We'll begin by discussing the benefits of studying for personal and professional growth.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:36",
+                "end_time": "00:00:50",
+                "content": "Next, we'll delve into the importance of work and its role in our lives.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:51",
+                "end_time": "00:01:00",
+                "content": "Finally, we'll discuss the balance between study and work and how to maintain it effectively.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 789101112
+    },
+    "category": {
+        "id": 1,
+        "title": "Research"
+    },
+    "people": [
+        {
+            "id": 98765432,
+            "nickName": "Alice",
+            "name": "Alice Johnson",
+            "dateOfBirth": "1990-05-03"
+        },
+        {
+            "id": 12345678,
+            "nickName": "Bob",
+            "name": "Bob Smith",
+            "dateOfBirth": "1985-12-15"
+        }
+    ],
+    "textData": "Studying and working are essential aspects of our lives. While studying helps us gain new knowledge and skills, work provides us with the means to apply that knowledge in practical situations. However, maintaining a balance between the two can be challenging. In this document, we'll explore the benefits of studying and working, and discuss strategies for achieving a healthy balance.\n\nStudying is a crucial investment in personal and professional growth. By continually expanding our knowledge base, we broaden our horizons and open ourselves up to new opportunities. Whether it's learning a new language, mastering a complex subject, or acquiring a new skill, studying is an essential component of a fulfilling life.\n\nOn the other hand, work plays a vital role in our lives, both financially and emotionally. It provides us with a sense of purpose, structure, and identity. Work also allows us to contribute to society and make a positive impact on the world around us.\n\nHowever, achieving a balance between study and work can be challenging. Many of us find ourselves overwhelmed by the demands of our personal and professional lives, leading to stress, burnout, and a lack of productivity. To maintain a healthy balance between study and work, it's essential to prioritize our time effectively and make the most of the hours in our day.\n\nOne strategy for achieving a balance between study and work is time management. By setting clear goals, creating a schedule, and prioritizing tasks, we can make the most of the time we have available to us. Another strategy is to seek out opportunities for continuous learning and professional development. By incorporating learning into our daily routine, we can make the most of our time and improve both our personal and professional growth.\n\nIn conclusion, studying and working are essential aspects of our lives, and achieving a healthy balance between the two is crucial for our personal and professional growth. By prioritizing our time effectively and making the most of the hours in our day, we can maintain a healthy balance and make the most of every opportunity.",
+    "organizations": []
+}

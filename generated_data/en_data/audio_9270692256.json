@@ -1,0 +1,61 @@
+{
+    "id": "9270692256",
+    "md5": "a1b2c3d4e5f6g7h8i9j0",
+    "extension": "mp3",
+    "size": 4188866,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Indian_Festival.mp3",
+    "desc": "In this episode, we celebrate the rich cultural heritage of India by discussing various festivals and their traditions.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "India is a land of diverse cultures and traditions. Our focus today is on the various festivals that bring people together.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:07:00",
+                "content": "One such festival is Diwali, also known as the festival of lights. It marks the victory of good over evil. Families clean their homes, prepare delicious foods, and decorate their houses with colorful rangoli designs and diyas.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:00",
+                "end_time": "00:12:30",
+                "content": "Another important festival is Holi, the festival of colors. It signifies the arrival of spring and is celebrated by throwing colored powders and water at each other, signifying the removal of past grudges and welcoming new relationships.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:12:30",
+                "end_time": "00:18:00",
+                "content": "Navratri is a nine-day festival dedicated to the worship of the nine forms of the goddess Durga. Each day has a unique significance and is dedicated to a specific form of the goddess.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:00",
+                "end_time": "00:18:30",
+                "content": "This concludes our discussion on the cultural celebrations and traditions in India. We hope you enjoyed learning about these festivals.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "In this podcast, we discuss the various cultural festivals in India, including Diwali, Holi, and Navratri. We explore their significance, traditions, and how they bring people together."
+    },
+    "category": {
+        "id": 1234,
+        "title": "Cultural Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

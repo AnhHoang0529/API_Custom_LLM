@@ -1,0 +1,61 @@
+{
+    "id": "4949890563",
+    "md5": "7d2e4b782071d5c2c55b9f49016df73c",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "majestic_landscapes.pdf",
+    "desc": "A captivating collection of photographs showcasing the world's most beautiful landscapes.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:05",
+                "content": "Welcome to our presentation on majestic landscapes. Today, we will be showcasing a captivating collection of photographs that highlight the beauty and grandeur of Mother Nature.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "Our first image is a breathtaking view of the Grand Canyon in Arizona, USA.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "Next, we have an image of the stunning Plitvice Lakes National Park in Croatia.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:30",
+                "end_time": "00:00:45",
+                "content": "Let's now travel to China to explore the magical Terracotta Warriors.",
+                "speaker": "Presenter"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:45",
+                "end_time": "00:00:55",
+                "content": "Our final image is the spectacular Salar de Uyuni in Bolivia.",
+                "speaker": "Presenter"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 191,
+        "title": "Nature & Environment"
+    },
+    "people": [],
+    "textData": "Welcome to our presentation on majestic landscapes. Today, we will be showcasing a captivating collection of photographs that highlight the beauty and grandeur of Mother Nature. Our first image is a breathtaking view of the Grand Canyon in Arizona, USA. Next, we have an image of the stunning Plitvice Lakes National Park in Croatia. Let's now travel to China to explore the magical Terracotta Warriors. Our final image is the spectacular Salar de Uyuni in Bolivia.",
+    "organizations": []
+}

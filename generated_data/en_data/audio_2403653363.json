@@ -1,0 +1,64 @@
+{
+    "id": "2403653363",
+    "md5": "7c97b89a382c3976e66278a84d3729e6",
+    "extension": "mp3",
+    "size": 9034567,
+    "height": "",
+    "width": "",
+    "duration": 178.2,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Majestic-Landscapes.mp3",
+    "desc": "Explore the beauty and grandeur of majestic landscapes through this immersive audio journey. Listen to the soothing sounds of wind rustling through the leaves, crashing waves against the shore, birds chirping, and the subtle rustling of water in a nearby stream. Let your senses be transported to breathtaking vistas and picturesque scenes of mountains, forests, deserts, and oceans.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "Welcome to this immersive audio journey through majestic landscapes. You'll hear the soothing sounds of wind rustling through the leaves, crashing waves against the shore, birds chirping, and the subtle rustling of water in a nearby stream. Let your senses be transported to breathtaking vistas and picturesque scenes of mountains, forests, deserts, and oceans.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:00",
+                "content": "First, let's travel to a lush green forest. The sound of chirping birds and the gentle rustling of leaves under a light breeze create a sense of tranquility. Listen closely and you may hear the melody of a woodpecker tapping against a tree or the distant hoot of an owl.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:00",
+                "end_time": "00:07:30",
+                "content": "Next, we'll visit a serene mountain lake. The gentle lapping of waves along the shore and the calming sound of a nearby stream create a peaceful ambiance. Take a deep breath and let the crisp mountain air fill your lungs. Can you hear the gentle chirping of crickets in the background?",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:10:00",
+                "content": "Now, let's journey to a magnificent desert. The sound of sand shifting under the wind and the distant echoes of coyotes create a sense of vastness and isolation. Can you imagine the golden sun setting over towering sand dunes?",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:10:00",
+                "end_time": "00:17:30",
+                "content": "Lastly, let's explore an expansive ocean. The rolling waves and the distant calls of seagulls create a sense of boundless freedom. Can you hear the gentle crash of waves against the shore or the soothing sound of water lapping at the sand?",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Join us on an immersive audio journey through majestic landscapes. Experience the soothing sounds of a lush green forest, a serene mountain lake, a magnificent desert, and an expansive ocean."
+    },
+    "category": {
+        "id": 375,
+        "title": "Nature & Environment"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 263746
+    }
+}

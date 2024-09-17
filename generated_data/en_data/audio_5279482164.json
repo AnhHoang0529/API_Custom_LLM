@@ -1,0 +1,68 @@
+{
+    "id": "5279482164",
+    "md5": "25a4d37b1b722c62374d86b74648c7f1",
+    "extension": "mp3",
+    "size": 1296150,
+    "height": "",
+    "width": "",
+    "duration": 208.4,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "interview_with_jennifer_lawrence.mp3",
+    "desc": "An interview with the actress Jennifer Lawrence discussing her latest movie and upcoming projects.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:02:15",
+                "content": "Welcome to this episode of \u2018Movie Talk\u2019, I\u2019m your host, Mark. Today we have the honor of interviewing the wonderful Jennifer Lawrence.",
+                "speaker": "Mark"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:16",
+                "end_time": "00:05:30",
+                "content": "Jennifer, thanks for coming to the show today. Let\u2019s talk about your latest movie, \u2018Silent Hill: Revelation\u2019. Can you tell us a bit about the plot and your role in the film?",
+                "speaker": "Mark"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:31",
+                "end_time": "00:15:20",
+                "content": "Jennifer Lawrence: I play Heather Mason in \u2018Silent Hill: Revelation\u2019. The story revolves around Heather, who is trying to uncover the truth about her connection to the town of Silent Hill and the supernatural forces haunting it. I\u2019m excited for the audience to experience this terrifying and emotional journey.",
+                "speaker": "Jennifer Lawrence"
+            },
+            {
+                "order": 4,
+                "start_time": "00:15:21",
+                "end_time": "00:18:50",
+                "content": "Mark: That sounds intriguing. Now, you\u2019ve had quite an impressive career with roles in blockbuster films like \u2018The Hunger Games\u2019 and \u2018X-Men\u2019. Do you have a favorite role or moment in your career so far?",
+                "speaker": "Mark"
+            },
+            {
+                "order": 5,
+                "start_time": "00:18:51",
+                "end_time": "00:20:84",
+                "content": "Jennifer Lawrence: That\u2019s a tough question. I think playing Katniss Everdeen in \u2018The Hunger Games\u2019 was a special experience because the character meant so much to the fans, and it was an honor to bring her to life. But my role in 'Silent Hill: Revelation' also challenged me as an actor, and I\u2019m proud of what we accomplished with that project.",
+                "speaker": "Jennifer Lawrence"
+            }
+        ],
+        "sttSummary": "Mark interviews Jennifer Lawrence about her latest movie, \u2018Silent Hill: Revelation\u2019, discussing her role and favorite moments in her career."
+    },
+    "category": {
+        "id": 1,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 2342,
+            "nickName": "JLaw",
+            "name": "Jennifer Lawrence",
+            "dateOfBirth": "August 15, 1990"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

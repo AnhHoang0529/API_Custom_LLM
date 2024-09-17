@@ -1,0 +1,28 @@
+{
+    "id": "3186433638",
+    "md5": "93d324c65e5391a4a2b1d0d2279e2e4d",
+    "extension": "jpeg",
+    "size": 135414,
+    "height": 1280,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "study_image.jpeg",
+    "desc": "A person sitting at a desk, studying with textbooks and writing on a notepad",
+    "narrationStt": "",
+    "category": {
+        "id": 4,
+        "title": "Study_work"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "",
+            "name": "John Doe",
+            "dateOfBirth": "1998-07-05"
+        }
+    ],
+    "organizations": []
+}

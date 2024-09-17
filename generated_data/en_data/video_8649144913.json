@@ -1,0 +1,80 @@
+{
+    "id": "8649144913",
+    "md5": "425f716a917a43e60c6902d6b3f2e229",
+    "extension": "mp4",
+    "size": 13023520,
+    "height": 1080,
+    "width": 1920,
+    "duration": 156.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "celebrities_interviews.mp4",
+    "desc": "Exclusive interviews with popular celebrities from different fields such as music, movies, sports, and more.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:03:30",
+                "content": "In this episode, we feature interviews with renowned actors, musicians, and athletes. Our first guest is the legendary singer-songwriter, Adele.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:15",
+                "end_time": "00:07:45",
+                "content": "Adele shares her experiences and thoughts on her career, personal life, and future projects. Next, we have an interview with the iconic actor, Tom Cruise.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:08:15",
+                "end_time": "00:11:45",
+                "content": "Tom Cruise talks about his upcoming movies, the challenges of acting, and his experiences working in the industry. Lastly, we have an interview with the talented tennis player, Serena Williams.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:12:15",
+                "end_time": "00:15:30",
+                "content": "Serena Williams discusses her inspirations, her journey to success, and her future plans in tennis and beyond.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:45",
+                "end_time": "00:18:15",
+                "content": "We wrap up the episode by showcasing some behind-the-scenes footage and exclusive interviews with other celebrities.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "This episode features interviews with Adele, Tom Cruise, and Serena Williams. Adele talks about her career and personal life. Tom Cruise discusses his upcoming movies and experiences in the industry. Serena Williams shares her inspirations and future plans."
+    },
+    "category": {
+        "id": 6,
+        "title": "Celebrities"
+    },
+    "people": [
+        {
+            "id": 2345,
+            "nickName": "Adele",
+            "name": "Adele Adkins",
+            "dateOfBirth": "May 5, 1988"
+        },
+        {
+            "id": 1258,
+            "nickName": "Tom",
+            "name": "Tom Cruise",
+            "dateOfBirth": "July 3, 1962"
+        },
+        {
+            "id": 7896,
+            "nickName": "Serena",
+            "name": "Serena Williams",
+            "dateOfBirth": "September 26, 1981"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

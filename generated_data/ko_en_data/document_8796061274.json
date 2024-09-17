@@ -1,0 +1,54 @@
+{
+    "id": "8796061274",
+    "md5": "bfe54ba7cb0a45b6e94c4b45a91e699d",
+    "extension": "pdf",
+    "size": 324567,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "French_Cuisine_MasterClass.pdf",
+    "desc": "Learn the secrets of French culinary arts from a master chef.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:30",
+                "content": "Welcome to this exclusive masterclass on French cuisine. In the next hour, we'll explore the fundamental techniques that make French cooking unique.",
+                "speaker": "Chef Fran\u00e7ois"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:31",
+                "end_time": "00:01:00",
+                "content": "First, we'll discuss the importance of using fresh herbs and seasonal ingredients to enhance the flavors of classic French dishes.",
+                "speaker": "Chef Fran\u00e7ois"
+            },
+            {
+                "order": 3,
+                "start_time": "00:01:01",
+                "end_time": "00:01:30",
+                "content": "Now, let's dive into the art of making a perfect cr\u00eape, a quintessential French dish.",
+                "speaker": "Chef Fran\u00e7ois"
+            }
+        ],
+        "id": 987654321
+    },
+    "category": {
+        "id": 12,
+        "title": "Culinary Arts"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Chef Fran\u00e7ois",
+            "name": "Fran\u00e7ois Dupont",
+            "dateOfBirth": "1972-03-01"
+        }
+    ],
+    "textData": "Welcome to this exclusive masterclass on French cuisine. In the next hour, we'll explore the fundamental techniques that make French cooking unique. First, we'll discuss the importance of using fresh herbs and seasonal ingredients to enhance the flavors of classic French dishes. Now, let's dive into the art of making a perfect cr\u00eape, a quintessential French dish. The batter must be smooth and consistent. Heat a lightly oiled griddle or frying pan over medium heat. Pour in enough batter to thinly coat the surface. Cook the cr\u00eape for about 2 minutes, until the edges start to lift and the top begins to dry. Carefully flip the cr\u00eape and cook the other side for another minute. Serve the cr\u00eape hot with your choice of savory fillings or sweet toppings. Enjoy the journey into the world of French culinary arts!",
+    "organizations": []
+}

@@ -1,0 +1,61 @@
+{
+    "id": "7583134051",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 31636925,
+    "height": 720,
+    "width": 1280,
+    "duration": 159.179,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "football_match_highlights_2023.mp4",
+    "desc": "Highlights of the thrilling football match between Barcelona and Real Madrid.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:05:30",
+                "content": "An opening montage showcases the vibrant atmosphere of the Camp Nou stadium. Fans display flags and banners, cheering and singing in unison for their beloved teams: Barcelona and Real Madrid. The camera moves from the fans to the players warming up on the pitch, exchanging greetings and preparing mentally for the upcoming clash. The commentator delves into the history and significance of this annual rivalry.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:05:30",
+                "end_time": "00:10:15",
+                "content": "The match begins with an intense build-up as both teams aim to secure an early advantage. Barcelona's Lionel Messi and Real Madrid's Cristiano Ronaldo are closely watched by fans and pundits alike, their every move meticulously analyzed. The first half an hour of the game is characterized by end-to-end action, with some impressive passes and shots from both sides.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:10:15",
+                "end_time": "00:15:00",
+                "content": "The momentum swings in favor of Barcelona when their midfielder, Xavi, manages to score a beautiful goal from a free kick. The crowd goes wild as Barcelona takes a 1-0 lead. Real Madrid responds with renewed determination and presses forward, attempting to equalize.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:15:00",
+                "end_time": "00:19:30",
+                "content": "The second half kicks off, and both teams continue to battle it out. Barcelona maintains their lead, but Real Madrid keeps pushing for an equalizer. The match reaches a pivotal moment when Barcelona's goalkeeper saves a penalty kick, keeping their team in the lead. The tension on the field is palpable as Real Madrid struggles to break through Barcelona's defense.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:19:30",
+                "end_time": "00:25:00",
+                "content": "In the last few minutes of the game, Real Madrid mounts a desperate attack, throwing men forward in an attempt to score the equalizer. Barcelona holds on, and the final whistle blows, securing a 1-0 victory for the home team. Fans and pundits alike react to the thrilling match, highlighting the skill and determination of both teams.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A detailed account of the 2023 football match between Barcelona and Real Madrid, showcasing the vibrant atmosphere, intense play, and key moments leading to Barcelona's 1-0 victory."
+    },
+    "category": {
+        "id": 123456,
+        "title": "Sports > Football > Highlights"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

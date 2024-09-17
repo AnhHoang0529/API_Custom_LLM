@@ -1,0 +1,45 @@
+{
+    "id": "9270069981",
+    "md5": "7ec254a0137ecfc2ddd453ab827556b3",
+    "extension": "jpeg",
+    "size": 32722,
+    "height": 1536,
+    "width": 2048,
+    "duration": 0,
+    "density": 0,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "image_of_political_rally.jpeg",
+    "desc": "A large crowd gathered for a political rally. Speakers addressing the crowd, holding flags and campaign posters. People listening attentively to the speeches.",
+    "narrationStt": "",
+    "category": {
+        "id": 1234,
+        "title": "Political Events"
+    },
+    "people": [
+        {
+            "id": 5678,
+            "nickName": "JohnDoe",
+            "name": "John Doe",
+            "dateOfBirth": "1980-01-01"
+        },
+        {
+            "id": 91011,
+            "nickName": "JaneDoe",
+            "name": "Jane Doe",
+            "dateOfBirth": "1978-12-15"
+        }
+    ],
+    "organizations": [
+        {
+            "id": 456,
+            "name": "Democratic Party",
+            "otherName": "Democratic National Committee"
+        },
+        {
+            "id": 123,
+            "name": "Republican Party",
+            "otherName": "Republican National Committee"
+        }
+    ]
+}

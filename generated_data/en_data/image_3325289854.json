@@ -1,0 +1,46 @@
+{
+    "id": "3325289854",
+    "md5": "c8e1f7164dba96e95b7e6009ccf28c5d",
+    "extension": "jpeg",
+    "size": 157988,
+    "height": 1080,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "protest_01.jpeg",
+    "desc": "Protestors gather at city hall to demand the resignation of the mayor following a corruption scandal.",
+    "narrationStt": "",
+    "category": {
+        "id": 12,
+        "title": "Political_Events"
+    },
+    "people": [
+        {
+            "id": 637,
+            "nickName": "Speaker1",
+            "name": "John Smith",
+            "dateOfBirth": "1982-01-01"
+        },
+        {
+            "id": 751,
+            "nickName": "Protester1",
+            "name": "Emily Johnson",
+            "dateOfBirth": "1995-05-17"
+        },
+        {
+            "id": 823,
+            "nickName": "Protester2",
+            "name": "William Brown",
+            "dateOfBirth": "1978-07-03"
+        }
+    ],
+    "organizations": [
+        {
+            "id": 643,
+            "name": "Citizens for Accountability",
+            "otherName": "CFA"
+        }
+    ]
+}

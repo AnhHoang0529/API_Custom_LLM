@@ -1,0 +1,61 @@
+{
+    "id": "5845919630",
+    "md5": "e874a9cee27b032ee5e45d45652a72d5",
+    "extension": "mp3",
+    "size": 7153837,
+    "height": "",
+    "width": "",
+    "duration": 357.2,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "gourmet_dishes_culinary_arts.mp3",
+    "desc": "Exploring the art of gourmet dishes and culinary masterpieces, featuring intricate techniques and exotic ingredients.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:15",
+                "content": "Welcome to our culinary journey, where we delve into the fascinating and complex world of gourmet dishes and the culinary arts.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:04:45",
+                "content": "The culinary arts can trace their origins back to ancient civilizations, with each region bringing its unique flavors and techniques to the table.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:45",
+                "end_time": "00:07:30",
+                "content": "Let's begin our exploration with French cuisine, renowned for its refined and elegant dishes, such as coq au vin and bouillabaisse.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:07:30",
+                "end_time": "00:11:00",
+                "content": "In Italian cuisine, we find a focus on simple, delicious flavors, like pasta, risotto, and the famous pesto. The art of fine Italian dining is a true celebration of the senses.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:00",
+                "end_time": "00:13:45",
+                "content": "As we venture further, we touch upon Japanese cuisine, which is centered around harmony, balance, and presentation. Sushi and sashimi are just a few examples of Japanese culinary masterpieces.",
+                "speaker": "Narrator"
+            }
+        ],
+        "sttSummary": "Join us as we explore the rich and diverse world of gourmet dishes and culinary arts, from French coq au vin and bouillabaisse to Italian pasta and risotto, and finally, the intricate harmony of Japanese sushi and sashimi."
+    },
+    "category": {
+        "id": 56,
+        "title": "Cooking & Food"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

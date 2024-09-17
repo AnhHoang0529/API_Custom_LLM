@@ -1,0 +1,80 @@
+{
+    "id": "1173611499",
+    "md5": "80c6c5e2c2e58507a7a87236ea3c1d4e",
+    "extension": "mp3",
+    "size": 2097152,
+    "height": "",
+    "width": "",
+    "duration": 180.0,
+    "density": 16000,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "interstellar-scene1.mp3",
+    "desc": "Scene from Interstellar movie featuring Cooper, Murph, and TARS discussing the strange occurrences at NASA.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:35",
+                "end_time": "00:01:40",
+                "content": "Interstellar is a 2014 science fiction movie.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:41",
+                "end_time": "00:03:15",
+                "content": "The main characters, Cooper and Murph, work at NASA. They discover strange occurrences.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:16",
+                "end_time": "00:05:10",
+                "content": "Cooper and Murph interact with TARS, a robot, to investigate the mysterious event.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:11",
+                "end_time": "00:07:20",
+                "content": "They find a strange artifact, which turns out to be a black hole.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:21",
+                "end_time": "00:09:00",
+                "content": "Together, they decide to explore this anomaly.",
+                "speaker": "Cooper"
+            }
+        ],
+        "sttSummary": "Interstellar movie scene with Cooper, Murph, and TARS discussing strange occurrences at NASA and discovering a mysterious artifact which turns out to be a black hole. They decide to explore this anomaly."
+    },
+    "category": {
+        "id": 23,
+        "title": "Science Fiction"
+    },
+    "people": [
+        {
+            "id": 56,
+            "nickName": "Cooper",
+            "name": "Cooper",
+            "dateOfBirth": "1966-07-28"
+        },
+        {
+            "id": 78,
+            "nickName": "Murph",
+            "name": "Murph",
+            "dateOfBirth": "1980-02-15"
+        },
+        {
+            "id": 90,
+            "nickName": "TARS",
+            "name": "TARS",
+            "dateOfBirth": "2012-09-17"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

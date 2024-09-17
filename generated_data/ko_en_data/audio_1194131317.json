@@ -1,0 +1,64 @@
+{
+    "id": "1194131317",
+    "md5": "0x5dcc43b5bf9d3b13254d924659cb7b9e91b2923",
+    "extension": "mp3",
+    "size": 9894567,
+    "height": "",
+    "width": "",
+    "duration": 192.1,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "diwali_celebrations.mp3",
+    "desc": "This audio file describes the traditions and significance of Diwali, a major Hindu festival celebrated in India and Nepal.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:10",
+                "end_time": "00:01:45",
+                "content": "Diwali, also referred to as the festival of lights, is a significant religious and cultural event celebrated by millions of Hindus, Jains, and Sikhs across the world.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:10",
+                "content": "The festival is celebrated every year in autumn, usually falling between October and November in the Gregorian calendar.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:10",
+                "end_time": "00:06:30",
+                "content": "The origins of Diwali are deeply rooted in various mythological stories. According to the Hindu mythology, Diwali marks the return of Lord Rama from a 14-year exile and his victory over the demon king Ravana.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:30",
+                "end_time": "00:08:25",
+                "content": "The festival is celebrated by decorating houses, lighting diyas (oil lamps) and candles, bursting firecrackers, and preparing special delicacies like puran poli and chakli.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:25",
+                "end_time": "00:09:20",
+                "content": "Diwali also symbolizes the victory of light over darkness, good over evil, and knowledge over ignorance. It is a time for renewal, forgiveness, and unity among family and friends.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Diwali, a major Hindu festival, celebrates the return of Lord Rama from exile and marks the victory of light over darkness."
+    },
+    "category": {
+        "id": 3,
+        "title": "Religion & Culture"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 15678
+    }
+}

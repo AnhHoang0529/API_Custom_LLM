@@ -1,0 +1,54 @@
+{
+    "id": "5694868839",
+    "md5": "2525c8d46c25a16e38d156a418d6368e",
+    "extension": "pdf",
+    "size": 247623,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "wildlife_documentary.pdf",
+    "desc": "An engaging wildlife documentary exploring various animals in their natural habitats.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:15",
+                "content": "Welcome to the thrilling world of wild animals, where nature takes the lead.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:15",
+                "end_time": "00:00:30",
+                "content": "In this episode, we delve into the lives of the majestic African elephant.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:00:45",
+                "content": "The African savanna is home to these gentle giants.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:45",
+                "end_time": "00:00:57",
+                "content": "Follow us as we observe them in their day-to-day activities.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 221344
+    },
+    "category": {
+        "id": 3,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "textData": "The African elephant, the largest living terrestrial animal, is a true majesty of nature. Widely known for their size and gentle demeanor, they are the largest of the big five, an iconic group of African animals that includes the lion, African leopard, Cape buffalo, and African rhino. The African savanna plays host to these gentle giants, providing them with an extensive territory to live, socialize, and thrive. In this wildlife documentary, we follow a team of researchers and documentarians as they observe and document the daily activities of these magnificent creatures. From feeding and bathing to communicating and playing, we gain a unique insight into the life of the African elephant. Join us as we delve deeper into the world of these gentle giants and witness the true beauty of nature.",
+    "organizations": []
+}

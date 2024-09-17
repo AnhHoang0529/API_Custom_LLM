@@ -1,0 +1,61 @@
+{
+    "id": "3638513798",
+    "md5": "a65db822b285677852a221a8c6a50a12",
+    "extension": "mp3",
+    "size": 15221516,
+    "height": "",
+    "width": "",
+    "duration": 335.9,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Diwali_Celebrations_in_India.mp3",
+    "desc": "This audio file describes the traditional Diwali celebrations in India, including the significance, preparations, rituals, and customs of the festival.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:18",
+                "end_time": "00:01:42",
+                "content": "Diwali, also known as the festival of lights, is a significant Hindu, Sikh, and Jain celebration. In 2022, it falls on October 24.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:42",
+                "end_time": "00:05:15",
+                "content": "Preparations for Diwali start weeks in advance, with cleaning, decorating homes, and shopping for new clothes and gifts. The cleaning symbolizes the inner cleansing of the soul. Diwali is celebrated over five days, each day representing a unique significance.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:15",
+                "end_time": "00:08:19",
+                "content": "The third day, known as Diwali or Lakshmi Puja, is the primary day of the festival. Families gather to worship the goddess of wealth, Lakshmi, using oil lamps, sweets, and prayers. This day is believed to bring prosperity and good fortune.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:08:19",
+                "end_time": "00:11:42",
+                "content": "Besides Lakshmi, other gods and goddesses like Ganesha, Kubera, and Saraswati are also worshipped on different days of Diwali. Ganesha Chaturthi, celebrated on the fourth day, is dedicated to Lord Ganesha. The final day, known as Bhai Duj, is a day for siblings to express love and affection for each other.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:11:42",
+                "end_time": "00:14:56",
+                "content": "Food plays a crucial role in Diwali celebrations. Traditional dishes like puri, chaat, samosa, and sweets like jalebi and gulab jamun are prepared and shared among family and friends.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Diwali, a festival of lights, is celebrated over five days starting from October 24 in 2022. Preparations include cleaning, decorating homes, shopping, and worshipping gods and goddesses. Worshipping Lakshmi on the primary day brings prosperity and good fortune. Food is an essential component of the celebrations, with traditional dishes being shared with family and friends."
+    },
+    "category": {
+        "id": 1234,
+        "title": "Festivals"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

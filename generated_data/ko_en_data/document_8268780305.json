@@ -1,0 +1,47 @@
+{
+    "id": "8268780305",
+    "md5": "4f7c04a39d135f186e89e6b34205b1a7",
+    "extension": "pdf",
+    "size": 98339,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "Delicious_Lamb_Biryani.pdf",
+    "desc": "A recipe for making a mouthwatering Lamb Biryani, a popular Indian dish.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "Welcome to this episode of Cooking with Chef, where we will learn to make a delicious",
+                "speaker": "Chef"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:30",
+                "content": "traditional Indian dish, Lamb Biryani.",
+                "speaker": "Chef"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:30",
+                "end_time": "00:00:45",
+                "content": "For this recipe, you will need the following ingredients...",
+                "speaker": "Chef"
+            }
+        ],
+        "id": 53215
+    },
+    "category": {
+        "id": 11,
+        "title": "Cooking"
+    },
+    "people": [],
+    "textData": "Welcome to this episode of Cooking with Chef, where we will learn to make a delicious traditional Indian dish, Lamb Biryani. For this recipe, you will need the following ingredients: 1 kg Lamb, 2 cups Basmati Rice, 1 cup Yogurt, 1 cup Raisins, 1 cup Cashews, 1 cup Blanched Almonds, 2 cups Ghee, 4 cups Water, 1 tbsp Turmeric, 2 tbsp Garam Masala, 1 tbsp Red Chili Powder, 1 tbsp Cumin Powder, 1 tbsp Coriander Powder, 1 tbsp Cardamom Powder, 1 tbsp Cloves Powder, 1 tbsp Cinnamon Powder, Salt to taste, 4 Onions, 10 Garlic cloves, 10 Ginger slices, 2 cups Mint, Coriander and Curry leaves, 4 tbsp Ghee, 2 tbsp Red Chili Flakes, 2 tbsp Saffron Strands, 1 tsp Saffron Milk, 1 cup Milk, 1 tbsp Rosewater, 1 tbsp Kewra Water. Let's get started! First, wash and soak the Basmati Rice for 30 minutes. Heat 2 tbsp Ghee in a large pot and add the lamb, cook until browned on all sides. Remove the lamb from the pot and set aside. In the same pot, heat 1 tbsp Ghee and add the sliced onions, garlic and ginger. Cook until they turn golden brown. Add the turmeric, garam masala, red chili powder, cumin powder, coriander powder, cardamom powder, cloves powder, cinnamon powder, and salt. Stir well and add the cooked lamb back into the pot. Add 4 cups of water and bring to a boil. Once the water has come to a boil, add the rice and stir gently. Reduce the heat to low, cover the pot, and let it simmer for 20 minutes. While the rice is cooking, prepare the raita by mixing yogurt, raisins, cashews, blanched almonds, salt, and mint, coriander, and curry leaves. Heat 1 tbsp Ghee in a pan and add the red chili flakes. Fry until they turn dark red. Add the saffron strands and cook for a minute. Add the milk and bring to a boil. Add the saffron milk and rosewater, and let it simmer for 5 minutes. Once the rice is cooked, fluff it up with a fork. To serve, place a layer of rice, followed by a layer of raita, and then a layer of the lamb biryani. Garnish with fried onions and enjoy!",
+    "organizations": []
+}

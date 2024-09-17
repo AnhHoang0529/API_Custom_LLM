@@ -1,0 +1,64 @@
+{
+    "id": "5285649773",
+    "md5": "09ccc5de3b7a8d17278a271d152b111a",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "Lions_Roaring_in_the_Wild.mp4",
+    "desc": "This video captures the raw power and majesty of lions as they roar in their natural habitat. Watch as these magnificent creatures showcase their dominance and assert their place in the wild.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:50",
+                "end_time": "00:02:20",
+                "content": "Lions are the largest of the big cats, with an average mass of 190 kilograms or 420 pounds. They are also the only social cats, living in prides consisting of multiple females and males.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:25",
+                "end_time": "00:04:15",
+                "content": "In the wild, lions hunt in prides, using their teamwork and coordination to bring down large prey such as buffalo and wildebeest. Their powerful jaws and sharp teeth enable them to tear apart their prey, which they then share within the pride.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:20",
+                "end_time": "00:06:10",
+                "content": "Lionesses are primarily responsible for the care and rearing of their cubs, while the males protect and provide for the pride. Cubs are born blind and helpless, relying on their mother's milk for nourishment and warmth. They develop quickly and can start hunting around 6 months of age.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:08:00",
+                "content": "Lions mark their territory using urine and feces. They also make vocalizations, such as roars and grunts, to communicate with other lions in their pride and ward off potential threats. This video provides a unique perspective into the lives of these incredible animals, showcasing their strength and beauty in their natural habitat.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:05",
+                "end_time": "00:10:00",
+                "content": "Conservation efforts are ongoing to protect lion populations, which have declined significantly due to habitat loss, poaching, and human-wildlife conflict. By raising awareness and supporting organizations dedicated to the preservation of lions, we can help ensure their survival and continued presence in the wild.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases the power, beauty, and behavior of lions in their natural habitat, from their social structure and hunting techniques to their communication and care of their cubs. It also highlights the importance of conservation efforts to protect these magnificent animals."
+    },
+    "category": {
+        "id": 2,
+        "title": "Wild"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 54321
+    }
+}

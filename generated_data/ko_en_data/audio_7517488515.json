@@ -1,0 +1,77 @@
+{
+    "id": "7517488515",
+    "md5": "abcdef1234567890abcdef1234567890",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 270.3,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "football_match_2023_final.mp3",
+    "desc": "A live commentary of the 2023 football final match between Barcelona and Madrid.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:30",
+                "end_time": "00:04:15",
+                "content": "The crowd is going wild as the football match between Barcelona and Madrid enters the final minutes. Barcelona is currently leading 2-1.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 2,
+                "start_time": "00:07:20",
+                "end_time": "00:10:00",
+                "content": "The tension in the stadium is palpable as both teams strategize to clinch the victory. A beautiful pass from Barcelona's Messi creates an opportunity for Neymar to score.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 3,
+                "start_time": "00:13:15",
+                "end_time": "00:16:30",
+                "content": "The referee makes a controversial call, awarding a penalty to Barcelona. Messi steps up to take the shot.",
+                "speaker": "Commentator 2"
+            },
+            {
+                "order": 4,
+                "start_time": "00:17:00",
+                "end_time": "00:20:00",
+                "content": "Madrid's goalkeeper puts up a valiant effort to save the penalty, but Messi's precision lands the ball in the net. Barcelona now leads 3-1.",
+                "speaker": "Commentator 1"
+            },
+            {
+                "order": 5,
+                "start_time": "00:20:15",
+                "end_time": "00:23:45",
+                "content": "As the clock ticks down, Madrid attempts to mount a comeback. Their efforts are in vain as Barcelona clenches the victory.",
+                "speaker": "Commentator 1"
+            }
+        ],
+        "sttSummary": "The final minutes of the Barcelona vs Madrid football match are filled with intense action and strategy. Barcelona maintains their lead and ultimately secures the victory."
+    },
+    "category": {
+        "id": 2,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "Commentator 1",
+            "name": "John Doe",
+            "dateOfBirth": "1980-01-15"
+        },
+        {
+            "id": 2,
+            "nickName": "Commentator 2",
+            "name": "Jane Doe",
+            "dateOfBirth": "1985-05-08"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": ""
+    }
+}

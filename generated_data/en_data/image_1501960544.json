@@ -1,0 +1,45 @@
+{
+    "id": "1501960544",
+    "md5": "5c1af1ea9e2ea026eb62385d9b7e281e",
+    "extension": "jpeg",
+    "size": 96486,
+    "height": 1200,
+    "width": 1600,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "protest_marc2023.jpeg",
+    "desc": "Anti-government protest in Prague on March 2023",
+    "narrationStt": "",
+    "category": {
+        "id": 5,
+        "title": "Political events"
+    },
+    "people": [
+        {
+            "id": 2315,
+            "nickName": "Petr",
+            "name": "Petr Cech",
+            "dateOfBirth": "3/3/1982"
+        },
+        {
+            "id": 2287,
+            "nickName": "Martin",
+            "name": "Martin Klima",
+            "dateOfBirth": "12/15/1978"
+        }
+    ],
+    "organizations": [
+        {
+            "id": 8,
+            "name": "Greenpeace",
+            "otherName": ""
+        },
+        {
+            "id": 14,
+            "name": "Amnesty International",
+            "otherName": ""
+        }
+    ]
+}

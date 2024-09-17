@@ -1,0 +1,73 @@
+{
+    "id": "4149914610",
+    "md5": "366d3d2d28e361d398396f98c3b231d4",
+    "extension": "jpeg",
+    "size": 34218,
+    "height": 2176,
+    "width": 3264,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "sc_1.jpg (\ud30c\uc77c)",
+    "desc": "\ube0c\ub798\ub4dc \ud53c\ud2b8\uc640 \ubaa8\uac74 \ud504\ub9ac\uba3c\uc774 \uc8fc\uc5f0\ud55c 1994\ub144 \ubbf8\uad6d \ubc94\uc8c4 \uc601\ud654 '\uc138\ube10'\uc758 \ud55c \uc7a5\uba74.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:04",
+                "end_time": "00:00:08",
+                "content": "\uc601\ud654 '\uc138\ube10'\uc758 \uc624\ud504\ub2dd \uc7a5\uba74\uc740 \uc5b4\ub461\uace0 \ud63c\ub780\uc2a4\ub7ec\uc6b4 \ub3c4\uc2dc \ud48d\uacbd\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:08",
+                "end_time": "00:00:15",
+                "content": "\ube0c\ub798\ub4dc \ud53c\ud2b8\uac00 \uc5f0\uae30\ud55c \ubc00\uc2a4 \ud615\uc0ac\uac00 \ub054\ucc0d\ud55c \uc0b4\uc778 \ud604\uc7a5\uc744 \uc870\uc0ac\ud569\ub2c8\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:15",
+                "end_time": "00:00:23",
+                "content": "\ubaa8\uac74 \ud504\ub9ac\uba3c\uc774 \uc5f0\uae30\ud55c \uc11c\uba38\uc2ef \ud615\uc0ac\uac00 \ubc00\uc2a4\ub97c \ub3d5\uae30 \uc704\ud574 \ub3c4\ucc29\ud569\ub2c8\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:23",
+                "end_time": "00:00:36",
+                "content": "\ub450 \ud615\uc0ac\ub294 \uc0ac\uac74\uc5d0 \ub300\ud574 \ub17c\uc758\ud558\uba70 \uc11c\ub85c\uc758 \uc5ed\ud559 \uad00\uacc4\ub97c \ud655\ub9bd\ud569\ub2c8\ub2e4.",
+                "speaker": "\ubc00\uc2a4 \ud615\uc0ac\uc640 \uc11c\uba38\uc14b \ud615\uc0ac"
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:36",
+                "end_time": "00:01:00",
+                "content": "\uc7a5\uba74\uc740 \ub610 \ub2e4\ub978 \ubc94\uc8c4 \ud604\uc7a5\uc744 \uc218\uc0ac\ud558\ub294 \uac83\uc73c\ub85c \uc804\ud658\ub418\uba70 \uae34\uc7a5\uac10\uc740 \ub354\uc6b1 \uace0\uc870\ub429\ub2c8\ub2e4.",
+                "speaker": "\ub0b4\ub808\uc774\ud130"
+            }
+        ],
+        "id": 62038364
+    },
+    "category": {
+        "id": 62203,
+        "title": "\uc601\ud654 \uc0b0\uc5c5"
+    },
+    "people": [
+        {
+            "id": 28544,
+            "nickName": "\ube0c\ub798\ub4dc",
+            "name": "\ube0c\ub798\ub4dc \ud53c\ud2b8",
+            "dateOfBirth": "1963\ub144 12\uc6d4 18\uc77c"
+        },
+        {
+            "id": 34792,
+            "nickName": "\ubaa8\uac74",
+            "name": "\ubaa8\uac74 \ud504\ub9ac\uba3c",
+            "dateOfBirth": "1937\ub144 6\uc6d4 1\uc77c"
+        }
+    ],
+    "organizations": []
+}

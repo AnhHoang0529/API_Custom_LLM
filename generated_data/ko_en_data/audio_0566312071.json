@@ -1,0 +1,64 @@
+{
+    "id": "0566312071",
+    "md5": "9c1ba7b9c0e70e980eba3e1f1e987a9e",
+    "extension": "mp3",
+    "size": 7619701,
+    "height": "",
+    "width": "",
+    "duration": 240.1,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "GrandCanyon.mp3",
+    "desc": "Explore the breathtaking landscape of the Grand Canyon as you listen to the calming sounds of nature.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:40",
+                "end_time": "00:01:10",
+                "content": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in the state of Arizona.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:20",
+                "end_time": "00:02:10",
+                "content": "The canyon is over 277 miles long, up to 18 miles wide, and over a mile deep.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:20",
+                "end_time": "00:03:10",
+                "content": "The Grand Canyon has become a major tourist attraction and is a National Park.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:20",
+                "end_time": "00:04:30",
+                "content": "Some parts of the canyon are considered sacred in various Native American cultures and are preserved as such.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:35",
+                "end_time": "00:05:30",
+                "content": "The Grand Canyon is a unique and majestic landscape that offers visitors an unforgettable experience.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, over 277 miles long, up to 18 miles wide, and over a mile deep. It is a major tourist attraction and a National Park. Some parts of the canyon are considered sacred in various Native American cultures and are preserved as such. The Grand Canyon offers visitors an unforgettable experience."
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature Sounds"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 99927
+    }
+}

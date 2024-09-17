@@ -1,0 +1,64 @@
+{
+    "id": "2954101144",
+    "md5": "123e4567e89b0d1a2b4679561ca8f23e",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 240.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp3",
+    "desc": "Exploring the beauty of Earth's various landscapes, from mountains and valleys to oceans and deserts.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:45",
+                "content": "Begin our journey through the diverse landscapes of our planet, starting with the majestic mountains.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:15",
+                "content": "Mountains are formed through a combination of tectonic activity and erosion. They provide important habitats for a variety of plant and animal species.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:05:00",
+                "content": "Majestic mountain ranges can be found all around the world, including the Himalayas, the Andes, and the Rocky Mountains.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:06:30",
+                "content": "Next, let's explore the vast and mysterious depths of the oceans.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Oceans cover more than 70% of the Earth's surface and are home to an incredible array of life forms.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Join us as we explore the diverse landscapes of our planet, starting with the majestic mountains and finishing with the vast oceans."
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 94585
+    }
+}

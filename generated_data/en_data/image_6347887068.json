@@ -1,0 +1,39 @@
+{
+    "id": "6347887068",
+    "md5": "98f3e2b7b1442a8a612d5d69e6708244",
+    "extension": "jpeg",
+    "size": 40960,
+    "height": 1200,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "political_protest.jpeg",
+    "desc": "A crowd of protestors marching down the streets carrying banners and chanting slogans during a political protest in the city center.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:05",
+                "end_time": "00:00:15",
+                "content": "Protestors gather at city center",
+                "speaker": "Jim"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:25",
+                "end_time": "00:00:35",
+                "content": "Slogans chanted, banners held high",
+                "speaker": "Ann"
+            }
+        ],
+        "id": 982701
+    },
+    "category": {
+        "id": 439,
+        "title": "Politics"
+    },
+    "people": [],
+    "organizations": []
+}

@@ -1,0 +1,34 @@
+{
+    "id": "0799641040",
+    "md5": "7a84c13e8a04127e71d472f11b3e1389",
+    "extension": "jpeg",
+    "size": 71258,
+    "height": 828,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "20230317_153054_IMG_8439.jpeg",
+    "desc": "People playing football in a stadium during a sports event",
+    "narrationStt": "",
+    "category": {
+        "id": 13,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 345,
+            "nickName": "JohnDoe",
+            "name": "John Doe",
+            "dateOfBirth": "1992-03-12"
+        },
+        {
+            "id": 256,
+            "nickName": "JaneDoe",
+            "name": "Jane Doe",
+            "dateOfBirth": "1993-06-23"
+        }
+    ],
+    "organizations": []
+}

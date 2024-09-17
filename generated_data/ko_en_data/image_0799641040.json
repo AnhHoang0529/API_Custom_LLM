@@ -1,0 +1,34 @@
+{
+    "id": "0799641040",
+    "md5": "7a84c13e8a04127e71d472f11b3e1389",
+    "extension": "jpeg",
+    "size": 71258,
+    "height": 828,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "20230317_153054_IMG_8439.jpeg",
+    "desc": "\uc2a4\ud3ec\uce20 \uacbd\uae30 \uc911 \uacbd\uae30\uc7a5\uc5d0\uc11c \ucd95\uad6c\ub97c \ud558\ub294 \uc0ac\ub78c\ub4e4",
+    "narrationStt": "",
+    "category": {
+        "id": 13,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [
+        {
+            "id": 345,
+            "nickName": "\uc874\ub3c4",
+            "name": "\uc874 \ub3c4",
+            "dateOfBirth": "1992-03-12"
+        },
+        {
+            "id": 256,
+            "nickName": "\uc81c\uc778\ub3c4",
+            "name": "\uc81c\uc778 \ub3c4",
+            "dateOfBirth": "1993-06-23"
+        }
+    ],
+    "organizations": []
+}

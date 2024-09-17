@@ -1,0 +1,61 @@
+{
+    "id": "7086208079",
+    "md5": "4f32b8c6852b9f0e30a90e0b4c1aa4a7",
+    "extension": ".mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 150.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "urban_cityscapes.mp4",
+    "desc": "This is a video showcasing various urban cityscapes around the world.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The video opens with a panoramic view of the bustling streets of Tokyo, Japan.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:04:30",
+                "content": "Next, we travel to New York City, where we see the iconic skyline and Times Square.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:30",
+                "end_time": "00:06:45",
+                "content": "In Paris, we explore the Seine River, the Eiffel Tower, and Montmartre.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:45",
+                "end_time": "00:09:00",
+                "content": "Our journey takes us to Shanghai, where we witness the impressive skyline and the Bund.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:09:00",
+                "end_time": "00:15:00",
+                "content": "Finally, we explore the vibrant cityscape of Rio de Janeiro, highlighting the Christ the Redeemer statue and Copacabana Beach.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "In this video, we travel around the world, discovering various urban cityscapes, including Tokyo, New York City, Paris, Shanghai, and Rio de Janeiro."
+    },
+    "category": {
+        "id": 56,
+        "title": "Urban Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

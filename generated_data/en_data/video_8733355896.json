@@ -1,0 +1,64 @@
+{
+    "id": "8733355896",
+    "md5": "9a7e4f3f-517a-4773-b463-61e9e45a5b2d",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 235.6,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "majestic_landscapes.mp4",
+    "desc": "In this captivating video, we delve into the heart of nature, exploring some of the most breathtaking landscapes the world has to offer. From the awe-inspiring beauty of the Aurora Borealis to the vast expanse of the Sahara Desert, prepare to be transported to a world of wonder and awe.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:02:00",
+                "content": "The video opens with the majestic beauty of the Aurora Borealis dancing in the night sky.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:00",
+                "end_time": "00:03:30",
+                "content": "The camera pans over the icy landscape, with snow-covered trees and frozen lakes gleaming in the moonlight.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:30",
+                "end_time": "00:05:00",
+                "content": "We then journey to the vast expanse of the Sahara Desert, where the sun beats down on the golden sand, and camels roam freely.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:00",
+                "end_time": "00:06:30",
+                "content": "Next, we visit the vibrant streets of Marrakech, Morocco, where merchants sell their wares and the aroma of spices fills the air.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:30",
+                "end_time": "00:08:00",
+                "content": "Finally, we end our journey at the foot of the majestic Mount Kilimanjaro, where the sun sets over the savannah, signaling the end of our adventure.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "In this video, we explore the breathtaking landscapes of the Aurora Borealis, snowy forests, the Sahara Desert, Marrakech, and the foot of Mount Kilimanjaro."
+    },
+    "category": {
+        "id": 12,
+        "title": "Nature and Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 123456
+    }
+}

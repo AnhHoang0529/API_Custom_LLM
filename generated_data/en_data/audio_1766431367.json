@@ -1,0 +1,61 @@
+{
+    "id": "1766431367",
+    "md5": "0a24b1c4b312db2b8c8234e2123123",
+    "extension": "mp3",
+    "size": 12582960,
+    "height": "",
+    "width": "",
+    "duration": 215.6,
+    "density": "",
+    "channels": 1,
+    "displayRotate": "",
+    "originalName": "Study_with_Music.mp3",
+    "desc": "A motivational audio file about studying and working, featuring background music to help focus and increase productivity.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "Effective studying involves focusing on the material, retaining information, and practicing regularly.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:45",
+                "end_time": "00:03:00",
+                "content": "Implementing a study routine, setting clear goals, and finding an ideal study environment can significantly improve learning.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:15",
+                "end_time": "00:04:30",
+                "content": "Breaks are essential to avoid burnout and maintain focus. Try the Pomodoro Technique, where you study for 25 minutes, take a 5-minute break, and repeat.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:45",
+                "end_time": "00:06:00",
+                "content": "Staying hydrated and eating nutritious meals can boost cognitive function and energy levels.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:15",
+                "end_time": "00:07:45",
+                "content": "Effective time management involves prioritizing tasks, setting deadlines, and minimizing distractions. Use a planner or calendar app to plan your day.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This audio discusses various strategies for effective studying and working, including focusing on material, setting goals, taking breaks, staying hydrated, and managing time."
+    },
+    "category": {
+        "id": 4,
+        "title": "Education"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

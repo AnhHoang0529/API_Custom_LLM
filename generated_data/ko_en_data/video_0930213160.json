@@ -1,0 +1,61 @@
+{
+    "id": "0930213160",
+    "md5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "mp4",
+    "size": 15672000,
+    "height": 720,
+    "width": 1280,
+    "duration": 180.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "cityscape.mp4",
+    "desc": "Urban cityscape video capturing the hustle and bustle of a modern city.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:00",
+                "end_time": "00:04:30",
+                "content": "A bustling metropolis teems with energy, as cars whizz by and people scurry about their daily routines. Streets come alive with vibrant architecture, while the sun casts long, elongated shadows. The cityscape is a symphony of sounds, with the blaring horns of buses and the chatter of passersby.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:04:30",
+                "end_time": "00:07:00",
+                "content": "The skyline is a tapestry of towering buildings, their glass facades reflecting the sunlight. A bird's eye view reveals the labyrinthine network of streets, each one leading to a new adventure. The urban jungle comes alive with the bustling energy of city life.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:00",
+                "end_time": "00:10:30",
+                "content": "The sun begins to set, bathing the cityscape in a warm, golden glow. The colors of the buildings deepen, and the air cools as the day transitions into night. The city continues to buzz with activity, a testament to its unyielding energy.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:10:30",
+                "end_time": "00:13:30",
+                "content": "Night falls upon the city, casting long, dramatic shadows and illuminating the cityscape with a magical glow. The twinkling lights of the buildings create a mesmerizing display, while the sounds of the city take on a new rhythm.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:13:30",
+                "end_time": "00:18:00",
+                "content": "As the night deepens, the cityscape transforms into a symphony of light and sound, a testament to the endless energy and vibrancy of urban life. The video concludes with a breathtaking view of the city, a visual masterpiece that captures the essence of the urban experience.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases the beauty and energy of a modern urban cityscape, transitioning from day to night."
+    },
+    "category": {
+        "id": 657,
+        "title": "Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

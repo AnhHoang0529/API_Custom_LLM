@@ -1,0 +1,28 @@
+{
+    "id": "4144375374",
+    "md5": "e4b1268b15f8d653443c3e12d3d7205f",
+    "extension": "jpeg",
+    "size": 80626,
+    "height": 1200,
+    "width": 1920,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "study_settings.jpeg",
+    "desc": "A person sitting at a desk with a laptop and books, studying.",
+    "narrationStt": "",
+    "category": {
+        "id": 27,
+        "title": "Study"
+    },
+    "people": [
+        {
+            "id": 1974,
+            "nickName": "Student1",
+            "name": "John Doe",
+            "dateOfBirth": "1995-08-12"
+        }
+    ],
+    "organizations": []
+}

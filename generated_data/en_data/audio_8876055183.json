@@ -1,0 +1,61 @@
+{
+    "id": "8876055183",
+    "md5": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410f6e5b4888554",
+    "extension": "mp3",
+    "size": 1860821,
+    "height": "",
+    "width": "",
+    "duration": 359.4,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "urban_cityscape_soundscape.mp3",
+    "desc": "A soundscape capturing the essence and vibrancy of a bustling urban cityscape, with the blend of traffic, chatter, and ambient city sounds.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "The soundscape captures the essence and vibrancy of a bustling cityscape, with the blend of traffic, chatter, and ambient city sounds.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:02:30",
+                "content": "The traffic sounds include cars, buses, and trucks, creating a symphony of urban movement. Pedestrians can be heard conversing and laughing, adding to the lively atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:30",
+                "end_time": "00:03:30",
+                "content": "The ambient city sounds include sirens, construction sites, and public transportation announcements, offering a realistic representation of urban life.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:30",
+                "end_time": "00:04:30",
+                "content": "The city is alive with the sounds of people going about their day, from the distant chatter of groups to the close whispers between friends.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:04:30",
+                "end_time": "00:05:39.4",
+                "content": "As the sun sets, the cityscape transforms, with the sounds of the day giving way to the night, creating an entirely new atmosphere.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This soundscape of an urban cityscape is a symphony of sights and sounds, including traffic, chatter, and ambient city sounds. The traffic sounds include cars, buses, and trucks. Pedestrians are heard conversing and laughing. The ambient city sounds include sirens, construction sites, and public transportation announcements. The city is alive with the sounds of people going about their day. As the sun sets, the cityscape transforms, with the sounds of the day giving way to the night."
+    },
+    "category": {
+        "id": 12345,
+        "title": "Cityscapes"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

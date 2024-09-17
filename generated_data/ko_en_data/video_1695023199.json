@@ -1,0 +1,61 @@
+{
+    "id": "1695023199",
+    "md5": "3f89e6d6598a5e05b6f11c3b428e0194",
+    "extension": "mp4",
+    "size": 123456789,
+    "height": 720,
+    "width": 1280,
+    "duration": 300.0,
+    "density": 1,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Celebrating_Diwali.mp4",
+    "desc": "Diwali is a major Hindu and Sikh festival celebrated in India and Nepal. It is also known as the 'Festival of Lights'. Diwali signifies the victory of light over darkness, good over evil, and knowledge over ignorance. The festival is celebrated with great enthusiasm and fervor. Homes are decorated with colorful rangolis, candles, diyas, and beautiful flowers. People wear new clothes and exchange sweets and gifts. The festival is also marked by bursting of firecrackers and lighting of diyas.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:01:15",
+                "end_time": "00:02:30",
+                "content": "Diwali is a major Hindu and Sikh festival celebrated in India and Nepal.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:35",
+                "end_time": "00:03:45",
+                "content": "It is also known as the 'Festival of Lights'.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:50",
+                "end_time": "00:04:45",
+                "content": "Diwali signifies the victory of light over darkness, good over evil, and knowledge over ignorance.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:50",
+                "end_time": "00:05:45",
+                "content": "The festival is celebrated with great enthusiasm and fervor.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:50",
+                "end_time": "00:06:35",
+                "content": "Homes are decorated with colorful rangolis, candles, diyas, and beautiful flowers.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "Diwali is a major Hindu and Sikh festival celebrated in India and Nepal, also known as the 'Festival of Lights'. It signifies the victory of light over darkness, good over evil, and knowledge over ignorance. The festival is celebrated with enthusiasm and homes are decorated with rangolis, candles, diyas, and flowers."
+    },
+    "category": {
+        "id": 45,
+        "title": "Cultural_Celebrations"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

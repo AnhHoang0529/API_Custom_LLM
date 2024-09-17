@@ -1,0 +1,34 @@
+{
+    "id": "0346966200",
+    "md5": "b8b5c354727e231df0618323794a86b4",
+    "extension": "jpeg",
+    "size": 145244,
+    "height": 1024,
+    "width": 768,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "IMG_20230322_105925.jpeg",
+    "desc": "Baseball game between the New York Yankees and the Boston Red Sox",
+    "narrationStt": "",
+    "category": {
+        "id": 5,
+        "title": "Sports"
+    },
+    "people": [
+        {
+            "id": 6,
+            "nickName": "Money Mike",
+            "name": "Mike Trout",
+            "dateOfBirth": "August 7, 1990"
+        },
+        {
+            "id": 7,
+            "nickName": "A-Rod",
+            "name": "Alex Rodriguez",
+            "dateOfBirth": "July 27, 1975"
+        }
+    ],
+    "organizations": []
+}

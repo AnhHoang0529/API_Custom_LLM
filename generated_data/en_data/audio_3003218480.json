@@ -1,0 +1,61 @@
+{
+    "id": "3003218480",
+    "md5": "4b62d3f8b1b12d3b0d1ba5969e3432e5",
+    "extension": "mp3",
+    "size": 2422285,
+    "height": "",
+    "width": "",
+    "duration": 159.2,
+    "density": 1600,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "majestic_landscape.mp3",
+    "desc": "A tranquil exploration of breathtaking landscapes, accompanied by evocative music. Witness the awe-inspiring beauty of nature's grandeur in this immersive audio experience.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:03:30",
+                "content": "Amidst the tranquil silence, the first glimpse of the landscape reveals itself. The serene beauty of nature is on display, as we embark on an immersive journey.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:03:30",
+                "end_time": "00:07:30",
+                "content": "To the north, the towering mountains dominate the horizon, their snow-capped peaks glistening in the sunlight. Their majesty and grandeur leave one in awe, as nature's vastness surrounds us.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:07:30",
+                "end_time": "00:11:30",
+                "content": "The rolling hills to the east, blanketed in a vibrant palette of greens, undulate gently in the breeze, creating a calming effect on the listener. The gentle rustling of leaves and the distant sound of water add to the serene atmosphere.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:30",
+                "end_time": "00:15:45",
+                "content": "The crystal-clear lake to the south reflects the stunning scenery around it, the stillness broken only by the gentle lap of the water against the shore. The serene environment invites reflection and contemplation.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:45",
+                "end_time": "00:15:45",
+                "content": "As the journey comes to an end, the listener is left with a renewed appreciation for the beauty and tranquility of the natural world.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "A journey through the breathtaking landscapes, accompanied by a captivating soundtrack. Witness the majesty of towering mountains, the beauty of rolling hills, and the serenity of a crystal-clear lake."
+    },
+    "category": {
+        "id": 1,
+        "title": "Nature"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

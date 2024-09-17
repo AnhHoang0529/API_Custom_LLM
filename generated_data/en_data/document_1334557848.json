@@ -1,0 +1,75 @@
+{
+    "id": "1334557848",
+    "md5": "460d9e165fc61630fd62ac99f9c0f486",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "political_events_research_paper.pdf",
+    "desc": "A comprehensive research paper on notable political events during the last decade.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:07",
+                "content": "This research paper explores the most significant political events of the last decade.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:07",
+                "end_time": "00:00:28",
+                "content": "Firstly, the peaceful protests in Bangkok, Thailand, in 2010.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:28",
+                "end_time": "00:00:32",
+                "content": "Followed by the Arab Spring in 2011.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:32",
+                "end_time": "00:00:45",
+                "content": "The European debt crisis also unfolded during this period.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:00:45",
+                "end_time": "00:00:52",
+                "content": "Moreover, the rise of populist parties across Europe.",
+                "speaker": ""
+            },
+            {
+                "order": 6,
+                "start_time": "00:00:52",
+                "end_time": "00:00:58",
+                "content": "Lastly, the Brexit vote in the United Kingdom.",
+                "speaker": ""
+            },
+            {
+                "order": 7,
+                "start_time": "00:00:58",
+                "end_time": "00:01:00",
+                "content": "In conclusion, this paper offers a deep analysis of these events.",
+                "speaker": ""
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 32,
+        "title": "Politics"
+    },
+    "people": [],
+    "textData": "...[300+ word content about political events]...",
+    "organizations": []
+}

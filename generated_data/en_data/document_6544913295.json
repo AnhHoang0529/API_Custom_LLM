@@ -1,0 +1,47 @@
+{
+    "id": "6544913295",
+    "md5": "2a1b3c4d5e6f7g8h9i",
+    "extension": "pdf",
+    "size": 123456,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "study_work_research.pdf",
+    "desc": "A detailed research paper on effective study and work habits.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "Effective study habits are essential for academic success.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:20",
+                "content": "Creating a productive study environment can improve focus.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:20",
+                "end_time": "00:00:30",
+                "content": "Taking regular breaks can help maintain productivity.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 1
+    },
+    "category": {
+        "id": 1234,
+        "title": "Academic Research"
+    },
+    "people": [],
+    "textData": "Study habits are crucial for academic success. Creating a productive study environment can significantly improve focus and productivity. Taking regular breaks throughout the study session can help maintain focus and prevent burnout. It is recommended that students take a 5-10 minute break every hour of study. Effective study habits also involve proper time management and planning, as well as effective note-taking and review techniques. The use of technology, such as educational apps and websites, can also enhance the learning experience and improve study efficiency. Overall, effective study habits can lead to better academic performance and greater success in both academic and professional pursuits.",
+    "organizations": []
+}

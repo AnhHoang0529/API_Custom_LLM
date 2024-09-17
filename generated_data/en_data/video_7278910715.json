@@ -1,0 +1,61 @@
+{
+    "id": "7278910715",
+    "md5": "2c4b105da8bd1b2b5a88c2f32e1e467f",
+    "extension": "mp4",
+    "size": 12345678,
+    "height": 720,
+    "width": 1280,
+    "duration": 10800.0,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Soccer_Final_Match.mp4",
+    "desc": "This video captures the final moments of a thrilling soccer match between two major European teams. The game was intense with multiple goals scored, leaving fans on the edge of their seats.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:28",
+                "content": "The match between Manchester United and Barcelona is underway. Manchester United has a strong offense with Ronaldo and Rooney leading the charge.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:15",
+                "end_time": "00:03:45",
+                "content": "Barcelona's Messi scores a stunning goal, leaving Manchester United's defense struggling to keep up with his agility. The crowd goes wild as Barcelona takes the lead.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:04:15",
+                "end_time": "00:05:45",
+                "content": "The game continues with intense action, with both teams attempting to outmaneuver each other. Manchester United's Rooney scores a goal, tying the game and increasing the excitement in the stadium.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:06:15",
+                "end_time": "00:08:00",
+                "content": "The game enters its final minutes with the score tied, setting up an thrilling conclusion. Fans are on the edge of their seats, eagerly anticipating the outcome.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:08:15",
+                "end_time": "00:09:45",
+                "content": "The match ends in a draw, leaving fans disappointed but still impressed by the incredible display of soccer skills and athleticism.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video showcases the final moments of an intense soccer match between Manchester United and Barcelona, with multiple goals scored and a thrilling conclusion."
+    },
+    "category": {
+        "id": 654321,
+        "title": "Sports"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

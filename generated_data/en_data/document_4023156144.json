@@ -1,0 +1,68 @@
+{
+    "id": "4023156144",
+    "md5": "a1b2c3d4e5f6g7h8",
+    "extension": "pdf",
+    "size": 119436,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "document.pdf",
+    "desc": "A document detailing various cultural celebrations and traditions around the world",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "Welcome to this insightful journey through the world of diverse cultural celebrations and traditions.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:11",
+                "end_time": "00:00:30",
+                "content": "First, let's explore the ancient Chinese New Year celebrations.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:31",
+                "end_time": "00:00:55",
+                "content": "The Chinese New Year is marked by families gathering for a grand feast.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 4,
+                "start_time": "00:00:56",
+                "end_time": "00:01:00",
+                "content": "Next, we delve into the Mexican Day of the Dead festivities.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 5,
+                "start_time": "00:01:01",
+                "end_time": "00:01:25",
+                "content": "The Day of the Dead is a time for families to remember and honor their deceased loved ones.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 6,
+                "start_time": "00:01:26",
+                "end_time": "00:01:30",
+                "content": "Wrap up this enlightening exploration of various cultural celebrations and traditions.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 62332
+    },
+    "category": {
+        "id": 34,
+        "title": "Culture"
+    },
+    "people": [],
+    "textData": "Cultural celebrations and traditions are an integral part of human civilization. They provide a sense of identity, continuity, and unity among communities. In this document, we will delve into the rich tapestry of various cultural celebrations and traditions around the world. We will begin our journey in ancient China with the Chinese New Year celebrations. The Chinese New Year is marked by families gathering for a grand feast, exchanging gifts, and setting off firecrackers to ward off evil spirits. Let's move on to Mexico and explore the Mexican Day of the Dead festivities. Unlike many other cultures, the Mexicans view death not as an end but as a continuation of life. The Day of the Dead is a time for families to remember and honor their deceased loved ones. The deceased are believed to return to their homes for a joyous reunion. Through this exploration, we hope to deepen your understanding and appreciation of the diverse cultural practices that make our world a vibrant and fascinating place.",
+    "organizations": []
+}

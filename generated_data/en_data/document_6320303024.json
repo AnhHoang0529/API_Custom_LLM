@@ -1,0 +1,47 @@
+{
+    "id": "6320303024",
+    "md5": "2ec4b8b74022a8239456c21f678c3a83",
+    "extension": "pdf",
+    "size": 63382,
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "density": 0,
+    "channels": 0,
+    "displayRotate": 0,
+    "originalName": "fifa_world_cup_2022_summary.pdf",
+    "desc": "A summary of the 2022 FIFA World Cup tournament.",
+    "narrationStt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:00:10",
+                "content": "The 2022 FIFA World Cup was held in Qatar.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 2,
+                "start_time": "00:00:10",
+                "end_time": "00:00:20",
+                "content": "The tournament began on November 21, 2022, and ended on December 18, 2022.",
+                "speaker": "Narrator"
+            },
+            {
+                "order": 3,
+                "start_time": "00:00:20",
+                "end_time": "00:00:30",
+                "content": "A total of 32 teams participated.",
+                "speaker": "Narrator"
+            }
+        ],
+        "id": 283918
+    },
+    "category": {
+        "id": 58,
+        "title": "Sports"
+    },
+    "people": [],
+    "textData": "The 2022 FIFA World Cup, held in Qatar, was an international football tournament contested by 32 teams from around the world. The tournament began on November 21, 2022, and ended on December 18, 2022. Teams from different regions, including Europe, South America, Asia, Africa, North America, and Oceania, competed for the coveted trophy. \n\nQatar won the bid to host the tournament in 2010, marking it the first time the World Cup was held in the Middle East. The tournament was criticized for various reasons, including the extreme heat, human rights concerns, and the high cost of preparing the infrastructure. However, despite these challenges, the event was a success, with record-breaking attendance and high viewership.\n\nSome of the most memorable moments of the 2022 FIFA World Cup included the opening ceremony, which featured performances by various artists and cultural displays, and the final match, which saw Brazil emerge as champions. The tournament also saw some surprising upsets, with underdog teams performing exceptionally well. Overall, the 2022 FIFA World Cup was an exciting and unforgettable event, showcasing the passion and skill of football players from around the world.",
+    "organizations": []
+}

@@ -1,0 +1,74 @@
+{
+    "id": "3853774822",
+    "md5": "a1b2c3d4e5f6g7h8",
+    "extension": "mp3",
+    "size": 12345678,
+    "height": "",
+    "width": "",
+    "duration": 210.0,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "\uc601\ud654\uc7a5\uba74.mp3",
+    "desc": "\uc601\ud654 '\ub9e4\ud2b8\ub9ad\uc2a4'\uc5d0\uc11c \ub124\uc624\uac00 \ubaa8\ud53c\uc5b4\uc2a4\ub97c \ucc98\uc74c \ub9cc\ub098\ub294 \uc7a5\uba74.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:45",
+                "end_time": "00:01:30",
+                "content": "\ub124\uc624\ub294 \uc5b4\ub450\uc6b4 \uace8\ubaa9\uc5d0\uc11c \ubaa8\ud53c\uc5b4\uc2a4\ub97c \ub9cc\ub0ac\uc9c0\ub9cc, \uc138\uc0c1\uc774 \ubc14\ub014 \ub9cc\ub0a8\uc774\ub77c\ub294 \uac78 \uc804\ud600 \uc608\uc0c1\ud558\uc9c0 \ubabb\ud588\ub2e4.",
+                "speaker": "\ub124\uc624"
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "\ubaa8\ud53c\uc5b4\uc2a4\ub294 \ub124\uc624\uc5d0\uac8c \uc0c8\ub85c\uc6b4 \uc0b6\uc758 \uae30\ud68c\ub97c \uc81c\uacf5\ud558\uba70 \ub9e4\ud2b8\ub9ad\uc2a4\uc758 \ud604\uc2e4\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+                "speaker": "\ubaa8\ub974\ud398\uc6b0\uc2a4"
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:05:15",
+                "content": "\ub124\uc624\ub294 \ub9e4\ud2b8\ub9ad\uc2a4\uc5d0 \ub300\ud55c \uc9c4\uc2e4\uacfc \uc528\ub984\ud558\uba70 \uc0c8\ub85c\uc6b4 \uc138\uacc4\ub97c \uc774\ud574\ud558\uae30 \uc704\ud574 \uace0\uad70\ubd84\ud22c\ud55c\ub2e4.",
+                "speaker": "\ub124\uc624"
+            },
+            {
+                "order": 4,
+                "start_time": "00:05:15",
+                "end_time": "00:07:30",
+                "content": "\ubaa8\ud53c\uc5b4\uc2a4\ub294 \ub9e4\ud2b8\ub9ad\uc2a4\uc758 \ubcf8\uc9c8\uacfc \ub124\uc624\uac00 \uc5b4\ub5bb\uac8c \uc778\ub958\ub97c \ud574\ubc29\ud560 \uc218 \uc788\ub294\uc9c0 \uc124\uba85\ud569\ub2c8\ub2e4.",
+                "speaker": "\ubaa8\ub974\ud398\uc6b0\uc2a4"
+            },
+            {
+                "order": 5,
+                "start_time": "00:07:30",
+                "end_time": "00:09:55",
+                "content": "\ub124\uc624\ub294 \ubaa8\ud53c\uc5b4\uc2a4\uc758 \uc81c\uc548\uc744 \ubc1b\uc544\ub4e4\uc5ec \uc138\uacc4\ub97c \ubc14\uafc0 \uc900\ube44\ub97c \ud558\uba70 \uc5ec\ud589\uc744 \ub5a0\ub09c\ub2e4.",
+                "speaker": "\ub124\uc624"
+            }
+        ],
+        "sttSummary": "\uc774 \uc7a5\uba74\uc740 \ub124\uc624\uac00 \ubaa8\ud53c\uc5b4\uc2a4\ub97c \ub9cc\ub098\uba74\uc11c \uc2dc\uc791\ud558\ub294\ub370, \ubaa8\ud53c\uc5b4\uc2a4\ub294 \ub124\uc624\uc5d0\uac8c \uc0c8\ub85c\uc6b4 \uc0b6\uc758 \uae30\ud68c\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4. \ub124\uc624\ub294 \ub9e4\ud2b8\ub9ad\uc2a4\uc758 \ud604\uc2e4\uacfc \uc528\ub984\ud558\uace0 \ubaa8\ud53c\uc5b4\uc2a4\ub294 \ub124\uc624\uac00 \uc5b4\ub5bb\uac8c \uc778\ub958\ub97c \ud574\ubc29\ud560 \uc218 \uc788\ub294\uc9c0 \uc124\uba85\ud569\ub2c8\ub2e4. \ub124\uc624\ub294 \uc81c\uc548\uc744 \ubc1b\uc544\ub4e4\uc774\uace0 \uc5ec\uc815\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4."
+    },
+    "category": {
+        "id": 789,
+        "title": "\uc601\ud654 \uc0b0\uc5c5"
+    },
+    "people": [
+        {
+            "id": 1,
+            "nickName": "\ub124\uc624",
+            "name": "\ud1a0\ub9c8\uc2a4 A. \uc564\ub354\uc2a8",
+            "dateOfBirth": "1969-06-06"
+        },
+        {
+            "id": 2,
+            "nickName": "\ubaa8\ub974\ud398\uc6b0\uc2a4",
+            "name": "\ud1a0\ub9c8\uc2a4 \uc564\ub354\uc2a8",
+            "dateOfBirth": "1963-12-17"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

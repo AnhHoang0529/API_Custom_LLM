@@ -1,0 +1,64 @@
+{
+    "id": "2778264107",
+    "md5": "a1b2c3d4e5f6g7h8i9j0",
+    "extension": "mp4",
+    "size": 4500000,
+    "height": 720,
+    "width": 1280,
+    "duration": 120.0,
+    "density": "",
+    "channels": "",
+    "displayRotate": "",
+    "originalName": "wild_animals.mp4",
+    "desc": "This video showcases various wild animals in their natural habitats, capturing their behavior and interactions with their environments.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:30",
+                "end_time": "00:01:30",
+                "content": "African elephants are the largest living terrestrial animals and are known for their distinctive long trunks and large ears. They inhabit savannas, forests, and grasslands throughout sub-Saharan Africa.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30",
+                "end_time": "00:03:00",
+                "content": "Brown bears, also known as grizzly bears, inhabit forests and wetlands in North America and Eurasia. They are omnivorous and are known for their aggressive behavior and hibernation habits.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:03:00",
+                "end_time": "00:04:30",
+                "content": "The tiger is one of the most recognizable big cats and is the national animal of India. It is the largest cat species and is known for its distinctive orange fur and black stripes.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:04:30",
+                "end_time": "00:06:00",
+                "content": "Polar bears inhabit the Arctic regions and are the largest carnivorous bears. They have a thick layer of body fat and fur, which insulates them from the cold climate and snow.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:06:00",
+                "end_time": "00:07:30",
+                "content": "Lions are the most social of all big cats and live in prides, which consist of several females and a dominant male. They are the only cats that exhibit this social behavior, making them a unique species in the cat family.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video provides an overview of several wild animals and their habitats, including African elephants, brown bears, tigers, polar bears, and lions."
+    },
+    "category": {
+        "id": 3,
+        "title": "Wildlife"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": {
+        "sttData": [],
+        "id": 987654321
+    }
+}

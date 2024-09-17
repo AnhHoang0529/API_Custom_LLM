@@ -1,0 +1,68 @@
+{
+    "id": "1715782411",
+    "md5": "3dccb3a1b1746a8325a62b97d6d9a7f9",
+    "extension": ".mp3",
+    "size": 4933152,
+    "height": "",
+    "width": "",
+    "duration": 258.6,
+    "density": "",
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Cooking_gourmet_dishes.mp3",
+    "desc": "A podcast discussing the preparation of gourmet dishes and the art of cooking, featuring interviews with renowned chefs and culinary experts.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00",
+                "end_time": "00:02:30",
+                "content": "Welcome to another episode of the 'Gourmet Dishes' podcast, where we delve into the art and science of creating exquisite meals. Today, we're joined by renowned chef Jacques P\u00e9pin, who shares his insights on the culinary world and demonstrates a gourmet dish for us.",
+                "speaker": "Host"
+            },
+            {
+                "order": 2,
+                "start_time": "00:02:30",
+                "end_time": "00:05:15",
+                "content": "Chef P\u00e9pin begins by discussing his early influences and the evolution of culinary arts over the years. He speaks of the importance of using fresh, high-quality ingredients and the significance of proper technique.",
+                "speaker": "Jacques P\u00e9pin"
+            },
+            {
+                "order": 3,
+                "start_time": "00:05:15",
+                "end_time": "00:11:00",
+                "content": "Next, Chef P\u00e9pin demonstrates the preparation of a gourmet dish: Coq au Vin. He explains each step of the process, from marinating the chicken to saut\u00e9ing the mushrooms and onions. He also discusses the importance of patience and the role of red wine in the dish.",
+                "speaker": "Jacques P\u00e9pin"
+            },
+            {
+                "order": 4,
+                "start_time": "00:11:00",
+                "end_time": "00:15:30",
+                "content": "The host asks Chef P\u00e9pin about his approach to teaching cooking and his thoughts on the future of culinary arts. He also shares some advice for aspiring chefs and hobbyists.",
+                "speaker": "Host"
+            },
+            {
+                "order": 5,
+                "start_time": "00:15:30",
+                "end_time": "00:25:50",
+                "content": "Chef P\u00e9pin provides a step-by-step demonstration of how to make a classic French sauce, B\u00e9chamel. He explains the importance of each ingredient, the technique required, and how to troubleshoot common issues. He also discusses the various ways B\u00e9chamel can be used in gourmet dishes.",
+                "speaker": "Jacques P\u00e9pin"
+            }
+        ],
+        "sttSummary": "This podcast episode features an interview with chef Jacques P\u00e9pin, who shares his insights on the culinary world and demonstrates the preparation of a gourmet dish, Coq au Vin, while also discussing the importance of using fresh ingredients and the significance of proper technique. Chef P\u00e9pin also provides advice for aspiring chefs and shares a step-by-step demonstration of making a classic French sauce, B\u00e9chamel."
+    },
+    "category": {
+        "id": 11,
+        "title": "Culinary Arts"
+    },
+    "people": [
+        {
+            "id": 1024,
+            "nickName": "ChefJacques",
+            "name": "Jacques P\u00e9pin",
+            "dateOfBirth": "1935-04-10"
+        }
+    ],
+    "organizations": [],
+    "narrationStt": ""
+}

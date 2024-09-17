@@ -1,0 +1,61 @@
+{
+    "id": "2695110300",
+    "md5": "996cd7c2e7d3b48f629aa35c320e98ab",
+    "extension": "mp4",
+    "size": 24112939,
+    "height": 1080,
+    "width": 1920,
+    "duration": 105.6,
+    "density": 24,
+    "channels": 2,
+    "displayRotate": "",
+    "originalName": "Intro-to-Quantum-Computing.mp4",
+    "desc": "In this video, we will explore the fundamentals of quantum computing, its concepts and applications.",
+    "stt": {
+        "sttData": [
+            {
+                "order": 1,
+                "start_time": "00:00:00:00",
+                "end_time": "00:01:30:00",
+                "content": "Quantum computing is an emerging field of computational technology that has the potential to transform the way we process information.",
+                "speaker": ""
+            },
+            {
+                "order": 2,
+                "start_time": "00:01:30:00",
+                "end_time": "00:02:30:00",
+                "content": "Unlike classical computers, quantum computers use qubits to store and process information. Qubits can exist in multiple states simultaneously, enabling quantum computers to perform complex calculations exponentially faster than classical computers.",
+                "speaker": ""
+            },
+            {
+                "order": 3,
+                "start_time": "00:02:30:00",
+                "end_time": "00:03:45:00",
+                "content": "Quantum gates are used to manipulate qubits and execute quantum algorithms. Quantum algorithms can solve problems that are beyond the reach of classical algorithms, such as optimizing complex systems and simulating quantum systems.",
+                "speaker": ""
+            },
+            {
+                "order": 4,
+                "start_time": "00:03:45:00",
+                "end_time": "00:05:30:00",
+                "content": "Applications of quantum computing include cryptography, optimization, chemistry, and machine learning. Quantum computers are expected to revolutionize the field of artificial intelligence and enable new discoveries in science.",
+                "speaker": ""
+            },
+            {
+                "order": 5,
+                "start_time": "00:05:30:00",
+                "end_time": "00:07:00:00",
+                "content": "In conclusion, quantum computing is a rapidly developing field that promises to transform our understanding of the universe and revolutionize industries. Current research and development efforts are focused on scaling quantum computers and expanding their applications.",
+                "speaker": ""
+            }
+        ],
+        "sttSummary": "This video discusses the basic concepts and applications of quantum computing. It covers the difference between classical and quantum computing, the use of qubits and quantum gates, and potential applications of quantum computing in various industries."
+    },
+    "category": {
+        "id": 9,
+        "title": "Computing"
+    },
+    "people": [],
+    "organizations": [],
+    "narrationStt": ""
+}

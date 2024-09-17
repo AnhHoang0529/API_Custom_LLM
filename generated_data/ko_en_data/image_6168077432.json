@@ -1,0 +1,27 @@
+{
+    "id": "6168077432",
+    "md5": "b01a5f3f123d5a7b633e443e23675e2e",
+    "extension": "jpeg",
+    "size": 92454,
+    "height": 720,
+    "width": 1280,
+    "duration": 0,
+    "density": 72,
+    "channels": 3,
+    "displayRotate": 0,
+    "originalName": "\ucd95\uad6c_\ucd5c\uc885_\uacbd\uae30.jpeg",
+    "desc": "\ucd95\uad6c \uacb0\uc2b9\uc804\uc744 \uc751\uc6d0\ud558\ub294 \ub9ce\uc740 \uad00\uc911\ub4e4.",
+    "narrationStt": "",
+    "category": {
+        "id": 6,
+        "title": "\uc2a4\ud3ec\uce20"
+    },
+    "people": [],
+    "organizations": [
+        {
+            "id": 84,
+            "name": "\ud53c\ud30c",
+            "otherName": "\uad6d\uc81c\ucd95\uad6c\uc5f0\ub9f9(F\u00e9d\u00e9ration Internationale de Football Association)"
+        }
+    ]
+}
