@@ -1,3 +1,11 @@
+# Archive System Metadata Structure
+
+This document outlines the structure of the metadata used in our archive system. Each document in the archive is enriched with AI-generated metadata that enhances search and retrieval functionalities. The metadata provides both physical and contextual attributes for various types of files, including text documents, images, videos, and audio files.
+
+## Metadata Attributes
+
+The following table lists the attributes used to describe documents in the archive system, along with descriptions and examples:
+
 <table>
   <thead>
     <tr>
@@ -99,3 +107,35 @@
     </tr>
   </tbody>
 </table>
+
+## Usage
+
+This metadata structure is used by our archive system to enrich the files stored in the database. It allows for more precise search queries, better retrieval of relevant documents, and a more detailed overview of the stored files.
+
+By leveraging AI to generate detailed metadata, we ensure that users can find exactly what they are looking for, even across different types of media such as text, images, videos, and audio files.
+
+## Metadata Example
+
+Here is an example JSON object representing the metadata for a sample document:
+
+```json
+{
+  "id": 58677,
+  "md5": "460d9e165fc61630fd62a",
+  "extension": "pdf",
+  "size": 119436,
+  "height": 0,
+  "width": 0,
+  "duration": 0,
+  "density": 0,
+  "channels": 0,
+  "displayRotate": 0,
+  "originalName": "research_paper_computing.pdf",
+  "desc": "A comprehensive research paper on quantum computing.",
+  "textData": {"This document discusses advancements in artificial intelligence and machine learning, focusing on..."},
+  "stt": null,
+  "narrationStt": null,
+  "category": { "id": 42, "title": "Research Papers" },
+  "people": [{ "id": 1, "name": "John Doe", "dateOfBirth": "1990-01-01" }],
+  "organizations": [{ "id": 1, "name": "OpenAI" }]
+}
