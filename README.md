@@ -114,6 +114,23 @@ This metadata structure is used by our archive system to enrich the files stored
 
 By leveraging AI to generate detailed metadata, we ensure that users can find exactly what they are looking for, even across different types of media such as text, images, videos, and audio files.
 
+The table below shows the analysis of the dataset across different types of media (audio, document, image, video) for various topics. Each value represents the number of items available in the dataset for a specific topic and type.
+
+| **Topic**                           | **Audio** | **Document** | **Image** | **Video** |
+|-------------------------------------|:--------:|:------------:|:---------:|:--------:|
+| **Animals in the wild**             |    8     |      6       |    10     |    8     |
+| **Celebrities**                     |    8     |      4       |     9     |   10     |
+| **Cultural celebrations and traditions** |    7     |      10      |    12     |    9     |
+| **Gourmet dishes and culinary arts** |    7     |      7       |    14     |    8     |
+| **Majestic landscapes**             |   10     |      6       |    14     |   12     |
+| **Political events**                |    7     |      9       |    10     |    7     |
+| **Scene of movies**                 |    9     |      6       |    10     |   10     |
+| **Sport events**                    |   11     |      7       |    14     |   10     |
+| **Study and work**                  |    7     |      8       |    12     |   11     |
+| **Urban cityscapes**                |   12     |      9       |    15     |   11     |
+
+
+
 ## Metadata Example
 
 Here is an example JSON object representing the metadata for a sample document:
