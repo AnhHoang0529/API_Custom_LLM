@@ -1,95 +1,101 @@
-This is the repository for Demo Rest Api Custom LLM
-
-### API Endpoints
-
-#### 1. Retrieving Assets
-- **Endpoint**: `geminisoftvn.ddns.net:9000/ai/v1/llm/assets/<query>`
-- **Purpose**: Retrieves assets such as images, audio, video, PDFs, or news based on the provided query.
-- **Examples**:
-  - "Give me some images about panda"
-  - "Recommend a video on how to make a polite request"
-  - "벚꽃 이미지 좀 보여주세요" (Korean for "Show me some cherry blossom images")
-
-#### 2. Generating Articles
-- **Endpoint**: `geminisoftvn.ddns.net:9000/ai/v1/llm/articles/<query>`
-- **Purpose**: Generates content from news stored in the database based on the query.
-- **Examples**:
-  - "Generate a 250-word long paragraph to describe South Korea in the Covid pandemic."
-  - "Write a 500-word essay discussing daily life, COVID-19, and Korea."
-  - "500자 분량의 에세이를 작성하고 일상생활, 코로나19, 한국이라는 키워드에 대해 토론하세요." (Korean version of the above query)
-
-#### 3. Data Upload to VectorDB
-- **Endpoint**: `geminisoftvn.ddns.net:9000/ai/v1/llm/data?file_path`
-- **Purpose**: Uploads data into VectorDB using specified file paths.
-- **Details**:
-  - `file_path`: Specifies the location of data files (All files are placed in one folder, classified by names starting with document, audio, video, image)
-  
-
-### Project Structure (API_llm)
-
-#### Directory Structure
-```
-API_llm/
-├── environment.env
-├── app/
-│   ├── __init__.py
-│   ├── api/
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   ├── templates/
-│   │   └── form.html
-│   ├── models/
-│   │   └── model.py
-│   ├── services/
-│   │   ├── retrieve_assets.py
-│   │   └── generate_text.py
-│   ├── utils/
-│   │   ├── data_reader.py
-│   │   ├── node_postprocessors.py
-│   │   └── prompt_templates.py
-│   ├── database/
-│   │   ├── data/
-│   │   │   └── llm_analyze_data/
-│   │   └── index.py
-├── requirements.txt
-└── run.py
-```
-
-#### Components
-- **environment.env**: Configuration file for environment variables (e.g., API keys).
-- **app/**: Main application directory.
-  - **api/**: Contains API route definitions (`routes.py`).
-  - **templates/**: Stores HTML templates (`form.html`).
-  - **models/**: Contains application data models (`model.py`).
-  - **services/**: Handles specific business logic (e.g., asset retrieval, text generation).
-  - **utils/**: Utility functions used across the application.
-  - **database/**: Stores various data files categorized under `data/` and database indexing in `index.py`.
-
-### Running the Project
-
-#### Setup and Execution
-1. Navigate to the project directory:
-   ```
-   cd /home/geminisoft/workdir/llm/api_llm
-   ```
-
-2. Create and activate a virtual environment (assuming Anaconda):
-   ```
-   conda create -n rag python=3.10
-   conda activate rag
-   ```
-
-3. Install required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Run the Flask application:
-   ```
-   python run.py
-   ```
-
-### Additional Notes
-- Ensure to replace `open_api_keys` in `.env` file with actual API keys before running the project to handle any necessary authentication or access control.
-
-This structure provides a clear separation of concerns with dedicated directories for routes, models, services, utilities, and database management, making it modular and easier to maintain. Adjustments may be needed based on specific deployment environments or additional functionality requirements.
+<table>
+  <thead>
+    <tr>
+      <th>Attribute</th>
+      <th>Description</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>id</code></td>
+      <td>A unique identifier for the document.</td>
+      <td>58677</td>
+    </tr>
+    <tr>
+      <td><code>md5</code></td>
+      <td>The MD5 hash of the document, used for ensuring data integrity.</td>
+      <td>"460d9e165fc61630fd62a"</td>
+    </tr>
+    <tr>
+      <td><code>extension</code></td>
+      <td>The file extension of the document, indicating the document type (e.g., docx, pdf, txt for documents; jpeg, mp4 for images/videos).</td>
+      <td>"pdf"</td>
+    </tr>
+    <tr>
+      <td><code>size</code></td>
+      <td>The size of the document in bytes.</td>
+      <td>119436</td>
+    </tr>
+    <tr>
+      <td><code>height</code></td>
+      <td>The height of the document in pixels (applicable for images or videos; set to 0 for other types).</td>
+      <td>1184 (for images/videos), 0 (for others)</td>
+    </tr>
+    <tr>
+      <td><code>width</code></td>
+      <td>The width of the document in pixels (applicable for images or videos; set to 0 for other types).</td>
+      <td>800 (for images/videos), 0 (for others)</td>
+    </tr>
+    <tr>
+      <td><code>duration</code></td>
+      <td>The duration of the document in seconds (applicable for audio or video files; set to 0 for other types).</td>
+      <td>120 (for audio/video), 0 (for others)</td>
+    </tr>
+    <tr>
+      <td><code>density</code></td>
+      <td>The density of the document (e.g., dots per inch for images; set to 0 for other types).</td>
+      <td>300 (for images), 0 (for others)</td>
+    </tr>
+    <tr>
+      <td><code>channels</code></td>
+      <td>The number of channels (e.g., color channels in images or audio channels; set to 0 for documents).</td>
+      <td>3 (for images), 0 (for documents)</td>
+    </tr>
+    <tr>
+      <td><code>displayRotate</code></td>
+      <td>The display rotation of the document (degrees of rotation, applicable for images/videos; set to 0 for other types).</td>
+      <td>90 (for images/videos), 0 (for others)</td>
+    </tr>
+    <tr>
+      <td><code>originalName</code></td>
+      <td>The original name of the document.</td>
+      <td>"research_paper_computing.pdf"</td>
+    </tr>
+    <tr>
+      <td><code>desc</code></td>
+      <td>A brief description of the document content.</td>
+      <td>"A comprehensive research paper on quantum computing."</td>
+    </tr>
+    <tr>
+      <td><code>textData</code></td>
+      <td>The content of the document. It should be detailed and relevant to the topic, with a minimum of 300 words (only applicable for documents).</td>
+      <td>{"This document discusses advancements in artificial intelligence and machine learning, focusing on..."}</td>
+    </tr>
+    <tr>
+      <td><code>stt</code></td>
+      <td>A transcript of spoken text (if applicable), including timestamps and speaker information.</td>
+      <td>List of <code>SttData</code> objects (for audio/video)</td>
+    </tr>
+    <tr>
+      <td><code>narrationStt</code></td>
+      <td>An object containing structured data for narration transcripts (applicable for audio/video; set to {None} for other types).</td>
+      <td>{ "sttData": [...], "id": 12345 } (for audio/video), None (for others)</td>
+    </tr>
+    <tr>
+      <td><code>category</code></td>
+      <td>The category of the document, including folder ID and title where it is stored.</td>
+      <td>{ "id": 42, "title": "Research Papers" }</td>
+    </tr>
+    <tr>
+      <td><code>people</code></td>
+      <td>A list of people mentioned in the document metadata, with detailed information.</td>
+      <td>{ "id": 1, "name": "John Doe", "dateOfBirth": "1990-01-01" }</td>
+    </tr>
+    <tr>
+      <td><code>organizations</code></td>
+      <td>A list of organizations mentioned in the document metadata, with detailed information.</td>
+      <td>{ "id": 1, "name": "OpenAI" }</td>
+    </tr>
+  </tbody>
+</table>
