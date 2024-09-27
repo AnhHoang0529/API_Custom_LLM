@@ -41,7 +41,7 @@ The following table lists the attributes used to describe documents in the archi
       <td><code>id</code></td>
       <td>A unique identifier for the document.</td>
       <td>58677</td>
-      <td rowspan="10">Physical metadata</td>
+      <td rowspan="13">Physical metadata</td>
     </tr>
     <tr>
       <td><code>md5</code></td>
@@ -52,6 +52,21 @@ The following table lists the attributes used to describe documents in the archi
       <td><code>extension</code></td>
       <td>The file extension of the document, indicating the document type (e.g., docx, pdf, txt for documents; jpeg, mp4 for images/videos).</td>
       <td>"pdf"</td>
+    </tr>
+    <tr>
+      <td><code>file_path</code></td>
+      <td>The file path where the document is stored</td>
+      <td>"/workspace/custom_llm_exp/database/data/ai_data/audio_1715782411.json"</td>
+    </tr>
+    <tr>
+      <td><code>creation_date</code></td>
+      <td>File creation date in YYYY-MM-DD format</td>
+      <td>"2024-08-28"</td>
+    </tr>
+    <tr>
+      <td><code>last_modified_date</code></td>
+      <td>Last modified date in YYYY-MM-DD format</td>
+      <td>"2024-08-30"</td>
     </tr>
     <tr>
       <td><code>size</code></td>
