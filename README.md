@@ -27,6 +27,7 @@ The table below shows the analysis of the dataset across different types of medi
 
 The following table lists the attributes used to describe documents in the archive system, along with descriptions and examples:
 
+   
 <table>
   <thead>
     <tr>
